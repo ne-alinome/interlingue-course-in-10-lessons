@@ -1,0 +1,26 @@
+= Interlingue Course in 10 Lessons
+:author: Marcos Cruz (programandala.net)
+:revdate: 2019-02-18
+
+== English
+
+Goal of this project:: Make an EPUB version of _Occidental Course in
+10 Lessons_ (by Mag. phil. A.Z. Ramstedt, Helsinki, Occidental-Buró
+Berlin), from its
+http://cosmoglotta.pbworks.com/w/page/131496894/Occidental%20Course%20in%2010%20Lessons%20%28lessons%201-2%29[wiki version].
+
+Author:: Marcos Cruz (programandala.net).
+
+Website:: http://ne.alinome.net.
+
+== Interlingue
+
+Scope de ti projecte:: Crear un EPUB-libre de _Occidental Course in 10
+Lessons_ (by Mag. phil. A.Z. Ramstedt, Helsinki, Occidental-Buró
+Berlin), ex su
+http://cosmoglotta.pbworks.com/w/page/131496894/Occidental%20Course%20in%2010%20Lessons%20%28lessons%201-2%29[wiki
+version].
+
+Autor:: Marcos Cruz (programandala.net).
+
+Loc web:: http://ne.alinome.net.

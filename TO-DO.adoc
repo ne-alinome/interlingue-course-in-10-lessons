@@ -1,0 +1,3 @@
+= TO-DO of _Interlingue Course in 10 Lessons_
+:author: Marcos Cruz (programandala.net)
+:revdate: 2019-02-18
