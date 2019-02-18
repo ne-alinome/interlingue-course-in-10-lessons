@@ -2,7 +2,7 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201902182358
+# Last modified 201902190034
 # See change log at the end of the file
 
 # ==============================================================
@@ -52,9 +52,12 @@ pdfa4: target/$(book_basename).adoc.a4.pdf
 .PHONY: pdfletter
 pdfletter: target/$(book_basename).adoc.letter.pdf
 
+.PHONY: xml
+xml: target/$(book_basename).adoc.xml
+
 .PHONY: clean
 clean:
-	rm -f target/* tmp/*
+	rm -fr target/* tmp/*
 
 # ==============================================================
 # Convert Asciidoctor to PDF
@@ -71,9 +74,7 @@ target/%.adoc.letter.pdf: src/%.adoc
 # ==============================================================
 # Convert Asciidoctor to DocBook
 
-.SECONDARY: tmp/$(book_basename).adoc.xml
-
-tmp/%.adoc.xml: src/%.adoc
+target/%.adoc.xml: src/%.adoc
 	asciidoctor --backend=docbook5 --out-file=$@ $<
 
 # ==============================================================
@@ -83,7 +84,7 @@ tmp/%.adoc.xml: src/%.adoc
 # With dbtoepub
 
 target/$(book_basename).adoc.xml.dbtoepub.epub: \
-	tmp/$(book_basename).adoc.xml \
+	target/$(book_basename).adoc.xml \
 	src/$(book_basename)-docinfo.xml
 	dbtoepub \
 		--output $@ $<
@@ -92,7 +93,7 @@ target/$(book_basename).adoc.xml.dbtoepub.epub: \
 # With pandoc
 
 target/$(book_basename).adoc.xml.pandoc.epub: \
-	tmp/$(book_basename).adoc.xml \
+	target/$(book_basename).adoc.xml \
 	src/$(book_basename)-docinfo.xml \
 	src/pandoc_epub_template.txt \
 	src/pandoc_epub_stylesheet.css
@@ -110,7 +111,7 @@ target/$(book_basename).adoc.xml.pandoc.epub: \
 # ------------------------------------------------
 # With xsltproc
 
-target/%.adoc.xml.xsltproc.epub: tmp/%.adoc.xml
+target/%.adoc.xml.xsltproc.epub: target/%.adoc.xml
 	rm -fr tmp/xsltproc/* && \
 	xsltproc \
 		--output tmp/xsltproc/ \
