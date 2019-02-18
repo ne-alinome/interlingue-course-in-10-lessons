@@ -11,6 +11,8 @@
 //
 // Last modified 201902190033
 
+:dot: .
+
 Mag. phil. A.Z. Ramstedt, Helsinki
 
 Occidental-Buró Berlin
@@ -426,23 +428,20 @@ which is written *es* in the present). There is only one conjugation
 with four forms. Taking the verbal stem ama- (love) as as example we
 have the following four forms:
 
-{empty}1. ama
+1. ama
+2. ama**r**
+3. ama**nt**
+4. ama**t**
 
-{empty}2. ama**r**
-
-{empty}3. ama**nt**
-
-{empty}4. ama**t**
+// 
 
 1. **ama **has the following uses:
-
-{empty}a) Active present indicative (regular present form): *yo ama* = I
-love, *il ama* = he loves, *vu ama* = you love, etc.
-
-{empty}b) Active present conjunctive: *Il di que il ama* = He says that
-he loves
-
-{empty}c) Imperative: *ama*! = love! *veni*! = come!
++
+. Active present indicative (regular present form): *yo ama* = I love,
+  *il ama* = he loves, *vu ama* = you love, etc.
+. Active present conjunctive: *Il di que il ama* = He says that he
+  loves
+. Imperative: *ama*! = love! *veni*! = come!
 
 2. **amar **is the infinitive. **amar **= to love, **venir **= to
 come, **presser **= to press.
@@ -451,14 +450,13 @@ come, **presser **= to press.
 loving, **venient **= coming, pressent = *pressing*
 
 4. **amat **has the following uses:
-
-{empty}a) Perfect participle (i.e. an adjective): **amat **=
-loved, **venit **= come, **presset **= pressed. *Li amat patria* = the
-(be)loved homeland.
-
-{empty}b) Active indicative preterite (i.e. past tense): *yo amat* = I
-loved, *tu amat* = you loved, *il amat* = he loved, *noi amat* = we
-loved, *ili amat su patria* = they loved their homeland, etc.
++
+. Perfect participle (i.e. an adjective): **amat **= loved, **venit
+  **= come, **presset **= pressed. *Li amat patria* = the (be)loved
+  homeland.
+. Active indicative preterite (i.e. past tense): *yo amat* = I loved,
+  *tu amat* = you loved, *il amat* = he loved, *noi amat* = we loved,
+  *ili amat su patria* = they loved their homeland, etc.
 
 The other forms are created with the help of auxiliary verbs.
 
@@ -507,17 +505,17 @@ Passive
 
 Other forms
 
-{empty}1. Using the verb *ear *(to go): *Li dom ea constructet* = the
+1. Using the verb *ear *(to go): *Li dom ea constructet* = the
 house is being built. Using *ear* adds a sense of continuation (the
 construction is going on). *Li libre eat printat* = the book was being
 printed.
 
-{empty}2. Using the verb *star *(to stand): *Li dom sta constructet* =
+2. Using the verb *star *(to stand): *Li dom sta constructet* =
 the house is built. Using star adds a sense of finality (the house
 "stands" built). *Li libre stat printat* = the book was printed (the
 book's printing was all done).
 
-{empty}3. Using **se **after a verb to make it passive or reflexive (to
+3. Using **se **after a verb to make it passive or reflexive (to
 make it refer to itself). *Li jurnal printa se rapidmen* = the magazine
 is being quickly printed (the magazine "prints itself" quickly). *Li
 cose explica se simplicmen* = it's easy to understand ("the thing
@@ -731,8 +729,8 @@ verb. How do you find the perfect stem? This is where we come to
 First remove the *-r* from a verb, or *-er* for an *-er* verb. What is
 at the end?
 
-{empty}1. If it's a vowel, then add a t:
-
+1. If it's a vowel, then add a t:
++
 [cols=",,",]
 |===
 |*Infinitive*  |*Perfect stem * |*Derived word *
@@ -744,7 +742,7 @@ at the end?
 |*extract/er*, to extract  |*extract-*  |*extraction*
 |*distint/er*, to distinguish |*distint-* |*distintion*, distinction
 |===
-
++
 Note: as in English, Occidental sometimes has two groupings of verbs
 with nearly the same meaning where the more Latin-like one has a more
 formal or heavy character. To derive *extraction* above the
@@ -754,7 +752,7 @@ to *extra-er* --> *extrat* --> *extration*. This gives them a slightly
 nuanced meaning: an *extraction*, derived from *extracter* (to extract),
 is only an *extraction*. But an *extration*, derived from *extraer *(to
 pull out), is both a pulling out and an extraction.
-
++
 Similarly, the word reader (*letor*, from *le/er* --> *let* --> *letor*)
 has a 'hidden' companion in the form of *lecter* that can be seen from
 the word *lector* (same meaning in Occidental as in English) that one
@@ -763,8 +761,8 @@ word *letion* above can also be written *lection*, which carries a more
 formal or pompous meaning. This freedom given to the user to explore the
 language oneself is a powerful tool for adding nuance in writing.
 
-{empty}2. If it's a *d* or an *r*, then it becomes *s*:
-
+2. If it's a *d* or an *r*, then it becomes *s*:
++
 [cols=",,",]
 |===
 |*Infinitive*  |*Perfect stem * |*Derived word *
@@ -773,8 +771,8 @@ language oneself is a powerful tool for adding nuance in writing.
 |*decid/er*, to decide  |*decis-*  |*decision*
 |===
 
-{empty}3. If it's a consonant, then you already have the perfect stem.
-
+3. If it's a consonant, then you already have the perfect stem.
++
 [cols=",,",]
 |===
 |*Infinitive*  |*Perfect stem*  |*Derived word*
@@ -1012,120 +1010,73 @@ terra.
 
 Li cardinal numerales, queles responde al question: *quant?* es:
 
-1 un
-
-2 du
-
-3 tri
-
-4 quar
-
-5 quin
-
-6 six
-
-7 sett
-
-8 ott
-
-9 nin
-
-10 deci
+- 1 un
+- 2 du
+- 3 tri
+- 4 quar
+- 5 quin
+- 6 six
+- 7 sett
+- 8 ott
+- 9 nin
+- 10 deci
 
 11 to 19 are formed by **deci **+ the number:
 
-11 deciun
-
-12 decidu
-
-13 decitri
-
-14 deciquar
-
-15 deciquin
-
-16 decisix
-
-17 decisett
-
-18 deciott
-
-19 decinin
+- 11 deciun
+- 12 decidu
+- 13 decitri
+- 14 deciquar
+- 15 deciquin
+- 16 decisix
+- 17 decisett
+- 18 deciott
+- 19 decinin
 
 Tens are formed with the suffix **-ant **after the number:
 
-20 duant
-
-30 triant
-
-40 quarant
-
-50 quinant
-
-60 sixant
-
-70 settant
-
-80 ottant
-
-90 ninant
+- 20 duant
+- 30 triant
+- 40 quarant
+- 50 quinant
+- 60 sixant
+- 70 settant
+- 80 ottant
+- 90 ninant
 
 Larger and more complex numbers:
 
-100 cent
+- 100 cent
+- 200 du cent
+- 300 tri cent
+- 400 quar cent
+- 500 quin cent
+- 600 six cent
+- 700 sett cent
+- 800 ott cent
+- 900 nin cent
+- 1000 mil
+- 31 triant un
+- 75 settant quin
+- 1 000 000 un million
+- 1 000 000 000 un milliard
+- 4711 quar mill sett cent undeci
 
-200 du cent
-
-300 tri cent
-
-400 quar cent
-
-500 quin cent
-
-600 six cent
-
-700 sett cent
-
-800 ott cent
-
-900 nin cent
-
-1000 mil
-
-31 triant un
-
-75 settant quin
-
-1 000 000 un million
-
-1 000 000 000 un milliard
-
-4711 quar mill sett cent undeci
-
-Per adjuntion del suffix -**esim **noi have li ordinal numerales,
+Per adjuntion del suffix *-esim* noi have li ordinal numerales,
 respondent al question *quantesim*:
 
-*quantesim*:
+// XXX FIXED -- Remove duplicated "quantesim:" here.
 
-{empty}1. unesim
-
-{empty}2. duesim
-
-{empty}3. triesim
-
-{empty}4. quadresim
-
-{empty}5. quinesim
-
-{empty}10. decesim
-
-{empty}30. triantesim
-
-{empty}55. quinantquinesim
-
-{empty}100. centesim
-
-{empty}1000. milesim
+- 1. unesim
+- 2. duesim
+- 3. triesim
+- 4. quadresim
+- 5. quinesim
+- 10. decesim
+- 30. triantesim
+- 55. quinantquinesim
+- 100. centesim
+- 1000. milesim
 
 Note: *decesim *(tenth) is written as **decesim **and
 not **deciesim **because -i in **deci **is the adjectival ending we
@@ -1147,21 +1098,14 @@ verbe **plicar **= anglesi "fold") noi recive
 li **multiplicativ **numerales, queles responde al
 question: *quantuplic*?
 
-unuplic (simplic)
-
-duplic
-
-triplic
-
-duantquinuplic
-
-decuplic
-
-duantuplic
-
-qua**d**ruplic
-
-centuplic
+- unuplic (simplic)
+- duplic
+- triplic
+- duantquinuplic
+- decuplic
+- duantuplic
+- qua**d**ruplic
+- centuplic
 
 From these words are also derived many known
 words: *duplicitá *(duplicity), *triplicar *(to triplicate), etc. Also
@@ -1597,16 +1541,16 @@ brother)
 
 *des*- (usually *de*- before consonants):
 
-{empty}1. Before nouns: nullation or opposing meaning, un-:
-
+1. Before nouns: nullation or opposing meaning, un-:
++
 **desagreabil **= disagreeable (**agreabil **= agreeable, friendly)
-
++
 **deshonor **= dishonour
-
++
 **desilusion **= disillusion
 
-{empty}2. On verbs: loss of something:
-
+2. On verbs: loss of something:
++
 **desarmar **= disarm (armar = to arm)
 
 ==== *dis-*
@@ -2402,7 +2346,7 @@ medication
 
 *-age*
 
-{empty}1) the activity of a verb, mainly industrial or professional, its
+1) the activity of a verb, mainly industrial or professional, its
 expenses, etc.:
 
 *arbitrage* = arbitration, refereeing
@@ -2419,7 +2363,7 @@ expenses, etc.:
 
 **doanage **= customs (collecting tax; **doane **= tax)
 
-{empty}2) collections with order, things made by:
+2) collections with order, things made by:
 
 *tonnage* = tonnage (**tonne**= ton)
 
@@ -2782,18 +2726,18 @@ becomes *societá*. Rule of thumb: when in doubt, it's probably *-tá*.
 
 *-ore*
 
-{empty}1. (from verbs): a state of feeling, activity, temperature, etc.
-
+1. (from verbs): a state of feeling, activity, temperature, etc.
++
 **amore **= love (from *amar*, to love)
-
++
 **terrore **= terror (from **terrer **= to frighten)
-
++
 **calore **= heat (**caler **= to be hot)
 
-{empty}2. (from adjectives): size, value:
-
+2. (from adjectives): size, value:
++
 **longore **= length (**long **= long)
-
++
 **grandore **= size (**grand **= large)
 
 *-esse*
@@ -3115,7 +3059,7 @@ ti internationalitá.
 
 Vor devoet
 
-Y. Z.
+Y{dot} Z{dot}
 
 [cols=",,,",]
 |===
@@ -3399,11 +3343,11 @@ asocial)
 
 Words can be joined together in a variety of ways.
 
-{empty}1. Through simple joining, either with or without a hypen. a)
+1. Through simple joining, either with or without a hypen. a)
 Without a hyphen: *postcarte*, *manuscrite*. b) With a
 hyphen: *Nord-Europa*, *automobil-garage*
 
-{empty}2. With the vowels i or o between
+2. With the vowels i or o between
 words: *uniform*, *unilateral*, *centimetre*, *microcosmo*, *aeroplan*.
 
 The imperative of a verb can also be used to join words
