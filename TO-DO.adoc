@@ -8,3 +8,6 @@
 - Add missing emphasis markups, e.g. in affixes.
 - Fix arrows, "-->".
 - Rearrange tables in less columns.
+- Markup quotes in "Aforismes".
+- texte -> textu.
+- Add changes done to the wiki version.
