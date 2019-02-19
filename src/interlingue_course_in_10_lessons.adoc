@@ -17,22 +17,28 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201902190204
+// Last modified 201902190214
 
 :dot: .
 
 == About this book
 
-Author:: Mag. phil. A.Z. Ramstedt, Helsinki
+Author:: Mag. phil. A.Z. Ramstedt, Helsinki.
 
-Original title:: Occidental Course in 10 Lessons
+Original title in German:: Unknown.
 
-Original publisher:: Occidental-Buró Berlin
+Original publisher:: Occidental-Buró Berlin.
 
-Editor of the wiki version:: http://cosmoglotta.pbworks.com/, 2018
+Date of the original edition:: Unknown.
+
+Author of the English version:: Unknown.
+
+Original title of the English version:: Occidental Course in 10 Lessons.
+
+Editor of the wiki version:: Dave McLeod, in http://cosmoglotta.pbworks.com/, 2018.
 
 Editor of this e-book version:: Marcos Cruz (programandala.net) for
-http://ne.alinome.net, 2019
+http://ne.alinome.net, 2019.
 
 == 1 Unesim letion
 
@@ -54,7 +60,6 @@ telegrafa al burós de information.
 In li grand sala del palace es li general convent. In li micri chambres
 li special comissiones e comités have secret conferenties. Nu li
 official programma comensa. Li
-
 borgomastre del cité saluta li congressantes. On electe un presidente.
 Du secretarios scri li protocolles. Un delegat del central states
 presenta un proposition pri li organisation del international trafic per
@@ -225,7 +230,7 @@ they do not in Interlingue.
 |===
 | *yo have*   | I have            | *yo es*   | I am
 | *tu have*   | you have          | *tu es*   | you are
-| *il have*   | he has            | *il es *  | he is
+| *il have*   | he has            | *il es*   | he is
 | *ella have* | she has           | *essa es* | she is
 | *it have*   | it has            | *it es*   | it es
 | *noi have*  | we have           | *noi es*  | we are
