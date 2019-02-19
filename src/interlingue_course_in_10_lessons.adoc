@@ -17,7 +17,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201902190136
+// Last modified 201902190153
 
 :dot: .
 
@@ -310,8 +310,8 @@ They may be also written as hodíe and omnicós.
 |*trottuor* |sidewalk  |*laborar* |work
 |*vive* |life  |*yer* |yesterday
 |*amico* |friend  |*reposar* |repose, rest
-|*le strax * |him right away  |*tam* |so
-|*bon die * |good day  |*fatigar* |tire
+|*le strax* |him right away  |*tam* |so
+|*bon die* |good day  |*fatigar* |tire
 |*quo* |what  |*nocte* |night
 |*questionar* |question, ask |*deman* |tomorrow
 |*hodie* |today |*Vos* |you (object)
@@ -514,8 +514,8 @@ Passive
 
 [cols=",,",]
 |===
-|Present  + |*yo es amat * + |I am loved  +
-|Preterite  + |*yo esset amat * + |I was loved  +
+|Present  + |*yo es amat* + |I am loved  +
+|Preterite  + |*yo esset amat* + |I was loved  +
 |Perfect  + |*yo ha esset amat*  + |I have been loved  +
 |Pluperfect  + |*yo hat esset amat*  + |I had been loved  +
 |Future I  + |*yo va esser amat*  + |I will be loved  +
@@ -756,7 +756,7 @@ at the end?
 +
 [cols=",,",]
 |===
-|*Infinitive*  |*Perfect stem * |*Derived word *
+|*Infinitive*  |*Perfect stem* |*Derived word*
 |*decora/r*, decorate  |*decorat-*  |*decoration*
 |*defini/r*, define  |*definit-*  |*definition*
 |*le/er*, read  |*let-*  |*letion*, reading/lesson
@@ -852,7 +852,7 @@ The acting person, thing or factor of a verb.
 
 *-ori*
 
-* *Adjective derived from -or above, similar to English -ory. Refers to
+Adjective derived from -or above, similar to English -ory. Refers to
 something that is dedicated to or working as:
 
 *un obligatori servicie* = an obligatory service (from *obligar*, to
@@ -966,11 +966,7 @@ leads to much less looking up of words in the dictionary.
 
 == 4 Quadresim letion
 
-===
-
 === 4.1 Texte
-
-===
 
 ==== 4.1.1 Li misterie del cratere in Sall
 
@@ -1346,7 +1342,7 @@ simply standalone particles but also used to form words.
 
 [cols=",,,",]
 |===
-|*a, ad * |to  |*intra* |between
+|*a, ad* |to  |*intra* |between
 
 |*along* |along  |*malgré* |despite
 
@@ -3105,17 +3101,17 @@ note: *haver rason* is another way to say 'be right'.
 
 // XXX FIXED -- Hierarchy:
 
-=== 7.2.1 Adjectival suffixes
+==== 7.2.1 Adjectival suffixes
 
 The three most used adjectival suffixes are:
 
-*-al*
+===== -al
 
 a general suffix showing a relationship or
 dependency: *national* from*nation*, *central* from*centre*, *diferential* from*diferentie*,
 etc.
 
-*-ic*
+===== -ic
 
 being so, possessing properties of the word: energic (energetic) from
 energie, fantastic from fantaste (a fantast, someone with eccentric or
@@ -3132,7 +3128,7 @@ the s into a -t (xe also counts as it is pronounced cse). Thus:
 
 From the adjective -ic we derive nouns with
 
--*ica* and -*ico*
+===== -ica and -ico
 
 *-ica* refers to the name of the science or art in general, and
 *-ico* to the person practicing it. This is one situation where the -o
@@ -3176,7 +3172,7 @@ On a related note, beware of words where English is the odd man out such
 as *energic* (energetic) where only English has the added -et- in the
 middle.
 
-*-aci*
+===== -aci
 
 Tending to (similar to English -acious):
 
@@ -3186,7 +3182,7 @@ Tending to (similar to English -acious):
 
 *vivaci* = vivacious (*viver* = to live)
 
-*-an*
+===== -an
 
 belonging to (often made into nouns with -*ano*, -*ana*, -*ane*):
 
@@ -3194,7 +3190,7 @@ belonging to (often made into nouns with -*ano*, -*ana*, -*ane*):
 
 *homan* = human (*hom* = human)
 
-*-ari*
+===== -ari
 
 according to, fitting, belonging to (English -ar):
 
@@ -3202,7 +3198,7 @@ according to, fitting, belonging to (English -ar):
 
 *populari* = popular (*popul* = people)
 
-*-at*
+===== -at
 
 (on nouns) provided with something:
 
@@ -3210,7 +3206,7 @@ according to, fitting, belonging to (English -ar):
 
 *barbat* = bearded (*barbe* = beard)
 
-*-ut*
+===== -ut
 
 very rich in, exuberant:
 
@@ -3220,7 +3216,7 @@ very rich in, exuberant:
 
 *armut* = heavily armed
 
-*-atri*
+===== -atri
 
 A resemblance but not entirely of the same quality (similar to English
 -ish):
@@ -3229,7 +3225,7 @@ A resemblance but not entirely of the same quality (similar to English
 
 *spongiatri* = spongy (*spongie* = sponge)
 
-*-esc*
+===== -esc
 
 (of people) similar to, possessing similar qualities to (similar to
 English -esque)
@@ -3239,7 +3235,7 @@ English -esque)
 *gigantesc* = giantesque (*gigante* = giant, *gigantic* =
 gigantic)
 
-*-bil*
+===== -bil
 
 (transitive verbs): what can be done (transitive verbs) what one can do.
 -ar verbs: -abil, -er and -ir verbs: -ibil
@@ -3266,7 +3262,7 @@ visibil (from the perfect stem) = visible (vider = to see)
 
 explosibil (from the perfect stem) = explodable (exploder = to explode)
 
-*-in*
+===== -in
 
 denotes ancestry, origin:
 
@@ -3276,7 +3272,7 @@ denotes ancestry, origin:
 
 *svinine* = pork (*svin* = pig)
 
-*-osi*
+===== -osi
 
 rich in, full of:
 
@@ -3308,61 +3304,89 @@ exam-taker (one who is to examine)
 Here are some more Latin- or Greek-derived affixes that are seen in
 words in Interlingue and most other western European languages:
 
-*anti*-: against
+===== anti-
+
+Against.
 
 *Anticristo*(Antichrist), *antitoxine*(anti-toxin), *antisocial*(antisocial,
 asocial)
 
-*arch*(i): highest, over-
+===== arch(i)
+
+Highest, over-.
 
 *archiepiscop*(archbishop), *archángel *(archangel), *archifripon*(an
 "arch rogue", *archinull*(total zero, huge loser)
 
-*auto*-: auto, self
+===== auto-
+
+Auto, self.
 
 *automobile*, *autobiografie*
 
-*non*-: non
+===== non-
+
+Non.
 
 *non-agression, nonsense*
 
-*pan*-: pan
+===== pan-
+
+Pan.
 
 *paneuropa, panslavist*
 
-*proto*-: proto
+===== proto-
+
+Proto.
 
 *protogerman, prototipe*
 
-*pseudo*-: pseudo, false (note: p is not silent!)
+===== pseudo-
+
+Pseudo, false (note: p is not silent!)
 
 *pseudo-Cristo* (false Christ), *pseudoscientie*(pseudoscience)
 
-*semi-, hemi*-: half
+===== semi-, hemi-
+
+Half.
 
 *semivocale, semicólon, hemisfere*
 
-*tele*-: tele-, far
+===== tele
+
+Tele-, far.
 
 *television, telemicroscope*
 
-*-cide*: killer of
+===== -cide*
+
+Killer of.
 
 *patricide, suicide, homicide*
 
-*-fer*: bringing, bearing
+===== -fer
+
+Bringing, bearing.
 
 *fructiferi*(fruit-bearing), *mammifere*(amammal)
 
--*file*: -phile, loving
+===== -file
+
+-phile, loving.
 
 *germanofile*
 
-*-fobe*: fearing
+===== -fobe
+
+Fearing.
 
 *germanofobe*
 
--*oide*: -oid, resembling
+===== -oide
+
+-oid, resembling.
 
 *negroide, mongoloide, caucasoide, romboide, elipsoide*
 
