@@ -17,7 +17,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201902192308
+// Last modified 201902192326
 
 :dot: .
 
@@ -78,7 +78,6 @@ energic secretarios de social e professional organisationes, e militares
 in gala-uniformes. Ili have portafolias con documentes e actes e
 discusse li actual situation e international aferes.
 
-[width="100%",cols="25%,25%,25%,25%",]
 |===
 | *afere*          | affair                | *ili*         | they
 | *ante li portas* | in front of the doors | *letion*      | lesson
@@ -113,15 +112,18 @@ Ma li prior responde tranquilmen:
 fine, e necú il mentiona pri macules in li sole. Tui ocules have
 macules, e ne li sole.“
 
-[cols=",,,,,",]
 |===
-| *monastere*  | monastery            | *tranquilmen* | tranquilly | *multvez*  | many times
-| *exclama*    | exclaims             | *nam*         | because    | *tu erra*  | you err (=are wrong)
-| *patre*      | father               | *mem*         | even       | *mi filio* | my son
-| *yo ha leet* | I have read          | *mentiona*    | mentions   | *esser*    | be
-| *responde*   | responds             | *tui ocul*    | your eye   | *macul*    | spot
-| *turre*      | tower                | *yun monaco*  | young monk | *sede*     | sits
-| *hasta*      | rushes (lit. hastes) | *tra*         | through    | *hasard*   | chance
+| *monastere*  | monastery            | *tranquilmen* | tranquilly
+| *multvez*    | many times           | *exclama*     | exclaims
+| *nam*        | because              | *tu erra*     | you err (=are wrong)
+| *patre*      | father               | *mem*         | even
+| *mi filio*   | my son               | *yo ha leet*  | I have read
+| *mentiona*   | mentions             | *esser*       | be
+| *responde*   | responds             | *tui ocul*    | your eye
+| *macul*      | spot                 | *turre*       | tower
+| *yun monaco* | young monk           | *sede*        | sits
+| *hasta*      | rushes (lit. hastes) | *tra*         | through
+| *hasard*     | chance               |               |
 |===
 
 ==== 1.1.3 Aforismes
@@ -138,13 +140,15 @@ Un bon comedie es plu durabil quam un systema de filosofie. (Hume.)
 Grand artistes es li sol riches qui divide lor tot felicie con nos.
 (Pauly.)
 
-[cols=",,,,,",]
 |===
-| *ninant*  | ninety             | *compane* | companion     | *diminuent*   | smaller, diminishing
-| *nin*     | nine               | *divide*  | divide, share | *plu durabil* | more durable
-| *lor*     | their              | *si*      | if            | *quam*        | than
-| *tot*     | entire, whole      | *dómina*  | dominates     | *destructe*   | destroys
-| *felicie* | happiness, fortune | *sol*     | sole, only    | *nos*         | us
+| *ninant*    | ninety               | *compane*     | companion
+| *diminuent* | smaller, diminishing | *nin*         | nine
+| *divide*    | divide, share        | *plu durabil* | more durable
+| *lor*       | their                | *si*          | if
+| *quam*      | than                 | *tot*         | entire, whole
+| *dómina*    | dominates            | *destructe*   | destroys
+| *felicie*   | happiness, fortune   | *sol*         | sole, only
+| *nos*       | us                   |               |
 |===
 
 === 1.2 Explanation
@@ -228,7 +232,6 @@ Adjectives in Interlingue do not decline for gender, number or case.
 While verbs in English conjugate depending on the person and number,
 they do not in Interlingue.
 
-[cols=",,,",]
 |===
 | *yo have*   | I have            | *yo es*   | I am
 | *tu have*   | you have          | *tu es*   | you are
@@ -293,7 +296,6 @@ They may be also written as *hodíe* and *omnicós*.
 // The original example is confusing, because "that" can be
 // also a pronoun.
 
-[cols=",,,",]
 |===
 | *duesim*      | second                  | *ne*       | not
 | *promena*     | strolls (cf. promenade) | *ante nu*  | before now
@@ -345,7 +347,6 @@ deposit li horloge in su tasca.
 
 "In tal casu, ples departer in pace. Tui peccas es pardonat."
 
-[cols=",,,",]
 |===
 | *furtard*     | thief     | *sam*        | same
 | *prestro*     | priest    | *portar*     | carry
@@ -383,7 +384,6 @@ Il respondet: "It es un fluide, quel es extraet de lingues de féminas e
 cordies de leones, pro que, quande yo ha trincat vin, yo posse parlar
 sin cessar e combatter mem li diábol."
 
-[cols=",,,",]
 |===
 | *postular*  | demand      | *terra e aqua* | earth and water
 | *jettar*    | throw, toss | *profund*      | deep
@@ -415,7 +415,6 @@ sin cessar e combatter mem li diábol."
 - Mult homes es vocat, ma poc homes es electet.
 - Li sapon es li mesura de bon-esser e cultura del state.
 
-[cols=",,,",]
 |===
 | *proverbie* | proverb | *dom*     | house
 | *hem*       | home    | *infante* | infant, child
@@ -475,7 +474,6 @@ The other forms are created with the help of auxiliary verbs.
 
 ===== Active
 
-[cols=",,",]
 |===
 | Perfect            | *yo ha amat*     | I have loved
 | Pluperfect         | *yo hat amat*    | I had loved
@@ -502,7 +500,6 @@ Come!
 
 ===== Passive
 
-[cols=",,",]
 |===
 | Present            | *yo es amat*         | I am loved
 | Preterite          | *yo esset amat*      | I was loved
@@ -540,7 +537,6 @@ libre* = I got myself (me) a book.
 
 ===== Progressive form
 
-[cols=",,",]
 |===
 | Present   | *il es laborant*       | he is working
 | Preterite | *il esset laborant*    | he was working
@@ -577,7 +573,6 @@ Noi ne have *creatori* qualitás, solmen Deo es vermen *creativ*.
 
 Quo il ha creat? Nos e omni altri *creaturas*.
 
-[cols=",,,",]
 |===
 | *triesim* | third   | *crear*    | create
 | *Deo*     | God     | *nominar*  | name
@@ -617,7 +612,6 @@ possession. Quam possessor de grand capitales, il ha fat mult donationes
 in favor a cultural institutiones, e pro to il have li reputation de un
 grand donator e favorisator del scienties e artes.
 
-[cols=",,,",]
 |===
 | *fratre*     | brother                         | *ja*         | already
 | *evocar*     | evoke                           | *transitori* | transitory
@@ -668,23 +662,29 @@ un nov era de filosofic speculation, un nov romantica e idealisme, támen
 con plu critic reflection quam li antiqui? Li munde fórsan ne es ancor
 tam senil, quam li profetes de fatiga vole far nos creder.
 
-[cols=",,,,,",]
 |===
-| *eterni*    | eternal    | *témpore*     | time        | *coronar*   | to crown
-| *semblar*   | to seem    | *van*         | in vain     | *evoluer*   | evolve
-| *ti*        | this, that | *explorar*    | explore     | *retirar*   | retire
-| *pensa*     | thought    | *guerre*      | war         | *detronar*  | dethrone
-| *devot*     | devoted    | *penetrar*    | penetrate   | *devenir*   | become
-| *abandonar* | abandon    | *defender*    | defend      | *malgré*    | despite
-| *adavan*    | forwards   | *spíritu*     | spirit      | *omni*      | all
-| *choc*      | shock      | *justificar*  | justify     | *misprense* | misunderstanding
-| *les*       | them       | *erra*        | error       | *nor*       | our
-| *sequer*    | follow     | *pos*         | after       | *strett*    | narrow
-| *fluctuar*  | fluctuate  | *sómmite*     | summit      | *propri*    | own (one's own)
-| *unde*      | wave       | *Renascentie* | Renaissance | *indicar*   | indicate
-| *imitar*    | imitate    | *culminar*    | culminate   | *támen*     | however
-| *fórsan*    | perhaps    | *senil*       | senile      | *fatiga*    | fatigue
-|             |            | *creder*      | believe     |             |
+| *eterni*      | eternal         | *témpore*   | time
+| *coronar*     | to crown        | *semblar*   | to seem
+| *van*         | in vain         | *evoluer*   | evolve
+| *ti*          | this, that      | *explorar*  | explore
+| *retirar*     | retire          | *pensa*     | thought
+| *guerre*      | war             | *detronar*  | dethrone
+| *devot*       | devoted         | *penetrar*  | penetrate
+| *devenir*     | become          | *abandonar* | abandon
+| *defender*    | defend          | *malgré*    | despite
+| *adavan*      | forwards        | *spíritu*   | spirit
+| *omni*        | all             | *choc*      | shock
+| *justificar*  | justify         | *misprense* | misunderstanding
+| *les*         | them            | *erra*      | error
+| *nor*         | our             | *sequer*    | follow
+| *pos*         | after           | *strett*    | narrow
+| *fluctuar*    | fluctuate       | *sómmite*   | summit
+| *propri*      | own (one's own) | *unde*      | wave
+| *Renascentie* | Renaissance     | *indicar*   | indicate
+| *imitar*      | imitate         | *culminar*  | culminate
+| *támen*       | however         | *fórsan*    | perhaps
+| *senil*       | senile          | *fatiga*    | fatigue
+| *creder*      | believe         |             |
 |===
 
 NOTE: *omni* before a singular means *each* (same as *chascun*), while
@@ -703,7 +703,6 @@ malades. Esque pro to li malades es plu reputat quam li medicos?"
 "Moné," il declarat, "yo prende del riches ne pro que yo besona it, ma
 por que ili mey saver in quel maniere ili posse investir it."
 
-[cols=",,,",]
 |===
 | *per quo*         | by what      | *distinter*   | distinguish
 | *lege*            | law          | *abrogar*     | abrogate, repeal
@@ -739,7 +738,6 @@ at the end?
 
 1. If it's a vowel, then add a t:
 +
-[cols=",,",]
 |===
 | Infinitive                   | Perfect stem   | Derived word
 
@@ -772,7 +770,6 @@ language oneself is a powerful tool for adding nuance in writing.
 
 2. If it's a *d* or an *r*, then it becomes *s*:
 +
-[cols=",,",]
 |===
 | Infinitive              | Perfect stem    | Derived word 
 
@@ -783,7 +780,6 @@ language oneself is a powerful tool for adding nuance in writing.
 
 3. If it's a consonant, then you already have the perfect stem.
 +
-[cols=",,",]
 |===
 | Infinitive                   | Perfect stem   | Derived word
 
@@ -794,7 +790,6 @@ language oneself is a powerful tool for adding nuance in writing.
 
 Five verbs are exceptions to the above and must be learned separately.
 
-[cols=",,",]
 |===
 | Infinitive        | Perfect stem   | Derived example
 
@@ -993,7 +988,6 @@ Si li suposition de prof. Wegener es rect, tande li cratere in Sall es
 un unic monument de natura in Europa, e li duesim sur li tot globe de
 terra.
 
-[cols=",,,",]
 |===
 | *quadresim*    | fourth                            | *apertener* | to belong
 | *unanim*       | unanimous                         | *acter*     | to act
@@ -1171,7 +1165,6 @@ De 1/5 li fractiones es simil al ordinales.
 
 Forms such as *un triesim* for 1/3 are of course permitted.
 
-[cols=",,,",]
 |===
 | *quant*             | how many    | *composir* | to compose
 | *in vice de / vice* | instead of  | *adjunter* | add to
@@ -1248,7 +1241,6 @@ In autune flores mori e li fructes es matur.
 
 In hiverne veni nive e li dies es frigid.
 
-[cols=",,,",]
 |===
 | *quel*     | which                                                     | *midí*      | midday
 | *die*      | day                                                       | *semane*    | week
@@ -1274,7 +1266,6 @@ have null firm dom ex su hem. (Locke.)
 
 Quo noi nómina accidentie, es li asil del ignorantie. (Spinoza.)
 
-[cols=",,,",]
 |===
 | *null*         | no (none)                   | *veritá*     | truth
 | *interprender* | undertake                   | *expussar*   | chase out
@@ -1309,7 +1300,6 @@ simply standalone particles but also used to form words.
 
 ==== 4.2.1 Prepositiones
 
-[cols=",,,",]
 |===
 | *a, ad*     | to          | *intra*  | between
 | *along*     | along       | *malgré* | despite
@@ -1568,7 +1558,9 @@ Separation, moving away:
 
 ===== ín-
 
-Opposite meaning, in/un/etc.:
+// XXX FIXED -- "in/un/etc." -> "(in-, un-, etc.)"
+
+Opposite meaning (in-, un-, etc.):
 
 ====
 
@@ -1715,7 +1707,6 @@ un nov intrat – it ha sempre esset talmen, ne existe exceptiones – tande
 li munde ha regardat a retro e erectet monumentes a tis qui pensat, e
 ridet pri tis qui ridet."
 
-[cols=",,,",]
 |===
 | *etsi*          | although         | *líttere*     | letter
 | *custar*        | to cost          | *sangue*      | blood
@@ -1766,7 +1757,6 @@ directiones.
 
 (Channing.)
 
-[cols=",,,",]
 |===
 | *economisar* | to economize, save | *moné*        | money
 | *spoliar*    | to spoil, waste    | *plu … plu …* | the more … the more …
@@ -1799,7 +1789,6 @@ calculationes de profite.
 NOTE: *to* is only written with an accent here to show emphasis
 ("_that_ is never found in our profit calculations").
 
-[cols=",,,",]
 |===
 | *ultim*     | final, recent | *restar*     | to remain
 | *cap*       | head          | *derivar*    | to derive
@@ -1832,7 +1821,6 @@ deve payar."
 
 // XXX FIXED -- Markup of "índemiatmen":
 
-[cols=",,,",]
 |===
 | *aprender*     | to learn                                                | *judicar*    | to judge
 | *comprensibil* | understandable, natural (*comprensibilmen* = of course) | *payar*      | to pay
@@ -1872,20 +1860,30 @@ tam long quam homes ama li flores del verne ne solmen li sicc folies del
 autune – tam long un lingue aprioric, sin historie e sin metáfores ne
 va esser parlat sur ti ci globe.
 
-[width="100%",cols="25%,25%,25%,25%",]
+[cols="4"]
 |===
-| *chascun*     | each                                                                                            | *rud*         | rude, rough
-| *perdir*      | to lose                                                                                         | *fix*         | fixed, fast
-| *sentir*      | to feel                                                                                         | *amore*       | love
-| *luder*       | to play                                                                                         | *besonar*     | to need
-| *radica*      | a root                                                                                          | *rol*         | role
-| *lurar*       | to lure                                                                                         | *adherer*     | to adhere
-| *mente*       | mind                                                                                            | *sicc*        | dry
-| *pur*         | pure                                                                                            | *calv*        | bald
-| *dispensar* a | to dispense, rid oneself of
-| *necos* a     | nothing (n.b. derived from ne+cose, thus accented as *necós* and often written with the accent)
-| *glacie*      | ice                                                                                             | *presupposir* | to presuppose
-| *superficie*  | surface                                                                                         | *vicear*      | to replace
+| *chascun*      | each
+| *rud*          | rude, rough
+| *perdir*       | to lose
+| *fix*          | fixed, fast
+| *sentir*       | to feel
+| *amore*        | love
+| *luder*        | to play
+| *besonar*      | to need
+| *radica*       | a root
+| *rol*          | role
+| *lurar*        | to lure
+| *adherer*      | to adhere
+| *mente*        | mind
+| *sicc*         | dry
+| *pur*          | pure
+| *calv*         | bald
+| *dispensar* a* | to dispense, rid oneself of
+| *necos a*      | nothing (n.b. derived from *ne* + *cose*, thus accented as *necós* and often written with the accent)
+| *glacie*       | ice
+| *presupposir*  | to presuppose
+| *superficie*   | surface
+| *vicear*       | to replace
 |===
 
 ==== 5.1.6 Proverbies
@@ -1908,7 +1906,6 @@ De lu sublim a lu comic es sovente solmen un passu.
 Leges es quam li texturas del aranés; li micri moscas es captet, li
 grandes trapassa.
 
-[cols=",,,",]
 |===
 | *texter*    | to spin         | *mosca*   | a fly
 | *laude*     | praise          | *arané*   | spider
@@ -1929,7 +1926,6 @@ tro inclinat regardar lu passat quam alquicos mort, ma it existe ye
 vivent evidentie in nor animas hodie. It opresse nos e stimula nos al
 action, it tirannisa nos e inspira nos a coses plu sublim.
 
-[cols=",,,",]
 |===
 | *percepter* | to perceive       | *passat*     | past
 | *subtil*    | subtle            | *Nihil*      | Nothing
@@ -1954,7 +1950,6 @@ diferentie inter heróes e martiros. (O. Wilde.)
 Du levul gantes de fa un pare de gantes, du demí veritás ne fa un
 veritá. (Multatuli.)
 
-[cols=",,,",]
 |===
 | *scop-conscient* | goal-conscious     | *auxiliar* | to help
 | *iniciar*        | to initiate, start | *gante*    | glove
@@ -2455,7 +2450,6 @@ festa trovat su fine, talmen que li reporteros havet mult a far scrir li
 rapportes al rect témpore, e li redactores e correctores esset occupat
 til li límite. Criticastros comprensibilmen ne esset content.
 
-[cols=",,,",]
 |===
 | *cité capital* | capital city      | *presc*    | almost
 | *chapel*       | hat               | *picter*   | to paint
@@ -2969,7 +2963,6 @@ cuida, quam fluent, quam brilliant il es . . .
 
 (Emerson)
 
-[cols=",,,",]
 |===
 | *distinter* | to distinguish          | *atinger*   | attain
 | *exposir*   | to expose               | *voce*      | voice
@@ -3011,7 +3004,6 @@ Li damas ne veni in li ciel, nam ja in li Apocalipse es dit in un loc:
 It esset silent durant un demí seconde. To ne es pensabil ta, u damas es
 present. (Kant.)
 
-[cols=",,,",]
 |===
 | *angule*    | angle         | *spirar* | to breathe
 | *loc*       | place         | *sagie*  | sage
@@ -3049,7 +3041,6 @@ espera, e li testimonie pri coses queles ne es visibil.
 
 (Henry Ford.)
 
-[cols=",,,",]
 |===
 | *folle*    | a fool        | *partiprender* | to participate, take part
 | *capabil*  | capable       | *deventie*     | a duty
@@ -3110,7 +3101,6 @@ Vor devoet
 
 Y{dot} Z{dot}
 
-[cols=",,,",]
 |===
 | *mersiar*    | to thank          | *ocupation* | occupation
 | *sam quam*   | same as           | *iniciat*   | initiated
@@ -3583,7 +3573,6 @@ frigid o calid?" – "Calid," yo respondet. E su Sanctitá departet por
 aportar li trincage, ma il esset absent tro long e interim yo avigilat
 me. Quam yo nu repente, que yo ne hat petit le dar me it frigid."
 
-[cols=",,,",]
 |===
 | *somnie*   | dream                   | *tappar*   | to tap, knock
 | *trincage* | a drink                 | *droll(i)* | funny
@@ -3629,7 +3618,6 @@ Quande un hom di: "Un de nos erra," yo save strax, quem il alude.
 Certmen Vu conosse ti person, qui quande on parla pri un altri hom,
 comensa strax parlar pri se self.
 
-[cols=",,,",]
 |===
 | *concordar*  | to agree     | *injurie*    | injury, insult
 | *tacer*      | to be silent | *ínprudent*  | imprudent, careless
@@ -3666,7 +3654,6 @@ ci a levul."
 
 NOTE: *li mi, li vor* etc. is also used.
 
-[cols=",,,",]
 |===
 | *seriosi* | serious  | *jolli*   | jolly
 | *fumar*   | to smoke | *a levul* | on the left
@@ -3705,7 +3692,6 @@ inteligent hom. Ma to es profundmen fals: pluri ásinos in concret fa li
 Un solari sistema es solmen un punctuat profil del mundan genie, ma un
 homan ocul es li miniatura del solari sistema. (Jean Paul.)
 
-[cols=",,,",]
 |===
 | *fidel*        | faithful  | *ásino*      | donkey, ass
 | *animale*      | animal    | *debil*      | weak
@@ -3730,7 +3716,6 @@ tal animal ha vivet, qualmen on posse saver su nómine?"
 
 === 8.2 Explanations
 
-[cols=",,,",]
 |===
 | *viage*        | journey    | *diluvie* | flood
 | *caude*        | tail       | *animale* | animal
@@ -4000,7 +3985,6 @@ unesim conosset form e sense del parol, che li etimon. Li historie de un
 parol es un micri novelle, un excerpte ex un immensimen grand libre: li
 Historie del Homanité.
 
-[cols=",,,",]
 |===
 | *indicar* | to indicate | *concerner*  | to concern
 | *infante* | infant      | *excerpte*   | excerpt
@@ -4027,7 +4011,6 @@ quantcunc detalliat li histories de Grecia e Roma, si per li historic
 documentes li grand idés de libertá e bellitá e bravitá e spiritual
 energie ne ha flammat quam vivent foyes in su anima? (Channing.)
 
-[cols=",,,",]
 |===
 | *elevar*     | to raise     | *erudition* | erudition
 | *terminar*   | to end       | *larg*      | broad, wide
@@ -4058,7 +4041,6 @@ acte follimen."
 
 '''
 
-[cols=",,,",]
 |===
 | *subitmen* | suddenly        | *savagi*    | wild
 | *matre*    | mother          | *epol*      | shoulder
