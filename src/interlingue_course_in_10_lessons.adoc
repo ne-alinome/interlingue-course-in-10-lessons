@@ -17,7 +17,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201902192001
+// Last modified 201902192235
 
 :dot: .
 
@@ -283,7 +283,7 @@ yo fa, e pri quo e por qui yo scri?"
 
 "Pro que un yun mann deve saver omnicos."
 
-Note: *hodie* as a combination of *ho-* + *die* is stressed as *hodíe*, and *omnicos*
+NOTE: *hodie* as a combination of *ho-* + *die* is stressed as *hodíe*, and *omnicos*
 as a combination of *omni* (all) + *cose* (thing) is stressed as *omnicós*.
 They may be also written as *hodíe* and *omnicós*.
 
@@ -685,7 +685,7 @@ tam senil, quam li profetes de fatiga vole far nos creder.
 |             |            | *creder*      | believe     |             |
 |===
 
-Note: *omni* before a singular means *each* (same as *chascun*), while
+NOTE: *omni* before a singular means *each* (same as *chascun*), while
 before a plural it means *all*.
 
 ==== 3.1.4 Anecdotes
@@ -750,7 +750,7 @@ at the end?
 | *distint/er*, to distinguish | *distint-*     | *distintion*, distinction
 |===
 +
-Note: as in English, Interlingue sometimes has two groupings of verbs
+NOTE: As in English, Interlingue sometimes has two groupings of verbs
 with nearly the same meaning where the more Latin-like one has a more
 formal or heavy character. To derive *extraction* above the
 verb *extracter* is used, but the verb *extraer* also exists
@@ -761,7 +761,7 @@ is only an *extraction*. But an *extration*, derived from *extraer* (to
 pull out), is both a pulling out and an extraction.
 +
 Similarly, the word reader (*letor*, from *le/er* --> *let* --> *letor*)
-has a 'hidden' companion in the form of *lecter* that can be seen from
+has a "hidden" companion in the form of *lecter* that can be seen from
 the word *lector* (same meaning in Interlingue as in English) that one
 can see derived as *lecter* --> *lect*- --> *lector*. The
 word *letion* above can also be written *lection*, which carries a more
@@ -803,7 +803,7 @@ Five verbs are exceptions to the above and must be learned separately.
 | *verter*, to wind | *vers-*        | *version*
 |===
 
-Note: the original de Wahl's Rule included the exception *mover* (to
+NOTE: The original de Wahl's Rule included the exception *mover* (to
 move) --> *mot-*, from which is derived *motion*. The Interlingue
 community noted however that *motion* (plus *emotion*)
 and *movement* are semantically different and that using two
@@ -899,7 +899,7 @@ realized action or its result.
 
 // XXX FIXED -- "to form showing the result" -> "to form the result"
 
-Note 1: The perfect stem plus an *-e* (to indicate a noun) is also used
+NOTE: The perfect stem plus an *-e* (to indicate a noun) is also used
 to form the result of the action of a verb.
 
 ====
@@ -939,12 +939,12 @@ The perfect stem on its own is also used as an adjective:
 
 ====
 
-Note: *-i*, like *-e* above, is affixed to show that the word is an
+NOTE: *-i*, like *-e* above, is affixed to show that the word is an
 adjective. *-i* is also optional, and tends to be used most often when
 euphony demands it (e.g. the word *micri*, small, could not be
 pronounced without it).
 
-Note 2: The perfect stem is used when deriving (forming) words, but
+NOTE: The perfect stem is used when deriving (forming) words, but
 not for verb conjugation. Technically words above such
 as *apert*, *pervers(i)* etc. can be learned and thought of as
 separate entities but knowing how they are derived from verbs gives the
@@ -1086,16 +1086,16 @@ respondent al question *quantesim*:
 - 100. centesim
 - 1000. milesim
 
-Note: *decesim* (tenth) is written as *decesim* and
-not *deciesim* because -i in *deci* is the adjectival ending we
-encountered above (the root itself is dec-). This is another example of
-an adjective that requires the -i ending on its own as
+NOTE: *decesim* (tenth) is written as *decesim* and
+not *deciesim* because *-i* in *deci* is the adjectival ending we
+encountered above (the root itself is *dec*). This is another example of
+an adjective that requires the *-i* ending on its own as
 otherwise *dec* would be pronounced *dek*.
 
-Note 2: -esim also gives rise to internationally-recognized words such
-as ínfinitesim (an infinitessimal part) and infinitesimal. In Interlingue
-these words are regularly derived from common verbs: ín + fini-r (to
-finish) + t + esim + al = *ínfinitesimal*.
+NOTE: *-esim* also gives rise to internationally-recognized words such
+as *ínfinitesim* (an infinitessimal part) and *infinitesimal*. In
+Interlingue these words are regularly derived from common verbs: *ín*
++ *fini-r* (to finish) + *t* + *-esim* + *-al* = *ínfinitesimal*.
 
 Similarly, sometimes the *-ant* is written *-anti* for euphonic
 purposes. But because *-ant* on its own is easy enough to pronounce
@@ -1180,6 +1180,8 @@ Forms such as *un triesim* for 1/3 are of course permitted.
 
 ==== 4.1.3 Li témpore e su division
 
+// XXX TODO -- Make lists:
+
 Quel hora es? Quel es li témpore?
 
 12:00 a decidu horas (precis), it es midí
@@ -1210,17 +1212,19 @@ saturdí.
 Li decidu mensus es: januar, februar, marte, april, may, junio, julí,
 august, septembre, octobre, novembre e decembre.
 
-Note 1: The word *hora* refers to the hour of the day. The
+NOTE: The word *hora* refers to the hour of the day. The
 word *hor* refers to an hour of time.
 
-Note 2: The word *clocca* is an alternative to the word *hora*. It was
+NOTE: The word *clocca* is an alternative to the word *hora*. It was
 replaced by *hora* during the 1940s but seems to have remained popular
 and has a bit of a slangy feel. *Ye clocca du = a du horas*.
 
-Note 3: While we are on the subject, the same has happened with the
-word *flicca* (girl, from Swedish flicka), which was changed
+NOTE: While we are on the subject, the same has happened with the
+word *flicca* (girl, from Swedish _flicka_), which was changed
 to *puella* a long time ago. Now *flicca* has a similar feel to
-English gal or chick.
+English "gal" or "chick".
+
+// XXX TODO -- Markup:
 
 Triant dies hav' septembre,
 
@@ -1378,7 +1382,7 @@ With.
   eyes.
 ====
 
-Note: the phrasing "the hands", "the eyes" to refer to body parts
+NOTE: The phrasing "the hands", "the eyes" to refer to body parts
 is more common internationally than the English his/her/their. But
 English also uses it sparingly such as in "look me in the eyes" (not
 "look me in my eyes").
@@ -1573,12 +1577,12 @@ Opposite meaning, in/un/etc.:
 
 ====
 
-Note 1: Other more internationally-recognized forms such
+NOTE: Other more internationally-recognized forms such
 as *impossibil* (vs. *ínpossibil*), *irregular* (vs. *ínregular*) etc.
 were often used in Interlingue but the user base showed a preference for
 a regular *ín-* and the other forms have become rarer.
 
-Note 2: Not to be confused with the unstressed preposition *in-*,
+NOTE: Not to be confused with the unstressed preposition *in-*,
 similar to the one in English in words such as *inclusiv*, *inspecter*.
 
 ===== mis-
@@ -1641,19 +1645,19 @@ following:
 | Etymologic | Doubled consonant | Modern single consonant form
 
 | adportar | apportar
-| *aportar* (to bring, from *ad* + *portar*, lit. to 'to pull')
+| *aportar* (to bring, from *ad* + *portar*, lit. to "to pull")
 
 | adnexion | annexion
-| *anexion* (to annex, from *ad* + *nexer*, lit. to 'to tie')
+| *anexion* (to annex, from *ad* + *nexer*, lit. to "to tie")
 
 | adtractiv | attractiv
-| *atractiv* (to attract, from ad + *tracter*, lit. to 'to pull')
+| *atractiv* (to attract, from ad + *tracter*, lit. to "to pull")
 
 | obpression | oppression
-| *opression* (to oppress, from *ob* + *presser*, lit. to 'against press')
+| *opression* (to oppress, from *ob* + *presser*, lit. to "against press")
 
 | subposition | supposition
-| *suposition* (to suppose, from *sub* + *poser*, lit. to 'under place')
+| *suposition* (to suppose, from *sub* + *poser*, lit. to "under place")
 
 |===
 
@@ -1790,8 +1794,8 @@ calculationes de profite.
 
 (Ruskin)
 
-Note: *to* is only written with an accent here to show emphasis
-("...*that* is never found in our profit calculations").
+NOTE: *to* is only written with an accent here to show emphasis
+("..._that_ is never found in our profit calculations").
 
 [cols=",,,",]
 |===
@@ -2040,11 +2044,18 @@ no particular noun in mind:
 - Feminine: *la bell* = the beautiful
 - Neutral: *lu bell* = the beautiful
 
-Note: lu is by far the most often used of the three above.
+NOTE: *lu* is by far the most often used of the three above.
 
-Finally, the ending -um can be used on an adjective to form a noun that
-expresses the general idea of something: *novum* =
-newness, *bonum* = goodness, *caracteristicum* = characteristicness.
+Finally, the ending *-um* can be used on an adjective to form a noun that
+expresses the general idea of something:
+
+====
+
+- *novum* = newness
+- *bonum* = goodness
+- *caracteristicum* = characteristicness
+
+====
 
 // XXX FIXME -- Translate:
 
@@ -2080,7 +2091,7 @@ exist due to their being part of already existing international words:
 - *minor* = smaller (*__minor__ité*)
 - *minim* = smallest (*__minim__al*)
 
-Note: *minim* is included here for the sake of completeness even
+NOTE: *minim* is included here for the sake of completeness even
 though it is part of the regular comparative forms.
 
 ==== 5.2.3 Divers sufixes
@@ -2172,8 +2183,8 @@ The present participle can also be made into verbs:
 
 ====
 
-Note: electrisar is formed from a sort of hidden word (electr-) formed
-by removing the suffix -ic, which forms other words as well such
+NOTE: *electrisar* is formed from a sort of hidden word (*electr-*) formed
+by removing the suffix *-ic*, which forms other words as well such
 as *electron* (the *-on* suffix will show up in the next chapter).
 
 *-isar* can also be used, though more rarely, with nouns. They form
@@ -2245,7 +2256,7 @@ refers to a simple action.
 
 ====
 
-Note: for *-ar* and *-ir* verbs, this often gives the opportunity to make
+NOTE: For *-ar* and *-ir* verbs, this often gives the opportunity to make
 very subtle distinctions if one wishes, due to the general *-e* and
 vowelless ending for nouns. This is better explained with examples:
 
@@ -2253,15 +2264,22 @@ vowelless ending for nouns. This is better explained with examples:
 // sentence:
 
 The word *pense* refers to a thought, while *pensa* refers to
-thought. Both are correct, and have a subtle difference: *Li pensa venit
-a me* = the thought came to me (*pensa* is preferred here as it refers
-to the action of thinking); *penses e paroles* = thoughts and
-words. This is, again, a subtle distinction that one may use if wished
-or ignore at will, like the English words clothing and clothes, dinner
+thought. Both are correct, and have a subtle difference:
+
+====
+
+- *Li pensa venit a me* = the thought came to me (*pensa* is preferred
+  here as it refers to the action of thinking)
+- *penses e paroles* = thoughts and words.
+
+====
+
+This is, again, a subtle distinction that one may use if wished or
+ignore at will, like the English words clothing and clothes, dinner
 and supper, precise and accurate, venom and poison, etc.)
 
-We have already gone over the suffixes *-ion* and *-ura* in chapter 3. Here
-are some others:
+We have already gone over the suffixes *-ion* and *-ura* in chapter 3.
+Here are some others:
 
 ===== -ada, -ida
 
@@ -2764,8 +2782,8 @@ Special property or condition, most similar to English -ness. Examples:
 
 ====
 
-This is also the suffix used for bombastic titles such as 'your
-Highness' (*Vor Altesse*).
+This is also the suffix used for bombastic titles such as "your
+Highness" (*Vor Altesse*).
 
 ==== 6.2.3 Local e colectiv sufixes
 
@@ -2833,7 +2851,7 @@ These three are best learned together.
 
 - *-iera*: a vast location containing something
 - *-iere*: a vessel or container holding something
-- *-iero*: carrying something (forms trees as well - 'carriers' of
+- *-iero*: carrying something (forms trees as well - "carriers" of
   their fruits)
 
 *-iere* words:
@@ -2965,7 +2983,7 @@ cuida, quam fluent, quam brilliant il es . . .
 | *orígine*   | origin                  | *balbutiar* | to stutter
 |===
 
-Note: the *-nd* suffix (*-and* for *-ar* verbs, *-end* for *-er* and *-ir* verbs)
+NOTE: The *-nd* suffix (*-and* for *-ar* verbs, *-end* for *-er* and *-ir* verbs)
 adds the meaning "thing to be (verb)ed)". This is where words
 like *dividende* (thing to be *divided*, from divider) come from, which
 adds a certain obligation (a thing to do = a thing one should do).  As
@@ -3039,7 +3057,7 @@ espera, e li testimonie pri coses queles ne es visibil.
 | *monete*   | a coin        | *substantie*   | substance
 |===
 
-Note: *mani* before a singular means *many a*, while before a plural
+NOTE: *mani* before a singular means *many a*, while before a plural
 it means *many* (same as *mult*).
 
 ==== 7.1.4. Un lettre
@@ -3101,7 +3119,7 @@ Y{dot} Z{dot}
 | *chargear*   | to charge, burden | *obliviar*  | to forget
 |===
 
-Note: *haver rason* is another way to say 'be right'.
+NOTE: *haver rason* is another way to say "be right".
 
 === 7.2 Explanations
 
@@ -3124,13 +3142,13 @@ energie, fantastic from fantaste (a fantast, someone with eccentric or
 fanciful ideas), *sistematic* from *sistema*, *problematic* from
 *problema*, etc.
 
-Note: Greek words ending in "-ma" take a "t", and those ending in "-se" turn
+NOTE: Greek words ending in "-ma" take a "t", and those ending in "-se" turn
 the "s" into a "-t" ("xe" also counts as it is pronounced "cse"). Thus:
 
 - *hipnose - hipnotic*
 - *sintaxe - sintactic*
 
-From the adjective *-ic* we derive nouns with
+From the adjective *-ic* we derive nouns with:
 
 ===== -ica and -ico
 
@@ -3644,7 +3662,7 @@ ci a levul."
 
 "It es mi!"
 
-Note: *li mi, li vor* etc. is also used.
+NOTE: *li mi, li vor* etc. is also used.
 
 [cols=",,,",]
 |===
@@ -3854,7 +3872,7 @@ for objects and abstract things also *quo*.
 
 ====
 
-Note: sometimes users of Interlingue do not bother to pluralize *quel*:
+NOTE: Sometimes users of Interlingue do not bother to pluralize *quel*:
 *tis, quel...* instead of *tis, queles*. *Queles* in the plural is one
 of those words that looks more proper when used but not outright
 deserving of a correction when not.
@@ -3896,11 +3914,11 @@ Italy.
 - *un cert* = a certain
 - *mani* = many, many a
 - *tot* = all
-- *-cunc* = fixed to pronouns to give the sense of 'whatever'.
+- *-cunc* = fixed to pronouns to give the sense of "whatever".
   *quicunc* = whoever, *quelcunc* = whichever, *quocunc* = whatever.
   *-cunc* is not accented.
 
-Note: because *al-, ne-, -cunc* etc. are never accented, the pronouns
+NOTE: Because *al-*, *ne-*, *-cunc* etc. are never accented, the pronouns
 are often written without accents (*alquo* instead of *alquó*, *alqui*
 instead of *alquí*).
 
@@ -4237,7 +4255,7 @@ There are also some subordinate conjunctions:
 - *porque (por que)* = in order that
 - *perque (per que)* = in that (because of...)
 
-Note: the *que* here is not translated as "that" in English but carries
+NOTE: The *que* here is not translated as "that" in English but carries
 that sort of meaning. Point to take home: _Having *que* means the parts
 of the sentence before *que* and after it can stand on their own._
 Examples of conjunctions with and without *que* to demonstrate the
@@ -4594,6 +4612,6 @@ alquó a manjar" and not "Yo va trovar *me* alquó a manjar".
 
 ====
 
-Note: The above phrases are ones that in the original German are
+NOTE: The above phrases are ones that in the original German are
 rendered with reflexive verbs in German; fortunately, English does not
 use them nearly as much.
