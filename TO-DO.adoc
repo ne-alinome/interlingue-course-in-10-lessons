@@ -6,6 +6,6 @@
 - Add author of the wiki version.
 - Confirm year of the wiki version.
 - Add missing emphasis markups, e.g. in affixes.
-- Tidy tables.
 - Delete dots at the end of titles.
 - Fix arrows, "-->".
+- Rearrange tables in less columns.
