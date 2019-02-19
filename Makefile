@@ -2,7 +2,7 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201902190034
+# Last modified 201902192234
 # See change log at the end of the file
 
 # ==============================================================
@@ -54,6 +54,9 @@ pdfletter: target/$(book_basename).adoc.letter.pdf
 
 .PHONY: xml
 xml: target/$(book_basename).adoc.xml
+
+.PHONY: it
+it: epubd pdfa4
 
 .PHONY: clean
 clean:
@@ -150,9 +153,8 @@ target/$(book_basename).adoc.xml.pandoc.odt: \
 		--output $@ $<
 
 # ==============================================================
-#
-
-# ==============================================================
 # Change log
 
 # 2019-02-18: Start.
+#
+# 2019-02-19: Add "it" rule for the development.
