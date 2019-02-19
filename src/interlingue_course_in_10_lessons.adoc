@@ -4,7 +4,7 @@
 ifdef::backend-pdf[]
 :doctype: book
 :toc: auto
-:toclevels: 2
+:toclevels: 5
 :toc-title: Contenete
 endif::[]
 
@@ -17,7 +17,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201902190129
+// Last modified 201902190136
 
 :dot: .
 
@@ -1390,7 +1390,7 @@ comes to mind
 
 Let's take a look at a few from all of these.
 
-==== *a*
+===== a
 
 Of. Has many uses:
 
@@ -1407,7 +1407,7 @@ in a group or company).
 
 *Un error a regrettar* = A regretful error. (lit. an error to regret)
 
-==== *ante*
+===== ante
 
 Means before in terms of time and place (*avan* only refers to place).
 
@@ -1415,7 +1415,7 @@ Means before in terms of time and place (*avan* only refers to place).
 
 *Avan li dom* = Before the house
 
-==== caus
+===== caus
 
 Because of. The reason for something goes right after *caus*, which is
 an abbreviation of the longer *in cause de*.
@@ -1424,7 +1424,7 @@ an abbreviation of the longer *in cause de*.
 
 *Caus li politic evenimentes* = Because of the political events.
 
-==== con
+===== con
 
 With.
 
@@ -1436,7 +1436,7 @@ is more common internationally than the English his/her/their. But
 English also uses it sparingly such as in "look me in the eyes" (not
 "look me in my eyes")).
 
-==== de
+===== de
 
 *De* has a wide usage, and oftentimes other prepositions can be used in
 its place.
@@ -1456,13 +1456,13 @@ here as well)
 
 *Un vase de aure* = A vase of gold
 
-==== *desde*
+===== desde
 
 Since, for.
 
 *Desde du annus* = For two years.
 
-==== ex
+===== ex
 
 Out (of), from.
 
@@ -1473,7 +1473,7 @@ Out (of), from.
 *Traductet ex german in Interlingue*. = Translated from German into
 Interlingue.
 
-==== per
+===== per
 
 By, through, with
 
@@ -1484,35 +1484,35 @@ By, through, with
 *Li moné ha esset furtet per un ínconosset hom* = The money has been
 stolen by an unknown person.
 
-*por*
+===== por
 
 *Un libre por omnes e por nequi* = A book for all and for nobody.
 
 *On manja por viver, on ne vive por manjar* = You eat to live, you
 don't live to eat.
 
-==== pri
+===== pri
 
 *Noi parlat pri politica* = We talked about politics.
 
 *Yo mersía pro Vor auxilie* = I thank (you) for your help.
 
-==== *til*
+===== til
 
 *Yo laborat til decidu horas.* = I worked until twelve o'clock.
 
 *Til li extrem fine del munde* = Until the very end of the world
 
-==== tra
+===== tra
 
 *Yo videt le tra li fenestre* = I saw him through the window.
 
-==== trans
+===== trans
 
 *Lindberg volat trans li Atlantic Ocean* = Lindberg flew across the
 Atlantic Ocean.
 
-==== vers
+===== vers
 
 *Li avie volat vers li sole* = The bird flew towards the sun.
 
@@ -1559,7 +1559,7 @@ from *venir*)
 
 The following prefixes are only used in compound words.
 
-==== *bei-*
+===== bei-
 
 Related by marriage. *belfratre* = brother-in-law (*fratre* =
 brother)
@@ -1578,7 +1578,7 @@ brother)
 +
 *desarmar* = disarm (armar = to arm)
 
-==== *dis-*
+===== dis-
 
 Separation, moving away:
 
@@ -1586,7 +1586,7 @@ Separation, moving away:
 
 *distracter* = distract (*tracter* or *traer* = to pull)
 
-==== ín-
+===== ín-
 
 Opposite meaning, in/un/etc.:
 
@@ -1606,7 +1606,7 @@ a regular *ín-* and the other forms have become rarer.
 *Note 2:* not to be confused with the unstressed preposition *in-*,
 similar to the one in English in words such as *inclusiv*, *inspecter*.
 
-==== mis-
+===== mis-
 
 Wrong, improper, mis-:
 
@@ -1614,7 +1614,7 @@ Wrong, improper, mis-:
 
 *misparlar* = misspeak (*parlar* = to speak)
 
-*pre-*
+===== pre-
 
 Before, pre-:
 
@@ -1624,7 +1624,7 @@ Before, pre-:
 
 *prehistoric* = prehistoric
 
-==== pro-
+===== pro-
 
 Ahead, forth
 
@@ -1632,7 +1632,7 @@ Ahead, forth
 
 *projecter* = to project (*jecter* = to throw)
 
-==== re-
+===== re-
 
 Again, re-:
 
