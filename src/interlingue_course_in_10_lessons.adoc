@@ -10,7 +10,7 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201902190105
+// Last modified 201902190126
 
 :dot: .
 
@@ -69,15 +69,15 @@ discusse li actual situation e international aferes.
 |*cité* |city |*scri* |write
 |*con* |with |*visita* |visit (verb)
 |*contra* |against  |*fa*  |do
-|*grand * |large  |*por * |for
-|*discusse* |discuss |*sala * |room
-|*escuta* |listen |*per * |through, by
-|*cruce * |cross  |*parla * |talks
-|*quam * |as  |*fascinant * |fascinating
+|*grand* |large  |*por* |for
+|*discusse* |discuss |*sala* |room
+|*escuta* |listen |*per* |through, by
+|*cruce* |cross  |*parla* |talks
+|*quam* |as  |*fascinant* |fascinating
 |*on vide* |one sees |*eloquentie* |eloquence
 |*parte* |part |*residentie* |residence
-|*propositor * |proposer  |*portafolies * |briefcases
-|*famosi * |famous  |*sta* |stand (verb)
+|*propositor* |proposer  |*portafolies* |briefcases
+|*famosi* |famous  |*sta* |stand (verb)
 |*fini* |finishes |*unesim* |first
 |===
 
@@ -101,13 +101,13 @@ e ne li sole.“
 
 [cols=",,,,,",]
 |===
-|*monastere * |monastery  |*tranquilmen* |tranquilly  |*multvez * |many
+|*monastere* |monastery  |*tranquilmen* |tranquilly  |*multvez* |many
 times
 
 |*exclama*  |exclaims  |*nam*  |because  |*tu erra*  |you err (=are
 wrong)
 
-|*patre * |father  |*mem*  |even  |*mi filio*  |my son
+|*patre* |father  |*mem*  |even  |*mi filio*  |my son
 
 |*yo ha leet*  |I have read  |*mentiona*  |mentions  |*esser*  |be
 
@@ -235,8 +235,8 @@ they do not in Interlingue.
 |*ella have*  |she has  |*essa es*  |she is
 |*it have*  |it has  |*it es*  |it es
 |*noi have*  |we have  |*noi es*  |we are
-|*vu have * |you (plural) have  |*vu es*  |you are
-|*Vu have * |you (polite) have  |*Vu es*  |you are
+|*vu have* |you (plural) have  |*vu es*  |you are
+|*Vu have* |you (polite) have  |*Vu es*  |you are
 |*ili have* |they have |*ili es* |they are
 |*on have* |one has |*on es* |one is
 |===
@@ -292,20 +292,24 @@ Note: hodie as a combination of ho+die is stressed as hodíe, and omnicos
 as a combination of omni (all) + cose (thing) is stressed as omnicós.
 They may be also written as hodíe and omnicós.
 
+// XXX FIXED -- "I hope that" -> "I hope that…";
+// The original example is confusing, because "that" can be
+// also a pronoun.
+
 [cols=",,,",]
 |===
-|*duesim * |second  |*ne * |not
-|*promena * |strolls (cf. promenade)  |*ante nu * |before now
-|*trottuor * |sidewalk  |*laborar * |work
-|*vive * |life  |*yer * |yesterday
-|*amico * |friend  |*reposar * |repose, rest
-|*le strax * |him right away  |*tam * |so
-|*bon die * |good day  |*fatigar * |tire
-|*quo * |what  |*nocte * |night
+|*duesim* |second  |*ne* |not
+|*promena* |strolls (cf. promenade)  |*ante nu * |before now
+|*trottuor* |sidewalk  |*laborar* |work
+|*vive* |life  |*yer* |yesterday
+|*amico* |friend  |*reposar* |repose, rest
+|*le strax * |him right away  |*tam* |so
+|*bon die * |good day  |*fatigar* |tire
+|*quo* |what  |*nocte* |night
 |*questionar* |question, ask |*deman* |tomorrow
 |*hodie* |today |*Vos* |you (object)
 |*por* |for |*esperar* |hope
-|*o* |or |*que* |that (as in "I hope *that*")
+|*o* |or |*que* |that (as in "I hope *that*…")
 |*voler* |want |*posdeman* |the day after tomorrow
 |*venir* |come |*mersí* |thanks
 |*interprense* |endeavour |*pro* |due to
@@ -346,12 +350,12 @@ deposit li horloge in su tasca.
 
 [cols=",,,",]
 |===
-|*furtard*  |thief  |*sam * |same
+|*furtard*  |thief  |*sam* |same
 |*prestro*  |priest  |*portar*  |carry
 |*confesser*  |confess  |*su*  |his, hers, its
 |*mult*  |much  |*horloge*  |watch (wristwatch)
 |*fin* |fine |*aurin* |golden
-|*pecca * |sin  |*tasca*  |pocket
+|*pecca* |sin  |*tasca*  |pocket
 |*reciver*  |receive  |*gilete*  |vest
 |*prender*  |take  |*durant que*  |while
 |*furter*  |steal  |*racontar*  |tell
@@ -416,14 +420,14 @@ sin cessar e combatter mem li diábol."
 
 [cols=",,,",]
 |===
-|*proverbie * + |proverb  + |*dom * + |house  +
-|*hem * + |home  + |*infante * + |infant, child  +
-|*trovar * + |find  + |*necos * + |nothing  +
-|*aure * + |gold  + |*sanitá * + |health  +
-|*in vanitá * + |in vain  + |*du * + |two  +
-|*homan * + |human  + |*divin * + |divine  +
-|*facil * + |easy  + |*quande * + |when  +
-|*predicar * + |preach  + |*gardar * + |guard  +
+|*proverbie* + |proverb  + |*dom* + |house  +
+|*hem* + |home  + |*infante* + |infant, child  +
+|*trovar* + |find  + |*necos* + |nothing  +
+|*aure* + |gold  + |*sanitá* + |health  +
+|*in vanitá* + |in vain  + |*du* + |two  +
+|*homan* + |human  + |*divin* + |divine  +
+|*facil* + |easy  + |*quande* + |when  +
+|*predicar* + |preach  + |*gardar* + |guard  +
 |*rular* |roll |*petre* |stone
 |*crescer* |grow |*morir* |die
 |*parat* |done |*sempre* |always
@@ -447,7 +451,7 @@ have the following four forms:
 
 // 
 
-1. **ama **has the following uses:
+1. *ama* has the following uses:
 +
 . Active present indicative (regular present form): *yo ama* = I love,
   *il ama* = he loves, *vu ama* = you love, etc.
@@ -455,16 +459,16 @@ have the following four forms:
   loves
 . Imperative: *ama*! = love! *veni*! = come!
 
-2. **amar **is the infinitive. **amar **= to love, **venir **= to
-come, **presser **= to press.
+2. *amar* is the infinitive. *amar* = to love, *venir* = to
+come, *presser* = to press.
 
-3. **amant **is the active participle (English -ing). **amant **=
-loving, **venient **= coming, pressent = *pressing*
+3. *amant* is the active participle (English -ing). *amant* =
+loving, *venient* = coming, pressent = *pressing*
 
-4. **amat **has the following uses:
+4. *amat* has the following uses:
 +
-. Perfect participle (i.e. an adjective): **amat **= loved, **venit
-  **= come, **presset **= pressed. *Li amat patria* = the (be)loved
+. Perfect participle (i.e. an adjective): *amat* = loved, *venit*
+  = come, *presset* = pressed. *Li amat patria* = the (be)loved
   homeland.
 . Active indicative preterite (i.e. past tense): *yo amat* = I loved,
   *tu amat* = you loved, *il amat* = he loved, *noi amat* = we loved,
@@ -495,7 +499,7 @@ while *haver* only refers to the verb to have. *yo ha venit* = I have
 come, *il ha esset* = he has been, *noi hat curret* = we had run, *il
 hat cadet* = he had fallen.
 
-2. **ples **in* ples amar* adds politeness to the imperative, in the
+2. *ples* in* ples amar* adds politeness to the imperative, in the
 same way as the English please. *ples venir!* = please come! *veni*! =
 Come!
 
@@ -517,17 +521,17 @@ Passive
 
 Other forms
 
-1. Using the verb *ear *(to go): *Li dom ea constructet* = the
+1. Using the verb *ear*(to go): *Li dom ea constructet* = the
 house is being built. Using *ear* adds a sense of continuation (the
 construction is going on). *Li libre eat printat* = the book was being
 printed.
 
-2. Using the verb *star *(to stand): *Li dom sta constructet* =
+2. Using the verb *star*(to stand): *Li dom sta constructet* =
 the house is built. Using star adds a sense of finality (the house
 "stands" built). *Li libre stat printat* = the book was printed (the
 book's printing was all done).
 
-3. Using **se **after a verb to make it passive or reflexive (to
+3. Using *se* after a verb to make it passive or reflexive (to
 make it refer to itself). *Li jurnal printa se rapidmen* = the magazine
 is being quickly printed (the magazine "prints itself" quickly). *Li
 cose explica se simplicmen* = it's easy to understand ("the thing
@@ -562,22 +566,22 @@ It works as an adjective in the same way as in English:
 
 ==== 3.1.1 Li creation
 
-In li Bible sta scrit, que Deo ha **creat **li munde.
+In li Bible sta scrit, que Deo ha *creat* li munde.
 
-Pro to il es nominat li **creator **del munde.
+Pro to il es nominat li *creator* del munde.
 
-Li **creation **durat six dies.
+Li *creation* durat six dies.
 
-Noi ne have **creatori **qualitás, solmen Deo es vermen *creativ*.
+Noi ne have *creatori* qualitás, solmen Deo es vermen *creativ*.
 
 Quo il ha creat? Nos e omni altri *creaturas*.
 
 [cols=",,,",]
 |===
-|*triesim * + |third  + |*crear * + |create  +
-|*Deo * + |God  + |*nominar * + |name  +
-|*munde * + |world  + |*durar * + |to last  +
-|*qualitá * + |quality  + |*vermen * + |truly  +
+|*triesim* + |third  + |*crear* + |create  +
+|*Deo* + |God  + |*nominar* + |name  +
+|*munde* + |world  + |*durar* + |to last  +
+|*qualitá* + |quality  + |*vermen* + |truly  +
 |*altri* |other |*creatori* |"creator-y"
 |===
 
@@ -693,7 +697,7 @@ tam senil, quam li profetes de fatiga vole far nos creder.
 |  |  |*creder* |believe |  |
 |===
 
-Note: **omni **before a singular means *each *(same as *chascun*), while
+Note: *omni* before a singular means *each*(same as *chascun*), while
 before a plural it means *all*.
 
 ==== 3.1.4 Anecdotes
@@ -748,7 +752,7 @@ at the end?
 |*Infinitive*  |*Perfect stem * |*Derived word *
 |*decora/r*, decorate  |*decorat-*  |*decoration*
 |*defini/r*, define  |*definit-*  |*definition*
-|*le/er,* read  |*let-*  |*letion*, reading/lesson
+|*le/er*, read  |*let-*  |*letion*, reading/lesson
 |*devo/er*, to devote  |*devot-*  |*devotion*
 |*institu/er*, to institute |*institut-*  |*institution*
 |*extract/er*, to extract  |*extract-*  |*extraction*
@@ -758,11 +762,11 @@ at the end?
 Note: as in English, Interlingue sometimes has two groupings of verbs
 with nearly the same meaning where the more Latin-like one has a more
 formal or heavy character. To derive *extraction* above the
-verb *extracter* is used, but the verb **extraer**also exists
+verb *extracter* is used, but the verb *extraer* also exists
 (lit. *ex-traer*, to pull out), which above would lead
 to *extra-er* --> *extrat* --> *extration*. This gives them a slightly
 nuanced meaning: an *extraction*, derived from *extracter* (to extract),
-is only an *extraction*. But an *extration*, derived from *extraer *(to
+is only an *extraction*. But an *extration*, derived from *extraer*(to
 pull out), is both a pulling out and an extraction.
 +
 Similarly, the word reader (*letor*, from *le/er* --> *let* --> *letor*)
@@ -879,15 +883,15 @@ decorative or not)
 promesse* = an obligatory promise)
 
 *un explicativ exemple* = an example that explains something
-(**explicar **= explain)
+(*explicar* = explain)
 
 *un consolativ response* = a response that brings consolation (*un
 consolatori response* = a response given as consolation) (*consolar* =
 console)
 
-*un negativ resultate* = a negative result (**negar **= deny)
+*un negativ resultate* = a negative result (*negar* = deny)
 
-*un instructiv articul* = an instructive article (**instructer **=
+*un instructiv articul* = an instructive article (*instructer* =
 instruct)
 
 *un decisiv parol* = a decisive word (*decider* = decide)
@@ -897,27 +901,27 @@ instruct)
 Similar to English -ure. Forms verbal nouns denoting a concrete,
 realized action or its result.
 
-**garnitura **= garnish (the English noun garnish, from *garnir*, to
+*garnitura* = garnish (the English noun garnish, from *garnir*, to
 garnish)
 
-**scritura **= writing, scripture (from **scrir **= to write)
+*scritura* = writing, scripture (from *scrir* = to write)
 
-**politura **= polish (the noun polish, from **polir **= to polish)
+*politura* = polish (the noun polish, from *polir* = to polish)
 
 *Note 1.* The perfect stem plus an -e (to indicate a noun) is also used
 to form showing the result of the action of a verb.
 
-**tribute **= tribute (from *tribuer*)
+*tribute* = tribute (from *tribuer*)
 
-**flute **= flood (from *fluer*)
+*flute* = flood (from *fluer*)
 
-**scrite **= writing (also note *manuscrite*, a manuscript,
+*scrite* = writing (also note *manuscrite*, a manuscript,
 from *manu* (hand) + *scrite*)
 
-**extracte **= extract, from *extracter *(*extrate* for a slightly
+*extracte* = extract, from *extracter*(*extrate* for a slightly
 different nuance - see note above)
 
-*miscomprense* = misunderstanding (from **miscomprender **=
+*miscomprense* = misunderstanding (from *miscomprender* =
 misunderstand)
 
 The -e is technically optional but is used for clarity; it may be
@@ -929,11 +933,13 @@ The perfect stem on its own is also used as an adjective:
 *un apert fenestre* = an open window (from aperter = open) (note the
 difference between this and *un apertet fenestre* = an opened window)
 
-**un pervers(i) opinio**n = a perverse opinion (from *perverter*, to
-pervert) Here again there is a difference between *perversi *(perverse)
-and *pervertet *(perverted).
+// XXX FIXED -- Markup of the example:
 
-*un devot amico* = a devoted friend (from **devoer **= devote). In cases
+*un pervers(i) opinion* = a perverse opinion (from *perverter*, to
+pervert) Here again there is a difference between *perversi*(perverse)
+and *pervertet*(perverted).
+
+*un devot amico* = a devoted friend (from *devoer* = devote). In cases
 where no obvious difference exists between the perfect stem (*devot*)
 and the past tense (*devoet*), the two tend to be used interchangeably.
 One could still imagine however situations where choosing one or the
@@ -946,7 +952,7 @@ pronounced without it).
 
 *Note 2*: The perfect stem is used when deriving (forming) words, but
 not for verb conjugation. Technically words above such
-as *apert*, **pervers(i) **etc. can be learned and thought of as
+as *apert*, *pervers(i)* etc. can be learned and thought of as
 separate entities but knowing how they are derived from verbs gives the
 user of the language a much greater range of options when speaking and
 leads to much less looking up of words in the dictionary.
@@ -1033,7 +1039,7 @@ Li cardinal numerales, queles responde al question: *quant?* es:
 - 9 nin
 - 10 deci
 
-11 to 19 are formed by **deci **+ the number:
+11 to 19 are formed by *deci* + the number:
 
 - 11 deciun
 - 12 decidu
@@ -1045,7 +1051,7 @@ Li cardinal numerales, queles responde al question: *quant?* es:
 - 18 deciott
 - 19 decinin
 
-Tens are formed with the suffix **-ant **after the number:
+Tens are formed with the suffix *-ant* after the number:
 
 - 20 duant
 - 30 triant
@@ -1090,24 +1096,24 @@ respondent al question *quantesim*:
 - 100. centesim
 - 1000. milesim
 
-Note: *decesim *(tenth) is written as **decesim **and
-not **deciesim **because -i in **deci **is the adjectival ending we
+Note: *decesim*(tenth) is written as *decesim* and
+not *deciesim* because -i in *deci* is the adjectival ending we
 encountered above (the root itself is dec-). This is another example of
 an adjective that requires the -i ending on its own as
-otherwise **dec **would be pronounced *dek*.
+otherwise *dec* would be pronounced *dek*.
 
 Note 2: -esim also gives rise to internationally-recognized words such
 as ínfinitesim (an infinitessimal part) and infinitesimal. In Interlingue
 these words are regularly derived from common verbs: ín + fini-r (to
 finish) + t + esim + al = *ínfinitesimal*.
 
-Similarly, sometimes the **-ant **is written **-anti **for euphonic
-purposes. But because -**ant **on its own is easy enough to pronounce
-the -**anti **form is much rarer.
+Similarly, sometimes the *-ant* is written *-anti* for euphonic
+purposes. But because *-ant* on its own is easy enough to pronounce
+the *-anti* form is much rarer.
 
-Per adjuntion del sufix -*plic *(*-uplic* pos consonantes) (del
-verbe **plicar **= anglesi "fold") noi recive
-li **multiplicativ **numerales, queles responde al
+Per adjuntion del sufix -*plic*(*-uplic* pos consonantes) (del
+verbe *plicar* = anglesi "fold") noi recive
+li *multiplicativ* numerales, queles responde al
 question: *quantuplic*?
 
 - unuplic (simplic)
@@ -1120,14 +1126,14 @@ question: *quantuplic*?
 - centuplic
 
 From these words are also derived many known
-words: *duplicitá *(duplicity), *triplicar *(to triplicate), etc. Also
+words: *duplicitá *(duplicity), *triplicar*(to triplicate), etc. Also
 note the d in *quadr* to form recognizable terms such
 as *quadratic*, *quadrennial*, etc.
 
-To summarize: *quant* asks how many, **quantesim **asks which place (the
-"howmany-ith"), and **quantuplic **how many times (the "howmany-uple").
+To summarize: *quant* asks how many, *quantesim* asks which place (the
+"howmany-ith"), and *quantuplic* how many times (the "howmany-uple").
 
-Existe anc **colectiv **numerales, queles expresse un colection o un
+Existe anc *colectiv* numerales, queles expresse un colection o un
 aproximativ númere:
 
 unité
@@ -1230,16 +1236,16 @@ saturdí.
 Li decidu mensus es: januar, februar, marte, april, may, junio, julí,
 august, septembre, octobre, novembre e decembre.
 
-Note 1: The word **hora **refers to the hour of the day. The
-word **hor **refers to an hour of time.
+Note 1: The word *hora* refers to the hour of the day. The
+word *hor* refers to an hour of time.
 
-Note 2: The word **clocca **is an alternative to the word *hora*. It was
+Note 2: The word *clocca* is an alternative to the word *hora*. It was
 replaced by *hora* during the 1940s but seems to have remained popular
 and has a bit of a slangy feel. *Ye clocca du = a du horas*.
 
 Note 3: While we are on the subject, the same has happened with the
-word *flicca *(girl, from Swedish flicka), which was changed
-to **puella **a long time ago. Now **flicca **has a similar feel to
+word *flicca*(girl, from Swedish flicka), which was changed
+to *puella* a long time ago. Now *flicca* has a similar feel to
 English gal or chick.
 
 Triant dies hav' septembre,
@@ -1276,7 +1282,7 @@ In hiverne veni nive e li dies es frigid.
 
 |*autune*  |autumn  |*hiverne*  |winter
 
-|*renascer*  |be reborn (cf. renaissance, **renascentie **in
+|*renascer*  |be reborn (cf. renaissance, *renascentie* in
 Interlingue)  |*flore*  |flower
 
 |*nive*  |snow  |*calid*  |hot
@@ -1300,7 +1306,7 @@ Quo noi nómina accidentie, es li asil del ignorantie. (Spinoza.)
 |===
 |*null*  |no (none)  |*veritá*  |truth
 |*interprender*  |undertake  |*expussar*  |chase out
-|*ocasion * |occasion, event |*accidentie*  |accidence, chance
+|*ocasion* |occasion, event |*accidentie*  |accidence, chance
 |*chasse*  |hunt  |*celar*  |to hide
 |*liberar*  |to free, liberate  |*ignorantie*  |ignorance
 |*mentir*  |to lie (not tell the truth)  |*refusar*  |to refuse
@@ -1318,7 +1324,7 @@ known foreign words. The difference in that in Interlingue they are not
 simply imported loanwords, and have been given a more precise sense and
 have been made for more general and meaningful use.
 
-Let's take the root **centre **as an example (centre in English as
+Let's take the root *centre* as an example (centre in English as
 well). From this word we already recognize words derived from
 it: *central, centrale, centralisme, centralisar, centralisation,
 centralisator, decentralisar, decentralisation, concentrar,
@@ -1335,19 +1341,19 @@ simply standalone particles but also used to form words.
 |===
 |*a, ad * |to  |*intra* |between
 
-|*along * |along  |*malgré* |despite
+|*along* |along  |*malgré* |despite
 
-|*alor * |then  |*per* |by, through
+|*alor* |then  |*per* |by, through
 
-|*ante * |before  |*por* |for
+|*ante* |before  |*por* |for
 
-|*apu * |by, next to |*pos* |after
+|*apu* |by, next to |*pos* |after
 
-|*avan * |before  |*preter* |past
+|*avan* |before  |*preter* |past
 
-|*caus * |because of  |*pri* |regarding
+|*caus* |because of  |*pri* |regarding
 
-|*che * |at, with  |*pro* |due to
+|*che* |at, with  |*pro* |due to
 
 |*circum* |around |*secun* |according to
 
@@ -1388,15 +1394,15 @@ in a group or company).
 
 *Yo viagea a Berlin* = I travel to Berlin.
 
-**Li vapornave ea a Lisbon **= The steamboat goes to Lisbon.
+*Li vapornave ea a Lisbon* = The steamboat goes to Lisbon.
 
-**Clar a departer **= Ready (clear) to depart.
+*Clar a departer* = Ready (clear) to depart.
 
-**Un error a regrettar **= A regretful error. (lit. an error to regret)
+*Un error a regrettar* = A regretful error. (lit. an error to regret)
 
 ==== *ante*
 
-Means before in terms of time and place (**avan **only refers to place).
+Means before in terms of time and place (*avan* only refers to place).
 
 *Ante Cristo* = Before Christ
 
@@ -1407,15 +1413,15 @@ Means before in terms of time and place (**avan **only refers to place).
 Because of. The reason for something goes right after *caus*, which is
 an abbreviation of the longer *in cause de*.
 
-**Caus vor intervention **= Because of your intervention.
+*Caus vor intervention* = Because of your intervention.
 
-**Caus li politic evenimentes **= Because of the political events.
+*Caus li politic evenimentes* = Because of the political events.
 
 ==== con
 
 With.
 
-**Li filio ea con su patre **= The son goes with his father.
+*Li filio ea con su patre* = The son goes with his father.
 
 *Ella stat con lácrimes in li ocules*. = She stood with tears in her
 eyes. (Note: the phrasing "the hands", "the eyes" to refer to body parts
@@ -1433,12 +1439,12 @@ its place.
 *Li dramas de Schiller* = Schiller's dramas
 
 *Ti libre es scrit de un fémina* = This book is written by a woman
-(**per **fits here as well)
+(*per* fits here as well)
 
-**Un senior de Berlin **= A gentleman from Berlin (*ex* fits here as
+*Un senior de Berlin* = A gentleman from Berlin (*ex* fits here as
 well)
 
-*Li max grand de omnis* = The largest of all (**ex **potentially fits
+*Li max grand de omnis* = The largest of all (*ex* potentially fits
 here as well)
 
 *Un vase de aure* = A vase of gold
@@ -1447,7 +1453,7 @@ here as well)
 
 Since, for.
 
-**Desde du annus **= For two years.
+*Desde du annus* = For two years.
 
 ==== ex
 
@@ -1466,21 +1472,21 @@ By, through, with
 
 *Il defendet se per un gladie* = He defended himself with a sword.
 
-**Il salvat se per svimmar **= He saved himself by swimming.
+*Il salvat se per svimmar* = He saved himself by swimming.
 
-**Li moné ha esset furtet per un ínconosset hom **= The money has been
+*Li moné ha esset furtet per un ínconosset hom* = The money has been
 stolen by an unknown person.
 
 *por*
 
-**Un libre por omnes e por nequi **= A book for all and for nobody.
+*Un libre por omnes e por nequi* = A book for all and for nobody.
 
-**On manja por viver, on ne vive por manjar **= You eat to live, you
+*On manja por viver, on ne vive por manjar* = You eat to live, you
 don't live to eat.
 
 ==== pri
 
-**Noi parlat pri politica **= We talked about politics.
+*Noi parlat pri politica* = We talked about politics.
 
 *Yo mersía pro Vor auxilie* = I thank (you) for your help.
 
@@ -1488,59 +1494,59 @@ don't live to eat.
 
 *Yo laborat til decidu horas.* = I worked until twelve o'clock.
 
-**Til li extrem fine del munde **= Until the very end of the world
+*Til li extrem fine del munde* = Until the very end of the world
 
 ==== tra
 
-**Yo videt le tra li fenestre **= I saw him through the window.
+*Yo videt le tra li fenestre* = I saw him through the window.
 
 ==== trans
 
-**Lindberg volat trans li Atlantic Ocean **= Lindberg flew across the
+*Lindberg volat trans li Atlantic Ocean* = Lindberg flew across the
 Atlantic Ocean.
 
 ==== vers
 
-**Li avie volat vers li sole **= The bird flew towards the sun.
+*Li avie volat vers li sole* = The bird flew towards the sun.
 
 These prepositions are also used to form other words.
 
-**aportar **= to bring (*a* + *portar*, to carry)
+*aportar* = to bring (*a* + *portar*, to carry)
 
-*antediluvian* = antediluvian (**ante **+ *diluvie*, a flood)
+*antediluvian* = antediluvian (*ante* + *diluvie*, a flood)
 
 *avanposto* = outpost (*avan* + *posto*)
 
-*circumstantie* = circumstance (**circum **+ **stantie **from **star **=
+*circumstantie* = circumstance (*circum* + *stantie* from *star* =
 to stand)
 
-**constellation **= constellation (**con **+ **stelle **= star)
+*constellation* = constellation (*con* + *stelle* = star)
 
-**contravention **= contravention (**contra **+ **vention **= coming,
+*contravention* = contravention (*contra* + *vention* = coming,
 from *venir*)
 
-**deportar **= deport (**de **+ *portar*, to carry)
+*deportar* = deport (*de* + *portar*, to carry)
 
-**exportar **= export (**ex **+ *portar*, to carry)
+*exportar* = export (*ex* + *portar*, to carry)
 
-**ex-imperator **= former emperor
+*ex-imperator* = former emperor
 
-**extraordinari **= extraordinary (**extra **+ *ordinari*)
+*extraordinari* = extraordinary (*extra* + *ordinari*)
 
-**inclusiv **= inclusive (**in **+ *cluder*, to close or shut)
+*inclusiv* = inclusive (*in* + *cluder*, to close or shut)
 
-**intervalle **= interval (**inter **+ *valle*, a bulwark or embankment
+*intervalle* = interval (*inter* + *valle*, a bulwark or embankment
 (related to English wall))
 
-**preterpassant **= passing by (**preter **+ *passar*, to pass)
+*preterpassant* = passing by (*preter* + *passar*, to pass)
 
-*subordination* = subordination (**sub **+ *ordinar*, to order)
+*subordination* = subordination (*sub* + *ordinar*, to order)
 
-**traducter **= to translate or render (**tra **+ *ducter*, to lead)
+*traducter* = to translate or render (*tra* + *ducter*, to lead)
 
-**transatlantic **= transatlantic
+*transatlantic* = transatlantic
 
-*vice-presidente* = vice president (**vice **+ *presidente*)
+*vice-presidente* = vice president (*vice* + *presidente*)
 
 ==== 4.2.2 Prefixes
 
@@ -1548,45 +1554,45 @@ The following prefixes are only used in compound words.
 
 ==== *bei-*
 
-Related by marriage. **belfratre **= brother-in-law (**fratre **=
+Related by marriage. *belfratre* = brother-in-law (*fratre* =
 brother)
 
 *des*- (usually *de*- before consonants):
 
 1. Before nouns: nullation or opposing meaning, un-:
 +
-**desagreabil **= disagreeable (**agreabil **= agreeable, friendly)
+*desagreabil* = disagreeable (*agreabil* = agreeable, friendly)
 +
-**deshonor **= dishonour
+*deshonor* = dishonour
 +
-**desilusion **= disillusion
+*desilusion* = disillusion
 
 2. On verbs: loss of something:
 +
-**desarmar **= disarm (armar = to arm)
+*desarmar* = disarm (armar = to arm)
 
 ==== *dis-*
 
 Separation, moving away:
 
-**dismembrar **= dismember (membre = limb)
+*dismembrar* = dismember (membre = limb)
 
-**distracter **= distract (**tracter **or **traer **= to pull)
+*distracter* = distract (*tracter* or *traer* = to pull)
 
 ==== ín-
 
 Opposite meaning, in/un/etc.:
 
-**ínoficial **= unofficial
+*ínoficial* = unofficial
 
-**ínclar **= unclear
+*ínclar* = unclear
 
-**íncurabil **= uncurable
+*íncurabil* = uncurable
 
-**ínpossibil **= impossible
+*ínpossibil* = impossible
 
 *Note 1:* other more internationally-recognized forms such
-as *impossibil *(vs. *ínpossibil*), *irregular *(vs. *ínregular*) etc.
+as *impossibil*(vs. *ínpossibil*), *irregular*(vs. *ínregular*) etc.
 were often used in Interlingue but the user base showed a preference for
 a regular *ín-* and the other forms have become rarer.
 
@@ -1597,37 +1603,37 @@ similar to the one in English in words such as *inclusiv*, *inspecter*.
 
 Wrong, improper, mis-:
 
-**miscomprender **= misunderstand (**comprender **= to understand)
+*miscomprender* = misunderstand (*comprender* = to understand)
 
-*misparlar* = misspeak (**parlar **= to speak)
+*misparlar* = misspeak (*parlar* = to speak)
 
 *pre-*
 
 Before, pre-:
 
-**prematur **= premature (*matur* = mature)
+*prematur* = premature (*matur* = mature)
 
-**prevenir **= forestall, preempt, prevent (**venir **= to come)
+*prevenir* = forestall, preempt, prevent (*venir* = to come)
 
-**prehistoric **= prehistoric
+*prehistoric* = prehistoric
 
 ==== pro-
 
 Ahead, forth
 
-**producter **= to produce (**ducter **= to lead)
+*producter* = to produce (*ducter* = to lead)
 
-**projecter **= to project (**jecter **= to throw)
+*projecter* = to project (*jecter* = to throw)
 
 ==== re-
 
 Again, re-:
 
-**reaction **= reaction
+*reaction* = reaction
 
-**renascentie **= renaissance, rebirth (**nascentie **= birth)
+*renascentie* = renaissance, rebirth (*nascentie* = birth)
 
-**revider **= see again (**vider **= to see)
+*revider* = see again (*vider* = to see)
 
 ==== Which form to use?
 
@@ -1641,15 +1647,15 @@ following:
 
 (Etymologic -- doubled consonant -- modern single consonant form)
 
-* adportar -- apportar -- *aportar *(to bring, from ad + portar, lit. to
+* adportar -- apportar -- *aportar*(to bring, from ad + portar, lit. to
 'to pull')
-* adnexion -- annexion -- *anexion *(to annex, from ad + nexer, lit. to
+* adnexion -- annexion -- *anexion*(to annex, from ad + nexer, lit. to
 'to tie')
-* adtractiv -- attractiv -- *atractiv *(to attract, from ad + tracter,
+* adtractiv -- attractiv -- *atractiv*(to attract, from ad + tracter,
 lit. to 'to pull')
-* obpression -- oppression -- *opression *(to oppress, from ob +
+* obpression -- oppression -- *opression*(to oppress, from ob +
 presser, lit. to 'against press')
-* subposition -- supposition -- *suposition *(to suppose, from sub +
+* subposition -- supposition -- *suposition*(to suppose, from sub +
 poser, lit. to 'under place')
 
 The form on the left was rarely if ever used, due to 1) the
@@ -1829,6 +1835,8 @@ ne ha victet in mu unesim processu, e tande, comprensibilmen, yo ne deve
 payar te e si yo victe, tande li judicament ya va esser tal, que yo ne
 deve payar."
 
+// XXX FIXED -- Markup of "índemiatmen":
+
 [cols=",,,",]
 |===
 |*aprender*  |to learn  |*judicar*  |to judge
@@ -1842,7 +1850,7 @@ course)  |*payar*  |to pay
 
 |*judico*  |a judge  |*atender*  |to wait
 
-|í**nmediatmen ** |immediately  |*replicar*  |to reply
+|*ínmediatmen* |immediately  |*replicar*  |to reply
 
 |*mastro*  |master  |*comprender*  |to understand
 |===
@@ -2024,31 +2032,31 @@ is used to indicate the male gender, and
 
 the female, when necessary. (Genderless or unspecified: -e or no
 ending): *un germano* = a German man, *un germana* = a german
-woman, **amico **= friend, **amica **= female friend, **cavallo **= male
-horse (stallion), **cavalla **= female horse (mare),**gallino **=
-rooster, **gallina **= hen.
+woman, *amico* = friend, *amica* = female friend, *cavallo* = male
+horse (stallion), *cavalla* = female horse (mare),*gallino* =
+rooster, *gallina* = hen.
 
 In many other words the -o ending is used for a specific item, while -a
 refers to something in a more collective sense, a location or
-time. **rosiero **= rose bush, **rosiera **= rose garden, **barberia **=
-barbershop, **auditoria **= auditorium, **imperia **= empire, etc.
+time. *rosiero* = rose bush, *rosiera* = rose garden, *barberia* =
+barbershop, *auditoria* = auditorium, *imperia* = empire, etc.
 
 Substantival (noun) adjectives may be used as nouns:
 
-**li rich e li povri **= the rich and the poor
+*li rich e li povri* = the rich and the poor
 
-**li riches e li povres **= the rich and the poor (lit. the rich ones
+*li riches e li povres* = the rich and the poor (lit. the rich ones
 and the poor ones)
 
 The same endings can be used on adjectives to indicate the gender:
 
-**li bello **= the handsome man
+*li bello* = the handsome man
 
-**li bella **= the beautiful woman
+*li bella* = the beautiful woman
 
-**li yunos **= the young ones (boys)
+*li yunos* = the young ones (boys)
 
-**li yunas **= the young ones (girls)
+*li yunas* = the young ones (girls)
 
 The ending can also be used on the definite article itself if there is
 no particular noun in mind:
@@ -2062,8 +2070,8 @@ Neutral: *lu bell* = the beautiful
 Note: lu is by far the most often used of the three above.
 
 Finally, the ending -um can be used on an adjective to form a noun that
-expresses the general idea of something: **novum **=
-newness, **bonum **= goodness, **caracteristicum **= characteristicness.
+expresses the general idea of something: *novum* =
+newness, *bonum* = goodness, *caracteristicum* = characteristicness.
 
 ==== 5.2.2 Comparative forms
 
@@ -2072,42 +2080,42 @@ formed in the following way:
 
 li bell flore = the beautiful flower
 
-li **plu **bell flore = the more beautiful flower
+li *plu* bell flore = the more beautiful flower
 
-li **max **bell flore = the most beautiful flower (also *maxim*)
+li *max* bell flore = the most beautiful flower (also *maxim*)
 
-li **min **bell flore = the less beautiful flower (also *minu*)
+li *min* bell flore = the less beautiful flower (also *minu*)
 
-li **minim **bell flore = the least beautiful flower
+li *minim* bell flore = the least beautiful flower
 
 li bell**issim** flore = the very beautiful (gorgeous, etc.) flower
 
 The above are the regular comparative forms. Other less regular forms
 exist due to their being part of already existing international words:
 
-**bon **= good
+*bon* = good
 
-**melior **= better (a**melior**ar, to improve)
+*melior* = better (a**melior**ar, to improve)
 
-**optim **= best (**optim**ist)
+*optim* = best (**optim**ist)
 
-**mal **= bad
+*mal* = bad
 
-**pejor **= worse (**pejor**ativ)
+*pejor* = worse (**pejor**ativ)
 
-**pessim **= worst (**pessim**ist)
+*pessim* = worst (**pessim**ist)
 
-**grand **= large
+*grand* = large
 
-**major **= larger (**major**ité)
+*major* = larger (**major**ité)
 
-**maxim **= largest (**maxim**al)
+*maxim* = largest (**maxim**al)
 
-**micri **= small
+*micri* = small
 
-**minor **= smaller (**minor**ité)
+*minor* = smaller (**minor**ité)
 
-**minim **= smallest (**minim**al)
+*minim* = smallest (**minim**al)
 
 (note: minim included here for the sake of completeness even though it
 is part of the regular comparative forms)
@@ -2118,21 +2126,21 @@ The usual diminutive (making smaller) suffix is:
 
 *-ett*
 
-**filietto **= sonny, **filietta **= little daughter (**filie **= child)
+*filietto* = sonny, *filietta* = little daughter (*filie* = child)
 
-**brunetti **= brunette (brun = brown), **rosette **= rosette (from
+*brunetti* = brunette (brun = brown), *rosette* = rosette (from
 rose, rose)
 
-**cigarette **= cigarette (**cigare **= cigar)
+*cigarette* = cigarette (*cigare* = cigar)
 
-**pincette **= pincette (**pince **= pincers)
+*pincette* = pincette (*pince* = pincers)
 
-**foliettar **= leaf through (**folie **= leaf)
+*foliettar* = leaf through (*folie* = leaf)
 
-**volettar **= flutter (**volar **= fly)
+*volettar* = flutter (*volar* = fly)
 
 The same suffix is used to indicate small tools or instruments.
-Example: **inflammette **= match (from flamme, flame), *tenette* = grip,
+Example: *inflammette* = match (from flamme, flame), *tenette* = grip,
 hilt (on a sword, from *tener*, to hold)
 
 ==== 5.2.4 Pejorative
@@ -2149,119 +2157,119 @@ criticachar = complain, bitch (criticar = to criticize)
 
 imitachar = to ape (imitar = imitate)
 
-Many other expressions can be pejorative on their own: **simiar **also
-means to ape (**simie **= monkey, ape).
+Many other expressions can be pejorative on their own: *simiar* also
+means to ape (*simie* = monkey, ape).
 
 ==== 5.2.5 -ar
 
 Verbs are usually formed with the -ar suffix, the most commonly used for
 immediate derivation.
 
-**formar **= to form (from *form*, form)
+*formar* = to form (from *form*, form)
 
-**laborar **= to work (from *labor*, work)
+*laborar* = to work (from *labor*, work)
 
-**salar **= to salt (from *sale*, salt)
+*salar* = to salt (from *sale*, salt)
 
-**motivar **= to motivate (from *motiv*, motive)
+*motivar* = to motivate (from *motiv*, motive)
 
-**coronar **= to crown (from *coron*, crown)
+*coronar* = to crown (from *coron*, crown)
 
-**scruvar **= to screw (from *scruv*, screw)
+*scruvar* = to screw (from *scruv*, screw)
 
-**brossar **= to brush (from *bross*, brush)
+*brossar* = to brush (from *bross*, brush)
 
-**lactar **= to milk (from *lacte*, milk)
+*lactar* = to milk (from *lacte*, milk)
 
-**sanguar **= to bleed (from *sangue*, blood)
+*sanguar* = to bleed (from *sangue*, blood)
 
-**dominar **= to dominate (from *dómino*, master)
+*dominar* = to dominate (from *dómino*, master)
 
-**plenar **= to fill (from *plen*, full)
+*plenar* = to fill (from *plen*, full)
 
-**exsiccar **= to dry out (from *sicc*, dry)
+*exsiccar* = to dry out (from *sicc*, dry)
 
-**abellar **= to beautify (from *bell*, beautiful)
+*abellar* = to beautify (from *bell*, beautiful)
 
-**afacilar **= to facilitate (from *facil*, easy)
+*afacilar* = to facilitate (from *facil*, easy)
 
 As the last examples show, adjectives are frequently made into verbs
 along with a preposition in front.
 
 The present participle can also be made into verbs:
 
-**sedentar **= to sit (from **sedent **= sitting, thus to "make sit")
+*sedentar* = to sit (from *sedent* = sitting, thus to "make sit")
 
-**reviventar **= to revive (from **re **+ **vivent **= living, thus to
+*reviventar* = to revive (from *re* + *vivent* = living, thus to
 "re-make living")
 
-**calentar **= to heat (**caler **= to feel warm, thus *calent* = being
-warm and **calentar **= to make warm)
+*calentar* = to heat (*caler* = to feel warm, thus *calent* = being
+warm and *calentar* = to make warm)
 
 *-isar*
 
 "To make thus", "to make as", similar to English:
 
-**electrisar **= to electrify (charge with electricity)
+*electrisar* = to electrify (charge with electricity)
 
-**idealisar **= to idealize (from *ideal*, ideal, which comes
+*idealisar* = to idealize (from *ideal*, ideal, which comes
 from *idé*, idea)
 
 Note: electrisar is formed from a sort of hidden word (electr-) formed
 by removing the suffix -ic, which forms other words as well such
-as *electron *(the** -on **suffix will show up in the next chapter).
+as *electron*(the *-on* suffix will show up in the next chapter).
 
 *-isar* can also be used, though more rarely, with nouns. They form
 words you already know:
 
-**canalisar **= to canalize (from *canale*, canal)
+*canalisar* = to canalize (from *canale*, canal)
 
-**tirannisar **= to tyrannize (from *tiranno*, tyrant or bully)
+*tirannisar* = to tyrannize (from *tiranno*, tyrant or bully)
 
-**terrorisar **= to terrorize (from *terrore*, terror)
+*terrorisar* = to terrorize (from *terrore*, terror)
 
 *-ificar*
 
 "To make into something", "to bring towards" - similar to -isar above
 but slightly different.
 
-**electrificar **= to electrify (note the difference between this
-and **electrisar **above. **Electrisar **means to make something
-electric, to charge it, while **electrificar **means to equip something
+*electrificar* = to electrify (note the difference between this
+and *electrisar* above. *Electrisar* means to make something
+electric, to charge it, while *electrificar* means to equip something
 with electricity or make electric. Flipping a switch would
-thus **electrisa **one's room, while equipping a village with power
-cables with **electrifica **it. Though such subtle differences are not
+thus *electrisa* one's room, while equipping a village with power
+cables with *electrifica* it. Though such subtle differences are not
 too relevant in fluid conversation)
 
-**identificar **= to identify (from *identic*, identical; identify has
+*identificar* = to identify (from *identic*, identical; identify has
 these two meanings in English as well: 1 to establish the identity of
 and 2 to make the same)
 
-**falsificar **= to falsify (**fals **= false)
+*falsificar* = to falsify (*fals* = false)
 
-**rectificar **= to rectify (**rect **= right)
+*rectificar* = to rectify (*rect* = right)
 
 *-ijar*
 
-To become. The word itself to become is *devenir*, and -**ijar **is an
+To become. The word itself to become is *devenir*, and *-ijar* is an
 alternate way of expressing the idea.
 
-**maturijar **= to mature, become mature (= *devenir matur*)
+*maturijar* = to mature, become mature (= *devenir matur*)
 
-**verdijar **= to green, become green (= *devenir verd*)
+*verdijar* = to green, become green (= *devenir verd*)
 
-**oldijar **= to become old, age (= *devenir old*)
+*oldijar* = to become old, age (= *devenir old*)
 
 *-ear*
 
 This suffix forms verbs that indicate a swinging or repeating motion, or
 an intense state of being.
 
-**undear **= to undulate, wave (from *unde* = a wave)
+*undear* = to undulate, wave (from *unde* = a wave)
 
-**flammear **= to flicker (from **flamme **= flame)
+*flammear* = to flicker (from *flamme* = flame)
 
-**verdear **= to green (greening fields, verdant forests, etc.)
+*verdear* = to green (greening fields, verdant forests, etc.)
 
 ==== 5.2.7 Suffixes for verbal nouns
 
@@ -2276,10 +2284,10 @@ Note: for -ar and -ir verbs, this often gives the opportunity to make
 very subtle distinctions if one wishes, due to the general -e and
 vowelless ending for nouns. This is better explained with examples:
 
-The word **pensa **refers to a thought, while **pense **refers to
+The word *pensa* refers to a thought, while *pense* refers to
 thought. Both are correct, and have a subtle difference: *Li pensa venit
-a me* = the thought came to me (**pensa **is preferred here as it refers
-to the action of thinking); **penses **e **paroles **=** **thoughts and
+a me* = the thought came to me (*pensa* is preferred here as it refers
+to the action of thinking); *penses* e *paroles* = thoughts and
 words. This is, again, a subtle distinction that one may use if wished
 or ignore at will, like the English words clothing and clothes, dinner
 and supper, precise and accurate, venom and poison, etc.)
@@ -2292,29 +2300,29 @@ are some others:
 *-ar verbs use the -ada suffix, -er and -ir verbs the -ida suffix. It
 refers to the activity of a verb in its duration.*
 
-**promenada **= a walk, a stroll, a promenada (**promenar **= to stroll)
+*promenada* = a walk, a stroll, a promenada (*promenar* = to stroll)
 
-**cannonada **= cannonade (a repeated firing of cannons,
-from *cannonar*, to fire a cannon, from **cannon **= a cannon)
+*cannonada* = cannonade (a repeated firing of cannons,
+from *cannonar*, to fire a cannon, from *cannon* = a cannon)
 
-**cavalcada **= a cavalcade, riding (**cavalcar **= to ride)
+*cavalcada* = a cavalcade, riding (*cavalcar* = to ride)
 
-**currida **= running (**currer **= to run)
+*currida* = running (*currer* = to run)
 
 *-ntie*
 
 More or less equivalent to the English -nce (designates a condition in
 its duration), this is formed from the -nt participle plus -ie.
 
-**existentie **= existence (**exister **= to exist)
+*existentie* = existence (*exister* = to exist)
 
-*índependentie* = independence (**depender **= to depend)
+*índependentie* = independence (*depender* = to depend)
 
-**confidentie **= confidence (**confider **= to confide)
+*confidentie* = confidence (*confider* = to confide)
 
-**provenientie **= provenance (**provenir **= originate)
+*provenientie* = provenance (*provenir* = originate)
 
-**tolerantie **= tolerance (**tolerar **= to tolerate)
+*tolerantie* = tolerance (*tolerar* = to tolerate)
 
 *-ment*
 
@@ -2325,36 +2333,36 @@ which uses -ment with great frequency)
 Forms nouns that signify a special, concrete action or its outcome or
 the means for it.
 
-**experiment **= an experiment (**experir **= to
-experience, **experientie **= experience)
+*experiment* = an experiment (*experir* = to
+experience, *experientie* = experience)
 
-**fundament **= a foundation (**fundar **= to found, fundation refers to
+*fundament* = a foundation (*fundar* = to found, fundation refers to
 a founding)
 
-**impediment **= an impediment (**impedir **= to impede, impedition
+*impediment* = an impediment (*impedir* = to impede, impedition
 refers to an impediment in the sense of impeding)
 
-**nutriment **= nutrition (*nutrir* = to nourish, *nutrition* =
+*nutriment* = nutrition (*nutrir* = to nourish, *nutrition* =
 nutrition in the sense of nourishing)
 
-**developament **= development, a development (**developar **= to
-develop, **developation **= development in the sense of developing)
+*developament* = development, a development (*developar* = to
+develop, *developation* = development in the sense of developing)
 
 Some other examples Edgar de Wahl mentioned in Cosmoglotta:
 
-*abonnament *(subscription) is not the act of subscribing but the legal
+*abonnament*(subscription) is not the act of subscribing but the legal
 status where one is subscribed
 
-*payament *(payment) is the money that one pays
+*payament*(payment) is the money that one pays
 
-*medicament *(medicine) is the medicine itself, not the act of
+*medicament*(medicine) is the medicine itself, not the act of
 medication
 
-**ornament **is the ornament itself
+*ornament* is the ornament itself
 
-**testament **is the legal document
+*testament* is the legal document
 
-**argument **is the argument that one makes, not the act of arguing
+*argument* is the argument that one makes, not the act of arguing
 
 *-age*
 
@@ -2363,27 +2371,27 @@ expenses, etc.:
 
 *arbitrage* = arbitration, refereeing
 
-**inballage **= packing (**inballar **= to pack)
+*inballage* = packing (*inballar* = to pack)
 
-**plantage **= planting
+*plantage* = planting
 
-**passage **= passage (**passar **= to pass)
+*passage* = passage (*passar* = to pass)
 
-**rafinage **= refining (**rafinar **= to refine)
+*rafinage* = refining (*rafinar* = to refine)
 
-**postage **= postage
+*postage* = postage
 
-**doanage **= customs (collecting tax; **doane **= tax)
+*doanage* = customs (collecting tax; *doane* = tax)
 
 2) collections with order, things made by:
 
-*tonnage* = tonnage (**tonne**= ton)
+*tonnage* = tonnage (*tonne* = ton)
 
-**foliage **= foliage (**folie **= leaf)
+*foliage* = foliage (*folie* = leaf)
 
-**boscage **= boscage (**bosco **= bush)
+*boscage* = boscage (*bosco* = bush)
 
-**plumage **= plumage (**plum **= feather, pen)
+*plumage* = plumage (*plum* = feather, pen)
 
 == 6 Sixesim letion
 
@@ -2545,13 +2553,13 @@ The following suffixes create nouns that refer to persons.
 engaged in a type of work, or more rarely someone who coincidentally is
 engaged in a task.
 
-**molinero **= miller (**moline **= a mill)
+*molinero* = miller (*moline* = a mill)
 
-**barbero **= a barber (**barbe **= beard)
+*barbero* = a barber (*barbe* = beard)
 
-**lavera **= washwoman (**lava **= washing)
+*lavera* = washwoman (*lava* = washing)
 
-**passagero **= passenger (**passage **= passage)
+*passagero* = passenger (*passage* = passage)
 
 *-ist*
 
@@ -2559,23 +2567,23 @@ engaged in a task.
 artistic, ideal, scientific, military, technical or sport-related
 occupation:
 
-**librist **= book lover (**libre **= book)
+*librist* = book lover (*libre* = book)
 
-**socialist **= socialist (**social **= social)
+*socialist* = socialist (*social* = social)
 
-**Bonapartist **= Bonapartist (follower of Napoleon Bonaparte)
+*Bonapartist* = Bonapartist (follower of Napoleon Bonaparte)
 
-**Darwinist **= Darwinist
+*Darwinist* = Darwinist
 
-**oculist **= eye doctor (**ocul **= eye)
+*oculist* = eye doctor (*ocul* = eye)
 
-**cavallerist **= cavalry trooper (**cavallerie **= cavalry)
+*cavallerist* = cavalry trooper (*cavallerie* = cavalry)
 
-**machinist **= machinist (**machine **= machine)
+*machinist* = machinist (*machine* = machine)
 
-*telegrafist* = telegrafist (**telegraf **= telegraf)
+*telegrafist* = telegrafist (*telegraf* = telegraf)
 
-**automobilist **= automobilist
+*automobilist* = automobilist
 
 *-or*
 
@@ -2593,83 +2601,83 @@ derived from laborar --> labora + t + or
 A person that is characterized through something exterior, such as a
 career:
 
-**millionario **= millionaire (**million **= million)
+*millionario* = millionaire (*million* = million)
 
-**missionario **= missionary (**mission **= mission)
+*missionario* = missionary (*mission* = mission)
 
-**functionario **= government worker (from *function*)
+*functionario* = government worker (from *function*)
 
-**bibliotecario **= librarian (**biblioteca **= library)
+*bibliotecario* = librarian (*biblioteca* = library)
 
-**notario **= notary (**nota **= enrollment, registration)
+*notario* = notary (*nota* = enrollment, registration)
 
 *-on*
 
 A person characterized by an inner or natural character:
 
-*dormion* = sluggard, sleepy head (**dormir **= to sleep)
+*dormion* = sluggard, sleepy head (*dormir* = to sleep)
 
-**grison **= greybeard (**gris **= grey)
+*grison* = greybeard (*gris* = grey)
 
-**savagion **= savage (**savagi **= wild)
+*savagion* = savage (*savagi* = wild)
 
-**spion **= spy (**spiar **= to spy)
+*spion* = spy (*spiar* = to spy)
 
 -on also serves as a suffix for objects, often implying a greater size:
 
-**cannon **= cannon (**canne **= reed)
+*cannon* = cannon (*canne* = reed)
 
-**ballon **= balloon (**balle **= ball)
+*ballon* = balloon (*balle* = ball)
 
-**galon **= braid, military stripe (**gala **= gala, festival, pomp)
+*galon* = braid, military stripe (*gala* = gala, festival, pomp)
 
 *-ard*
 
 A person with a negative or criminal quality:
 
-**falsard **= counterfeiter (**fals **= false)
+*falsard* = counterfeiter (*fals* = false)
 
-**dinamitard **= terrorist who attacks with dynamite
+*dinamitard* = terrorist who attacks with dynamite
 
-**mentiard **= liar (**mentir **= to lie)
+*mentiard* = liar (*mentir* = to lie)
 
 *-astro*
 
 Someone unskilled at his or her profession:
 
-**medicastro **= quack (*medico* = doctor)
+*medicastro* = quack (*medico* = doctor)
 
-**politicastro **= political hack, demagogue, politicaster
-(**politico **= politician)
+*politicastro* = political hack, demagogue, politicaster
+(*politico* = politician)
 
-**poetastro **= rhymester, versifier, poetaster (**poete **= poet)
+*poetastro* = rhymester, versifier, poetaster (*poete* = poet)
 
 *-es-*
 
 Resident of a place or someone who originates from it (also as an
 adjective):
 
-*franceso* = Frenchman (**Francia **= France)
+*franceso* = Frenchman (*Francia* = France)
 
-**francesa **= Frenchwoman
+*francesa* = Frenchwoman
 
-**francesi **= French
+*francesi* = French
 
-**borgeso **= bourgeois, middle-class person (**borgo **= borough, town)
+*borgeso* = bourgeois, middle-class person (*borgo* = borough, town)
 
-**viennesa **= woman from Vienna
+*viennesa* = woman from Vienna
 
 *-essa*
 
 Suffix for females indicating an office or dignified position:
 
-**comtessa **= countess (**comte **= count)
+*comtessa* = countess (*comte* = count)
 
-**princesse **= princess (**prince **= prince)
+*princesse* = princess (*prince* = prince)
 
-**imperatressa **= empress (**imperator **= emperor)
+*imperatressa* = empress (*imperator* = emperor)
 
-**actressa **= actress (**actor **= actor)
+*actressa* = actress (*actor* = actor)
 
 Note that *-or* drops the *o* in this suffix.
 
@@ -2682,53 +2690,53 @@ and properties of other words.
 
 An abstract state:
 
-**maladie **= sickness (**malad **= sick)
+*maladie* = sickness (*malad* = sick)
 
-**elegantie **= elegance (**elegant **= elegant)
+*elegantie* = elegance (*elegant* = elegant)
 
 Derivations from participles are particularly numerous:
 
-**existentie **= existence (**existent **= existing). The ending -ntie
+*existentie* = existence (*existent* = existing). The ending -ntie
 was covered in the 5th lesson, and we can see that it is simply the
 present participle -*nt* plus *-ie*.
 
 It may be used on nouns as well to make them abstract:
 
-**seniorie **= lordship (**senior **= lord, sir)
+*seniorie* = lordship (*senior* = lord, sir)
 
-**amicie **= friendship (**amic **= friend)
+*amicie* = friendship (*amic* = friend)
 
-**astronomie **= astronomy (**astronom **= astronomer) and many other
+*astronomie* = astronomy (*astronom* = astronomer) and many other
 types of sciences
 
 *-tá*
 
 Quality or character, more or less equivalent to English -ty:
 
-**qualitá **= quality (*qual(i)* = what a)
+*qualitá* = quality (*qual(i)* = what a)
 
-**homanitá **= humanity (**homan **= human (adjective), from **hom **=
+*homanitá* = humanity (*homan* = human (adjective), from *hom* =
 human, (noun))
 
-**amabilitá **= amiability, kindness (**amabil **= amiable, kind)
+*amabilitá* = amiability, kindness (*amabil* = amiable, kind)
 
-**membritá **= membership (the status of being a member)
+*membritá* = membership (the status of being a member)
 
 Words that refer to a group of people or things use -*té *instead of
 -*tá*:
 
-**homanité **= humanity, as in the grouping of people as a
-whole. **homanitá **above refers to the character of being human
+*homanité* = humanity, as in the grouping of people as a
+whole. *homanitá* above refers to the character of being human
 (humanity in the sense of showing kindness and decency)
 
-**societé **= society (**socio **= associate, member)
+*societé* = society (*socio* = associate, member)
 
-**membrité **= membership (all the members of something)
+*membrité* = membership (all the members of something)
 
 *tá or té?*
 
-Besides the above, -**té **is much more limited in scope and any
-doubtful cases are given the -**tá **ending, such
+Besides the above, *-té* is much more limited in scope and any
+doubtful cases are given the *-tá* ending, such
 as *universitá *(university), which is neither the character of being a
 universe (*universe* + *tá*) nor a collection of universes
 (*universe* + *té*). In the same way, society (societá) is not simply
@@ -2740,30 +2748,30 @@ becomes *societá*. Rule of thumb: when in doubt, it's probably *-tá*.
 
 1. (from verbs): a state of feeling, activity, temperature, etc.
 +
-**amore **= love (from *amar*, to love)
+*amore* = love (from *amar*, to love)
 +
-**terrore **= terror (from **terrer **= to frighten)
+*terrore* = terror (from *terrer* = to frighten)
 +
-**calore **= heat (**caler **= to be hot)
+*calore* = heat (*caler* = to be hot)
 
 2. (from adjectives): size, value:
 +
-**longore **= length (**long **= long)
+*longore* = length (*long* = long)
 +
-**grandore **= size (**grand **= large)
+*grandore* = size (*grand* = large)
 
 *-esse*
 
 Special property or condition, most similar to English -ness. Examples:
 
-**altesse **= highness (**alt **= high, **altore **=
-height, **altitá **= the quality of being high)
+*altesse* = highness (*alt* = high, *altore* =
+height, *altitá* = the quality of being high)
 
-**grandesse **= greatness, magnitude (**grand **= large, **grandore **=
-size, **granditá **= being large)
+*grandesse* = greatness, magnitude (*grand* = large, *grandore* =
+size, *granditá* = being large)
 
-**yunesse **= youth (**yun **= young, **yunitá **=
-youngness, **yunité **= the youth)
+*yunesse* = youth (*yun* = young, *yunitá* =
+youngness, *yunité* = the youth)
 
 This is also the suffix used for bombastic titles such as your Highness
 (*Vor Altesse*).
@@ -2774,55 +2782,55 @@ This is also the suffix used for bombastic titles such as your Highness
 
 is a frequent suffix for the names of places and countries:
 
-**Germania **= Germany (**german **= german)
+*Germania* = Germany (*german* = german)
 
-**dominia **= dominion (**dómino **= master)
+*dominia* = dominion (*dómino* = master)
 
-**abatia **= abbey (**abat **= abbot)
+*abatia* = abbey (*abat* = abbot)
 
-**auditoria **= auditorium (**auditor **= hearer)
+*auditoria* = auditorium (*auditor* = hearer)
 
 *-atu*
 
 a legal, social, or public institution, state, or office (also location,
 time, and territory). Often corresponds to English -at or -iat:
 
-**viduatu **= widowhood (**vidua **= widow)
+*viduatu* = widowhood (*vidua* = widow)
 
-**celibatu **= celibacy (**celibo **= bachelor, single man)
+*celibatu* = celibacy (*celibo* = bachelor, single man)
 
-**proletariatu **= proletariat (**proletario **= a proletarian)
+*proletariatu* = proletariat (*proletario* = a proletarian)
 
-**directoratu **= directorship (**director **= director)
+*directoratu* = directorship (*director* = director)
 
-**secretariatu **= secretariat (**secretario **= secretary)
+*secretariatu* = secretariat (*secretario* = secretary)
 
-**califatu **= caliphate (**calif **= caliph)
+*califatu* = caliphate (*calif* = caliph)
 
-**episcopatu **= episcopate (office of a bishop, from **epíscop **=
+*episcopatu* = episcopate (office of a bishop, from *epíscop* =
 bishop)
 
 *-eríe*
 
 An occupation and its activities. As -*ería*, it refers to the actual
-location. Both are actually formed from the -**er- **suffix (doer of an
-action), then -**ie **as above for the quality, or -**ia **for the
+location. Both are actually formed from the *-er-* suffix (doer of an
+action), then *-ie* as above for the quality, or *-ia* for the
 location.
 
-**vitreríe **= glasswork, glassware (**vitre **= glass, **vitrero **=
+*vitreríe* = glasswork, glassware (*vitre* = glass, *vitrero* =
 glassworker)
 
-**vitrería **= a glassworks (the place)
+*vitrería* = a glassworks (the place)
 
 Beyond the occupation, it also refers to a character trait and its
 manifestations, same as in English -ery:
 
-**coquetteríe **= coquetry (flirtation, from **coquett **= coquettish or
+*coquetteríe* = coquetry (flirtation, from *coquett* = coquettish or
 flirtatious)
 
-**bigotteríe **= bigotry (**bigott **= bigoted)
+*bigotteríe* = bigotry (*bigott* = bigoted)
 
-**diaboleríe **= devilry (**diábol **= devil)
+*diaboleríe* = devilry (*diábol* = devil)
 
 *-iera, -iere, -iero*
 
@@ -2837,61 +2845,61 @@ fruits)
 
 -*iere* words:
 
-**cigariere **= cigar case (**cigar **+ iere)
+*cigariere* = cigar case (*cigar* + iere)
 
-**tacabiere **= a tobacco case (**tabaco **+ iere)
+*tacabiere* = a tobacco case (*tabaco* + iere)
 
-**candeliere **= candle box (**candel **= candle)
+*candeliere* = candle box (*candel* = candle)
 
 -iero words:
 
-**pomiero **= apple tree (**pom **= apple)
+*pomiero* = apple tree (*pom* = apple)
 
-**orangiero **= orange tree (**orange **= orange)
+*orangiero* = orange tree (*orange* = orange)
 
-**glaciero **= glacier (**glacie **= ice)
+*glaciero* = glacier (*glacie* = ice)
 
-**candeliero **= candlestick
+*candeliero* = candlestick
 
 -iera words:
 
-**pisciera **= fish pond (pisc = fish)
+*pisciera* = fish pond (pisc = fish)
 
 *torfiera* = peat bog (torf = peat)
 
-**formiciera **= anthill (formíca = ant)
+*formiciera* = anthill (formíca = ant)
 
 *-uore*
 
 A place or device where something is done:
 
-**trottuor **= sidewalk (trottar = trot, jog)
+*trottuor* = sidewalk (trottar = trot, jog)
 
 *-ade*
 
 A consecutive, ordered series or certain amount of something:
 
-**colonnade **= colonnade (**colonne **= column)
+*colonnade* = colonnade (*colonne* = column)
 
-**boccade **= mouthful (**bocca **= mouth)
+*boccade* = mouthful (*bocca* = mouth)
 
 *-allia*
 
 An unordered or pile of something:
 
-**antiquallia **= old junk (**antiqui **= old)
+*antiquallia* = old junk (*antiqui* = old)
 
-**canallia **= pack of dogs (*can(e)* = dog)
+*canallia* = pack of dogs (*can(e)* = dog)
 
 *-arium*
 
 A more scientific or specialized grouping of something.
 
-**dictionarium **= dictionary (**diction **= a diction)
+*dictionarium* = dictionary (*diction* = a diction)
 
-**herbarium **= herbarium (**herbe **= grass, herb)
+*herbarium* = herbarium (*herbe* = grass, herb)
 
-**planetarium **= planetarium (**planete **= planet)
+*planetarium* = planetarium (*planete* = planet)
 
 == 7 Setesim letion
 
@@ -2949,7 +2957,7 @@ cuida, quam fluent, quam brilliant il es . . .
 
 Note: the -nd suffix (-and for -ar verbs, -end for -er and -ir verbs)
 adds the meaning "thing to be (verb)ed)". This is where words
-like *dividende *(thing to be *divided*, from divider) come from, which
+like *dividende*(thing to be *divided*, from divider) come from, which
 adds a certain obligation (a thing to do = a thing one should do).  As
 an adjective it can also take the -i at the end for euphony. The
 above *un veritá explicand* thus means "a truth to be explained".
@@ -3021,8 +3029,8 @@ espera, e li testimonie pri coses queles ne es visibil.
 |*monete*  |a coin  |*substantie*  |substance
 |===
 
-Note: **mani **before a singular means *many a*, while before a plural
-it means *many *(same as *mult*).
+Note: *mani* before a singular means *many a*, while before a plural
+it means *many*(same as *mult*).
 
 ==== 7.1.4. Un lettre
 
@@ -3080,7 +3088,7 @@ Y{dot} Z{dot}
 |*esser rect*  |be right  |*adplu*  |moreover
 |*suposir*  |to suppose  |*harengo*  |herring
 |*sparro*  |sparrow  |*acustomar* |to accustom
-|*devoer*  |to be devoted  |*exposir * |to expose
+|*devoer*  |to be devoted  |*exposir* |to expose
 |*chargear*  |to charge, burden  |*obliviar*  |to forget
 |===
 
@@ -3097,7 +3105,7 @@ The three most used adjectival suffixes are:
 *-al*
 
 a general suffix showing a relationship or
-dependency: **national **from *nation*, **central **from *centre*, **diferential **from *diferentie*,
+dependency: *national* from*nation*, *central* from*centre*, *diferential* from*diferentie*,
 etc.
 
 *-ic*
@@ -3105,7 +3113,7 @@ etc.
 being so, possessing properties of the word: energic (energetic) from
 energie, fantastic from fantaste (a fantast, someone with eccentric or
 fanciful
-ideas), **sistematic **from *sistema*, **problematic **from *problema*,
+ideas), *sistematic* from*sistema*, *problematic* from*problema*,
 etc.
 
 Note: Greek words ending in -ma take a t, and those ending in -se turn
@@ -3119,8 +3127,8 @@ From the adjective -ic we derive nouns with
 
 -*ica* and -*ico*
 
--**ica **refers to the name of the science or art in general, and
--**ico **to the person practicing it. This is one situation where the -o
+*-ica* refers to the name of the science or art in general, and
+*-ico* to the person practicing it. This is one situation where the -o
 does not necessarily denote a male.
 
 *logic logica logico*: logical, logic, logician
@@ -3135,11 +3143,11 @@ mathematician
 ==== What about -ical?
 
 Generally, it is a good idea to resist the urge to express every -ical
-English word with another -**ical **in Interlingue (just -ic is
+English word with another *-ical* in Interlingue (just -ic is
 preferred). But this is another situation where you can for extra
 precision, and a subject mentioned in Cosmoglotta before. Because -ica
 as shown above refers to the entire branch of art or science,
--**al **can make an adjective referring to it. Some examples where -ic
+*-al* can make an adjective referring to it. Some examples where -ic
 or -ical could be preferred:
 
 *un jardin botanic:* a botanical garden
@@ -3154,7 +3162,7 @@ mathematicians are interested in)
 
 *un progression aritmetic:* an arithmetic progression
 
-**un problema aritmetical: **an arithmetical problem (a problem that
+*un problema aritmetical:* an arithmetical problem (a problem that
 arithmeticians are interested in)
 
 On a related note, beware of words where English is the odd man out such
@@ -3165,63 +3173,63 @@ middle.
 
 Tending to (similar to English -acious):
 
-**mordaci **= mordacious (**morder **= to bite)
+*mordaci* = mordacious (*morder* = to bite)
 
-**tenaci **= tenacious (**tener **= to hold)
+*tenaci* = tenacious (*tener* = to hold)
 
-**vivaci **= vivacious (**viver **= to live)
+*vivaci* = vivacious (*viver* = to live)
 
 *-an*
 
 belonging to (often made into nouns with -*ano*, -*ana*, -*ane*):
 
-**american **= American (**America **= America)
+*american* = American (*America* = America)
 
-**homan **= human (**hom **= human)
+*homan* = human (*hom* = human)
 
 *-ari*
 
 according to, fitting, belonging to (English -ar):
 
-**regulari **= regular (**regul **= rule)
+*regulari* = regular (*regul* = rule)
 
-**populari **= popular (**popul **= people)
+*populari* = popular (*popul* = people)
 
 *-at*
 
 (on nouns) provided with something:
 
-**foliat **= leafed (**folie **= leaf)
+*foliat* = leafed (*folie* = leaf)
 
-**barbat **= bearded (**barbe **= beard)
+*barbat* = bearded (*barbe* = beard)
 
 *-ut*
 
 very rich in, exuberant:
 
-**barbut **= heavily bearded (barbute)
+*barbut* = heavily bearded (barbute)
 
-**sandut **= sandy
+*sandut* = sandy
 
-**armut **= heavily armed
+*armut* = heavily armed
 
 *-atri*
 
 A resemblance but not entirely of the same quality (similar to English
 -ish):
 
-**verdatri **= greenish (**verd **= green)
+*verdatri* = greenish (*verd* = green)
 
-**spongiatri **= spongy (**spongie **= sponge)
+*spongiatri* = spongy (*spongie* = sponge)
 
 *-esc*
 
 (of people) similar to, possessing similar qualities to (similar to
 English -esque)
 
-**infantesc **= childlike (**infant **= child)
+*infantesc* = childlike (*infant* = child)
 
-**gigantesc **= giantesque (**gigante **= giant, **gigantic **=
+*gigantesc* = giantesque (*gigante* = giant, *gigantic* =
 gigantic)
 
 *-bil*
@@ -3255,23 +3263,23 @@ explosibil (from the perfect stem) = explodable (exploder = to explode)
 
 denotes ancestry, origin:
 
-**argentin **= silber (**argente **= silver)
+*argentin* = silber (*argente* = silver)
 
-**florentin **= Florentine (from Florence, **Florentia **= Florence)
+*florentin* = Florentine (from Florence, *Florentia* = Florence)
 
-**svinine **= pork (**svin **= pig)
+*svinine* = pork (*svin* = pig)
 
 *-osi*
 
 rich in, full of:
 
-**famosi **= famous (**fama **= fame)
+*famosi* = famous (*fama* = fame)
 
-**musculosi **= muscled (**muscul **= muscle)
+*musculosi* = muscled (*muscul* = muscle)
 
-**respectosi **= respectful (**respecte **= respect)
+*respectosi* = respectful (*respecte* = respect)
 
-**spinosi **= thorny (**spine **= thorn)
+*spinosi* = thorny (*spine* = thorn)
 
 The similar suffixes -iv and -ori were mentioned in lesson 3.
 
@@ -3279,13 +3287,13 @@ This finishes up the main suffixes seen in Interlingue for forming new
 words. On top of this are many other much less productive affixes that
 show up from time to time and are worth noting:
 
--*id*: having the qualities of a verb: **timid **= timid (**timer **= to
-fear, **timore **= fear), *frigid* = cold, frigid (**friger **= to feel
+-*id*: having the qualities of a verb: *timid* = timid (*timer* = to
+fear, *timore* = fear), *frigid* = cold, frigid (*friger* = to feel
 cold, *frigore* = cold)
 
 -*nd*: (mentioned once in a note above): what is to be done. *quo esset
 demonstrand* = what was to be demonstrated (Latin *quod erat
-demonstrandum*), **dividende **= a dividend, **examinando **= an
+demonstrandum*), *dividende* = a dividend, *examinando* = an
 exam-taker (one who is to examine)
 
 ==== 7.2.2 Divers afixes
@@ -3295,13 +3303,13 @@ words in Interlingue and most other western European languages:
 
 *anti*-: against
 
-*Anticristo *(Antichrist), *antitoxine *(anti-toxin), *antisocial *(antisocial,
+*Anticristo*(Antichrist), *antitoxine*(anti-toxin), *antisocial*(antisocial,
 asocial)
 
 *arch*(i): highest, over-
 
-*archiepiscop *(archbishop), *archángel *(archangel), *archifripon *(an
-"arch rogue", *archinull *(total zero, huge loser)
+*archiepiscop*(archbishop), *archángel *(archangel), *archifripon*(an
+"arch rogue", *archinull*(total zero, huge loser)
 
 *auto*-: auto, self
 
@@ -3321,7 +3329,7 @@ asocial)
 
 *pseudo*-: pseudo, false (note: p is not silent!)
 
-*pseudo-Cristo* (false Christ), *pseudoscientie *(pseudoscience)
+*pseudo-Cristo* (false Christ), *pseudoscientie*(pseudoscience)
 
 *semi-, hemi*-: half
 
@@ -3337,7 +3345,7 @@ asocial)
 
 *-fer*: bringing, bearing
 
-*fructiferi *(fruit-bearing), *mammifere *(amammal)
+*fructiferi*(fruit-bearing), *mammifere*(amammal)
 
 -*file*: -phile, loving
 
@@ -3363,8 +3371,8 @@ hyphen: *Nord-Europa*, *automobil-garage*
 words: *uniform*, *unilateral*, *centimetre*, *microcosmo*, *aeroplan*.
 
 The imperative of a verb can also be used to join words
-together: *portamoné *(a wallet, lit. a carry-money), *parapluvie *(an
-umbrella, lit. a block-rain), *gardarobe *(a wardrobe, lit. a
+together: *portamoné *(a wallet, lit. a carry-money), *parapluvie*(an
+umbrella, lit. a block-rain), *gardarobe*(a wardrobe, lit. a
 guard-robe).
 
 ==== 7.2.4 Parol-families (word families)
@@ -3375,29 +3383,29 @@ meaning. New ones can be made, as that happens consistently in natural
 languages. In the few cases where a regularly formed derivation form
 differs substantially from an existing international word, both forms
 are permitted.
-Examples: **noctal **= *nocturn*, **terral **= *terrestri *(terrestrial), *cielal* = *celest *(celestial), **patrin **= *paternal *(paternal).
+Examples: *noctal* = *nocturn*, *terral* = *terrestri*(terrestrial), *cielal* = *celest*(celestial), *patrin* = *paternal*(paternal).
 
 Here are some example of how international words are created by
 deduction and composition from simple elements in the derivation of
 Interlingue:
 
-**protecter **= to protect (protect-er)
+*protecter* = to protect (protect-er)
 
-**protectoratu **= a protectorate (protect-or-atu)
+*protectoratu* = a protectorate (protect-or-atu)
 
-**protectoria **= a house for orphans (protect-or-ia)
+*protectoria* = a house for orphans (protect-or-ia)
 
-**protection **= protection (protect-ion)
+*protection* = protection (protect-ion)
 
-**protectionisme **= protectionism (protect-ion-isme)
+*protectionisme* = protectionism (protect-ion-isme)
 
 *protectionist* = protectionist (the person) (protect-ion-ist)
 
-**protectionistic **= protectionistic (adjective) (protect-ion-ist-ic)
+*protectionistic* = protectionistic (adjective) (protect-ion-ist-ic)
 
-**protectiv **= protective (protect-iv)
+*protectiv* = protective (protect-iv)
 
-**star **= to stand
+*star* = to stand
 
 *stabil, instabil, stabilitá, ínstabilitá, stabilisar, stabilisation,
 stabilisator; station, stationar, stationari, stationario; state, statu,
@@ -3435,7 +3443,7 @@ me. Quam yo nu repente, que yo ne hat petit le dar me it frigid."
 |*trincage*  |a drink  |*droll(i)*  |funny
 |*honore*  |honor  |*departer*  |to depart
 |*repenter*  |to repent  |*racontar*  |to tell (a story, etc.)
-|*equipar * |to equip  |*Papa*  |Pope (note: papá = papa, daddy)
+|*equipar* |to equip  |*Papa*  |Pope (note: papá = papa, daddy)
 |*jamá*  |ever, never  |*interim*  |meanwhile
 |*apen*  |hardly, barely, just as  |*meditar*  |to meditate
 |*avigilar*  |to awaken  |  |
@@ -3576,8 +3584,8 @@ tal animal ha vivet, qualmen on posse saver su nómine?"
 
 [cols=",,,",]
 |===
-|*viage*  + |journey  + |*diluvie * + |flood  +
-|*caude*  + |tail  + |*animale * + |animal  +
+|*viage*  + |journey  + |*diluvie* + |flood  +
+|*caude*  + |tail  + |*animale* + |animal  +
 |*impressionar*  + |to impress  + |*benque*  + |even though  +
 |*spacie* |space |*superar* |surpass
 |===
@@ -3621,21 +3629,22 @@ Some examples:
 *Li diferentie inter mi e tui* = The difference between mine and yours
 
 *Li nores victet li vores* = Ours (plural) beat yours (plural).
-If **noi **had had one and **vu **had also had had one, it would be
+
+If *noi* had had one and *vu* had also had had one, it would be
 expressed as *Li nor victet li vor*.
 
 *Yo es tua e tu es mio* = I am yours and you are mine (said by a woman
 to a man)
 
-**Ples far lu tui! **= Please do yours! (remember *lu* = "the thing
+*Ples far lu tui!* = Please do yours! (remember *lu* = "the thing
 which is")
 
-Note that after prepositions the pronouns except **me **and **te **are
+Note that after prepositions the pronouns except *me* and *te* are
 in their subject form). This has long been a subject of discussion, with
 some preferring outright object forms (*con le, a la, sin les*) and
 others preferring the nominative (*con il, con ella, con ili*). But
 interestingly nobody has ever preferred the forms *con yo, con tu*,
-only *con me, con te*. Rule of thumb: always **me **and *te*, the others
+only *con me, con te*. Rule of thumb: always *me* and *te*, the others
 are up to personal preference. Whether the community will decide on one
 form over the other is tough to say: even English has yet to do so in
 cases such as You are taller than *me* (than + pronoun) vs. You are
@@ -3651,8 +3660,8 @@ Demonstrative and determinative pronouns
 * tant: so much, so
 
 *ti* is very general, which is why it is translated as
-both **this **and *that*. To add precision, add *ci *(here)
-or *ta *(there) after: *ti ci* (this),* ti ta* (that).
+both *this* and*that*. To add precision, add *ci*(here)
+or *ta*(there) after: *ti ci* (this), *ti ta* (that).
 
 *Ti du crayones es li mis: ti ci es curt e ti ta es long; ples prender
 tis.* -- These two pencils are mine: this one is short and that one is
@@ -4433,9 +4442,9 @@ Object: (1) *Goethe* (2) *ha scrit* (3) *Faust*. The same applies to
 subordinate clauses.
 
 Note some important differences that take place when the word order is
-changed. Words such as *anc*, **solmen, **etc. quantify the word they
-stand in front of.  The word **ne** also negates the word it stands in
-front of.  Other examples: **tro**, and **tre**.
+changed. Words such as *anc*, *solmen*, etc. quantify the word they
+stand in front of.  The word *ne* also negates the word it stands in
+front of.  Other examples: *tro*, and *tre*.
 
 *Yo _ne_ va _prender_ Vor libre.* -- I won't take your book (but will
 leave it lying).
@@ -4539,10 +4548,10 @@ subject of a verb and others don't, Interlingue prefers to not use them.
 Rule of thumb: if in doubt, try going without a preposition if the
 meaning is still clear.
 
-The same goes for reflexive verbs (verbs using **se**). English uses
+The same goes for reflexive verbs (verbs using *se*). English uses
 them infrequently but still does in some places such as "I'm going to
 find *myself* something to eat" which would be written "Yo va trovar
-alquó a manjar" and not "Yo va trovar **me** alquó a manjar".
+alquó a manjar" and not "Yo va trovar *me* alquó a manjar".
 
 *Yo mersia Vos (not a Vos)*. -- I thank you.
 
