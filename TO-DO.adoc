@@ -10,4 +10,3 @@
 - Add changes done to the wiki version.
 - Add quotes to example terms in English explanations.
 - Link references to chapters, lessons and others.
-- Homogenize notation of verbs in the vocabulary lists.
