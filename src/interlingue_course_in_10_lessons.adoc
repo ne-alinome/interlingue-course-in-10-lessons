@@ -17,7 +17,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201902192326
+// Last modified 201902200010
 
 :dot: .
 
@@ -78,23 +78,38 @@ energic secretarios de social e professional organisationes, e militares
 in gala-uniformes. Ili have portafolias con documentes e actes e
 discusse li actual situation e international aferes.
 
-|===
-| *afere*          | affair                | *ili*         | they
-| *ante li portas* | in front of the doors | *letion*      | lesson
-| *cité*           | city                  | *scri*        | write
-| *con*            | with                  | *visita*      | visit (verb)
-| *contra*         | against               | *fa*          | do
-| *grand*          | large                 | *por*         | for
-| *discusse*       | discuss               | *sala*        | room
-| *escuta*         | listen                | *per*         | through, by
-| *cruce*          | cross                 | *parla*       | talks
-| *quam*           | as                    | *fascinant*   | fascinating
-| *on vide*        | one sees              | *eloquentie*  | eloquence
-| *parte*          | part                  | *residentie*  | residence
-| *propositor*     | proposer              | *portafolies* | briefcases
-| *famosi*         | famous                | *sta*         | stand (verb)
-| *fini*           | finishes              | *unesim*      | first
-|===
+===== Vocabularium
+
+- *afere* = affair               
+- *ante li portas* = in front of the doors
+- *cité* = city                 
+- *con* = with                 
+- *contra* = against              
+- *cruce* = cross                
+- *discusse* = discuss              
+- *eloquentie* = eloquence
+- *escuta* = listen               
+- *fa* = do
+- *famosi* = famous               
+- *fascinant* = fascinating
+- *fini* = finishes             
+- *grand* = large                
+- *ili* = they
+- *letion* = lesson
+- *on vide* = one sees             
+- *parla* = talks
+- *parte* = part                 
+- *per* = through, by
+- *por* = for
+- *portafolies* = briefcases
+- *propositor* = proposer             
+- *quam* = as                   
+- *residentie* = residence
+- *sala* = room
+- *scri* = write
+- *sta* = stand (verb)
+- *visita* = visit (verb)
+- *unesim* = first
 
 ==== 1.1.2 Li macules in li sole
 
@@ -112,19 +127,29 @@ Ma li prior responde tranquilmen:
 fine, e necú il mentiona pri macules in li sole. Tui ocules have
 macules, e ne li sole.“
 
-|===
-| *monastere*  | monastery            | *tranquilmen* | tranquilly
-| *multvez*    | many times           | *exclama*     | exclaims
-| *nam*        | because              | *tu erra*     | you err (=are wrong)
-| *patre*      | father               | *mem*         | even
-| *mi filio*   | my son               | *yo ha leet*  | I have read
-| *mentiona*   | mentions             | *esser*       | be
-| *responde*   | responds             | *tui ocul*    | your eye
-| *macul*      | spot                 | *turre*       | tower
-| *yun monaco* | young monk           | *sede*        | sits
-| *hasta*      | rushes (lit. hastes) | *tra*         | through
-| *hasard*     | chance               |               |
-|===
+===== Vocabularium
+
+- *esser* = be
+- *exclama* = exclaims
+- *hasard* = chance
+- *hasta* = rushes (lit. hastes)
+- *macul* = spot
+- *mem* = even
+- *mentiona* = mentions
+- *mi filio* = my son
+- *monastere* = monastery
+- *multvez* = many times
+- *nam* = because
+- *patre* = father
+- *responde* = responds
+- *sede* = sits
+- *tra* = through
+- *tranquilmen* = tranquilly
+- *tu erra* = you err (=are wrong)
+- *tui ocul* = your eye
+- *turre* = tower
+- *yo ha leet* = I have read
+- *yun monaco* = young monk
 
 ==== 1.1.3 Aforismes
 
@@ -140,16 +165,23 @@ Un bon comedie es plu durabil quam un systema de filosofie. (Hume.)
 Grand artistes es li sol riches qui divide lor tot felicie con nos.
 (Pauly.)
 
-|===
-| *ninant*    | ninety               | *compane*     | companion
-| *diminuent* | smaller, diminishing | *nin*         | nine
-| *divide*    | divide, share        | *plu durabil* | more durable
-| *lor*       | their                | *si*          | if
-| *quam*      | than                 | *tot*         | entire, whole
-| *dómina*    | dominates            | *destructe*   | destroys
-| *felicie*   | happiness, fortune   | *sol*         | sole, only
-| *nos*       | us                   |               |
-|===
+===== Vocabularium
+
+- *compane* = companion
+- *destructe* = destroys
+- *diminuent* = smaller, diminishing
+- *divide* = divide, share
+- *dómina* = dominates
+- *felicie* = happiness, fortune
+- *lor* = their
+- *nin* = nine
+- *ninant* = ninety
+- *nos* = us
+- *plu durabil* = more durable
+- *quam* = than
+- *si* = if
+- *sol* = sole, only
+- *tot* = entire, whole
 
 === 1.2 Explanation
 
@@ -296,29 +328,50 @@ They may be also written as *hodíe* and *omnicós*.
 // The original example is confusing, because "that" can be
 // also a pronoun.
 
-|===
-| *duesim*      | second                  | *ne*       | not
-| *promena*     | strolls (cf. promenade) | *ante nu*  | before now
-| *trottuor*    | sidewalk                | *laborar*  | work
-| *vive*        | life                    | *yer*      | yesterday
-| *amico*       | friend                  | *reposar*  | repose, rest
-| *le strax*    | him right away          | *tam*      | so
-| *bon die*     | good day                | *fatigar*  | tire
-| *quo*         | what                    | *nocte*    | night
-| *questionar*  | question, ask           | *deman*    | tomorrow
-| *hodie*       | today                   | *Vos*      | you (object)
-| *por*         | for                     | *esperar*  | hope
-| *o*           | or                      | *que*      | that (as in "I hope *that*…")
-| *voler*       | want                    | *posdeman* | the day after tomorrow
-| *venir*       | come                    | *mersí*    | thanks
-| *interprense* | endeavour               | *pro*      | due to
-| *Vor*         | your (polite form)      | *saver*    | know
-| *pri quo*     | about what              | *pro quo*  | why ("due to what")
-| *ci*          | here                    | *por qui*  | for who(m)
-| *plu*         | more                    | *pro que*  | because ("due to that")
-| *dever*       | must                    | *omnicos*  | everything
-| *ear*         | go                      | *ta*       | there
-|===
+===== Vocabularium
+
+- *amico* = friend
+- *ante nu* = before now
+- *bon die* = good day
+- *ci* = here
+- *deman* = tomorrow
+- *dever* = must
+- *duesim* = second
+- *ear* = go
+- *esperar* = hope
+- *fatigar* = tire
+- *hodie* = today
+- *interprense* = endeavour
+- *laborar* = work
+- *le strax* = him right away
+- *mersí* = thanks
+- *ne* = not
+- *nocte* = night
+- *o* = or
+- *omnicos* = everything
+- *plu* = more
+- *por qui* = for who(m)
+- *por* = for
+- *posdeman* = the day after tomorrow
+- *pri quo* = about what
+- *pro que* = because ("due to that")
+- *pro quo* = why ("due to what")
+- *pro* = due to
+- *promena* = strolls (cf. promenade)
+- *que* = that (as in "I hope *that*…")
+- *questionar* = question, ask
+- *quo* = what
+- *reposar* = repose, rest
+- *saver* = know
+- *ta* = there
+- *tam* = so
+- *trottuor* = sidewalk
+- *venir* = come
+- *vive* = life
+- *voler* = want
+- *Vor* = your (polite form)
+- *Vos* = you (object)
+- *yer* = yesterday
 
 ==== 2.1.2 Li furtard e li prestro
 
@@ -347,24 +400,40 @@ deposit li horloge in su tasca.
 
 "In tal casu, ples departer in pace. Tui peccas es pardonat."
 
-|===
-| *furtard*     | thief     | *sam*        | same
-| *prestro*     | priest    | *portar*     | carry
-| *confesser*   | confess   | *su*         | his, hers, its
-| *mult*        | much      | *horloge*    | watch (wristwatch)
-| *fin*         | fine      | *aurin*      | golden
-| *pecca*       | sin       | *tasca*      | pocket
-| *reciver*     | receive   | *gilete*     | vest
-| *prender*     | take      | *durant que* | while
-| *furter*      | steal     | *racontar*   | tell
-| *remarcar to* | notice it | *talmen*     | thus, in that way
-| *dir*         | say       | *deposir*    | put in / deposit
-| *confirmar*   | confirm   | *retornar*   | return
-| *to*          | it, that  | *esque*      | (asked to ask questions)
-| *dar*         | give      | *possessor*  | owner (possessor)
-| *tal*         | such a    | *casu*       | case
-| *pace*        | peace     | *tui*        | your (informal)
-|===
+===== Vocabularium
+
+- *aurin* = golden
+- *casu* = case
+- *confesser* = confess
+- *confirmar* = confirm
+- *dar* = give
+- *deposir* = put in / deposit
+- *dir* = say
+- *durant que* = while
+- *esque* = (asked to ask questions)
+- *fin* = fine
+- *furtard* = thief
+- *furter* = steal
+- *gilete* = vest
+- *horloge* = watch (wristwatch)
+- *mult* = much
+- *pace* = peace
+- *pecca* = sin
+- *portar* = carry
+- *possessor* = owner (possessor)
+- *prender* = take
+- *prestro* = priest
+- *racontar* = tell
+- *reciver* = receive
+- *remarcar to* = notice it
+- *retornar* = return
+- *sam* = same
+- *su* = his, hers, its
+- *tal* = such a
+- *talmen* = thus, in that way
+- *tasca* = pocket
+- *to* = it, that
+- *tui* = your (informal)
 
 ==== 2.1.3 Anecdotes
 
@@ -384,19 +453,30 @@ Il respondet: "It es un fluide, quel es extraet de lingues de féminas e
 cordies de leones, pro que, quande yo ha trincat vin, yo posse parlar
 sin cessar e combatter mem li diábol."
 
-|===
-| *postular*  | demand      | *terra e aqua* | earth and water
-| *jettar*    | throw, toss | *profund*      | deep
-| *querellar* | quarrel     | *orel*         | ear
-| *bocca*     | mouth       | *por que*      | in order to ("for that")
-| *poc*       | little      | *extinter*     | extinguish
-| *omnihom*   | everyone    | *foy*          | fire
-| *gladie*    | sword       | *quel*         | which
-| *vin*       | wine        | *fluide*       | fluid
-| *fémina*    | woman       | *cordie*       | heart
-| *cessar*    | stop        | *combatter*    | combat
-| *leon*      | lion        | *diábol*       | devil
-|===
+===== Vocabularium
+
+- *bocca* = mouth
+- *cessar* = stop
+- *combatter* = combat
+- *cordie* = heart
+- *diábol* = devil
+- *extinter* = extinguish
+- *fluide* = fluid
+- *foy* = fire
+- *fémina* = woman
+- *gladie* = sword
+- *jettar* = throw, toss
+- *leon* = lion
+- *omnihom* = everyone
+- *orel* = ear
+- *poc* = little
+- *por que* = in order to ("for that")
+- *postular* = demand
+- *profund* = deep
+- *quel* = which
+- *querellar* = quarrel
+- *terra e aqua* = earth and water
+- *vin* = wine
 
 ==== 2.1.4 Proverbies
 
@@ -415,21 +495,34 @@ sin cessar e combatter mem li diábol."
 - Mult homes es vocat, ma poc homes es electet.
 - Li sapon es li mesura de bon-esser e cultura del state.
 
-|===
-| *proverbie* | proverb | *dom*     | house
-| *hem*       | home    | *infante* | infant, child
-| *trovar*    | find    | *necos*   | nothing
-| *aure*      | gold    | *sanitá*  | health
-| *in vanitá* | in vain | *du*      | two
-| *homan*     | human   | *divin*   | divine
-| *facil*     | easy    | *quande*  | when
-| *predicar*  | preach  | *gardar*  | guard
-| *rular*     | roll    | *petre*   | stone
-| *crescer*   | grow    | *morir*   | die
-| *parat*     | done    | *sempre*  | always
-| *nequande*  | never   | *vocar*   | call
-| *hom*       | person  | *sapon*   | soap
-|===
+===== Vocabularium
+
+- *aure* = gold
+- *crescer* = grow
+- *divin* = divine
+- *dom* = house
+- *du* = two
+- *facil* = easy
+- *gardar* = guard
+- *hem* = home
+- *hom* = person
+- *homan* = human
+- *in vanitá* = in vain
+- *infante* = infant, child
+- *morir* = die
+- *necos* = nothing
+- *nequande* = never
+- *parat* = done
+- *petre* = stone
+- *predicar* = preach
+- *proverbie* = proverb
+- *quande* = when
+- *rular* = roll
+- *sanitá* = health
+- *sapon* = soap
+- *sempre* = always
+- *trovar* = find
+- *vocar* = call
 
 === 2.2 Explanations
 
@@ -573,13 +666,18 @@ Noi ne have *creatori* qualitás, solmen Deo es vermen *creativ*.
 
 Quo il ha creat? Nos e omni altri *creaturas*.
 
-|===
-| *triesim* | third   | *crear*    | create
-| *Deo*     | God     | *nominar*  | name
-| *munde*   | world   | *durar*    | to last
-| *qualitá* | quality | *vermen*   | truly
-| *altri*   | other   | *creatori* | "creator-y"
-|===
+===== Vocabularium
+
+- *altri* = other
+- *crear* = create
+- *creatori* = "creator-y"
+- *Deo* = God
+- *durar* = to last
+- *munde* = world
+- *nominar* = name
+- *qualitá* = quality
+- *triesim* = third
+- *vermen* = truly
 
 ==== 3.1.2 Un brilliant carriera
 
@@ -612,19 +710,30 @@ possession. Quam possessor de grand capitales, il ha fat mult donationes
 in favor a cultural institutiones, e pro to il have li reputation de un
 grand donator e favorisator del scienties e artes.
 
-|===
-| *fratre*     | brother                         | *ja*         | already
-| *evocar*     | evoke                           | *transitori* | transitory
-| *gradualmen* | gradually                       | *preceder*   | precede
-| *innovar*    | innovate                        | *succeder*   | succeed (follow)
-| *vendir*     | sell                            | *negociar*   | negotiate
-| *extran*     | outside, abroad                 | *extender*   | extend
-| *transacter* | transact                        | *conceder*   | concede
-| *difamar*    | speak ill of (cf. defamation)   | *imperar*    | order (cf. imperative)
-| *exagerar*   | exaggerate                      | *quande*     | when
-| *intervenir* | intervene (lit. "between-come") | *anc*        | also
-| *necessi*    | necessary                       | *donar*      | give, donate
-|===
+===== Vocabularium
+
+- *anc* = also
+- *conceder* = concede
+- *difamar* = speak ill of (cf. defamation)
+- *donar* = give, donate
+- *evocar* = evoke
+- *exagerar* = exaggerate
+- *extender* = extend
+- *extran* = outside, abroad
+- *fratre* = brother
+- *gradualmen* = gradually
+- *imperar* = order (cf. imperative)
+- *innovar* = innovate
+- *intervenir* = intervene (lit. "between-come")
+- *ja* = already
+- *necessi* = necessary
+- *negociar* = negotiate
+- *preceder* = precede
+- *quande* = when
+- *succeder* = succeed (follow)
+- *transacter* = transact
+- *transitori* = transitory
+- *vendir* = sell
 
 ==== 3.1.3 Li eterni problemas
 
@@ -662,30 +771,51 @@ un nov era de filosofic speculation, un nov romantica e idealisme, támen
 con plu critic reflection quam li antiqui? Li munde fórsan ne es ancor
 tam senil, quam li profetes de fatiga vole far nos creder.
 
-|===
-| *eterni*      | eternal         | *témpore*   | time
-| *coronar*     | to crown        | *semblar*   | to seem
-| *van*         | in vain         | *evoluer*   | evolve
-| *ti*          | this, that      | *explorar*  | explore
-| *retirar*     | retire          | *pensa*     | thought
-| *guerre*      | war             | *detronar*  | dethrone
-| *devot*       | devoted         | *penetrar*  | penetrate
-| *devenir*     | become          | *abandonar* | abandon
-| *defender*    | defend          | *malgré*    | despite
-| *adavan*      | forwards        | *spíritu*   | spirit
-| *omni*        | all             | *choc*      | shock
-| *justificar*  | justify         | *misprense* | misunderstanding
-| *les*         | them            | *erra*      | error
-| *nor*         | our             | *sequer*    | follow
-| *pos*         | after           | *strett*    | narrow
-| *fluctuar*    | fluctuate       | *sómmite*   | summit
-| *propri*      | own (one's own) | *unde*      | wave
-| *Renascentie* | Renaissance     | *indicar*   | indicate
-| *imitar*      | imitate         | *culminar*  | culminate
-| *támen*       | however         | *fórsan*    | perhaps
-| *senil*       | senile          | *fatiga*    | fatigue
-| *creder*      | believe         |             |
-|===
+===== Vocabularium
+
+- *abandonar* = abandon
+- *adavan* = forwards
+- *choc* = shock
+- *coronar* = to crown
+- *creder* = believe
+- *culminar* = culminate
+- *defender* = defend
+- *detronar* = dethrone
+- *devenir* = become
+- *devot* = devoted
+- *erra* = error
+- *eterni* = eternal
+- *evoluer* = evolve
+- *explorar* = explore
+- *fatiga* = fatigue
+- *fluctuar* = fluctuate
+- *fórsan* = perhaps
+- *guerre* = war
+- *imitar* = imitate
+- *indicar* = indicate
+- *justificar* = justify
+- *les* = them
+- *malgré* = despite
+- *misprense* = misunderstanding
+- *nor* = our
+- *omni* = all
+- *penetrar* = penetrate
+- *pensa* = thought
+- *pos* = after
+- *propri* = own (one's own)
+- *Renascentie* = Renaissance
+- *retirar* = retire
+- *semblar* = to seem
+- *senil* = senile
+- *sequer* = follow
+- *spíritu* = spirit
+- *strett* = narrow
+- *sómmite* = summit
+- *ti* = this, that
+- *támen* = however
+- *témpore* = time
+- *unde* = wave
+- *van* = in vain
 
 NOTE: *omni* before a singular means *each* (same as *chascun*), while
 before a plural it means *all*.
@@ -703,18 +833,27 @@ malades. Esque pro to li malades es plu reputat quam li medicos?"
 "Moné," il declarat, "yo prende del riches ne pro que yo besona it, ma
 por que ili mey saver in quel maniere ili posse investir it."
 
-|===
-| *per quo*         | by what      | *distinter*   | distinguish
-| *lege*            | law          | *abrogar*     | abrogate, repeal
-| *viver*           | to live      | *antey*       | before
-| *alqui*           | someone      | *objecter*    | to object
-| *avan*            | before       | *porta*       | door
-| *replicar*        | reply        | *sam quam*    | same as
-| *medico*          | doctor       | *malad*       | sick
-| *pro to*          | that's why   | *plu reputat* | more reputed
-| *moné*            | money        | *besonar*     | to need
-| *in quel maniere* | in which way |               |
-|===
+===== Vocabularium
+
+- *abrogar* = abrogate, repeal
+- *alqui* = someone
+- *antey* = before
+- *avan* = before
+- *besonar* = to need
+- *distinter* = distinguish
+- *in quel maniere* = in which way |               |
+- *lege* = law
+- *malad* = sick
+- *medico* = doctor
+- *moné* = money
+- *objecter* = to object
+- *per quo* = by what
+- *plu reputat* = more reputed
+- *porta* = door
+- *pro to* = that's why
+- *replicar* = reply
+- *sam quam* = same as
+- *viver* = to live
 
 === 3.2 Explanations
 
@@ -988,27 +1127,44 @@ Si li suposition de prof. Wegener es rect, tande li cratere in Sall es
 un unic monument de natura in Europa, e li duesim sur li tot globe de
 terra.
 
-|===
-| *quadresim*    | fourth                            | *apertener* | to belong
-| *unanim*       | unanimous                         | *acter*     | to act
-| *acter se pri* | to be about                       | *extinter*  | to extinguish
-| *laico*        | layperson (i.e. not a specialist) | *circul*    | circle
-| *max*          | most                              | *probabil*  | probable
-| *funel*        | funnel                            | *ruir*      | collapse
-| *orígine*      | origin                            | *strangi*   | strange
-| *penetrar*     | to penetrate                      | *simil*     | similar
-| *grandissim*   | huge                              | *conosser*  | to know
-| *profundore*   | depth                             | *advere*    | indeed
-| *forar*        | to bore / drill                   | *solea*     | sole, bottom
-| *córpore*      | body                              | *grandore*  | size (cf. grandeur)
-| *producter*    | produce                           | *suposir*   | suppose
-| *adplu*        | furthermore                       | *vicinitá*  | vicinity
-| *situat*       | situated, located                 | *pluri*     | several
-| *causar*       | to cause                          | *separar*   | to separate
-| *cader*        | to fall                           | *sovente*   | often
-| *rect*         | right, correct                    | *tande*     | then
-| *unic*         | unique                            |             |
-|===
+===== Vocabularium
+
+- *acter* = to act
+- *adplu* = furthermore
+- *advere* = indeed
+- *apertener* = to belong
+- *cader* = to fall
+- *causar* = to cause
+- *circul* = circle
+- *conosser* = to know
+- *córpore* = body
+- *extinter* = to extinguish
+- *forar* = to bore / drill
+- *funel* = funnel
+- *grandissim* = huge
+- *grandore* = size (cf. grandeur)
+- *laico* = layperson (i.e. not a specialist)
+- *max* = most
+- *orígine* = origin
+- *penetrar* = to penetrate
+- *pluri* = several
+- *probabil* = probable
+- *producter* = produce
+- *profundore* = depth
+- *quadresim* = fourth
+- *rect* = right, correct
+- *ruir* = collapse
+- *separar* = to separate
+- *simil* = similar
+- *situat* = situated, located
+- *solea* = sole, bottom
+- *sovente* = often
+- *strangi* = strange
+- *suposir* = suppose
+- *tande* = then
+- *unanim* = unanimous
+- *unic* = unique
+- *vicinitá* = vicinity
 
 ==== 4.1.2 Numbers
 
@@ -1047,6 +1203,8 @@ Tens are formed with the suffix *-ant* after the number:
 - 70 settant
 - 80 ottant
 - 90 ninant
+
+// XXX TODO -- Translate:
 
 Larger and more complex numbers:
 
@@ -1092,7 +1250,7 @@ NOTE: *-esim* also gives rise to internationally-recognized words such
 as *ínfinitesim* (an infinitessimal part) and *infinitesimal*. In
 Interlingue these words are regularly derived from common verbs: *ín*
 + *fini-r* (to finish) + *t* + *-esim* + *-al* = *ínfinitesimal*.
-
++
 Similarly, sometimes the *-ant* is written *-anti* for euphonic
 purposes. But because *-ant* on its own is easy enough to pronounce
 the *-anti* form is much rarer.
@@ -1241,16 +1399,24 @@ In autune flores mori e li fructes es matur.
 
 In hiverne veni nive e li dies es frigid.
 
-|===
-| *quel*     | which                                                     | *midí*      | midday
-| *die*      | day                                                       | *semane*    | week
-| *mensu*    | month                                                     | *annu*      | year
-| *secul*    | century                                                   | *millennie* | millennium
-| *verne*    | spring                                                    | *estive*    | summer
-| *autune*   | autumn                                                    | *hiverne*   | winter
-| *renascer* | be reborn (cf. renaissance, *renascentie* in Interlingue) | *flore*     | flower
-| *nive*     | snow                                                      | *calid*     | hot
-|===
+===== Vocabularium
+
+- *annu* = year
+- *autune* = autumn
+- *calid* = hot
+- *die* = day
+- *estive* = summer
+- *flore* = flower
+- *hiverne* = winter
+- *mensu* = month
+- *midí* = midday
+- *millennie* = millennium
+- *nive* = snow
+- *quel* = which
+- *renascer* = be reborn (cf. renaissance, *renascentie* in Interlingue)
+- *secul* = century
+- *semane* = week
+- *verne* = spring
 
 ==== 4.1.4 Aforismes
 
@@ -1266,14 +1432,20 @@ have null firm dom ex su hem. (Locke.)
 
 Quo noi nómina accidentie, es li asil del ignorantie. (Spinoza.)
 
-|===
-| *null*         | no (none)                   | *veritá*     | truth
-| *interprender* | undertake                   | *expussar*   | chase out
-| *ocasion*      | occasion, event             | *accidentie* | accidence, chance
-| *chasse*       | hunt                        | *celar*      | to hide
-| *liberar*      | to free, liberate           | *ignorantie* | ignorance
-| *mentir*       | to lie (not tell the truth) | *refusar*    | to refuse
-|===
+===== Vocabularium
+
+- *accidentie* = accidence, chance
+- *celar* = to hide
+- *chasse* = hunt
+- *expussar* = chase out
+- *ignorantie* = ignorance
+- *interprender* = undertake
+- *liberar* = to free, liberate
+- *mentir* = to lie (not tell the truth)
+- *null* = no (none)
+- *ocasion* = occasion, event
+- *refusar* = to refuse
+- *veritá* = truth
 
 === 4.2 Explanation
 
@@ -1707,37 +1879,66 @@ un nov intrat – it ha sempre esset talmen, ne existe exceptiones – tande
 li munde ha regardat a retro e erectet monumentes a tis qui pensat, e
 ridet pri tis qui ridet."
 
-|===
-| *etsi*          | although         | *líttere*     | letter
-| *custar*        | to cost          | *sangue*      | blood
-| *pussar*        | to push          | *mover*       | to move
-| *negar*         | to deny          | *pruvar*      | to prove
-| *effortie*      | effort           | *avantage*    | advantage
-| *tro mult*      | too much         | *relater*     | to relate
-| *índiferentie*  | indifference     | *indolentie*  | indolence
-| *admaxim*       | at most          | *monstrar*    | to show
-| *apert*         | open             | *acumular*    | to accumulate
-| *barrar*        | to bar           | *impedir*     | to impede
-| *quasi*         | as if, quasi     | *timer*       | to fear
-| *aparer*        | to appear        | *acordantie*  | accordance
-| *restricter*    | to restrict      | *perseverar*  | to persevere
-| *persister*     | to persist       | *confider*    | to confide
-| *victorie*      | victory          | *nobil*       | noble
-| *tenaci*        | tenacious        | *luctar*      | to fight, struggle
-| *insister*      | to insist        | *alquicos*    | some thing
-| *fórsan*        | perhaps          | *cert*        | certain
-| *frenar*        | to brake         | *partise*     | party
-| *essentie*      | essence          | *apreciar*    | to appreciate
-| *valore*        | worth            | *importantie* | importance
-| *inclinar*      | to incline, tend | *depreciar*   | to depreciate
-| *lege*          | law              | *potentie*    | might, power
-| *circumstantie* | circumstance     | *alquant*     | quite
-| *ínjust*        | unjust           | *calcular*    | to calculate
-| *unquande*      | once             | *rider*       | to laugh
-| *verificar*     | to verify        | *intrar*      | to enter
-| *regardar*      | to regard        | *retro*       | backwards, retro
-| *erecter*       | to erect, raise  | *exception*   | exception
-|===
+===== Vocabularium
+
+- *acordantie* = accordance
+- *acumular* = to accumulate
+- *admaxim* = at most
+- *alquant* = quite
+- *alquicos* = some thing
+- *aparer* = to appear
+- *apert* = open
+- *apreciar* = to appreciate
+- *avantage* = advantage
+- *barrar* = to bar
+- *calcular* = to calculate
+- *cert* = certain
+- *circumstantie* = circumstance
+- *confider* = to confide
+- *custar* = to cost
+- *depreciar* = to depreciate
+- *effortie* = effort
+- *erecter* = to erect, raise
+- *essentie* = essence
+- *etsi* = although
+- *exception* = exception
+- *frenar* = to brake
+- *fórsan* = perhaps
+- *impedir* = to impede
+- *importantie* = importance
+- *inclinar* = to incline, tend
+- *indolentie* = indolence
+- *insister* = to insist
+- *intrar* = to enter
+- *lege* = law
+- *luctar* = to fight, struggle
+- *líttere* = letter
+- *monstrar* = to show
+- *mover* = to move
+- *negar* = to deny
+- *nobil* = noble
+- *partise* = party
+- *perseverar* = to persevere
+- *persister* = to persist
+- *potentie* = might, power
+- *pruvar* = to prove
+- *pussar* = to push
+- *quasi* = as if, quasi
+- *regardar* = to regard
+- *relater* = to relate
+- *restricter* = to restrict
+- *retro* = backwards, retro
+- *rider* = to laugh
+- *sangue* = blood
+- *tenaci* = tenacious
+- *timer* = to fear
+- *tro mult* = too much
+- *unquande* = once
+- *valore* = worth
+- *verificar* = to verify
+- *victorie* = victory
+- *índiferentie* = indifference
+- *ínjust* = unjust
 
 ==== 5.1.2 Economisation
 
@@ -1757,16 +1958,24 @@ directiones.
 
 (Channing.)
 
-|===
-| *economisar* | to economize, save | *moné*        | money
-| *spoliar*    | to spoil, waste    | *plu … plu …* | the more … the more …
-| *usar*       | to use             | *digni*       | dignified
-| *scope*      | goal, aim          | *flut*        | flood, flow
-| *anteyan*    | former             | *exciselar*   | to chisel out (*ciselar* = to chisel)
-| *junter*     | to join            | *passu*       | a step
-| *ancor*      | still, yet         | *ad-supra*    | up
-| *monte*      | mountain           | *vast*        | vast
-|===
+===== Vocabularium
+
+- *ad-supra* = up
+- *ancor* = still, yet
+- *anteyan* = former
+- *digni* = dignified
+- *economisar* = to economize, save
+- *exciselar* = to chisel out (*ciselar* = to chisel)
+- *flut* = flood, flow
+- *junter* = to join
+- *monte* = mountain
+- *moné* = money
+- *passu* = a step
+- *plu … plu …* = the more … the more …
+- *scope* = goal, aim
+- *spoliar* = to spoil, waste
+- *usar* = to use
+- *vast* = vast
 
 ==== 5.1.3 Li division de labor
 
@@ -1789,25 +1998,37 @@ calculationes de profite.
 NOTE: *to* is only written with an accent here to show emphasis
 ("_that_ is never found in our profit calculations").
 
-|===
-| *ultim*     | final, recent | *restar*     | to remain
-| *cap*       | head          | *derivar*    | to derive
-| *concerner* | to concern    | *suficent*   | sufficient
-| *cri*       | a cry         | *inpallidar* | to bleach (also *pallidar*, *in-* strengthens the verb a bit as in to bleach in)
-| *fals*      | false         | *pivote*     | fulcrum, hinge
-| *clove*     | nail          | *elevar*     | to elevate, raise
-| *coton*     | cotton        | *sonori*     | sonorous
-| *indurar*   | to harden     | *rupter*     | to break, rupture
-| *anim*      | soul          | *forn*       | oven
-| *pezze*     | piece         | *fine*       | end
-|===
+===== Vocabularium
+
+- *anim* = soul
+- *cap* = head
+- *clove* = nail
+- *concerner* = to concern
+- *coton* = cotton
+- *cri* = a cry
+- *derivar* = to derive
+- *elevar* = to elevate, raise
+- *fals* = false
+- *fine* = end
+- *forn* = oven
+- *indurar* = to harden
+- *inpallidar* = to bleach (also *pallidar*, *in-* strengthens the verb a bit as in to bleach in)
+- *pezze* = piece
+- *pivote* = fulcrum, hinge
+- *restar* = to remain
+- *rupter* = to break, rupture
+- *sonori* = sonorous
+- *suficent* = sufficient
+- *ultim* = final, recent
 
 ==== 5.1.4 Sofistica
+
+// XXX FIXED -- Protagoras -> Protágoras
 
 Un yun greco hat aprendet de Protágoras li arte de sofistes contra
 payament de 50 mines ínmediatmen e ulterior 50 mines, quande il hat
 victet in su unesim processu. Proque il tardat payar li ultim parte,
-Protagoras comensat processu contra il. In ti die, in quel li judicament
+Protágoras comensat processu contra il. In ti die, in quel li judicament
 evenit, li du parties incontrat ante li deliberationes del judicos.
 
 "It es plu bon, que tu paya me nu," dit li mastro, "nam si yo victe, tu
@@ -1821,15 +2042,22 @@ deve payar."
 
 // XXX FIXED -- Markup of "índemiatmen":
 
-|===
-| *aprender*     | to learn                                                | *judicar*    | to judge
-| *comprensibil* | understandable, natural (*comprensibilmen* = of course) | *payar*      | to pay
-| *mine*         | mine (Ancient Greek currency)                           | *tardar*     | to delay
-| *victer*       | to win                                                  | *evenir*     | to happen
-| *judico*       | a judge                                                 | *atender*    | to wait
-| *ínmediatmen*  | immediately                                             | *replicar*   | to reply
-| *mastro*       | master                                                  | *comprender* | to understand
-|===
+===== Vocabularium
+
+- *aprender* = to learn
+- *atender* = to wait
+- *comprender* = to understand
+- *comprensibil* = understandable, natural (*comprensibilmen* = of course)
+- *evenir* = to happen
+- *judicar* = to judge
+- *judico* = a judge
+- *mastro* = master
+- *mine* = mine (Ancient Greek currency)
+- *payar* = to pay
+- *replicar* = to reply
+- *tardar* = to delay
+- *victer* = to win
+- *ínmediatmen* = immediately
 
 ==== 5.1.5 Li max perfect lingue
 
@@ -1860,31 +2088,30 @@ tam long quam homes ama li flores del verne ne solmen li sicc folies del
 autune – tam long un lingue aprioric, sin historie e sin metáfores ne
 va esser parlat sur ti ci globe.
 
-[cols="4"]
-|===
-| *chascun*      | each
-| *rud*          | rude, rough
-| *perdir*       | to lose
-| *fix*          | fixed, fast
-| *sentir*       | to feel
-| *amore*        | love
-| *luder*        | to play
-| *besonar*      | to need
-| *radica*       | a root
-| *rol*          | role
-| *lurar*        | to lure
-| *adherer*      | to adhere
-| *mente*        | mind
-| *sicc*         | dry
-| *pur*          | pure
-| *calv*         | bald
-| *dispensar* a* | to dispense, rid oneself of
-| *necos a*      | nothing (n.b. derived from *ne* + *cose*, thus accented as *necós* and often written with the accent)
-| *glacie*       | ice
-| *presupposir*  | to presuppose
-| *superficie*   | surface
-| *vicear*       | to replace
-|===
+===== Vocabularium
+
+- *adherer* = to adhere
+- *amore* = love
+- *besonar* = to need
+- *calv* = bald
+- *chascun* = each
+- *dispensar* = to dispense, rid oneself of
+- *fix* = fixed, fast
+- *glacie* = ice
+- *luder* = to play
+- *lurar* = to lure
+- *mente* = mind
+- *necos* = nothing (n.b. derived from *ne* + *cose*, thus accented as *necós* and often written with the accent)
+- *perdir* = to lose
+- *presupposir* = to presuppose
+- *pur* = pure
+- *radica* = a root
+- *rol* = role
+- *rud* = rude, rough
+- *sentir* = to feel
+- *sicc* = dry
+- *superficie* = surface
+- *vicear* = to replace
 
 ==== 5.1.6 Proverbies
 
@@ -1906,13 +2133,17 @@ De lu sublim a lu comic es sovente solmen un passu.
 Leges es quam li texturas del aranés; li micri moscas es captet, li
 grandes trapassa.
 
-|===
-| *texter*    | to spin         | *mosca*   | a fly
-| *laude*     | praise          | *arané*   | spider
-| *fortuna*   | fortune         | *meriter* | to merit
-| *capter*    | to catch        | *brav*    | brave
-| *trapassar* | to pass through |           |
-|===
+===== Vocabularium
+
+- *arané* = spider
+- *brav* = brave
+- *capter* = to catch
+- *fortuna* = fortune
+- *laude* = praise
+- *meriter* = to merit
+- *mosca* = a fly
+- *texter* = to spin
+- *trapassar* = to pass through
 
 ==== 5.1.7 Li historie
 
@@ -1926,16 +2157,24 @@ tro inclinat regardar lu passat quam alquicos mort, ma it existe ye
 vivent evidentie in nor animas hodie. It opresse nos e stimula nos al
 action, it tirannisa nos e inspira nos a coses plu sublim.
 
-|===
-| *percepter* | to perceive       | *passat*     | past
-| *subtil*    | subtle            | *Nihil*      | Nothing
-| *conexion*  | connection        | *futuri*     | future (adjective)
-| *fil*       | thread            | *significar* | to mean / signify
-| *transir*   | to transit, go by | *fugir*      | to flee
-| *exeada*    | exit              | *evanescer*  | to evanesce
-| *morte*     | death             | *mort(i)*    | dead
-| *depender*  | to depend         | *abiss*      | abyss
-|===
+===== Vocabularium
+
+- *abiss* = abyss
+- *conexion* = connection
+- *depender* = to depend
+- *evanescer* = to evanesce
+- *exeada* = exit
+- *fil* = thread
+- *fugir* = to flee
+- *futuri* = future (adjective)
+- *mort(i)* = dead
+- *morte* = death
+- *Nihil* = Nothing
+- *passat* = past
+- *percepter* = to perceive
+- *significar* = to mean / signify
+- *subtil* = subtle
+- *transir* = to transit, go by
 
 ==== 5.1.8 Aforismes
 
@@ -1950,13 +2189,17 @@ diferentie inter heróes e martiros. (O. Wilde.)
 Du levul gantes de fa un pare de gantes, du demí veritás ne fa un
 veritá. (Multatuli.)
 
-|===
-| *scop-conscient* | goal-conscious     | *auxiliar* | to help
-| *iniciar*        | to initiate, start | *gante*    | glove
-| *alcun*          | some               | *repose*   | repose
-| *finalmen*       | finally            | *cose*     | thing
-| *levul*          | left               |            |
-|===
+===== Vocabularium
+
+- *alcun* = some
+- *auxiliar* = to help
+- *cose* = thing
+- *finalmen* = finally
+- *gante* = glove
+- *iniciar* = to initiate, start
+- *levul* = left
+- *repose* = repose
+- *scop-conscient* = goal-conscious
 
 === 5.2 Explanations
 
@@ -2427,7 +2670,6 @@ In fin sequet un corso de automobilistes e motoristes.
 In li véspere in li vast sala municipal esset arrangeat un grand festa,
 u incontrat se li tot population per su eminent laboratores scientific,
 politic, artistic e social. Inter li
-
 scientistes on posset reconnosser li professores del universitá, li
 romanist E., li germanist F., e li orientalist M. Omni scienties esset
 representat, on videt juristes, medicos, inter ili li oculist S., li
@@ -2450,27 +2692,45 @@ festa trovat su fine, talmen que li reporteros havet mult a far scrir li
 rapportes al rect témpore, e li redactores e correctores esset occupat
 til li límite. Criticastros comprensibilmen ne esset content.
 
-|===
-| *cité capital* | capital city      | *presc*    | almost
-| *chapel*       | hat               | *picter*   | to paint
-| *matin*        | morning           | *ultra*    | besides, beyond
-| *sapate*       | shoe              | *paisage*  | landscape
-| *ducter*       | to lead           | *marita*   | wife
-| *barbe*        | beard             | *sculpter* | to sculpt
-| *retener*      | keep back         | *veste*    | clothing
-| *mur*          | wall              | *fonder*   | to melt
-| *flanc*        | side              | *vitre*    | glass
-| *arder*        | to burn           | *auxiliar* | to help
-| *jalon*        | a pole            | *ferre*    | iron
-| *laceron*      | a rogue, rascal   | *pede*     | foot
-| *pedones*      | pedestrians       | *ovrero*   | worker
-| *fripon*       | rascal, scoundrel | *mineros*  | miners
-| *alt*          | high              | *galoppon* | runner, errand-boy
-| *depoy*        | thereafter        | *intern*   | internal
-| *babilar*      | to chat           | *dormion*  | sleeper, sluggard
-| *talliero*     | tailor            | *dente*    | tooth
-| *límite*       | limit             |            |
-|===
+===== Vocabularium
+
+- *alt* = high
+- *arder* = to burn
+- *auxiliar* = to help
+- *babilar* = to chat
+- *barbe* = beard
+- *chapel* = hat
+- *cité capital* = capital city
+- *dente* = tooth
+- *depoy* = thereafter
+- *dormion* = sleeper, sluggard
+- *ducter* = to lead
+- *ferre* = iron
+- *flanc* = side
+- *fonder* = to melt
+- *fripon* = rascal, scoundrel
+- *galoppon* = runner, errand-boy
+- *intern* = internal
+- *jalon* = a pole
+- *laceron* = a rogue, rascal
+- *límite* = limit
+- *marita* = wife
+- *matin* = morning
+- *mineros* = miners
+- *mur* = wall
+- *ovrero* = worker
+- *paisage* = landscape
+- *pede* = foot
+- *pedones* = pedestrians
+- *picter* = to paint
+- *presc* = almost
+- *retener* = keep back
+- *sapate* = shoe
+- *sculpter* = to sculpt
+- *talliero* = tailor
+- *ultra* = besides, beyond
+- *veste* = clothing
+- *vitre* = glass
 
 ==== 6.1.2 Un farme in li subtropic landes
 
@@ -2963,20 +3223,32 @@ cuida, quam fluent, quam brilliant il es . . .
 
 (Emerson)
 
-|===
-| *distinter* | to distinguish          | *atinger*   | attain
-| *exposir*   | to expose               | *voce*      | voice
-| *referer*   | to reference            | *aventura*  | adventure
-| *explicar*  | to explain              | *crud*      | crude
-| *reverer*   | to revere               | *charge*    | charge, burden
-| *sonar*     | to sound                | *satisfar*  | to satisfy
-| *performar* | to perform              | *vocar*     | to call
-| *trope*     | figure of speech, trope | *exercir*   | to exercise
-| *scope*     | a goal                  | *demandar*  | to demand, request
-| *cuidar*    | to take care of         | *delicie*   | a delicacy
-| *sol*       | alone                   | *ganiar*    | to win
-| *orígine*   | origin                  | *balbutiar* | to stutter
-|===
+===== Vocabularium
+
+- *atinger* = attain
+- *aventura* = adventure
+- *balbutiar* = to stutter
+- *charge* = charge, burden
+- *crud* = crude
+- *cuidar* = to take care of
+- *delicie* = a delicacy
+- *demandar* = to demand, request
+- *distinter* = to distinguish
+- *exercir* = to exercise
+- *explicar* = to explain
+- *exposir* = to expose
+- *ganiar* = to win
+- *orígine* = origin
+- *performar* = to perform
+- *referer* = to reference
+- *reverer* = to revere
+- *satisfar* = to satisfy
+- *scope* = a goal
+- *sol* = alone
+- *sonar* = to sound
+- *trope* = figure of speech, trope
+- *vocar* = to call
+- *voce* = voice
 
 NOTE: The *-nd* suffix (*-and* for *-ar* verbs, *-end* for *-er* and *-ir* verbs)
 adds the meaning "thing to be (verb)ed)". This is where words
@@ -3004,11 +3276,14 @@ Li damas ne veni in li ciel, nam ja in li Apocalipse es dit in un loc:
 It esset silent durant un demí seconde. To ne es pensabil ta, u damas es
 present. (Kant.)
 
-|===
-| *angule*    | angle         | *spirar* | to breathe
-| *loc*       | place         | *sagie*  | sage
-| *calambure* | wordplay, pun | *siler*  | to be silent
-|===
+===== Vocabularium
+
+- *angule* = angle
+- *calambure* = wordplay, pun
+- *loc* = place
+- *sagie* = sage
+- *siler* = to be silent
+- *spirar* = to breathe
 
 ==== 7.1.3 Li evangelie del labor
 
@@ -3041,14 +3316,20 @@ espera, e li testimonie pri coses queles ne es visibil.
 
 (Henry Ford.)
 
-|===
-| *folle*    | a fool        | *partiprender* | to participate, take part
-| *capabil*  | capable       | *deventie*     | a duty
-| *acumular* | to accumulate | *capacitá*     | capacity
-| *rasar*    | to shave      | *augmentar*    | to augment, increase
-| *tintinar* | to jingle     | *luder*        | to play
-| *monete*   | a coin        | *substantie*   | substance
-|===
+===== Vocabularium
+
+- *acumular* = to accumulate
+- *augmentar* = to augment, increase
+- *capabil* = capable
+- *capacitá* = capacity
+- *deventie* = a duty
+- *folle* = a fool
+- *luder* = to play
+- *monete* = a coin
+- *partiprender* = to participate, take part
+- *rasar* = to shave
+- *substantie* = substance
+- *tintinar* = to jingle
 
 NOTE: *mani* before a singular means *many a*, while before a plural
 it means *many* (same as *mult*).
@@ -3101,15 +3382,22 @@ Vor devoet
 
 Y{dot} Z{dot}
 
-|===
-| *mersiar*    | to thank          | *ocupation* | occupation
-| *sam quam*   | same as           | *iniciat*   | initiated
-| *esser rect* | be right          | *adplu*     | moreover
-| *suposir*    | to suppose        | *harengo*   | herring
-| *sparro*     | sparrow           | *acustomar* | to accustom
-| *devoer*     | to be devoted     | *exposir*   | to expose
-| *chargear*   | to charge, burden | *obliviar*  | to forget
-|===
+===== Vocabularium
+
+- *acustomar* = to accustom
+- *adplu* = moreover
+- *chargear* = to charge, burden
+- *devoer* = to be devoted
+- *esser rect* = be right
+- *exposir* = to expose
+- *harengo* = herring
+- *iniciat* = initiated
+- *mersiar* = to thank
+- *obliviar* = to forget
+- *ocupation* = occupation
+- *sam quam* = same as
+- *sparro* = sparrow
+- *suposir* = to suppose
 
 NOTE: *haver rason* is another way to say "be right".
 
@@ -3573,16 +3861,23 @@ frigid o calid?" – "Calid," yo respondet. E su Sanctitá departet por
 aportar li trincage, ma il esset absent tro long e interim yo avigilat
 me. Quam yo nu repente, que yo ne hat petit le dar me it frigid."
 
-|===
-| *somnie*   | dream                   | *tappar*   | to tap, knock
-| *trincage* | a drink                 | *droll(i)* | funny
-| *honore*   | honor                   | *departer* | to depart
-| *repenter* | to repent               | *racontar* | to tell (a story, etc.)
-| *equipar*  | to equip                | *Papa*     | Pope (note: papá = papa, daddy)
-| *jamá*     | ever, never             | *interim*  | meanwhile
-| *apen*     | hardly, barely, just as | *meditar*  | to meditate
-| *avigilar* | to awaken               |            |
-|===
+===== Vocabularium
+
+- *apen* = hardly, barely, just as
+- *avigilar* = to awaken
+- *departer* = to depart
+- *droll(i)* = funny
+- *equipar* = to equip
+- *honore* = honor
+- *interim* = meanwhile
+- *jamá* = ever, never
+- *meditar* = to meditate
+- *Papa* = Pope (note: *papá* = papa, daddy)
+- *racontar* = to tell (a story, etc.)
+- *repenter* = to repent
+- *somnie* = dream
+- *tappar* = to tap, knock
+- *trincage* = a drink
 
 ==== 8.1.2 Aforismes
 
@@ -3618,13 +3913,17 @@ Quande un hom di: "Un de nos erra," yo save strax, quem il alude.
 Certmen Vu conosse ti person, qui quande on parla pri un altri hom,
 comensa strax parlar pri se self.
 
-|===
-| *concordar*  | to agree     | *injurie*    | injury, insult
-| *tacer*      | to be silent | *ínprudent*  | imprudent, careless
-| *mani*       | many a       | *fanfaronar* | to boast, talk up
-| *abominabil* | abominable   | *etá*        | age
-| *aluder*     | to alude     |              |
-|===
+===== Vocabularium
+
+- *abominabil* = abominable
+- *aluder* = to alude     |              |
+- *concordar* = to agree
+- *etá* = age
+- *fanfaronar* = to boast, talk up
+- *injurie* = injury, insult
+- *mani* = many a
+- *tacer* = to be silent
+- *ínprudent* = imprudent, careless
 
 ==== 8.1.3 Bon respondet
 
@@ -3671,7 +3970,6 @@ ili es li nativ extranianos. (Moszkowski.)
 
 Li fanatisme es li sol fortie de vole quel anc li debiles e li íncertes
 posse manifestar.
-
 (Nietzsche.)
 
 Poc homes pensa, ma omnes vole haver opiniones. (Berkeley.)
@@ -3692,12 +3990,16 @@ inteligent hom. Ma to es profundmen fals: pluri ásinos in concret fa li
 Un solari sistema es solmen un punctuat profil del mundan genie, ma un
 homan ocul es li miniatura del solari sistema. (Jean Paul.)
 
-|===
-| *fidel*        | faithful  | *ásino*      | donkey, ass
-| *animale*      | animal    | *debil*      | weak
-| *puella*       | girl      | *constituer* | constitute
-| *interprender* | undertake | *despecte*   | scorn
-|===
+===== Vocabularium
+
+- *animale* = animal
+- *constituer* = constitute
+- *debil* = weak
+- *despecte* = scorn
+- *fidel* = faithful
+- *interprender* = undertake
+- *puella* = girl
+- *ásino* = donkey, ass
 
 ==== 8.1.5 Iguanodon
 
@@ -3714,14 +4016,18 @@ iguanodon, ma bentost il esset un modest micri hom apu li colossal
 animale. Un dama regardat li gigant e dit: "It es ínpossibil. Etsi un
 tal animal ha vivet, qualmen on posse saver su nómine?"
 
-=== 8.2 Explanations
+===== Vocabularium
 
-|===
-| *viage*        | journey    | *diluvie* | flood
-| *caude*        | tail       | *animale* | animal
-| *impressionar* | to impress | *benque*  | even though
-| *spacie*       | space      | *superar* | surpass
-|===
+- *animale* = animal
+- *benque* = even though
+- *caude* = tail
+- *diluvie* = flood
+- *impressionar* = to impress
+- *spacie* = space
+- *superar* = surpass
+- *viage* = journey
+
+=== 8.2 Explanations
 
 ==== 8.2.1 Pronouns
 
@@ -3985,13 +4291,18 @@ unesim conosset form e sense del parol, che li etimon. Li historie de un
 parol es un micri novelle, un excerpte ex un immensimen grand libre: li
 Historie del Homanité.
 
-|===
-| *indicar* | to indicate | *concerner*  | to concern
-| *infante* | infant      | *excerpte*   | excerpt
-| *pruntar* | to borrow   | *developar*  | to develop
-| *lontan*  | far         | *influentie* | influence
-| *genuine* | genuine     | *etimon*     | etymon (a word root - cf. etymology)
-|===
+===== Vocabularium
+
+- *concerner* = to concern
+- *developar* = to develop
+- *etimon* = etymon (a word root - cf. etymology)
+- *excerpte* = excerpt
+- *genuine* = genuine
+- *indicar* = to indicate
+- *infante* = infant
+- *influentie* = influence
+- *lontan* = far
+- *pruntar* = to borrow
 
 ==== 9.1.2 Li grand idés
 
@@ -4011,11 +4322,14 @@ quantcunc detalliat li histories de Grecia e Roma, si per li historic
 documentes li grand idés de libertá e bellitá e bravitá e spiritual
 energie ne ha flammat quam vivent foyes in su anima? (Channing.)
 
-|===
-| *elevar*     | to raise     | *erudition* | erudition
-| *terminar*   | to end       | *larg*      | broad, wide
-| *determinar* | to determine | *bravitá*   | bravery
-|===
+===== Vocabularium
+
+- *bravitá* = bravery
+- *determinar* = to determine
+- *elevar* = to raise
+- *erudition* = erudition
+- *larg* = broad, wide
+- *terminar* = to end
 
 ==== 9.1.3 Anecdotes
 
@@ -4039,18 +4353,23 @@ A un yun mann, qui sedet silent in un companie, Teophrástos, li famos
 grec filosof, dit: "Si Vu es folli, Vu acte sagimen; si Vu es sagi, Vu
 acte follimen."
 
-'''
+===== Vocabularium
 
-|===
-| *subitmen* | suddenly        | *savagi*    | wild
-| *matre*    | mother          | *epol*      | shoulder
-| *sponsa*   | spouse (female) | *sestra*    | sister
-| *serchar*  | to search       | *chuchotar* | to whisper
-| *foll(i*)  | crazy           | *fratre*    | brother
-| *ambi*     | both            | *tendri*    | tender
-| *emigrar*  | to emigrate     | *felici*    | happy
-| *intenter* | to intend       |             |
-|===
+- *ambi* = both
+- *chuchotar* = to whisper
+- *emigrar* = to emigrate
+- *epol* = shoulder
+- *felici* = happy
+- *foll(i*) = crazy
+- *fratre* = brother
+- *intenter* = to intend       |             |
+- *matre* = mother
+- *savagi* = wild
+- *serchar* = to search
+- *sestra* = sister
+- *sponsa* = spouse (female)
+- *subitmen* = suddenly
+- *tendri* = tender
 
 ==== 9.1.4 Aforismes
 

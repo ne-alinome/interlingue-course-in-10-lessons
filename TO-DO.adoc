@@ -1,6 +1,6 @@
 = TO-DO of _Interlingue Course in 10 Lessons_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-02-19
+:revdate: 2019-02-20
 
 - Add year of the original edition.
 - Add author of the wiki version.
@@ -8,6 +8,7 @@
 - Rearrange tables in less columns.
 - Markup quotes in "Aforismes".
 - Add changes done to the wiki version.
-- Homogenize notation of notes and markup them.
 - Add quotes to example terms in English explanations.
 - Link references to chapters, lessons and others.
+- Homogenize notation of verbs in the vocabulary lists.
+- Fix combined note "...also gives rise..."
