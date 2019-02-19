@@ -17,7 +17,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201902200010
+// Last modified 201902200021
 
 :dot: .
 
@@ -1244,14 +1244,14 @@ NOTE: *decesim* (tenth) is written as *decesim* and
 not *deciesim* because *-i* in *deci* is the adjectival ending we
 encountered above (the root itself is *dec*). This is another example of
 an adjective that requires the *-i* ending on its own as
-otherwise *dec* would be pronounced *dek*.
+otherwise *dec* would be pronounced "dek".
 
 NOTE: *-esim* also gives rise to internationally-recognized words such
 as *ínfinitesim* (an infinitessimal part) and *infinitesimal*. In
 Interlingue these words are regularly derived from common verbs: *ín*
 + *fini-r* (to finish) + *t* + *-esim* + *-al* = *ínfinitesimal*.
-+
-Similarly, sometimes the *-ant* is written *-anti* for euphonic
+
+NOTE: Similarly, sometimes the *-ant* is written *-anti* for euphonic
 purposes. But because *-ant* on its own is easy enough to pronounce
 the *-anti* form is much rarer.
 
@@ -1266,7 +1266,7 @@ question: *quantuplic*?
 - duantquinuplic
 - decuplic
 - duantuplic
-- qua**d**ruplic
+- qua__d__ruplic
 - centuplic
 
 From these words are also derived many known
