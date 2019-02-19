@@ -17,7 +17,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201902192239
+// Last modified 201902192308
 
 :dot: .
 
@@ -44,7 +44,9 @@ and other formats.
 
 == 1 Unesim letion
 
-=== 1.1 Texte
+// XXX FIXED -- Texte -> Textus (in all headings)
+
+=== 1.1 Textus
 
 ==== 1.1.1 Un international congress
 
@@ -242,7 +244,7 @@ they do not in Interlingue.
 
 == 2 Duesim letion
 
-=== 2.1 Texte
+=== 2.1 Textus
 
 ==== 2.1.1 Un dialog
 
@@ -561,7 +563,7 @@ It works as an adjective in the same way as in English:
 
 == Triesim letion
 
-=== 3.1 Texte
+=== 3.1 Textus
 
 ==== 3.1.1 Li creation
 
@@ -953,7 +955,7 @@ leads to much less looking up of words in the dictionary.
 
 == 4 Quadresim letion
 
-=== 4.1 Texte
+=== 4.1 Textus
 
 ==== 4.1.1 Li misterie del cratere in Sall
 
@@ -1673,7 +1675,7 @@ the [s] sound in all cases, ch for [sh], etc.).
 
 == Quinesim letion
 
-=== 5.1 Texte
+=== 5.1 Textus
 
 ==== 5.1.1 Regress e progress
 
@@ -2379,7 +2381,7 @@ expenses, etc.:
 
 == 6 Sixesim letion
 
-=== 6.1 Texte
+=== 6.1 Textus
 
 ==== 6.1.1 Li festivitás ye li ocasion del ottcentenarie del cité capital
 
@@ -2931,7 +2933,7 @@ A more scientific or specialized grouping of something.
 
 == 7 Setesim letion
 
-=== 7.1 Texte
+=== 7.1 Textus
 
 ==== 7.1.1 Li intern veritá
 
@@ -3565,7 +3567,7 @@ substitution*,
 
 == 8 Ottesim letion
 
-=== 8.1 Texte
+=== 8.1 Textus
 
 ==== 8.1.1 Un somnie
 
@@ -3977,7 +3979,7 @@ Examples:
 
 == 9 Ninesim letion
 
-=== 9.1 Texte
+=== 9.1 Textus
 
 ==== 9.1.1 Un parol - un novelle
 
@@ -3991,7 +3993,7 @@ decisixesim secul. Ma li parol explica ancor plu. It di, que originalmen
 it deve har esset usat por un cert sorte del infanterie, a saver, por li
 guardie del Infante de Hispania. Li "Infante" de Hispania es identic con
 li international e pro to anc occidental parol "infante," originant del
-latin „infans,“ quel es composit del prefix "in" (ne) e "fans"
+latin "infans," quel es composit del prefix "in" (ne) e "fans"
 (parlant), to es, un hom, quel ancor ne posse parlar. Talmen yo veni in
 mi exploration a plu e plu lontan témpores e popules, e yo fini che li
 unesim conosset form e sense del parol, che li etimon. Li historie de un
@@ -4287,7 +4289,7 @@ difference:
 
 == 10 Decesim letion
 
-=== 10.1 Texte
+=== 10.1 Textus
 
 ==== 10.1.1 "In comensa esset li parol"
 
@@ -4409,7 +4411,7 @@ Li practic necessitá haver un lingue international es evident. E proque
 un tal lingue es possibil, it deve esser introductet tam bentost quam
 possibil.
 
-(Secun A. Meillet, professore de „Collège de France.“)
+(Secun A. Meillet, professore de Collège de France.)
 
 === 10.2 Explanations
 

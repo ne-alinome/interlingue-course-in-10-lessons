@@ -7,7 +7,6 @@
 - Confirm year of the wiki version.
 - Rearrange tables in less columns.
 - Markup quotes in "Aforismes".
-- texte -> textu.
 - Add changes done to the wiki version.
 - Homogenize notation of notes and markup them.
 - Add quotes to example terms in English explanations.
