@@ -1,4 +1,5 @@
 = Interlingue Course in 10 Lessons
+:author: Mag. phil. A.Z. Ramstedt
 
 // This file is part of project
 // _Interlingue Course in 10 Lessons_
@@ -9,13 +10,22 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201902190033
+// Last modified 201902190059
 
 :dot: .
 
-Mag. phil. A.Z. Ramstedt, Helsinki
+== About this book
 
-Occidental-Buró Berlin
+Author:: Mag. phil. A.Z. Ramstedt, Helsinki
+
+Original title:: Occidental Course in 10 Lessons
+
+Original publisher:: Occidental-Buró Berlin
+
+Editor of the wiki version:: http://cosmoglotta.pbworks.com/, 2018
+
+Editor of this e-book version:: Marcos Cruz (programandala.net) for
+http://ne.alinome.net, 2019
 
 == 1 Unesim letion
 
@@ -275,6 +285,8 @@ e parlar. O si Vu vole, café o té. Ples venir con me!"
 yo fa, e pri quo e por qui yo scri?"
 
 "Pro que un yun mann deve saver omnicos."
+
+====
 
 Note: hodie as a combination of ho+die is stressed as hodíe, and omnicos
 as a combination of omni (all) + cose (thing) is stressed as omnicós.
@@ -3076,7 +3088,9 @@ note: *haver rason* is another way to say 'be right'.
 
 == 7.2 Explanations
 
-==== 7.2.1 Adjectival suffixes
+// XXX FIXED -- Hierarchy:
+
+=== 7.2.1 Adjectival suffixes
 
 The three most used adjectival suffixes are:
 
@@ -3119,8 +3133,6 @@ mathematician
 *critic critica critico*: critical, criticism, critic
 
 ==== What about -ical?
-
-====
 
 Generally, it is a good idea to resist the urge to express every -ical
 English word with another -**ical **in Occidental (just -ic is
