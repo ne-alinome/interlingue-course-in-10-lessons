@@ -10,7 +10,7 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201902190059
+// Last modified 201902190105
 
 :dot: .
 
@@ -149,24 +149,24 @@ diminishing
 === 1.2 Explanation
 
 Reading the first lesson, we find that the majority of words in
-Occidental are already long familiar to us. That is, the vocabulary in
-Occidental is largely composed of already-existing international words,
+Interlingue are already long familiar to us. That is, the vocabulary in
+Interlingue is largely composed of already-existing international words,
 those that most countries in Europe (and of course countries in the
 Americas, in Australia, African countries with European languages, etc.)
 can already understand, and do not need to learn anew. These
 international words are, as we can see through these examples, used in
-an "unmutilated" form. But, - and this is what makes Occidental unique -
+an "unmutilated" form. But, - and this is what makes Interlingue unique -
 in the language they are not foreign loanwords, but entirely regularly
 composed and derived from international root words, that have been
 chosen in such a way that all these completely international and natural
 words come into being by themselves. This has never been achieved before
 in existing planned world languages.
 
-The word-building system in Occidental is in fact the same one that is
+The word-building system in Interlingue is in fact the same one that is
 found in international words, but as we will see later, can be easily
 learned and mastered with the help of a few rules.
 
-But it's not just the vocabulary of Occidental that is natural and easy
+But it's not just the vocabulary of Interlingue that is natural and easy
 to learn; the grammar is also extremely easy thanks to its regularity.
 
 ==== 1.2.1 Article
@@ -176,7 +176,7 @@ to learn; the grammar is also extremely easy thanks to its regularity.
 * li congress - the congress
 * li lampe - the lamp
 
-There is no grammatical gender in Occidental. *Un* is the indefinite
+There is no grammatical gender in Interlingue. *Un* is the indefinite
 article (a/an), and does not decline (change form).
 
 *Li* is the definite article (the), which also does not decline.
@@ -220,12 +220,12 @@ du modern automobiles - two modern automobiles
 
 ====
 
-Adjectives in Occidental do not decline for gender, number or case.
+Adjectives in Interlingue do not decline for gender, number or case.
 
 ==== 1.2.5 Persons
 
 While verbs in English conjugate depending on the person and number,
-they do not in Occidental.
+they do not in Interlingue.
 
 [cols=",,,",]
 |===
@@ -435,7 +435,7 @@ sin cessar e combatter mem li diábol."
 
 2.2.1 Conjugation
 
-Verbs in Occidental are all regular (except for the verb to be (*esser*)
+Verbs in Interlingue are all regular (except for the verb to be (*esser*)
 which is written *es* in the present). There is only one conjugation
 with four forms. Taking the verbal stem ama- (love) as as example we
 have the following four forms:
@@ -730,7 +730,7 @@ end with the 5
 
 ==== 3.2.1 suffixes -ion, -or, -ori, -iv, ura.
 
-Note that these words in Occidental are regularly derived from verbs.
+Note that these words in Interlingue are regularly derived from verbs.
 
 The words with *-ion, or, -ori, -iv* and *-ura* are created with the
 perfect stem of the verb. But dictionaries only give the infinitive of a
@@ -755,7 +755,7 @@ at the end?
 |*distint/er*, to distinguish |*distint-* |*distintion*, distinction
 |===
 +
-Note: as in English, Occidental sometimes has two groupings of verbs
+Note: as in English, Interlingue sometimes has two groupings of verbs
 with nearly the same meaning where the more Latin-like one has a more
 formal or heavy character. To derive *extraction* above the
 verb *extracter* is used, but the verb **extraer**also exists
@@ -767,7 +767,7 @@ pull out), is both a pulling out and an extraction.
 +
 Similarly, the word reader (*letor*, from *le/er* --> *let* --> *letor*)
 has a 'hidden' companion in the form of *lecter* that can be seen from
-the word *lector* (same meaning in Occidental as in English) that one
+the word *lector* (same meaning in Interlingue as in English) that one
 can see derived as *lecter* --> *lect*- --> *lector*. The
 word *letion* above can also be written *lection*, which carries a more
 formal or pompous meaning. This freedom given to the user to explore the
@@ -806,7 +806,7 @@ Five verbs are exceptions to the above and must be learned separately.
 |===
 
 Note: the original de Wahl's Rule included the exception *mover* (to
-move) --> *mot-*, from which is derived *motion*. The Occidental
+move) --> *mot-*, from which is derived *motion*. The Interlingue
 community noted however that *motion* (plus *emotion*)
 and *movement* are semantically different and that using two
 verbs *moer* (to move, to budge) and *mover* (to move) would allow
@@ -848,7 +848,7 @@ something that is dedicated to or working as:
 obligate)
 
 *un organisatori talent* = a talent for organization (lit. an
-organisor-y talent; Occidental allows greater freedom than English with
+organisor-y talent; Interlingue allows greater freedom than English with
 such words)
 
 *un preparatori mesura* = a preparatory measure (from *preparar*, to
@@ -1097,7 +1097,7 @@ an adjective that requires the -i ending on its own as
 otherwise **dec **would be pronounced *dek*.
 
 Note 2: -esim also gives rise to internationally-recognized words such
-as ínfinitesim (an infinitessimal part) and infinitesimal. In Occidental
+as ínfinitesim (an infinitessimal part) and infinitesimal. In Interlingue
 these words are regularly derived from common verbs: ín + fini-r (to
 finish) + t + esim + al = *ínfinitesimal*.
 
@@ -1157,7 +1157,7 @@ etc.
 The above numbers are used collectively or approximatively in phrases
 such as *un centene de soldates*: a hundred soldiers. English uses
 collective nouns rarely (a group of people, a pair of ducks,) while
-Occidental allows it with any number with the *-ene* ending.
+Interlingue allows it with any number with the *-ene* ending.
 
 Li fractiones es:
 
@@ -1277,7 +1277,7 @@ In hiverne veni nive e li dies es frigid.
 |*autune*  |autumn  |*hiverne*  |winter
 
 |*renascer*  |be reborn (cf. renaissance, **renascentie **in
-Occidental)  |*flore*  |flower
+Interlingue)  |*flore*  |flower
 
 |*nive*  |snow  |*calid*  |hot
 |===
@@ -1312,9 +1312,9 @@ Knowing how to derive words with prefixes and suffixes is of great
 importance in the understanding of international words, because being
 able to do this allows you to form a large number of
 internationally-understood words on your own from a single root. None of
-the prefixes or suffixes in Occidental, seemingly so large in number,
+the prefixes or suffixes in Interlingue, seemingly so large in number,
 were created from scratch, but already exist in many internationally
-known foreign words. The difference in that in Occidental they are not
+known foreign words. The difference in that in Interlingue they are not
 simply imported loanwords, and have been given a more precise sense and
 have been made for more general and meaningful use.
 
@@ -1323,10 +1323,10 @@ well). From this word we already recognize words derived from
 it: *central, centrale, centralisme, centralisar, centralisation,
 centralisator, decentralisar, decentralisation, concentrar,
 concentration, excentre, excentric, excentricitá, subcentral*, etc. By
-learning Occidental's derivation one gains an understanding for how they
+learning Interlingue's derivation one gains an understanding for how they
 are made up.
 
-We are now going to look at prepositions, which in Occidental are not
+We are now going to look at prepositions, which in Interlingue are not
 simply standalone particles but also used to form words.
 
 ==== 4.2.1 Prepositiones
@@ -1457,8 +1457,8 @@ Out (of), from.
 
 *Yo trinca ex li glass*. = I drinkt out of the glass.
 
-*Traductet ex german in Occidental*. = Translated from German into
-Occidental.
+*Traductet ex german in Interlingue*. = Translated from German into
+Interlingue.
 
 ==== per
 
@@ -1587,7 +1587,7 @@ Opposite meaning, in/un/etc.:
 
 *Note 1:* other more internationally-recognized forms such
 as *impossibil *(vs. *ínpossibil*), *irregular *(vs. *ínregular*) etc.
-were often used in Occidental but the user base showed a preference for
+were often used in Interlingue but the user base showed a preference for
 a regular *ín-* and the other forms have become rarer.
 
 *Note 2:* not to be confused with the unstressed preposition *in-*,
@@ -1631,7 +1631,7 @@ Again, re-:
 
 ==== Which form to use?
 
-When Occidental was first announced in 1922, Edgar de Wahl proposed a
+When Interlingue was first announced in 1922, Edgar de Wahl proposed a
 number of standalone and derived words that he believed to be equally
 valid, leaving the decision between them to the community to see which
 form it preferred. This process of ironing out took place over the next
@@ -1988,14 +1988,14 @@ veritá. (Multatuli.)
 === 5.2 Explanations
 
 Endings for types of words such as nouns, adjectives and the like are no
-more obligatory in Occidental than in natural languages. Vowels at the
+more obligatory in Interlingue than in natural languages. Vowels at the
 end of words are mainly justified by ease of pronunciation.
 Internationally-known words found in many languages are just as diverse
-in Occidental as in other languages. Some of them are: firma (company),
+in Interlingue as in other languages. Some of them are: firma (company),
 boa, auto, conto (account), cangurú (kangaroo), marabú (a type of tree),
 tabú, colibrí (hummingbird), lampe, idé (idea), etc. Nouns, adjectives
 and particles can end in any vowel or consonant, as long as the word can
-be clearly spoken. A very common end vowel in Occidental is:
+be clearly spoken. A very common end vowel in Interlingue is:
 
 *-e*
 
@@ -3135,7 +3135,7 @@ mathematician
 ==== What about -ical?
 
 Generally, it is a good idea to resist the urge to express every -ical
-English word with another -**ical **in Occidental (just -ic is
+English word with another -**ical **in Interlingue (just -ic is
 preferred). But this is another situation where you can for extra
 precision, and a subject mentioned in Cosmoglotta before. Because -ica
 as shown above refers to the entire branch of art or science,
@@ -3275,7 +3275,7 @@ rich in, full of:
 
 The similar suffixes -iv and -ori were mentioned in lesson 3.
 
-This finishes up the main suffixes seen in Occidental for forming new
+This finishes up the main suffixes seen in Interlingue for forming new
 words. On top of this are many other much less productive affixes that
 show up from time to time and are worth noting:
 
@@ -3291,7 +3291,7 @@ exam-taker (one who is to examine)
 ==== 7.2.2 Divers afixes
 
 Here are some more Latin- or Greek-derived affixes that are seen in
-words in Occidental and most other western European languages:
+words in Interlingue and most other western European languages:
 
 *anti*-: against
 
@@ -3379,7 +3379,7 @@ Examples: **noctal **= *nocturn*, **terral **= *terrestri *(terrestrial), *ciela
 
 Here are some example of how international words are created by
 deduction and composition from simple elements in the derivation of
-Occidental:
+Interlingue:
 
 **protecter **= to protect (protect-er)
 
@@ -3585,7 +3585,7 @@ tal animal ha vivet, qualmen on posse saver su nómine?"
 ==== 8.2.1 Pronouns
 
 In the preceding texts we have become very familiar with many of the
-pronouns in Occidental. Let's look at them as a whole.
+pronouns in Interlingue. Let's look at them as a whole.
 
 Personal pronouns
 
@@ -3726,7 +3726,7 @@ don't understand.
 *Quant vive, tant espera.* -- As long as there is life, there is (that
 much) hope.
 
-Note: sometimes users of Occidental do not bother to pluralize *quel*:
+Note: sometimes users of Interlingue do not bother to pluralize *quel*:
 *tis, quel...* instead of *tis, queles*. *Queles* in the plural is one
 of those words that looks more proper when used but not outright
 deserving of a correction when not.
@@ -3737,7 +3737,7 @@ Note that many of these are simply formed by prefixing *al-*, *ne-*,
 etc. to other existing pronouns. They are not accented.
 
 *on* -- one. This is used much more than in English, where it has a
-pompous feel ("Pardon me, where can one purchase a..."). In Occidental
+pompous feel ("Pardon me, where can one purchase a..."). In Interlingue
 it means one, we, people, you (a general you), and even forms the
 passive. *In Italia on parla italian* = one speaks Italian in Italy, we
 speak Italian in Italy, you speak Italian in Italy, Italian is spoken in
@@ -3835,7 +3835,7 @@ forger of his/her own fortune.
 Please give me some books, I have some free hours for reading.
 
 *Placer a omnes on ne posse, es arte, quel nequi conosse.* -- Pleasing
-all one cannot do, it is an art known by no one. (Note: in Occidental it
+all one cannot do, it is an art known by no one. (Note: in Interlingue it
 rhymes.)
 
 *Ja pluri annus yo vive in ti cité.* -- I have lived in this city for
@@ -4398,7 +4398,7 @@ possibil.
 
 === 10.2.1 Syntax
 
-Syntax is Occidental is for the most part very similar to English, with
+Syntax is Interlingue is for the most part very similar to English, with
 some notable differences in places such as adjectives where they can
 also be placed after the noun (general rule of thumb: the longer the
 adjective, the more it feels right to place it after the noun). Some
@@ -4428,7 +4428,7 @@ vole dir, e finir sin saver quo tu ha dit.* -- To write a good love
 letter, you must begin without knowing what you want to say, and end
 without knowing what you have said. (Rousseau.)
 
-The regular word order in Occidental is: 1. Subject, 2. Predicate, 3.
+The regular word order in Interlingue is: 1. Subject, 2. Predicate, 3.
 Object: (1) *Goethe* (2) *ha scrit* (3) *Faust*. The same applies to
 subordinate clauses.
 
@@ -4535,7 +4535,7 @@ starting off these types of sentences from time to time, however: "*Si
 ella hat conosset su matre, ella vell har...*"
 
 Where some languages use a preposition (especially *a*) before the
-subject of a verb and others don't, Occidental prefers to not use them.
+subject of a verb and others don't, Interlingue prefers to not use them.
 Rule of thumb: if in doubt, try going without a preposition if the
 meaning is still clear.
 
