@@ -17,7 +17,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201902200021
+// Last modified 201902200035
 
 :dot: .
 
@@ -2443,6 +2443,8 @@ words you already know:
 "To make into something", "to bring towards" - similar to *-isar*
 above but slightly different.
 
+// XXX FIXED -- "with power cables with" -> "with power cables"
+
 ====
 
 - *electrificar* = to electrify (note the difference between this and
@@ -2450,7 +2452,7 @@ above but slightly different.
   to charge it, while *electrificar* means to equip something with
   electricity or make electric. Flipping a switch would thus
   *electrisa* one's room, while equipping a village with power cables
-  with *electrifica* it. Though such subtle differences are not too
+  *electrifica* it. Though such subtle differences are not too
   relevant in fluid conversation)
 - *identificar* = to identify (from *identic*, identical; identify has
   these two meanings in English as well: 1 to establish the identity
@@ -3388,7 +3390,7 @@ Y{dot} Z{dot}
 - *adplu* = moreover
 - *chargear* = to charge, burden
 - *devoer* = to be devoted
-- *esser rect* = be right
+- *esser rect* = be right (*haver rason* is another way to say it)
 - *exposir* = to expose
 - *harengo* = herring
 - *iniciat* = initiated
@@ -3398,8 +3400,6 @@ Y{dot} Z{dot}
 - *sam quam* = same as
 - *sparro* = sparrow
 - *suposir* = to suppose
-
-NOTE: *haver rason* is another way to say "be right".
 
 === 7.2 Explanations
 
@@ -3514,9 +3514,12 @@ According to, fitting, belonging to (English -ar):
 
 (On nouns.) Provided with something:
 
-*foliat* = leafed (*folie* = leaf)
+====
 
-*barbat* = bearded (*barbe* = beard)
+- *foliat* = leafed (*folie* = leaf)
+- *barbat* = bearded (*barbe* = beard)
+
+====
 
 ===== -ut
 
@@ -3731,7 +3734,12 @@ Tele-, far.
 
 Killer of.
 
+
+====
+
 *patricide, suicide, homicide*
+
+====
 
 ===== -fer
 
@@ -3829,14 +3837,14 @@ Interlingue:
 - *protectiv* = protective (protect-iv)
 - *star* = to stand
 
-====
-
 *stabil, instabil, stabilitá, ínstabilitá, stabilisar, stabilisation,
 stabilisator; station, stationar, stationari, stationario; state, statu,
 statue, statuarium, statuette, statuer, statute, statuari, static,
 statica; statist; statistic, statistica, statistico; stativ; statura;
 constar, constant; constantie, constatar; restar, restantie; distar,
-distantie; circumstar, circumstantie* etc.
+distantie; circumstar, circumstantie*; etc.
+
+====
 
 Plus some others if one considers that the "-stituer" ending is also
 related to star: *constituer, constitution, instituer, institute,
@@ -4770,17 +4778,18 @@ front of.  Other examples: *tro*, and *tre*.
 // XXX FIXME -- This example is not totally fine, because "ne" can
 // modify "vor libre", not only "vor":
 
-*Yo va prender ne _Vor_ libre.* = I won't take your book (I will take
-somebody else's).
+- *Yo va prender ne _Vor_ libre.* = I won't take your book (I will
+  take somebody else's).
 
 // XXX FIXME -- This example is not fine:
 
-*Vor _libre_ yo ne prende.* = I'm not taking your book (I'm taking
-something else of yours).
+- *Vor _libre_ yo ne prende.* = I'm not taking your book (I'm taking
+  something else of yours).
 
 // XXX FIXED -- This alternative version seems fine:
-// *Vor libre yo ne _prende_.* = I'm not taking your book (I'm doing
-// something else with it).
+
+- *Vor libre yo ne _prende_.* = I'm not taking your book (I'm doing
+  something else with it).
 
 ////////////////////////////////////////////////////////////////
 
