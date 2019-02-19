@@ -1,5 +1,12 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
+:description: A course of the international auxiliary language Interlingue in 10 lessons
+ifdef::backend-pdf[]
+:doctype: book
+:toc: auto
+:toclevels: 2
+:toc-title: Contenete
+endif::[]
 
 // This file is part of project
 // _Interlingue Course in 10 Lessons_
@@ -10,7 +17,7 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201902190126
+// Last modified 201902190129
 
 :dot: .
 
