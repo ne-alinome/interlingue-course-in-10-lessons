@@ -16,5 +16,3 @@
   place".  But alse there are original single quotes: "to say 'be
   right'".
 - Link references to chapters, lessons and others.
-- Markup examples bye example blocks.
-- Convert example lists into actual unordered lists.
