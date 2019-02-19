@@ -715,7 +715,7 @@ por que ili mey saver in quel maniere ili posse investir it."
 We have just seen a large number of expressive international words that
 end with the 5
 
-==== 3.2.1 suffixes -ion, -or, -ori, -iv, ura.
+==== 3.2.1 suffixes -ion, -or, -ori, -iv, -ura
 
 Note that these words in Interlingue are regularly derived from verbs.
 
@@ -723,7 +723,7 @@ The words with *-ion, or, -ori, -iv* and *-ura* are created with the
 perfect stem of the verb. But dictionaries only give the infinitive of a
 verb. How do you find the perfect stem? This is where we come to
 
-==== 3.2.2 de Wahl's Rule.
+==== 3.2.2 de Wahl's Rule
 
 First remove the *-r* from a verb, or *-er* for an *-er* verb. What is
 at the end?
@@ -3436,7 +3436,7 @@ comensa strax parlar pri se self.
 | *aluder*     | to alude     |              |
 |===
 
-==== 8.1.3 Bon respondet.
+==== 8.1.3 Bon respondet
 
 "Ples pardonar me, Senior," dit un tre seriosi aparent mann a un jolli
 hom, qui stat fumant un grand cigare sur li strada, "quant cigares Vu
