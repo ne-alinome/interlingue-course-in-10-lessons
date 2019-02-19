@@ -5,14 +5,10 @@
 - Add year of the original edition.
 - Add author of the wiki version.
 - Confirm year of the wiki version.
-- Add missing emphasis markups, e.g. in affixes.
-- Fix arrows, "-->".
 - Rearrange tables in less columns.
 - Markup quotes in "Aforismes".
 - texte -> textu.
 - Add changes done to the wiki version.
 - Homogenize notation of notes and markup them.
-- Add quotes, as already done in: "Means 'before' in terms of time and
-  place".  But alse there are original single quotes: "to say 'be
-  right'".
+- Add quotes to example terms in English explanations.
 - Link references to chapters, lessons and others.
