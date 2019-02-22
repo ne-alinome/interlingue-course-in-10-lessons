@@ -2,6 +2,7 @@
 :author: Mag. phil. A.Z. Ramstedt
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
+:sectnumlevels: 3
 ifdef::backend-pdf[]
 :doctype: book
 :toc: auto
@@ -18,9 +19,11 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201902221639
+// Last modified 201902221655
 
 :dot: .
+
+:sectnums!:
 
 == About this book
 
@@ -43,13 +46,15 @@ Editor of this e-book version:: Marcos Cruz (programandala.net) for
 http://ne.alinome.net[ne.alinome.net], 2019. Available in EPUB, PDF
 and other formats.
 
-== 1 Unesim letion
+:sectnums:
+
+== Unesim letion
 
 // XXX FIXED -- Texte -> Textus (in all headings)
 
-=== 1.1 Textus
+=== Textus
 
-==== 1.1.1 Un international congress
+==== Un international congress
 
 Noi have un grand international congress in li cité. Li nationes de
 Europa es representat per eminent cultural persones. Li centre del
@@ -112,7 +117,7 @@ discusse li actual situation e international aferes.
 - *visita* = visit (verb)
 - *unesim* = first
 
-==== 1.1.2 Li macules in li sole
+==== Li macules in li sole
 
 Un yun monaco sede in un turre e observa interessat li sole tra un
 telescope. Per hasard il fa un sensational observation: it existe
@@ -152,7 +157,7 @@ macules, e ne li sole.“
 - *yo ha leet* = I have read
 - *yun monaco* = young monk
 
-==== 1.1.3 Aforismes
+==== Aforismes
 
 Genie es un percent inspiration e ninant nin percent transpiration.
 (Edison.)
@@ -184,7 +189,7 @@ Grand artistes es li sol riches qui divide lor tot felicie con nos.
 - *sol* = sole, only
 - *tot* = entire, whole
 
-=== 1.2 Explanation
+=== Explanation
 
 Reading the first lesson, we find that the majority of words in
 Interlingue are already long familiar to us. That is, the vocabulary in
@@ -207,7 +212,7 @@ learned and mastered with the help of a few rules.
 But it's not just the vocabulary of Interlingue that is natural and easy
 to learn; the grammar is also extremely easy thanks to its regularity.
 
-==== 1.2.1 Article
+==== Article
 
 ====
 - *un congress* = a congress
@@ -221,7 +226,7 @@ article (a/an), and does not decline (change form).
 
 *Li* is the definite article (the), which also does not decline.
 
-==== 1.2.2 Singular and plural
+==== Singular and plural
 
 ====
 - *genie* = genius
@@ -239,7 +244,7 @@ article (a/an), and does not decline (change form).
 Plural is formed with an -s, -es after a consonant. Some consonant
 endings such as -g, -um, -c only add an -s for phonetic reasons.
 
-==== 1.2.3 Cases
+==== Cases
 
 ====
 - *de un congress* = of a congress
@@ -251,7 +256,7 @@ endings such as -g, -um, -c only add an -s for phonetic reasons.
 For the definite article (the), a + li is abbreviated to al and de + il
 to del.
 
-==== 1.2.4 Adjectives
+==== Adjectives
 
 ====
 - *un modern automobil* = a modern automobile
@@ -260,7 +265,7 @@ to del.
 
 Adjectives in Interlingue do not decline for gender, number or case.
 
-==== 1.2.5 Persons
+==== Persons
 
 While verbs in English conjugate depending on the person and number,
 they do not in Interlingue.
@@ -278,11 +283,11 @@ they do not in Interlingue.
 | *on have*   | one has           | *on es*   | one is
 |===
 
-== 2 Duesim letion
+== Duesim letion
 
-=== 2.1 Textus
+=== Textus
 
-==== 2.1.1 Un dialog
+==== Un dialog
 
 Un yun mann promena sur li trottuore de un strada e observa li vive. Il
 incontra un amico, quel saluta le e strax comensa questionar:
@@ -374,7 +379,7 @@ They may be also written as *hodíe* and *omnicós*.
 - *Vos* = you (object)
 - *yer* = yesterday
 
-==== 2.1.2 Li furtard e li prestro
+==== Li furtard e li prestro
 
 Un furtard veni a un prestro por confesser su mult peccas e reciver
 pardon e absolution. Li prestro sede in su stul e escuta benevolent,
@@ -436,7 +441,7 @@ deposit li horloge in su tasca.
 - *to* = it, that
 - *tui* = your (informal)
 
-==== 2.1.3 Anecdotes
+==== Anecdotes
 
 Li persian legates postulat del Spartanes terra e aqua quam signe de
 subjugation. Li Spartanes jettat les in un profund bronn: "Ta vu have
@@ -479,7 +484,7 @@ sin cessar e combatter mem li diábol."
 - *terra e aqua* = earth and water
 - *vin* = wine
 
-==== 2.1.4 Proverbies
+==== Proverbies
 
 - Mannes fa domes, ma féminas fa hemes.
 - Li infante es li patre del mann.
@@ -525,9 +530,9 @@ sin cessar e combatter mem li diábol."
 - *trovar* = find
 - *vocar* = call
 
-=== 2.2 Explanations
+=== Explanations
 
-==== 2.2.1 Conjugation
+==== Conjugation
 
 Verbs in Interlingue are all regular (except for the verb to be (*esser*)
 which is written *es* in the present). There is only one conjugation
@@ -653,9 +658,9 @@ It works as an adjective in the same way as in English:
 
 == Triesim letion
 
-=== 3.1 Textus
+=== Textus
 
-==== 3.1.1 Li creation
+==== Li creation
 
 In li Bible sta scrit, que Deo ha *creat* li munde.
 
@@ -680,7 +685,7 @@ Quo il ha creat? Nos e omni altri *creaturas*.
 - *triesim* = third
 - *vermen* = truly
 
-==== 3.1.2 Un brilliant carriera
+==== Un brilliant carriera
 
 Mi fratre have un amico, un ingeniero, qui ha fat un brilliant carriera.
 Ja quam yun studente su aspirationes evocat atention. Pos obligatori
@@ -736,7 +741,7 @@ grand donator e favorisator del scienties e artes.
 - *transitori* = transitory
 - *vendir* = sell
 
-==== 3.1.3 Li eterni problemas
+==== Li eterni problemas
 
 It existe témpores, quande li filosofic speculation sembla haltar in
 total o partial resignation ante li grand problemas del vive, quande ne
@@ -821,7 +826,7 @@ tam senil, quam li profetes de fatiga vole far nos creder.
 NOTE: *omni* before a singular means *each* (same as *chascun*), while
 before a plural it means *all*.
 
-==== 3.1.4 Anecdotes
+==== Anecdotes
 
 On questionat li filosof Aristippos de Kyrene, per quo li filosofos
 distinte se del altri homes. Il respondet: "Si omni leges vell esser
@@ -856,12 +861,12 @@ por que ili mey saver in quel maniere ili posse investir it."
 - *sam quam* = same as
 - *viver* = to live
 
-=== 3.2 Explanations
+=== Explanations
 
 We have just seen a large number of expressive international words that
 end with the 5
 
-==== 3.2.1 Suffixes -ion, -or, -ori, -iv, -ura
+==== Suffixes -ion, -or, -ori, -iv, -ura
 
 Note that these words in Interlingue are regularly derived from verbs.
 
@@ -871,7 +876,7 @@ verb. How do you find the perfect stem? This is where we come to
 
 // XXX FIXED -- "de Wahl's Rule" -> "The de Wahl's Rule"
 
-==== 3.2.2 The de Wahl's Rule
+==== The de Wahl's Rule
 
 First remove the *-r* from a verb, or *-er* for an *-er* verb. What is
 at the end?
@@ -948,7 +953,7 @@ verbs *moer* (to move, to budge) and *mover* (to move) would allow
 greater precision while doing away with an irregularity. Thus, the word
 motion is regularly derived from *mo/er* -> *mot-* -> *motion*.
 
-==== 3.2.3 Meaning of the suffixes
+==== Meaning of the suffixes
 
 ===== -ion
 
@@ -1088,11 +1093,11 @@ separate entities but knowing how they are derived from verbs gives the
 user of the language a much greater range of options when speaking and
 leads to much less looking up of words in the dictionary.
 
-== 4 Quadresim letion
+== Quadresim letion
 
-=== 4.1 Textus
+=== Textus
 
-==== 4.1.1 Li misterie del cratere in Sall
+==== Li misterie del cratere in Sall
 
 In fine del septembre mill nin cent duant sett (1927) li conosset
 geofisico Professor Wegener (de Graz in Austria) visitat un ja de long
@@ -1167,7 +1172,7 @@ terra.
 - *unic* = unique
 - *vicinitá* = vicinity
 
-==== 4.1.2 Numbers
+==== Numbers
 
 Li cardinal numerales, queles responde al question: *quant?* es:
 
@@ -1332,7 +1337,7 @@ Forms such as *un triesim* for 1/3 are of course permitted.
 | *unité*             | unit        | *pare*     | pair
 |===
 
-==== 4.1.3 Li témpore e su division
+==== Li témpore e su division
 
 // XXX TODO -- Make lists:
 
@@ -1419,7 +1424,7 @@ In hiverne veni nive e li dies es frigid.
 - *semane* = week
 - *verne* = spring
 
-==== 4.1.4 Aforismes
+==== Aforismes
 
 In null altri ocasion on menti tant quam pos un chasse, durant un guerre
 e ante un election. (Bismarck.)
@@ -1448,7 +1453,7 @@ Quo noi nómina accidentie, es li asil del ignorantie. (Spinoza.)
 - *refusar* = to refuse
 - *veritá* = truth
 
-=== 4.2 Explanation
+=== Explanation
 
 Knowing how to derive words with prefixes and suffixes is of great
 importance in the understanding of international words, because being
@@ -1471,7 +1476,7 @@ are made up.
 We are now going to look at prepositions, which in Interlingue are not
 simply standalone particles but also used to form words.
 
-==== 4.2.1 Prepositiones
+==== Prepositiones
 
 |===
 | *a, ad*     | to          | *intra*  | between
@@ -1653,7 +1658,7 @@ stolen by an unknown person.
 - *Li avie volat vers li sole* = The bird flew towards the sun.
 ====
 
-===== Words formed by prepositions
+==== Words formed by prepositions
 
 These prepositions are also used to form other words.
 
@@ -1682,7 +1687,7 @@ These prepositions are also used to form other words.
 
 ====
 
-==== 4.2.2 Prefixes
+==== Prefixes
 
 The following prefixes are only used in compound words.
 
@@ -1798,7 +1803,7 @@ Again, re-:
 
 ====
 
-==== 4.2.3 Which form to use?
+==== Which form to use?
 
 When Interlingue was first announced in 1922, Edgar de Wahl proposed a
 number of standalone and derived words that he believed to be equally
@@ -1840,9 +1845,9 @@ the [s] sound in all cases, ch for [sh], etc.).
 
 == Quinesim letion
 
-=== 5.1 Textus
+=== Textus
 
-==== 5.1.1 Regress e progress
+==== Regress e progress
 
 Etsi it sempre ne es litteralmen ver que it custa torrentes de sangue
 por pussar li homanité in moventie un millimetre adavan, it támen es
@@ -1941,7 +1946,7 @@ ridet pri tis qui ridet."
 - *índiferentie* = indifference
 - *ínjust* = unjust
 
-==== 5.1.2 Economisation
+==== Economisation
 
 Si noi vole economisar moné, noi deve deposir it e ne spoliar it in
 omnidial micri expenses. Ma si noi vole economisar témpore, nor hores e
@@ -1978,7 +1983,7 @@ directiones.
 - *usar* = to use
 - *vast* = vast
 
-==== 5.1.3 Li division de labor
+==== Li division de labor
 
 Noi ha studiat mult e perfectionat mult, durant li ultim témpore,
 concernent li grand invention del civilisation: li division de labor.
@@ -2022,7 +2027,7 @@ NOTE: *to* is only written with an accent here to show emphasis
 - *suficent* = sufficient
 - *ultim* = final, recent
 
-==== 5.1.4 Sofistica
+==== Sofistica
 
 // XXX FIXED -- Protagoras -> Protágoras
 
@@ -2060,7 +2065,7 @@ deve payar."
 - *victer* = to win
 - *ínmediatmen* = immediately
 
-==== 5.1.5 Li max perfect lingue
+==== Li max perfect lingue
 
 Un lingue, aprioric e logic, in quel chascun parol vell esser solmen un
 signe de un sol fix notion, un lingue sin images e metáfores e sin alcun
@@ -2114,7 +2119,7 @@ va esser parlat sur ti ci globe.
 - *superficie* = surface
 - *vicear* = to replace
 
-==== 5.1.6 Proverbies
+==== Proverbies
 
 Honestie es li max bon politica.
 
@@ -2146,7 +2151,7 @@ grandes trapassa.
 - *texter* = to spin
 - *trapassar* = to pass through
 
-==== 5.1.7 Li historie
+==== Li historie
 
 Per li studia del historie noi percepte li intim conexion, quel existe
 inter lu present e lu passat. Li present moment es un transient cose, su
@@ -2177,7 +2182,7 @@ action, it tirannisa nos e inspira nos a coses plu sublim.
 - *subtil* = subtle
 - *transir* = to transit, go by
 
-==== 5.1.8 Aforismes
+==== Aforismes
 
 Li historie demonstra, que un energie e scop-conscient labor finalmen
 triumfa, ne pro que grand masses de homes auxilia realisar alcun cose,
@@ -2202,7 +2207,7 @@ veritá. (Multatuli.)
 - *repose* = repose
 - *scop-conscient* = goal-conscious
 
-=== 5.2 Explanations
+=== Explanations
 
 Endings for types of words such as nouns, adjectives and the like are no
 more obligatory in Interlingue than in natural languages. Vowels at the
@@ -2300,7 +2305,7 @@ expresses the general idea of something:
 
 // XXX FIXME -- Translate:
 
-==== 5.2.2 Comparative forms
+==== Comparative forms
 
 Comparative (more, less) and superlative (most, least) adjectives are
 formed in the following way:
@@ -2335,7 +2340,7 @@ exist due to their being part of already existing international words:
 NOTE: *minim* is included here for the sake of completeness even
 though it is part of the regular comparative forms.
 
-==== 5.2.3 Divers sufixes
+==== Divers sufixes
 
 ===== -ett
 
@@ -2487,7 +2492,7 @@ an intense state of being.
 
 *verdear* = to green (greening fields, verdant forests, etc.)
 
-==== 5.2.7 Suffixes for verbal nouns
+==== Suffixes for verbal nouns
 
 The verbal stem (present tense) can also be used as a verbal noun, which
 refers to a simple action.
@@ -2620,11 +2625,11 @@ expenses, etc.:
 - *plumage* = plumage (*plum* = feather, pen)
 ====
 
-== 6 Sixesim letion
+== Sixesim letion
 
-=== 6.1 Textus
+=== Textus
 
-==== 6.1.1 Li festivitás ye li ocasion del ottcentenarie del cité capital
+==== Li festivitás ye li ocasion del ottcentenarie del cité capital
 
 Ja ante ott horas in li matin li publica comensat barrar li stradas
 ductent al grand plazza de parade, talmen que li policistes havet mult a
@@ -2735,7 +2740,7 @@ til li límite. Criticastros comprensibilmen ne esset content.
 - *veste* = clothing
 - *vitre* = glass
 
-==== 6.1.2 Un farme in li subtropic landes
+==== Un farme in li subtropic landes
 
 Li farmero amabilmen monstrat nos su possessiones. Sur li corte noi
 videt a dextri un grand dom. To esset li gallinería, u esset anc anates,
@@ -2786,11 +2791,13 @@ abunda in altri tal ovrerías. Li old forjero con su long albi barbe stat
 apu li incude avan li foyiere con ardent brase illuminant su energic
 facie, un image del old témpore.
 
-=== 6.2 Explanations
+=== Explanations
+
+==== Personal suffixes
 
 The following suffixes create nouns that refer to persons.
 
-==== -er-
+===== -er-
 
 (From nouns.) Similar to -er in English, refers to a person who is
 engaged in a type of work, or more rarely someone who coincidentally is
@@ -2805,7 +2812,7 @@ engaged in a task.
 
 ====
 
-==== -ist
+===== -ist
 
 (From nouns.) The follower of an -ism, or someone engaged in some sort of
 artistic, ideal, scientific, military, technical or sport-related
@@ -2825,7 +2832,7 @@ occupation:
 
 ====
 
-==== -or
+===== -or
 
 (Formed from verbs.) Explained in lesson 3, a simple doer of an action.
 Note the following:
@@ -2839,7 +2846,7 @@ Note the following:
 
 ====
 
-==== -ario
+===== -ario
 
 A person that is characterized through something exterior, such as a
 career:
@@ -2854,7 +2861,7 @@ career:
 
 ====
 
-==== -on
+===== -on
 
 A person characterized by an inner or natural character:
 
@@ -2877,7 +2884,7 @@ A person characterized by an inner or natural character:
 
 ====
 
-==== -ard
+===== -ard
 
 A person with a negative or criminal quality:
 
@@ -2889,7 +2896,7 @@ A person with a negative or criminal quality:
 
 ====
 
-==== -astro
+===== -astro
 
 Someone unskilled at his or her profession:
 
@@ -2902,7 +2909,7 @@ Someone unskilled at his or her profession:
 
 ====
 
-==== -es-
+===== -es-
 
 Resident of a place or someone who originates from it (also as an
 adjective):
@@ -2917,7 +2924,7 @@ adjective):
 
 ====
 
-==== -essa
+===== -essa
 
 Suffix for females indicating an office or dignified position:
 
@@ -2932,12 +2939,12 @@ Suffix for females indicating an office or dignified position:
 
 Note that *-or* drops the *o* in this suffix.
 
-==== 6.2.2 Qualitative suffixes
+==== Qualitative suffixes
 
 The following suffixes form many of the nouns referring to the states
 and properties of other words.
 
-==== -ie
+===== -ie
 
 An abstract state:
 
@@ -2969,7 +2976,7 @@ It may be used on nouns as well to make them abstract:
 
 ====
 
-==== -tá, -té
+===== -tá, -té
 
 Quality or character, more or less equivalent to English -ty:
 
@@ -2998,7 +3005,7 @@ Words that refer to a group of people or things use *-té* instead of
 
 // XXX TODO -- Transalate:
 
-===== -tá or -té?
+====== -tá or -té?
 
 Besides the above, *-té* is much more limited in scope and any
 doubtful cases are given the *-tá* ending, such
@@ -3009,7 +3016,7 @@ the state of being a *socio*, but it is also not a collection of them (a
 society is not simply a collection of associates) and thus it
 becomes *societá*. Rule of thumb: when in doubt, it's probably *-tá*.
 
-==== -ore
+===== -ore
 
 1. (from verbs): a state of feeling, activity, temperature, etc.
 +
@@ -3026,7 +3033,7 @@ becomes *societá*. Rule of thumb: when in doubt, it's probably *-tá*.
 - *grandore* = size (*grand* = large)
 ====
 
-==== -esse
+===== -esse
 
 Special property or condition, most similar to English -ness. Examples:
 
@@ -3044,7 +3051,7 @@ Special property or condition, most similar to English -ness. Examples:
 This is also the suffix used for bombastic titles such as "your
 Highness" (*Vor Altesse*).
 
-==== 6.2.3 Local e colectiv sufixes
+==== Local e colectiv sufixes
 
 ===== -ia
 
@@ -3188,11 +3195,11 @@ A more scientific or specialized grouping of something.
 
 ====
 
-== 7 Setesim letion
+== Setesim letion
 
-=== 7.1 Textus
+=== Textus
 
-==== 7.1.1 Li intern veritá
+==== Li intern veritá
 
 To quo, secun li opinion de frances e angles letores, distinte Goethe,
 es un qualitá, quel il divide con su nation – constant referentie a
@@ -3261,7 +3268,7 @@ an adjective it can also take the *-i* at the end for euphony. The
 above *un veritá explicand* thus means "a truth to be explained".
 Another way to say the same would be *un veritá a explicar*.
 
-==== 7.1.2 Aforismes
+==== Aforismes
 
 Si li triangules vell posser pensar, ili vell imaginar su Due quam
 triangulari. (Spinoza.)
@@ -3288,7 +3295,7 @@ present. (Kant.)
 - *siler* = to be silent
 - *spirar* = to breathe
 
-==== 7.1.3 Li evangelie del labor
+==== Li evangelie del labor
 
 It existe du folles in li munde. Li un es li millionario, qui crede, que
 il posse acumular real potentie per collecter moné; li altri es li
@@ -3402,11 +3409,11 @@ Y{dot} Z{dot}
 - *sparro* = sparrow
 - *suposir* = to suppose
 
-=== 7.2 Explanations
+=== Explanations
 
 // XXX FIXED -- Hierarchy:
 
-==== 7.2.1 Adjectival suffixes
+==== Adjectival suffixes
 
 The three most used adjectival suffixes are:
 
@@ -3634,7 +3641,7 @@ Mentioned once in a note above: what is to be done.
 
 ====
 
-==== 7.2.2 Divers afixes
+==== Divers afixes
 
 Here are some more Latin- or Greek-derived affixes that are seen in
 words in Interlingue and most other western European languages:
@@ -3785,7 +3792,7 @@ Fearing.
 
 ====
 
-==== 7.2.3 Parol-composition
+==== Parol-composition
 
 Words can be joined together in a variety of ways.
 
@@ -3803,7 +3810,7 @@ guard-robe).
 
 // XXX REMARK -- This title is translated, why?:
 
-==== 7.2.4 Parol-families (word families)
+==== Parol-families (word families)
 
 You might have noticed that properly applying the above derivation rules
 almost always produces existing international words with the same
@@ -3852,11 +3859,11 @@ related to star: *constituer, constitution, instituer, institute,
 institution, institutor, restituer, restitution, substituer, substitute,
 substitution*,
 
-== 8 Ottesim letion
+== Ottesim letion
 
-=== 8.1 Textus
+=== Textus
 
-==== 8.1.1 Un somnie
+==== Un somnie
 
 "In facte, yo havet un drolli somnie just nu," racontat un irlandeso.
 "Yo revat, que yo esset in Roma e visitat su Sanctitá, li Papa. Apen yo
@@ -3888,7 +3895,7 @@ me. Quam yo nu repente, que yo ne hat petit le dar me it frigid."
 - *tappar* = to tap, knock
 - *trincage* = a drink
 
-==== 8.1.2 Aforismes
+==== Aforismes
 
 de Otto Weiss.
 
@@ -3934,7 +3941,7 @@ comensa strax parlar pri se self.
 - *tacer* = to be silent
 - *ínprudent* = imprudent, careless
 
-==== 8.1.3 Bon respondet
+==== Bon respondet
 
 "Ples pardonar me, Senior," dit un tre seriosi aparent mann a un jolli
 hom, qui stat fumant un grand cigare sur li strada, "quant cigares Vu
@@ -3967,7 +3974,7 @@ NOTE: *li mi, li vor* etc. is also used.
 | *fumar*   | to smoke | *a levul* | on the left
 |===
 
-==== 8.1.4 Aforismes
+==== Aforismes
 
 To quo yo time max mult, es li timore. (Montaigne.)
 
@@ -4010,7 +4017,7 @@ homan ocul es li miniatura del solari sistema. (Jean Paul.)
 - *puella* = girl
 - *ásino* = donkey, ass
 
-==== 8.1.5 Iguanodon
+==== Iguanodon
 
 Durant mi viage a Stockholm yo visitat anc li natur-historic muséo e yo
 esset vermen impressionat per li granditá opressiv del squelette del
@@ -4036,9 +4043,9 @@ tal animal ha vivet, qualmen on posse saver su nómine?"
 - *superar* = surpass
 - *viage* = journey
 
-=== 8.2 Explanations
+=== Explanations
 
-==== 8.2.1 Pronouns
+==== Pronouns
 
 In the preceding texts we have become very familiar with many of the
 pronouns in Interlingue. Let's look at them as a whole.
@@ -4277,11 +4284,11 @@ Examples:
 
 ====
 
-== 9 Ninesim letion
+== Ninesim letion
 
-=== 9.1 Textus
+=== Textus
 
-==== 9.1.1 Un parol - un novelle
+==== Un parol - un novelle
 
 Si yo prende un parol ex un lingue, it va racontar me alcun
 cultur-historic facte. Lass nos, por exemple, prender li german parol
@@ -4313,7 +4320,7 @@ Historie del Homanité.
 - *lontan* = far
 - *pruntar* = to borrow
 
-==== 9.1.2 Li grand idés
+==== Li grand idés
 
 To quo es necessi por elevar li spíritu, ne es to, que un hom save
 omnicos, quo ha esset pensat e scrit in relation al spiritual natura, ne
@@ -4340,7 +4347,7 @@ energie ne ha flammat quam vivent foyes in su anima? (Channing.)
 - *larg* = broad, wide
 - *terminar* = to end
 
-==== 9.1.3 Anecdotes
+==== Anecdotes
 
 Du yun juristes, Miller e Brun, visitat sovente li sam yun dama. Un
 véspere Miller esset sol con ella. Il dit in tendri ton:
@@ -4380,7 +4387,7 @@ acte follimen."
 - *subitmen* = suddenly
 - *tendri* = tender
 
-==== 9.1.4 Aforismes
+==== Aforismes
 
 Mem li deos combatte li stupiditá in van.
 
@@ -4399,7 +4406,7 @@ Li majorité del homes lassa voluntarimen presser se in li carne li spine
 de un fals teorie, ma ili defende se per omni forties, si on vole denove
 extraer it. (Pauly.)
 
-=== 9.2 Explanations
+=== Explanations
 
 From adjectives we can create adverbsl by adding the ending *-men*. This
 ending does not change the stress:
@@ -4525,7 +4532,7 @@ Some more examples showing their function?
 
 ====
 
-==== 9.2.2 Conjunctiones
+==== Conjunctiones
 
 The most frequently used conjunctions are:
 
@@ -4597,11 +4604,11 @@ difference:
 
 ====
 
-== 10 Decesim letion
+== Decesim letion
 
-=== 10.1 Textus
+=== Textus
 
-==== 10.1.1 "In comensa esset li parol"
+==== "In comensa esset li parol"
 
 Li famosi unesim frase del Evangelium de Johannes cela un profund sense,
 anc si noi comprende it litteralmen. Nam solmen per su capabilitá
@@ -4631,7 +4638,7 @@ scalunes de ti scaliere celesti, along quel il prova grimpar súper lu
 pur animalic ad in li luce del spritualitá. De to seque anc, que li
 lingue da nos li fundament e li unesim base de omni cultura. (Güntert.)
 
-==== 10.1.2 Li mult lingues de Europa
+==== Li mult lingues de Europa
 
 Li lingual situation in li hodial Europa es paradoxal.
 
@@ -4723,11 +4730,11 @@ possibil.
 
 (Secun A. Meillet, professore de Collège de France.)
 
-=== 10.2 Explanations
+=== Explanations
 
 // XXX FIXED -- Level hierarchy:
 
-=== 10.2.1 Syntax
+=== Syntax
 
 Syntax is Interlingue is for the most part very similar to English, with
 some notable differences in places such as adjectives where they can
