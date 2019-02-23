@@ -2,7 +2,7 @@
 :author: Mag. phil. A.Z. Ramstedt
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
-:sectnumlevels: 3
+// :sectnumlevels: 3
 ifdef::backend-pdf[]
 :doctype: book
 :toc: auto
@@ -19,11 +19,11 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201902232216
+// Last modified 201902232221
 
 :dot: .
 
-:sectnums!:
+// :sectnums!:
 
 == About this book
 
@@ -49,7 +49,7 @@ Editor of this e-book version, based on the wiki version:: Marcos Cruz
 (programandala.net) for http://ne.alinome.net[ne.alinome.net], 2019.
 Available in EPUB, PDF and other formats.
 
-:sectnums:
+// :sectnums:
 
 == Unesim letion
 
