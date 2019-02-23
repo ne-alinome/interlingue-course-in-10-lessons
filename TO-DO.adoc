@@ -9,4 +9,6 @@
 - Markup quotes in "Aforismes".
 - Add changes done to the wiki version.
 - Add quotes to example terms in English explanations.
-- Link references to chapters, lessons and others.
+- Fix: automatic numbering of sections is not preserved in DocBook,
+  therefore it's not rendered into EPUB, only into PDF.
+- Fix "dictionnarium".
