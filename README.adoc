@@ -1,13 +1,14 @@
 = Interlingue Course in 10 Lessons
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-02-18
+:revdate: 2019-02-23
 
 == English
 
 Goal of this project:: Make an EPUB version of _Occidental Course in
-10 Lessons_ (by Mag. phil. A.Z. Ramstedt, Helsinki, Occidental-Buró
-Berlin), from its
-http://cosmoglotta.pbworks.com/w/page/131496894/Occidental%20Course%20in%2010%20Lessons%20%28lessons%201-2%29[wiki version].
+10 Lessons_, the English version of _Okzidental-Kursus in 10
+Lektionen_ (by Mag. phil. A.Z. Ramstedt, 1929), translated, updated
+and edited by David McLeod in 2019 in
+http://cosmoglotta.pbworks.com[cosmoglotta.pbworsk.com].
 
 Author:: Marcos Cruz (programandala.net).
 
@@ -15,11 +16,11 @@ Website:: http://ne.alinome.net.
 
 == Interlingue
 
-Scope de ti projecte:: Crear un EPUB-libre de _Occidental Course in 10
-Lessons_ (by Mag. phil. A.Z. Ramstedt, Helsinki, Occidental-Buró
-Berlin), ex su
-http://cosmoglotta.pbworks.com/w/page/131496894/Occidental%20Course%20in%2010%20Lessons%20%28lessons%201-2%29[wiki
-version].
+Scope de ti-ci projecte:: Crear un EPUB-libre de _Occidental Course in
+10 Lessons_, li anglesi version de _Okzidental-Kursus in 10 Lektionen_
+(de Mag. phil. A.Z. Ramstedt, 1929), traductet, ahotemporat e redactet
+de David McLeod in 2019 in
+http://cosmoglotta.pbworks.com[cosmoglotta.pbworks.com].
 
 Autor:: Marcos Cruz (programandala.net).
 
