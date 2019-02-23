@@ -19,7 +19,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201902232207
+// Last modified 201902232216
 
 :dot: .
 
@@ -231,6 +231,8 @@ article (a/an), and does not decline (change form).
 
 ==== Singular and plural
 
+// XXX FIXED -- "Dictionnarium(s)" -> "Dictionarium(s)"
+
 ====
 - *genie* = genius
 - *genies* = geniuses
@@ -240,8 +242,8 @@ article (a/an), and does not decline (change form).
 - *lampes* = lamps
 - *suc* = juice
 - *sucs* = juices
-- *dictionnarium* = dictionary
-- *dictionnariums* = dictionaries
+- *dictionarium* = dictionary
+- *dictionariums* = dictionaries
 ====
 
 Plural is formed with an -s, -es after a consonant. Some consonant
