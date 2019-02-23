@@ -19,7 +19,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201902232148
+// Last modified 201902232207
 
 :dot: .
 
@@ -29,22 +29,25 @@ endif::[]
 
 Author:: Mag. phil. A.Z. Ramstedt, Helsinki.
 
-Original title in German:: Unknown.
+Original title in German:: Okzidental-Kursus in 10 Lektionen.
 
 Original publisher:: Occidental-Buró Berlin.
 
-Date of the original edition:: Unknown.
+Date of the original edition:: 1929.
 
-Author of the English version:: Unknown.
+Translation, orthographic modernization and new additions:: David
+MacLeod, 2019.
 
-Original title of the English version:: Occidental Course in 10 Lessons.
+Original title of the English version:: Occidental Course in 10
+Lessons (English translation)
 
-Editor of the wiki version:: Dave McLeod, in
-http://cosmoglotta.pbworks.com[cosmoglotta.pbworks.com], 2018.
+Editor of the wiki version:: David McLeod, in
+http://cosmoglotta.pbworks.com[cosmoglotta.pbworks.com], 2018-2019.
+Available also in PDF.
 
-Editor of this e-book version:: Marcos Cruz (programandala.net) for
-http://ne.alinome.net[ne.alinome.net], 2019. Available in EPUB, PDF
-and other formats.
+Editor of this e-book version, based on the wiki version:: Marcos Cruz
+(programandala.net) for http://ne.alinome.net[ne.alinome.net], 2019.
+Available in EPUB, PDF and other formats.
 
 :sectnums:
 
@@ -3461,7 +3464,7 @@ mathematician
 Generally, it is a good idea to resist the urge to express every -ical
 English word with another *-ical* in Interlingue (just *-ic* is
 preferred). But this is another situation where you can for extra
-precision, and a subject mentioned in Cosmoglotta before. Because <<_ica,*-ica*>>
+precision, and a subject mentioned in Cosmoglotta before. Because <<_ica_and_ico,*-ica*>>
 as shown above refers to the entire branch of art or science,
 <<_al,*-al*>> can make an adjective referring to it. Some examples where <<_ic,*-ic*>>
 or *-ical* could be preferred:

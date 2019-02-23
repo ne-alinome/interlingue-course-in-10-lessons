@@ -1,9 +1,7 @@
 = TO-DO of _Interlingue Course in 10 Lessons_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-02-20
+:revdate: 2019-02-23
 
-- Add year of the original edition.
-- Add author of the wiki version.
 - Confirm year of the wiki version.
 - Rearrange tables in less columns.
 - Markup quotes in "Aforismes".
