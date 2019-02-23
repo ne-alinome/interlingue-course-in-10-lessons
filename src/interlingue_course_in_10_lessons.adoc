@@ -19,7 +19,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201902221655
+// Last modified 201902232148
 
 :dot: .
 
@@ -191,7 +191,7 @@ Grand artistes es li sol riches qui divide lor tot felicie con nos.
 
 === Explanation
 
-Reading the first lesson, we find that the majority of words in
+Reading the <<_unesim_letion,first lesson>>, we find that the majority of words in
 Interlingue are already long familiar to us. That is, the vocabulary in
 Interlingue is largely composed of already-existing international words,
 those that most countries in Europe (and of course countries in the
@@ -2431,7 +2431,7 @@ The present participle can also be made into verbs:
 
 NOTE: *electrisar* is formed from a sort of hidden word (*electr-*) formed
 by removing the suffix *-ic*, which forms other words as well such
-as *electron* (the *-on* suffix will show up in the next chapter).
+as *electron* (the *-on* suffix will show up in the <<_sixesim_letion,next chapter>>).
 
 *-isar* can also be used, though more rarely, with nouns. They form
 words you already know:
@@ -2446,7 +2446,7 @@ words you already know:
 
 ===== -ificar
 
-"To make into something", "to bring towards" - similar to *-isar*
+"To make into something", "to bring towards" - similar to <<_isar,*-isar*>>
 above but slightly different.
 
 // XXX FIXED -- "with power cables with" -> "with power cables"
@@ -2454,7 +2454,7 @@ above but slightly different.
 ====
 
 - *electrificar* = to electrify (note the difference between this and
-  *electrisar* above. *Electrisar* means to make something electric,
+  <<_isar,*electrisar*>> above. *Electrisar* means to make something electric,
   to charge it, while *electrificar* means to equip something with
   electricity or make electric. Flipping a switch would thus
   *electrisa* one's room, while equipping a village with power cables
@@ -2526,7 +2526,7 @@ This is, again, a subtle distinction that one may use if wished or
 ignore at will, like the English words clothing and clothes, dinner
 and supper, precise and accurate, venom and poison, etc.)
 
-We have already gone over the suffixes *-ion* and *-ura* in chapter 3.
+We have already gone over the suffixes *-ion* and *-ura* in <<_triesim_letion,chapter 3>>.
 Here are some others:
 
 ===== -ada, -ida
@@ -2834,7 +2834,7 @@ occupation:
 
 ===== -or
 
-(Formed from verbs.) Explained in lesson 3, a simple doer of an action.
+(Formed from verbs.) Explained in <<_triesim_letion,lesson 3>>, a simple doer of an action.
 Note the following:
 
 ====
@@ -2960,7 +2960,7 @@ Derivations from participles are particularly numerous:
 ====
 
 - *existentie* = existence (*existent* = existing). The ending *-ntie*
-  was covered in the 5th lesson, and we can see that it is simply the
+  was covered in the <<_quinesim_letion,5th lesson>>, and we can see that it is simply the
   present participle *-nt* plus *-ie*.
 
 ====
@@ -3088,7 +3088,7 @@ time, and territory). Often corresponds to English -at or -iat:
 
 An occupation and its activities. As -*ería*, it refers to the actual
 location. Both are actually formed from the *-er-* suffix (doer of an
-action), then *-ie* as above for the quality, or *-ia* for the
+action), then <<_ie,*-ie*>> as above for the quality, or *-ia* for the
 location.
 
 ====
@@ -3461,9 +3461,9 @@ mathematician
 Generally, it is a good idea to resist the urge to express every -ical
 English word with another *-ical* in Interlingue (just *-ic* is
 preferred). But this is another situation where you can for extra
-precision, and a subject mentioned in Cosmoglotta before. Because *-ica*
+precision, and a subject mentioned in Cosmoglotta before. Because <<_ica,*-ica*>>
 as shown above refers to the entire branch of art or science,
-*-al* can make an adjective referring to it. Some examples where *-ic*
+<<_al,*-al*>> can make an adjective referring to it. Some examples where <<_ic,*-ic*>>
 or *-ical* could be preferred:
 
 ====
@@ -3611,7 +3611,7 @@ Rich in, full of:
 
 ====
 
-The similar suffixes *-iv* and *-ori* were mentioned in lesson 3.
+The similar suffixes *-iv* and *-ori* were mentioned in <<_triesim_letion,lesson 3>>.
 
 This finishes up the main suffixes seen in Interlingue for forming new
 words. On top of this are many other much less productive affixes that
