@@ -9,4 +9,3 @@
 - Add quotes to example terms in English explanations.
 - Fix: automatic numbering of sections is not preserved in DocBook,
   therefore it's not rendered into EPUB, only into PDF.
-- Fix "dictionnarium".
