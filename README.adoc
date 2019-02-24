@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-02-23
+:revdate: 2019-02-24
 
 == English
 
@@ -8,7 +8,7 @@ Goal of this project:: Make an EPUB version of _Occidental Course in
 10 Lessons_, the English version of _Okzidental-Kursus in 10
 Lektionen_ (by Mag. phil. A.Z. Ramstedt, 1929), translated, updated
 and edited by David McLeod in 2019 in
-http://cosmoglotta.pbworks.com[cosmoglotta.pbworsk.com].
+http://cosmoglotta.pbworks.com[cosmoglotta.pbworks.com].
 
 Author:: Marcos Cruz (programandala.net).
 
