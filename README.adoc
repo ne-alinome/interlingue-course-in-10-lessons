@@ -4,7 +4,7 @@
 :toc:
 :toc-title: Contents/Contenete
 
-// Last modified 201903010004
+// Last modified 201903010016
 
 == English
 
@@ -34,9 +34,9 @@ follows:
 |===
 | Command             | Effect
 
-| make                | Build common formats and variants
-| make all            | Build common formats and variants
-| make epub           | Build the EPUB format (common variants)
+| make                | Build all formats and variants
+| make all            | Build all formats and variants
+| make epub           | Build the EPUB format (all variants)
 | make epubd          | Build the EPUB format with dbtoepub
 | make epubp          | Build the EPUB format with pandoc
 | make epubx          | Build the EPUB format with xsltproc
@@ -78,9 +78,9 @@ ti exemples:
 |===
 | Comande             | Efecte
 
-| make                | Constructer li maxim comun formates e variantes
-| make all            | Constructer li maxim comun formates e variantes
-| make epub           | Constructer li formate EPUB (maxim variantes)
+| make                | Constructer omni formates e variantes
+| make all            | Constructer omni formates e variantes
+| make epub           | Constructer li formate EPUB (omni variantes)
 | make epub1d         | Constructer li formate EPUB per dbtoepub
 | make epub1p         | Constructer li formate EPUB per pandoc
 | make epub1x         | Constructer li formate EPUB per xsltproc
