@@ -1,10 +1,9 @@
 = TO-DO of _Interlingue Course in 10 Lessons_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-02-23
+:revdate: 2019-02-28
 
 - Confirm year of the wiki version.
 - Rearrange tables in less columns.
-- Markup quotes in "Aforismes".
 - Add changes done to the wiki version.
 - Add quotes to example terms in English explanations.
 - Fix: automatic numbering of sections with `:sectnum:` is not
@@ -12,3 +11,4 @@
   into PDF. Beside, `:sectnum:` makes asciidoctor-pdf add "Chapter X"
   before the text of level-1 headings. Automatic numbering is
   deactivated.
+- Improve "About this book".
