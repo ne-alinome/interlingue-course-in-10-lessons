@@ -2,7 +2,7 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201903010003
+# Last modified 201903010012
 # See change log at the end of the file
 
 # ==============================================================
@@ -11,7 +11,7 @@
 # - asciidoctor
 # - asciidoctor-pdf
 # - dbtoepub
-# - pandoc
+# - pandoc 2.6
 # - xsltproc
 
 # ==============================================================
@@ -30,7 +30,7 @@ description=
 # Interface
 
 .PHONY: all
-all: epub pdf
+all: epub odt pdf xml
 
 .PHONY: epub
 epub: epubd epubp epubx
@@ -163,4 +163,5 @@ target/$(book_basename).adoc.xml.pandoc.odt: \
 #
 # 2019-02-19: Add "it" rule for the development.
 #
-# 2019-03-01: Fix the rule that builds the OpenDocument.
+# 2019-03-01: Fix the rule that builds the OpenDocument. Simplify the
+# interface: Make all lformats with "all".
