@@ -11,3 +11,4 @@
   into PDF. Beside, `:sectnum:` makes asciidoctor-pdf add "Chapter X"
   before the text of level-1 headings. Automatic numbering is
   deactivated.
+- Add note about the change of the language name.

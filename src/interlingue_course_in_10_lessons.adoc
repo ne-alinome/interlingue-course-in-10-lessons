@@ -19,7 +19,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201902282307
+// Last modified 201903010036
 
 :dot: .
 
@@ -33,18 +33,18 @@ Original title in German:: Okzidental-Kursus in 10 Lektionen.
 
 Original publisher:: Occidental-Buró Berlin, 1929.
 
-Translation, orthographic modernization and new additions:: David
-MacLeod, 2019.
+English translation, orthographic modernization and new additions::
+David MacLeod, 2019.
 
 Original title of the English version:: Occidental Course in 10
 Lessons (English translation)
 
-Wiki version:: David McLeod, 2018-2019. Available in
+Wiki version:: David McLeod, 2018-2019. Available in 
 http://cosmoglotta.pbworks.com[cosmoglotta.pbworks.com], also in PDF.
 
 This e-book version, based on the wiki version:: Marcos Cruz, 2019.
-Available from http://ne.alinome.net[ne.alinome.net].  in EPUB, PDF
-and other formats.
+Available in http://ne.alinome.net[ne.alinome.net] in EPUB, PDF and
+other formats.
 
 // :sectnums:
 
@@ -376,7 +376,7 @@ They may be also written as *hodíe* and *omnicós*.
 - *pro quo* = why ("due to what")
 - *pro* = due to
 - *promena* = strolls (cf. promenade)
-- *que* = that (as in "I hope *that*…")
+- *que* = that (as in "I hope _that_…")
 - *questionar* = question, ask
 - *quo* = what
 - *reposar* = repose, rest
@@ -2267,7 +2267,9 @@ The most common adjectival ending is:
 
 *-i*
 
-which is also used for pronounciation and distinguishing types of words:
+// XXX FIXED -- pronunciation -> pronounciation 
+
+which is also used for pronunciation and distinguishing types of words:
 
 *vivaci* = vivacious/lively, *sagi* = wise, *omni* = all, *stormi* = stormy
 (*storm* = storm), *uniformi* (the noun is *uniform*).
@@ -3940,6 +3942,10 @@ me. Quam yo nu repente, que yo ne hat petit le dar me it frigid."
 
 ==== Aforismes
 
+// XXX FIXED --
+// "de mani autore es acceptat del publica – quande il" -->
+// "de mani autores es acceptat del publica – quande ili"
+
 [quote, Otto Weiss]
 ____
 
@@ -3949,7 +3955,7 @@ del altres.
 It es sovente plu facil pardonar un injurie quel noi ha causat a un
 altri hom.
 
-Li opinion de mani autore es acceptat del publica – quande il self ha
+Li opinion de mani autores es acceptat del publica – quande ili self ha
 abandonat it ja de long.
 
 Mani nómina se idealist: proque il vole viver ne por, ma per un idé.
@@ -3978,7 +3984,7 @@ ____
 ===== Vocabularium
 
 - *abominabil* = abominable
-- *aluder* = to alude     |              |
+- *aluder* = to alude
 - *concordar* = to agree
 - *etá* = age
 - *fanfaronar* = to boast, talk up
@@ -4091,12 +4097,14 @@ ____
 
 ==== Iguanodon
 
+// XXX FIXED -- "in li grand sala" --> "In li grand sala"
+
 Durant mi viage a Stockholm yo visitat anc li natur-historic muséo e yo
 esset vermen impressionat per li granditá opressiv del squelette del
 antediluvian iguanodon. Benque yo conosset teoricmen li dimensiones e li
 grandore de ti prehistoric gigant, li realitá superat omni
 imaginationes. Li longore del caude es tam grand, que it ne have
-spacie. in li grand sala, ma on ha devet divider it e posir li
+spacie. In li grand sala, ma on ha devet divider it e posir li
 detra-parte paralel al squelette.
 
 Su altesse, li prince de S., intrat con mult grandesse in li sala del
@@ -4155,9 +4163,10 @@ Some examples:
 - *Yo da te mi parol = Yo da mi parol a te* = I give you my word
 - *Li diferentie inter me e te* = The difference between me and you
 - *Li diferentie inter mi e tui* = The difference between mine and
-  yours *Li nores victet li vores* = Ours (plural) beat yours
-  (plural).  If *noi* had had one and *vu* had also had had one, it
-  would be expressed as *Li nor victet li vor*.
+  yours
+- *Li nores victet li vores* = Ours (plural) beat yours (plural).  If
+  *noi* had had one and *vu* had also had had one, it would be
+  expressed as *Li nor victet li vor*.
 - *Yo es tua e tu es mio* = I am yours and you are mine (said by a
   woman to a man)
 - *Ples far lu tui!* = Please do yours! (remember *lu* = "the thing
@@ -4599,7 +4608,7 @@ Pronomial adverbs
 - *suficent* = enough
 - *vez* = time (as in two times)
 
-With the enclitic -cunc we get words like *ucunc* = wherever,
+With the enclitic *-cunc* we get words like *ucunc* = wherever,
 *quamcunc* = however, as ever, *quandecunc* = whenever, etc.
 
 Some more examples showing their function?
