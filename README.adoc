@@ -1,31 +1,94 @@
 = Interlingue Course in 10 Lessons
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-02-28
+:revdate: 2019-03-01
+:toc:
+:toc-title: Contents/Contenete
+
+// Last modified 201903010004
 
 == English
 
 === Abouth this project
 
-Goal:: Make an EPUB version of _Occidental Course in
-10 Lessons_, the English version of _Okzidental-Kursus in 10
-Lektionen_ (by Mag. phil. A.Z. Ramstedt, 1929), translated, updated
-and edited by David McLeod in 2019 in
+Goal:: Make an e-book version of _Occidental Course in 10 Lessons_,
+the English version of _Okzidental-Kursus in 10 Lektionen_ (by Mag.
+phil. A.Z. Ramstedt, 1929), translated, updated and edited by David
+McLeod in 2019 in
 http://cosmoglotta.pbworks.com[cosmoglotta.pbworks.com].
 
 Author:: Marcos Cruz (programandala.net).
 
-Website:: http://ne.alinome.net.
+Website:: http://ne.alinome.net[ne.alinome.net].
+
+=== How to build the book
+
+If you cannot wait the release of the next version, you can build the
+target files yourself.
+
+First, make sure the programs listed under the "Requirements" section
+of the <Makefile> file are installed in your system.
+
+Then enter the project's directory and give the `make` command as
+follows:
+
+|===
+| Command             | Effect
+
+| make                | Build common formats and variants
+| make all            | Build common formats and variants
+| make epub           | Build the EPUB format (common variants)
+| make epubd          | Build the EPUB format with dbtoepub
+| make epubp          | Build the EPUB format with pandoc
+| make epubx          | Build the EPUB format with xsltproc
+| make odt            | Build the OpenDocument format
+| make pdf            | Build the PDF format (both sizes)
+| make pdfa4          | Build the DIN A4 size PDF format
+| make pdfl           | Build the letter size PDF format
+| make xml            | Build the DocBook format
+|===
+
+The documents are built in the <target> directory.
 
 == Interlingue
 
 === Pri ti projecte
 
-Scope:: Crear un EPUB-libre de _Occidental Course in
-10 Lessons_, li anglesi version de _Okzidental-Kursus in 10 Lektionen_
-(de Mag. phil. A.Z. Ramstedt, 1929), traductet, actualisat e redactet
-de David McLeod in 2019 in
+Scope:: Crear un libre digital de _Occidental Course in 10 Lessons_,
+li anglesi version de _Okzidental-Kursus in 10 Lektionen_ (de Mag.
+phil. A.Z. Ramstedt, 1929), traductet, actualisat e redactet de David
+McLeod in 2019 in
 http://cosmoglotta.pbworks.com[cosmoglotta.pbworks.com].
 
 Autor:: Marcos Cruz (programandala.net).
 
-Loc web:: http://ne.alinome.net.
+Loco web:: http://ne.alinome.net[ne.alinome.net].
+
+=== Qualmen constructer li libre
+
+Si vu ne posse atender li liberation de li sequente version, vu self
+posse constructer li libre-documentes.
+
+In prim, ples confirmar que li programes listat in li section
+"Requirements" (besones) del document <Makefile> es installat in vor
+sistema.
+
+Tande ples intrar li documentiere del projecte e comandar `make` secun
+ti exemples:
+
+|===
+| Comande             | Efecte
+
+| make                | Constructer li maxim comun formates e variantes
+| make all            | Constructer li maxim comun formates e variantes
+| make epub           | Constructer li formate EPUB (maxim variantes)
+| make epub1d         | Constructer li formate EPUB per dbtoepub
+| make epub1p         | Constructer li formate EPUB per pandoc
+| make epub1x         | Constructer li formate EPUB per xsltproc
+| make odt            | Constructer li formate OpenDocument
+| make pdf            | Constructer li formate PDF (ambi grandores)
+| make pdfa4          | Constructer li formate PDF ye grandore DIN A4
+| make pdfl           | Constructer li formate PDF ye grandore "letter"
+| make xml            | Constructer li formate DocBook
+|===
+
+Li documentes es creat in li documentiere <target> (scope).

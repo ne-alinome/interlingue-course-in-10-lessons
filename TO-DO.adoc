@@ -1,6 +1,6 @@
 = TO-DO of _Interlingue Course in 10 Lessons_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-02-28
+:revdate: 2019-03-01
 
 - Confirm year of the wiki version.
 - Rearrange tables in less columns.
@@ -11,3 +11,4 @@
   into PDF. Beside, `:sectnum:` makes asciidoctor-pdf add "Chapter X"
   before the text of level-1 headings. Automatic numbering is
   deactivated.
+- Simplify the make interface, e.g. make all targets with "all", etc.
