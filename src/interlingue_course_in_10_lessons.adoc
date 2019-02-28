@@ -19,7 +19,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201902232221
+// Last modified 201902282255
 
 :dot: .
 
@@ -162,17 +162,27 @@ macules, e ne li sole.“
 
 ==== Aforismes
 
+[quote,Edison]
+____
 Genie es un percent inspiration e ninant nin percent transpiration.
-(Edison.)
+____
 
+[quote, Goethe]
+____
 Li humore es un del elementes del genie, ma, si it dómina, solmen un
-surrogat de it; it es li compane del diminuent arte e destructe, anihila
-it in fine. (Goethe.)
+surrogat de it; it es li compane del diminuent arte e destructe,
+anihila it in fine.
+____
 
-Un bon comedie es plu durabil quam un systema de filosofie. (Hume.)
+[quote, Hume]
+____
+Un bon comedie es plu durabil quam un systema de filosofie.
+____
 
+[quote, Pauly]
+____
 Grand artistes es li sol riches qui divide lor tot felicie con nos.
-(Pauly.)
+____
 
 ===== Vocabularium
 
@@ -1431,17 +1441,29 @@ In hiverne veni nive e li dies es frigid.
 
 ==== Aforismes
 
+[quote, Bismarck]
+____
 In null altri ocasion on menti tant quam pos un chasse, durant un guerre
-e ante un election. (Bismarck.)
+e ante un election.
+____
 
+[quote, Seneca]
+____
 Si li veritá vell esser dat me con li condition, que yo deve celar it in
-me e ne dar it de me – yo vell refusar it. (Seneca.)
+me e ne dar it de me – yo vell refusar it.
+____
 
+[quote, Locke]
+____
 It es just egal, si on interprende liberar homes queles have null firm
 conceptiones ex lor erras, quam si on vole expussar un vagabunde qui
-have null firm dom ex su hem. (Locke.)
+have null firm dom ex su hem.
+____
 
-Quo noi nómina accidentie, es li asil del ignorantie. (Spinoza.)
+[quote, Spinoza]
+____
+Quo noi nómina accidentie, es li asil del ignorantie.
+____
 
 ===== Vocabularium
 
@@ -2189,16 +2211,24 @@ action, it tirannisa nos e inspira nos a coses plu sublim.
 
 ==== Aforismes
 
+[quote, O. Fehlmann]
+____
 Li historie demonstra, que un energie e scop-conscient labor finalmen
 triumfa, ne pro que grand masses de homes auxilia realisar alcun cose,
-ma sovente pro que li iniciatores sin repose acte por li idé. (O.
-Fehlmann.)
+ma sovente pro que li iniciatores sin repose acte por li idé.
+____
 
+[quote, O. Wilde]
+____
 Sovente it es plu desfacil viver por un idé quam morir por it. To es li
-diferentie inter heróes e martiros. (O. Wilde.)
+diferentie inter heróes e martiros.
+____
 
+[quote, Multatuli]
+____
 Du levul gantes de fa un pare de gantes, du demí veritás ne fa un
-veritá. (Multatuli.)
+veritá.
+____
 
 ===== Vocabularium
 
@@ -3275,21 +3305,32 @@ Another way to say the same would be *un veritá a explicar*.
 
 ==== Aforismes
 
+[quote, Spinoza]
+____
 Si li triangules vell posser pensar, ili vell imaginar su Due quam
-triangulari. (Spinoza.)
+triangulari.
+____
 
+[quote, Montesquieu]
+____
 Li capes de grand homes diminue, si plures de ili conveni; plu mult li
-sagies, plu minimal li sagesse. (Montesquieu.)
+sagies, plu minimal li sagesse.
+____
 
+[quote, Nordau]
+____
 Moventie, progresse, esperantie, vive, omnis es solmen sinonimes de
 optimisme. Li antiqui romano qui pensat li proverbie: durant que yo
 spira, yo espera, ha concentrat li filosofie del processe del vive, e
 dat a un biologic fundamental veritá li forme de un classic calambure.
-(Nordau.)
+____
 
+[quote, Kant]
+____
 Li damas ne veni in li ciel, nam ja in li Apocalipse es dit in un loc:
 It esset silent durant un demí seconde. To ne es pensabil ta, u damas es
-present. (Kant.)
+present.
+____
 
 ===== Vocabularium
 
@@ -3902,7 +3943,8 @@ me. Quam yo nu repente, que yo ne hat petit le dar me it frigid."
 
 ==== Aforismes
 
-de Otto Weiss.
+[quote, Otto Weiss]
+____
 
 Pri un cose noi omni concorda: ne existe plu abominabil erras quam tis
 del altres.
@@ -3933,6 +3975,8 @@ Quande un hom di: "Un de nos erra," yo save strax, quem il alude.
 
 Certmen Vu conosse ti person, qui quande on parla pri un altri hom,
 comensa strax parlar pri se self.
+
+____
 
 ===== Vocabularium
 
@@ -3981,35 +4025,61 @@ NOTE: *li mi, li vor* etc. is also used.
 
 ==== Aforismes
 
-To quo yo time max mult, es li timore. (Montaigne.)
+[quote, Montaigne]
+____
+To quo yo time max mult, es li timore.
+____
 
+[quote, O. Wilde]
+____
 Ti qui es fidel, conosse solmen li trivial láteres del amore. Solmen li
-ínfidel conosse li tragedies de it. (Wilde.)
+ínfidel conosse li tragedies de it.
+____
 
+[quote, Moszkowski]
+____
 Existe international artistes qui nequande aprende un lingue perfect:
-ili es li nativ extranianos. (Moszkowski.)
+ili es li nativ extranianos.
+____
 
+[quote, Nietzsche]
+____
 Li fanatisme es li sol fortie de vole quel anc li debiles e li íncertes
 posse manifestar.
-(Nietzsche.)
+____
 
-Poc homes pensa, ma omnes vole haver opiniones. (Berkeley.)
+[quote, Berkeley]
+____
+Poc homes pensa, ma omnes vole haver opiniones.
+____
 
+[quote, Schopenhauer]
+____
 Un mann qui interprende viver per li favor del musas, yo vole dir, per
 su poetic talentes, apari me in alcun maniere quam un puella qui vive
-per su charmes. (Schopenhauer.)
+per su charmes.
+____
 
+[quote, Schopenhauer]
+____
 Dilettantes, dilettantes, talmen tis qui cultiva un scientie o un arte
 pro amore o joy pri it, pro lor delecte, es nominat con despecte de tis
 qui ocupa se pri ili pro profite, proque les delecte solmen li moné,
-quel es ganiabil per to. (Schopenhauer.)
+quel es ganiabil per to.
+____
 
+[quote, Grillparzer]
+____
 In mani landes on have ti opinion: tri ásinos constitue junt un
 inteligent hom. Ma to es profundmen fals: pluri ásinos in concret fa li
-ásino in abstract, e it es un horribil animale. (Grillparzer.)
+ásino in abstract, e it es un horribil animale.
+____
 
+[quote, Jean Paul]
+____
 Un solari sistema es solmen un punctuat profil del mundan genie, ma un
-homan ocul es li miniatura del solari sistema. (Jean Paul.)
+homan ocul es li miniatura del solari sistema.
+____
 
 ===== Vocabularium
 
@@ -4394,22 +4464,35 @@ acte follimen."
 
 ==== Aforismes
 
+____
 Mem li deos combatte li stupiditá in van.
+____
 
+[quote, Swift]
+____
 Li paroles es solmen vente – li erudition consiste solmen ex paroles –
-ergo li erudition es solmen vente. (Swift.)
+ergo li erudition es solmen vente.
+____
 
+[quote, Schopenhauer]
+____
 Li gazettes es li secund-indicatores del historie. Ma ili es sovente de
 plu ínnobli metalle quam li altri indicatores, e ea anc rarmen correct.
-(Schopenhauer.)
+____
 
+[quote, Börne]
+____
 Quande Pythagoras hat decovrit su conosset teorema, il aportat un
 hecatombe al deos. Desde to li boves treme, tam sovente quam un nov
-veritá es decovrit. (Börne.)
+veritá es decovrit.
+____
 
+[quote, Pauly]
+____
 Li majorité del homes lassa voluntarimen presser se in li carne li spine
 de un fals teorie, ma ili defende se per omni forties, si on vole denove
-extraer it. (Pauly.)
+extraer it.
+____
 
 === Explanations
 
