@@ -2,7 +2,7 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201902192234
+# Last modified 201903010003
 # See change log at the end of the file
 
 # ==============================================================
@@ -21,6 +21,7 @@ VPATH=./src:./target
 
 book_basename=interlingue_course_in_10_lessons
 title="Interlingue Course in 10 Lessons"
+lang="en"
 editor="Marcos Cruz (programandala.net)"
 publisher="ne.alinome"
 description=
@@ -42,6 +43,9 @@ epubp: target/$(book_basename).adoc.xml.pandoc.epub
 
 .PHONY: epubx
 epubx: target/$(book_basename).adoc.xml.xsltproc.epub
+
+.PHONY: odt
+odt: target/$(book_basename).adoc.xml.pandoc.odt
 
 .PHONY: pdf
 pdf: pdfa4 pdfletter
@@ -139,7 +143,7 @@ target/%.adoc.xml.xsltproc.epub: target/%.adoc.xml
 # Convert DocBook to OpenDocument
 
 target/$(book_basename).adoc.xml.pandoc.odt: \
-	tmp/$(book_basename).adoc.xml \
+	target/$(book_basename).adoc.xml \
 	src/$(book_basename)-docinfo.xml \
 	src/pandoc_odt_template.txt
 	pandoc \
@@ -158,3 +162,5 @@ target/$(book_basename).adoc.xml.pandoc.odt: \
 # 2019-02-18: Start.
 #
 # 2019-02-19: Add "it" rule for the development.
+#
+# 2019-03-01: Fix the rule that builds the OpenDocument.
