@@ -19,7 +19,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201902282255
+// Last modified 201902282307
 
 :dot: .
 
@@ -31,9 +31,7 @@ Author:: Mag. phil. A.Z. Ramstedt, Helsinki.
 
 Original title in German:: Okzidental-Kursus in 10 Lektionen.
 
-Original publisher:: Occidental-Buró Berlin.
-
-Date of the original edition:: 1929.
+Original publisher:: Occidental-Buró Berlin, 1929.
 
 Translation, orthographic modernization and new additions:: David
 MacLeod, 2019.
@@ -41,13 +39,12 @@ MacLeod, 2019.
 Original title of the English version:: Occidental Course in 10
 Lessons (English translation)
 
-Editor of the wiki version:: David McLeod, in
-http://cosmoglotta.pbworks.com[cosmoglotta.pbworks.com], 2018-2019.
-Available also in PDF.
+Wiki version:: David McLeod, 2018-2019. Available in
+http://cosmoglotta.pbworks.com[cosmoglotta.pbworks.com], also in PDF.
 
-Editor of this e-book version, based on the wiki version:: Marcos Cruz
-(programandala.net) for http://ne.alinome.net[ne.alinome.net], 2019.
-Available in EPUB, PDF and other formats.
+This e-book version, based on the wiki version:: Marcos Cruz, 2019.
+Available from http://ne.alinome.net[ne.alinome.net].  in EPUB, PDF
+and other formats.
 
 // :sectnums:
 
@@ -3390,7 +3387,7 @@ espera, e li testimonie pri coses queles ne es visibil.
 NOTE: *mani* before a singular means *many a*, while before a plural
 it means *many* (same as *mult*).
 
-==== 7.1.4. Un lettre
+==== Un lettre
 
 Cosmopolis, 12-esim marte 1930.
 
