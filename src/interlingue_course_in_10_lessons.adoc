@@ -1,5 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
+:revnumber: 0.1.0-pre.0+20190305
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
 // :sectnumlevels: 3
@@ -19,7 +20,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903052337
+// Last modified 201903060035
 
 :dot: .
 
@@ -46,7 +47,7 @@ Revision and e-book edition:: Marcos Cruz, 2019.
 Available in http://ne.alinome.net[ne.alinome.net] in EPUB, PDF and
 other formats.
 
-Version:: 0.1.0-pre.0+20190305
+Version:: {revnumber}.
 
 // :sectnums:
 
