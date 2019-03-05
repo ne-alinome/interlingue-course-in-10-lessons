@@ -19,7 +19,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903010036
+// Last modified 201903052337
 
 :dot: .
 
@@ -34,17 +34,19 @@ Original title in German:: Okzidental-Kursus in 10 Lektionen.
 Original publisher:: Occidental-Buró Berlin, 1929.
 
 English translation, orthographic modernization and new additions::
-David MacLeod, 2019.
+Dave MacLeod, 2018-2019.
 
 Original title of the English version:: Occidental Course in 10
-Lessons (English translation)
+Lessons (English translation).
 
-Wiki version:: David McLeod, 2018-2019. Available in 
+Wiki edition:: Dave McLeod, 2018-2019. Available in 
 http://cosmoglotta.pbworks.com[cosmoglotta.pbworks.com], also in PDF.
 
-This e-book version, based on the wiki version:: Marcos Cruz, 2019.
+Revision and e-book edition:: Marcos Cruz, 2019.
 Available in http://ne.alinome.net[ne.alinome.net] in EPUB, PDF and
 other formats.
+
+Version:: 0.1.0-pre.0+20190305
 
 // :sectnums:
 
@@ -135,7 +137,7 @@ macules, e ne li sole.“
 
 ===== Vocabularium
 
-- *esser* = be
+- *esser* = to be
 - *exclama* = exclaims
 - *hasard* = chance
 - *hasta* = rushes (lit. hastes)
@@ -353,14 +355,14 @@ They may be also written as *hodíe* and *omnicós*.
 - *bon die* = good day
 - *ci* = here
 - *deman* = tomorrow
-- *dever* = must
+- *dever* = to must
 - *duesim* = second
-- *ear* = go
-- *esperar* = hope
-- *fatigar* = tire
+- *ear* = to go
+- *esperar* = to hope
+- *fatigar* = to tire
 - *hodie* = today
 - *interprense* = endeavour
-- *laborar* = work
+- *laborar* = to work
 - *le strax* = him right away
 - *mersí* = thanks
 - *ne* = not
@@ -377,16 +379,16 @@ They may be also written as *hodíe* and *omnicós*.
 - *pro* = due to
 - *promena* = strolls (cf. promenade)
 - *que* = that (as in "I hope _that_…")
-- *questionar* = question, ask
+- *questionar* = to question, to ask
 - *quo* = what
-- *reposar* = repose, rest
-- *saver* = know
+- *reposar* = to repose, to rest
+- *saver* = to know
 - *ta* = there
 - *tam* = so
 - *trottuor* = sidewalk
-- *venir* = come
+- *venir* = to come
 - *vive* = life
-- *voler* = want
+- *voler* = to want
 - *Vor* = your (polite form)
 - *Vos* = you (object)
 - *yer* = yesterday
@@ -422,29 +424,29 @@ deposit li horloge in su tasca.
 
 - *aurin* = golden
 - *casu* = case
-- *confesser* = confess
-- *confirmar* = confirm
-- *dar* = give
-- *deposir* = put in / deposit
-- *dir* = say
+- *confesser* = to confess
+- *confirmar* = to confirm
+- *dar* = to give
+- *deposir* = to put in, to deposit
+- *dir* = to say
 - *durant que* = while
 - *esque* = (asked to ask questions)
 - *fin* = fine
 - *furtard* = thief
-- *furter* = steal
+- *furter* = to steal
 - *gilete* = vest
 - *horloge* = watch (wristwatch)
 - *mult* = much
 - *pace* = peace
 - *pecca* = sin
-- *portar* = carry
+- *portar* = to carry
 - *possessor* = owner (possessor)
-- *prender* = take
+- *prender* = to take
 - *prestro* = priest
-- *racontar* = tell
-- *reciver* = receive
+- *racontar* = to tell
+- *reciver* = to receive
 - *remarcar to* = notice it
-- *retornar* = return
+- *retornar* = to return
 - *sam* = same
 - *su* = his, hers, its
 - *tal* = such a
@@ -474,25 +476,25 @@ sin cessar e combatter mem li diábol."
 ===== Vocabularium
 
 - *bocca* = mouth
-- *cessar* = stop
-- *combatter* = combat
+- *cessar* = to stop
+- *combatter* = to combat
 - *cordie* = heart
 - *diábol* = devil
-- *extinter* = extinguish
+- *extinter* = to extinguish
 - *fluide* = fluid
 - *foy* = fire
 - *fémina* = woman
 - *gladie* = sword
-- *jettar* = throw, toss
+- *jettar* = to throw, to toss
 - *leon* = lion
 - *omnihom* = everyone
 - *orel* = ear
 - *poc* = little
 - *por que* = in order to ("for that")
-- *postular* = demand
+- *postular* = to demand
 - *profund* = deep
 - *quel* = which
-- *querellar* = quarrel
+- *querellar* = to quarrel
 - *terra e aqua* = earth and water
 - *vin* = wine
 
@@ -516,31 +518,31 @@ sin cessar e combatter mem li diábol."
 ===== Vocabularium
 
 - *aure* = gold
-- *crescer* = grow
+- *crescer* = to grow
 - *divin* = divine
 - *dom* = house
 - *du* = two
 - *facil* = easy
-- *gardar* = guard
+- *gardar* = to guard
 - *hem* = home
 - *hom* = person
 - *homan* = human
 - *in vanitá* = in vain
 - *infante* = infant, child
-- *morir* = die
+- *morir* = to die
 - *necos* = nothing
 - *nequande* = never
 - *parat* = done
 - *petre* = stone
-- *predicar* = preach
+- *predicar* = to preach
 - *proverbie* = proverb
 - *quande* = when
-- *rular* = roll
+- *rular* = to roll
 - *sanitá* = health
 - *sapon* = soap
 - *sempre* = always
-- *trovar* = find
-- *vocar* = call
+- *trovar* = to find
+- *vocar* = to call
 
 === Explanations
 
@@ -687,12 +689,12 @@ Quo il ha creat? Nos e omni altri *creaturas*.
 ===== Vocabularium
 
 - *altri* = other
-- *crear* = create
+- *crear* = to create
 - *creatori* = "creator-y"
 - *Deo* = God
 - *durar* = to last
 - *munde* = world
-- *nominar* = name
+- *nominar* = to name
 - *qualitá* = quality
 - *triesim* = third
 - *vermen* = truly
@@ -731,27 +733,27 @@ grand donator e favorisator del scienties e artes.
 ===== Vocabularium
 
 - *anc* = also
-- *conceder* = concede
-- *difamar* = speak ill of (cf. defamation)
-- *donar* = give, donate
-- *evocar* = evoke
-- *exagerar* = exaggerate
-- *extender* = extend
+- *conceder* = to concede
+- *difamar* = to speak ill of (cf. defamation)
+- *donar* = to give, to donate
+- *evocar* = to evoke
+- *exagerar* = to exaggerate
+- *extender* = to extend
 - *extran* = outside, abroad
 - *fratre* = brother
 - *gradualmen* = gradually
-- *imperar* = order (cf. imperative)
-- *innovar* = innovate
-- *intervenir* = intervene (lit. "between-come")
+- *imperar* = to order (cf. imperative)
+- *innovar* = to innovate
+- *intervenir* = to intervene (lit. "between-come")
 - *ja* = already
 - *necessi* = necessary
-- *negociar* = negotiate
-- *preceder* = precede
+- *negociar* = to negotiate
+- *preceder* = to precede
 - *quande* = when
-- *succeder* = succeed (follow)
-- *transacter* = transact
+- *succeder* = to succeed (to follow)
+- *transacter* = to transact
 - *transitori* = transitory
-- *vendir* = sell
+- *vendir* = to sell
 
 ==== Li eterni problemas
 
@@ -791,41 +793,41 @@ tam senil, quam li profetes de fatiga vole far nos creder.
 
 ===== Vocabularium
 
-- *abandonar* = abandon
+- *abandonar* = to abandon
 - *adavan* = forwards
 - *choc* = shock
 - *coronar* = to crown
-- *creder* = believe
-- *culminar* = culminate
-- *defender* = defend
-- *detronar* = dethrone
-- *devenir* = become
+- *creder* = to believe
+- *culminar* = to culminate
+- *defender* = to defend
+- *detronar* = to dethrone
+- *devenir* = to become
 - *devot* = devoted
 - *erra* = error
 - *eterni* = eternal
-- *evoluer* = evolve
-- *explorar* = explore
+- *evoluer* = to evolve
+- *explorar* = to explore
 - *fatiga* = fatigue
-- *fluctuar* = fluctuate
+- *fluctuar* = to fluctuate
 - *fórsan* = perhaps
 - *guerre* = war
-- *imitar* = imitate
-- *indicar* = indicate
-- *justificar* = justify
+- *imitar* = to imitate
+- *indicar* = to indicate
+- *justificar* = to justify
 - *les* = them
 - *malgré* = despite
 - *misprense* = misunderstanding
 - *nor* = our
 - *omni* = all
-- *penetrar* = penetrate
+- *penetrar* = to penetrate
 - *pensa* = thought
 - *pos* = after
 - *propri* = own (one's own)
 - *Renascentie* = Renaissance
-- *retirar* = retire
+- *retirar* = to retire
 - *semblar* = to seem
 - *senil* = senile
-- *sequer* = follow
+- *sequer* = to follow
 - *spíritu* = spirit
 - *strett* = narrow
 - *sómmite* = summit
@@ -853,12 +855,12 @@ por que ili mey saver in quel maniere ili posse investir it."
 
 ===== Vocabularium
 
-- *abrogar* = abrogate, repeal
+- *abrogar* = to abrogate, to repeal
 - *alqui* = someone
 - *antey* = before
 - *avan* = before
 - *besonar* = to need
-- *distinter* = distinguish
+- *distinter* = to distinguish
 - *in quel maniere* = in which way |               |
 - *lege* = law
 - *malad* = sick
@@ -869,7 +871,7 @@ por que ili mey saver in quel maniere ili posse investir it."
 - *plu reputat* = more reputed
 - *porta* = door
 - *pro to* = that's why
-- *replicar* = reply
+- *replicar* = to reply
 - *sam quam* = same as
 - *viver* = to live
 
@@ -1026,14 +1028,14 @@ English -ive, forms adjectives that denote an active ability:
 - *un obligativ promesse* = a promise that obligates (*obligatori
   promesse* = an obligatory promise)
 - *un explicativ exemple* = an example that explains something
-  (*explicar* = explain)
+  (*explicar* = to explain)
 - *un consolativ response* = a response that brings consolation (*un
   consolatori response* = a response given as consolation) (*consolar*
   = console)
-- *un negativ resultate* = a negative result (*negar* = deny)
+- *un negativ resultate* = a negative result (*negar* = to deny)
 - *un instructiv articul* = an instructive article (*instructer* =
   instruct)
-- *un decisiv parol* = a decisive word (*decider* = decide)
+- *un decisiv parol* = a decisive word (*decider* = to decide)
 
 ====
 
@@ -1085,7 +1087,7 @@ The perfect stem on its own is also used as an adjective:
 - *un pervers(i) opinion* = a perverse opinion (from *perverter*, to
   pervert) Here again there is a difference between *perversi*
   (perverse) and *pervertet* (perverted).
-- *un devot amico* = a devoted friend (from *devoer* = devote). In
+- *un devot amico* = a devoted friend (from *devoer* = to devote). In
   cases where no obvious difference exists between the perfect stem
   (*devot*) and the past tense (*devoet*), the two tend to be used
   interchangeably.  One could still imagine however situations where
@@ -1157,7 +1159,7 @@ terra.
 - *conosser* = to know
 - *córpore* = body
 - *extinter* = to extinguish
-- *forar* = to bore / drill
+- *forar* = to bore, to drill
 - *funel* = funnel
 - *grandissim* = huge
 - *grandore* = size (cf. grandeur)
@@ -1167,18 +1169,18 @@ terra.
 - *penetrar* = to penetrate
 - *pluri* = several
 - *probabil* = probable
-- *producter* = produce
+- *producter* = to produce
 - *profundore* = depth
 - *quadresim* = fourth
 - *rect* = right, correct
-- *ruir* = collapse
+- *ruir* = to collapse
 - *separar* = to separate
 - *simil* = similar
 - *situat* = situated, located
 - *solea* = sole, bottom
 - *sovente* = often
 - *strangi* = strange
-- *suposir* = suppose
+- *suposir* = to suppose
 - *tande* = then
 - *unanim* = unanimous
 - *unic* = unique
@@ -1274,7 +1276,7 @@ purposes. But because *-ant* on its own is easy enough to pronounce
 the *-anti* form is much rarer.
 
 Per adjuntion del sufix *-plic* (*-uplic* pos consonantes) (del
-verbe *plicar* = anglesi "fold") noi recive
+verbe *plicar* = anglesi "to fold") noi recive
 li *multiplicativ* numerales, queles responde al
 question: *quantuplic*?
 
@@ -1431,7 +1433,7 @@ In hiverne veni nive e li dies es frigid.
 - *millennie* = millennium
 - *nive* = snow
 - *quel* = which
-- *renascer* = be reborn (cf. renaissance, *renascentie* in Interlingue)
+- *renascer* = to be reborn (cf. renaissance, *renascentie* in Interlingue)
 - *secul* = century
 - *semane* = week
 - *verne* = spring
@@ -1467,10 +1469,10 @@ ____
 - *accidentie* = accidence, chance
 - *celar* = to hide
 - *chasse* = hunt
-- *expussar* = chase out
+- *expussar* = to chase out
 - *ignorantie* = ignorance
-- *interprender* = undertake
-- *liberar* = to free, liberate
+- *interprender* = to undertake
+- *liberar* = to free, to liberate
 - *mentir* = to lie (not tell the truth)
 - *null* = no (none)
 - *ocasion* = occasion, event
@@ -1696,8 +1698,8 @@ These prepositions are also used to form other words.
 - *constellation* = constellation (*con* + *stelle* = star)
 - *contravention* = contravention (*contra* + *vention* = coming, from
   *venir*)
-- *deportar* = deport (*de* + *portar*, to carry)
-- *exportar* = export (*ex* + *portar*, to carry)
+- *deportar* = to deport (*de* + *portar*, to carry)
+- *exportar* = to export (*ex* + *portar*, to carry)
 - *ex-imperator* = former emperor
 - *extraordinari* = extraordinary (*extra* + *ordinari*)
 - *inclusiv* = inclusive (*in* + *cluder*, to close or shut)
@@ -1744,7 +1746,7 @@ Before nouns: nullation or opposing meaning, un-:
 On verbs: loss of something:
 
 ====
-- *desarmar* = disarm (armar = to arm)
+- *desarmar* = to disarm (*armar* = to arm)
 ====
 
 ===== dis-
@@ -1753,8 +1755,8 @@ Separation, moving away:
 
 ====
 
-- *dismembrar* = dismember (membre = limb)
-- *distracter* = distract (*tracter* or *traer* = to pull)
+- *dismembrar* = to dismember (*membre* = limb)
+- *distracter* = to distract (*tracter* or *traer* = to pull)
 
 ====
 
@@ -1787,8 +1789,8 @@ Wrong, improper, mis-:
 
 ====
 
-- *miscomprender* = misunderstand (*comprender* = to understand)
-- *misparlar* = misspeak (*parlar* = to speak)
+- *miscomprender* = to misunderstand (*comprender* = to understand)
+- *misparlar* = to misspeak (*parlar* = to speak)
 
 ====
 
@@ -1799,7 +1801,7 @@ Before, pre-:
 ====
 
 - *prematur* = premature (*matur* = mature)
-- *prevenir* = forestall, preempt, prevent (*venir* = to come)
+- *prevenir* = to forestall, to preempt, to prevent (*venir* = to come)
 - *prehistoric* = prehistoric
 
 ====
@@ -1823,7 +1825,7 @@ Again, re-:
 
 - *reaction* = reaction
 - *renascentie* = renaissance, rebirth (*nascentie* = birth)
-- *revider* = see again (*vider* = to see)
+- *revider* = to see again (*vider* = to see)
 
 ====
 
@@ -1928,7 +1930,7 @@ ridet pri tis qui ridet."
 - *custar* = to cost
 - *depreciar* = to depreciate
 - *effortie* = effort
-- *erecter* = to erect, raise
+- *erecter* = to erect, to raise
 - *essentie* = essence
 - *etsi* = although
 - *exception* = exception
@@ -1936,12 +1938,12 @@ ridet pri tis qui ridet."
 - *fórsan* = perhaps
 - *impedir* = to impede
 - *importantie* = importance
-- *inclinar* = to incline, tend
+- *inclinar* = to incline, to tend
 - *indolentie* = indolence
 - *insister* = to insist
 - *intrar* = to enter
 - *lege* = law
-- *luctar* = to fight, struggle
+- *luctar* = to fight, to struggle
 - *líttere* = letter
 - *monstrar* = to show
 - *mover* = to move
@@ -1994,7 +1996,7 @@ directiones.
 - *ancor* = still, yet
 - *anteyan* = former
 - *digni* = dignified
-- *economisar* = to economize, save
+- *economisar* = to economize, to save
 - *exciselar* = to chisel out (*ciselar* = to chisel)
 - *flut* = flood, flow
 - *junter* = to join
@@ -2003,7 +2005,7 @@ directiones.
 - *passu* = a step
 - *plu … plu …* = the more … the more …
 - *scope* = goal, aim
-- *spoliar* = to spoil, waste
+- *spoliar* = to spoil, to waste
 - *usar* = to use
 - *vast* = vast
 
@@ -2037,7 +2039,7 @@ NOTE: *to* is only written with an accent here to show emphasis
 - *coton* = cotton
 - *cri* = a cry
 - *derivar* = to derive
-- *elevar* = to elevate, raise
+- *elevar* = to elevate, to raise
 - *fals* = false
 - *fine* = end
 - *forn* = oven
@@ -2046,7 +2048,7 @@ NOTE: *to* is only written with an accent here to show emphasis
 - *pezze* = piece
 - *pivote* = fulcrum, hinge
 - *restar* = to remain
-- *rupter* = to break, rupture
+- *rupter* = to break, to rupture
 - *sonori* = sonorous
 - *suficent* = sufficient
 - *ultim* = final, recent
@@ -2125,7 +2127,7 @@ va esser parlat sur ti ci globe.
 - *besonar* = to need
 - *calv* = bald
 - *chascun* = each
-- *dispensar* = to dispense, rid oneself of
+- *dispensar* = to dispense, to rid oneself of
 - *fix* = fixed, fast
 - *glacie* = ice
 - *luder* = to play
@@ -2202,9 +2204,9 @@ action, it tirannisa nos e inspira nos a coses plu sublim.
 - *Nihil* = Nothing
 - *passat* = past
 - *percepter* = to perceive
-- *significar* = to mean / signify
+- *significar* = to mean, to signify
 - *subtil* = subtle
-- *transir* = to transit, go by
+- *transir* = to transit, to go by
 
 ==== Aforismes
 
@@ -2234,7 +2236,7 @@ ____
 - *cose* = thing
 - *finalmen* = finally
 - *gante* = glove
-- *iniciar* = to initiate, start
+- *iniciar* = to initiate, to start
 - *levul* = left
 - *repose* = repose
 - *scop-conscient* = goal-conscious
@@ -2387,8 +2389,8 @@ The usual diminutive (making smaller) suffix is *-ett*:
   rose, rose)
 - *cigarette* = cigarette (*cigare* = cigar)
 - *pincette* = pincette (*pince* = pincers)
-- *foliettar* = leaf through (*folie* = leaf)
-- *volettar* = flutter (*volar* = fly)
+- *foliettar* = to leaf through (*folie* = leaf)
+- *volettar* = to flutter (*volar* = to fly)
 
 ====
 
@@ -2404,8 +2406,8 @@ The usual suffix to make something pejorative is *-ach*:
 
 - *cavallacha* = nag (*cavall* = horse)
 - *populache* = mob, the unwashed (*popul* = people)
-- *criticachar* = complain, bitch (*criticar* = to criticize)
-- *imitachar* = to ape (*imitar* = imitate)
+- *criticachar* = to complain, to bitch (*criticar* = to criticize)
+- *imitachar* = to ape (*imitar* = to imitate)
 
 ====
 
@@ -2509,9 +2511,9 @@ alternate way of expressing the idea.
 
 ====
 
-- *maturijar* = to mature, become mature (= *devenir matur*)
-- *verdijar* = to green, become green (= *devenir verd*)
-- *oldijar* = to become old, age (= *devenir old*)
+- *maturijar* = to mature, to become mature (= *devenir matur*)
+- *verdijar* = to green, to become green (= *devenir verd*)
+- *oldijar* = to become old, to age (= *devenir old*)
 
 ====
 
@@ -2520,7 +2522,7 @@ alternate way of expressing the idea.
 This suffix forms verbs that indicate a swinging or repeating motion, or
 an intense state of being.
 
-*undear* = to undulate, wave (from *unde* = a wave)
+*undear* = to undulate, to wave (from *unde* = a wave)
 
 *flammear* = to flicker (from *flamme* = flame)
 
@@ -2766,7 +2768,7 @@ til li límite. Criticastros comprensibilmen ne esset content.
 - *pedones* = pedestrians
 - *picter* = to paint
 - *presc* = almost
-- *retener* = keep back
+- *retener* = to keep back
 - *sapate* = shoe
 - *sculpter* = to sculpt
 - *talliero* = tailor
@@ -3269,14 +3271,14 @@ cuida, quam fluent, quam brilliant il es . . .
 
 ===== Vocabularium
 
-- *atinger* = attain
+- *atinger* = to attain
 - *aventura* = adventure
 - *balbutiar* = to stutter
 - *charge* = charge, burden
 - *crud* = crude
 - *cuidar* = to take care of
 - *delicie* = a delicacy
-- *demandar* = to demand, request
+- *demandar* = to demand, to request
 - *distinter* = to distinguish
 - *exercir* = to exercise
 - *explicar* = to explain
@@ -3374,14 +3376,14 @@ espera, e li testimonie pri coses queles ne es visibil.
 ===== Vocabularium
 
 - *acumular* = to accumulate
-- *augmentar* = to augment, increase
+- *augmentar* = to augment, to increase
 - *capabil* = capable
 - *capacitá* = capacity
 - *deventie* = a duty
 - *folle* = a fool
 - *luder* = to play
 - *monete* = a coin
-- *partiprender* = to participate, take part
+- *partiprender* = to participate, to take part
 - *rasar* = to shave
 - *substantie* = substance
 - *tintinar* = to jingle
@@ -3441,7 +3443,7 @@ Y{dot} Z{dot}
 
 - *acustomar* = to accustom
 - *adplu* = moreover
-- *chargear* = to charge, burden
+- *chargear* = to charge, to burden
 - *devoer* = to be devoted
 - *esser rect* = be right (*haver rason* is another way to say it)
 - *exposir* = to expose
@@ -3937,7 +3939,7 @@ me. Quam yo nu repente, que yo ne hat petit le dar me it frigid."
 - *racontar* = to tell (a story, etc.)
 - *repenter* = to repent
 - *somnie* = dream
-- *tappar* = to tap, knock
+- *tappar* = to tap, to knock
 - *trincage* = a drink
 
 ==== Aforismes
@@ -3987,7 +3989,7 @@ ____
 - *aluder* = to alude
 - *concordar* = to agree
 - *etá* = age
-- *fanfaronar* = to boast, talk up
+- *fanfaronar* = to boast, to talk up
 - *injurie* = injury, insult
 - *mani* = many a
 - *tacer* = to be silent
@@ -4091,7 +4093,7 @@ ____
 - *debil* = weak
 - *despecte* = scorn
 - *fidel* = faithful
-- *interprender* = undertake
+- *interprender* = to undertake
 - *puella* = girl
 - *ásino* = donkey, ass
 
@@ -4120,7 +4122,7 @@ tal animal ha vivet, qualmen on posse saver su nómine?"
 - *diluvie* = flood
 - *impressionar* = to impress
 - *spacie* = space
-- *superar* = surpass
+- *superar* = to surpass
 - *viage* = journey
 
 === Explanations
