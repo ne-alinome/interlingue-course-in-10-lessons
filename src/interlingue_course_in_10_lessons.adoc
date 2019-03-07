@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.0+20190305
+:revnumber: 0.1.0-pre.1+20190307
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
 // :sectnumlevels: 3
@@ -20,7 +20,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903060035
+// Last modified 201903072307
 
 :dot: .
 
@@ -47,7 +47,22 @@ Revision and e-book edition:: Marcos Cruz, 2019.
 Available in http://ne.alinome.net[ne.alinome.net] in EPUB, PDF and
 other formats.
 
-Version:: {revnumber}.
+Edition made only by libre programs:: 
+http://asciidoctor.org[Asciidoctor],
+https://github.com/asciidoctor/asciidoctor-pdf[asciidoctor-pdf],
+dbtoepub,
+http://debian.org[Debian],
+http://git-scm.com/[Git],
+make,
+http://pandoc.org[pandoc],
+http://http://jonas.nitro.dk/tig[Tig],
+http://vim.org[Vim],
+http://xmlsoft.org/XSLT/[xsltproc]...
+
+Version of this edition:: {revnumber}.
+
+Contributions:: Corrections and suggestions for next versions are
+welcome at http://ne.alinome.net[{http}ne.alinome.net].
 
 // :sectnums:
 
