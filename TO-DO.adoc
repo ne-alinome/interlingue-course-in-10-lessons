@@ -12,3 +12,6 @@
   before the text of level-1 headings. Automatic numbering is
   deactivated.
 - Add note about the change of the language name.
+- Markup captions, e.g. "Pronominal adverbs".
+- Decide about titles in English and Interlingue: homogenize or
+  markup.

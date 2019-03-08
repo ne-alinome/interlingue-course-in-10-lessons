@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.1+20190307
+:revnumber: 0.1.0-pre.2+20190307
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
 // :sectnumlevels: 3
@@ -20,7 +20,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903072307
+// Last modified 201903081510
 
 :dot: .
 
@@ -62,7 +62,7 @@ http://xmlsoft.org/XSLT/[xsltproc]...
 Version of this edition:: {revnumber}.
 
 Contributions:: Corrections and suggestions for next versions are
-welcome at http://ne.alinome.net[{http}ne.alinome.net].
+welcome at http://ne.alinome.net[ne.alinome.net].
 
 // :sectnums:
 
@@ -131,8 +131,8 @@ discusse li actual situation e international aferes.
 - *residentie* = residence
 - *sala* = room
 - *scri* = write
-- *sta* = stand (verb)
-- *visita* = visit (verb)
+- *sta* = to stand
+- *visita* = to visit
 - *unesim* = first
 
 ==== Li macules in li sole
@@ -366,6 +366,11 @@ They may be also written as *hodíe* and *omnicós*.
 
 ===== Vocabularium
 
+// XXX FIXED -- Separate "*le strax* = him right away"
+
+// XXX FIXED -- "trottuor" -> "trottuore" (which is the form used in
+// the text, and in the "-uore" suffix).
+
 - *amico* = friend
 - *ante nu* = before now
 - *bon die* = good day
@@ -379,7 +384,7 @@ They may be also written as *hodíe* and *omnicós*.
 - *hodie* = today
 - *interprense* = endeavour
 - *laborar* = to work
-- *le strax* = him right away
+- *le* = him
 - *mersí* = thanks
 - *ne* = not
 - *nocte* = night
@@ -390,7 +395,7 @@ They may be also written as *hodíe* and *omnicós*.
 - *por* = for
 - *posdeman* = the day after tomorrow
 - *pri quo* = about what
-- *pro que* = because ("due to that")
+- *pro que* = because ("due to that…")
 - *pro quo* = why ("due to what")
 - *pro* = due to
 - *promena* = strolls (cf. promenade)
@@ -399,9 +404,10 @@ They may be also written as *hodíe* and *omnicós*.
 - *quo* = what
 - *reposar* = to repose, to rest
 - *saver* = to know
+- *strax* = right away
 - *ta* = there
 - *tam* = so
-- *trottuor* = sidewalk
+- *trottuore* = sidewalk
 - *venir* = to come
 - *vive* = life
 - *voler* = to want
@@ -438,6 +444,8 @@ deposit li horloge in su tasca.
 
 ===== Vocabularium
 
+// XXX FIXED -- "asked to ask questions" -> "used to ask questions"
+
 - *aurin* = golden
 - *casu* = case
 - *confesser* = to confess
@@ -446,7 +454,7 @@ deposit li horloge in su tasca.
 - *deposir* = to put in, to deposit
 - *dir* = to say
 - *durant que* = while
-- *esque* = (asked to ask questions)
+- *esque* = (used to ask questions)
 - *fin* = fine
 - *furtard* = thief
 - *furter* = to steal
@@ -506,7 +514,7 @@ sin cessar e combatter mem li diábol."
 - *omnihom* = everyone
 - *orel* = ear
 - *poc* = little
-- *por que* = in order to ("for that")
+- *por que* = in order to ("for that…")
 - *postular* = to demand
 - *profund* = deep
 - *quel* = which
@@ -588,7 +596,7 @@ have the following four forms:
 come, *presser* = to press.
 
 3. *amant* is the active participle (English -ing). *amant* =
-loving, *venient* = coming, pressent = *pressing*
+loving, *venient* = coming, *pressent* = pressing
 
 4. *amat* has the following uses:
 +
@@ -603,6 +611,8 @@ The other forms are created with the help of auxiliary verbs.
 
 ===== Active
 
+// XXX FIXED -- "vant amar" -> "hant amar"
+
 |===
 | Perfect            | *yo ha amat*     | I have loved
 | Pluperfect         | *yo hat amat*    | I had loved
@@ -615,7 +625,7 @@ The other forms are created with the help of auxiliary verbs.
 | Perfect infinitive | *har amat*       | to have loved
 | Future infinitive  | *va amar*        | to will love
 | Perfect participle | *hant amat*      | having loved
-| Future participle  | *vant amar*      | having to love
+| Future participle  | *hant amar*      | having to love
 |===
 
 1. *har* resembles *haver* (to have) but is used for verb conjugation,
@@ -877,7 +887,7 @@ por que ili mey saver in quel maniere ili posse investir it."
 - *avan* = before
 - *besonar* = to need
 - *distinter* = to distinguish
-- *in quel maniere* = in which way |               |
+- *in quel maniere* = in which way
 - *lege* = law
 - *malad* = sick
 - *medico* = doctor
@@ -1087,8 +1097,10 @@ to form the result of the action of a verb.
 
 ====
 
+// XXX FIXED -- "usage poetry" -> "usage in poetry"
+
 The *-e* is technically optional but is used for clarity; it may be
-removed for euphonic purposes (usage poetry, to translate colloquial or
+removed for euphonic purposes (usage in poetry, to translate colloquial or
 informal speech, etc.).
 
 The perfect stem on its own is also used as an adjective:
@@ -2814,7 +2826,7 @@ pro li mult vermes, con queles yo guerrea nu ja quelc annus. Anc li
 verdi pedicules de folies in mi adjacent pruniera, malgré omni
 precautiones, expande se in un horribil maniere."
 
-"Esque Vu have forsan formícas?"
+"Esque Vu have fórsan formícas?"
 
 "O yes. Ci es pluri formicieras in li boscage vicin. Ili es tre laborosi
 insectes. Ples notar que just li formícas cultiva li pedicules, e yo
@@ -2980,10 +2992,12 @@ adjective):
 
 Suffix for females indicating an office or dignified position:
 
+// XXX FIXED -- "princesse" -> "princessa"
+
 ====
 
 - *comtessa* = countess (*comte* = count)
-- *princesse* = princess (*prince* = prince)
+- *princessa* = princess (*prince* = prince)
 - *imperatressa* = empress (*imperator* = emperor)
 - *actressa* = actress (*actor* = actor)
 
@@ -3091,10 +3105,12 @@ Special property or condition, most similar to English -ness. Examples:
 
 ====
 
+// XXX FIXED -- "being large" -> "largeness"
+
 - *altesse* = highness (*alt* = high, *altore* = height, *altitá* =
   the quality of being high)
 - *grandesse* = greatness, magnitude (*grand* = large, *grandore* =
-  size, *granditá* = being large)
+  size, *granditá* = largeness)
 - *yunesse* = youth (*yun* = young, *yunitá* = youngness, *yunité* =
   the youth)
 
@@ -3207,9 +3223,12 @@ These three are best learned together.
 
 A place or device where something is done:
 
+// XXX FIXED -- "trottuor" -> "trottuore" (which is the form used in
+// the text section).
+
 ====
 
-- *trottuor* = sidewalk (*trottar* = trot, jog)
+- *trottuore* = sidewalk (*trottar* = trot, jog)
 
 ====
 
@@ -3322,9 +3341,11 @@ Another way to say the same would be *un veritá a explicar*.
 
 ==== Aforismes
 
+// XXX FIXED -- "su Due" -> "su Deo"
+
 [quote, Spinoza]
 ____
-Si li triangules vell posser pensar, ili vell imaginar su Due quam
+Si li triangules vell posser pensar, ili vell imaginar su Deo quam
 triangulari.
 ____
 
@@ -3728,7 +3749,7 @@ Highest, over-.
 ====
 
 - *archiepiscop* = archbishop
-- *archángel * = archangel
+- *archángel* = archangel
 - *archifripon* = an "arch rogue"
 - *archinull* = total zero, huge loser
 
@@ -4019,12 +4040,12 @@ fuma in un die?"
 
 // XXX FIXED -- "li response esset" -> "su response esset"
 
-"O," su response esset, "forsan quar o quin."
+"O," su response esset, "fórsan quar o quin."
 
 "Quin cigares in un die fa triant quin in un semane, circa un cent
 quinant in un mensu, e plu quam mill ott cent in un annu. Ples supposir,
 que Vu vell har economisat omni ti moné, quel Vu ha expenset a tabac! Vu
-vell posser forsan esser li possessor de ti bell micri dom, quel Vu vide
+vell posser fórsan esser li possessor de ti bell micri dom, quel Vu vide
 ci a levul."
 
 "Esque it es Vor, mi Senior?"
@@ -4520,7 +4541,7 @@ ____
 
 === Explanations
 
-From adjectives we can create adverbsl by adding the ending *-men*. This
+From adjectives we can create adverbs by adding the ending *-men*. This
 ending does not change the stress:
 
 ====
@@ -4545,7 +4566,9 @@ Prepositions can be used to form adverbs: *in (li) nocte* = at night,
 *in fine* = finally, *in general* = in general, *in ocasion* = on
 occasion, *per ocasion* = by chance, etc.
 
-Pronomial adverbs
+// XXX FIXED -- "Pronomial" -> "Pronominal"
+
+Pronominal adverbs
 
 - *u?* = where?
 - *ci* = here
@@ -4582,7 +4605,7 @@ Pronomial adverbs
 - *apen* = hardly
 - *ne totmen* = not entirely
 - *totmen ne* = not at all
-- *forsan* = perhaps
+- *fórsan* = perhaps
 - *junt* = together
 - *presc* = almost
 - *nequam* = not at all
@@ -4644,7 +4667,7 @@ Some more examples showing their function?
 
 ====
 
-==== Conjunctiones
+==== Conjunctions
 
 The most frequently used conjunctions are:
 
@@ -4848,7 +4871,9 @@ possibil.
 
 === Syntax
 
-Syntax is Interlingue is for the most part very similar to English, with
+// XXX FIXED -- "Syntax is Interlingue" -> "Syntax in Interlingue"
+
+Syntax in Interlingue is for the most part very similar to English, with
 some notable differences in places such as adjectives where they can
 also be placed after the noun (general rule of thumb: the longer the
 adjective, the more it feels right to place it after the noun). Some
