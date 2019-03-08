@@ -1,6 +1,6 @@
 = TO-DO of _Interlingue Course in 10 Lessons_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-03-01
+:revdate: 2019-03-08
 
 - Confirm year of the wiki version.
 - Rearrange tables in less columns.
@@ -15,3 +15,6 @@
 - Markup captions, e.g. "Pronominal adverbs".
 - Decide about titles in English and Interlingue: homogenize or
   markup.
+- Improve layout of examples in "Li témpore e su division".
+- Fix: Move examples "extracter" and "distinter" to the third step of
+  the De Whal's Rule.
