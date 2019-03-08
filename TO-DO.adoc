@@ -15,4 +15,4 @@
 - Markup captions, e.g. "Pronominal adverbs".
 - Decide about titles in English and Interlingue: homogenize or
   markup.
-- Improve layout of examples in "Li témpore e su division".
+- Improve "About this book" with a short list of changes.
