@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.3+20190307
+:revnumber: 0.1.0-pre.4+20190307
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
 // :sectnumlevels: 3
@@ -20,7 +20,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903081525
+// Last modified 201903081532
 
 :dot: .
 
@@ -1084,8 +1084,8 @@ realized action or its result.
 
 // XXX FIXED -- "to form showing the result" -> "to form the result"
 
-NOTE: The perfect stem plus an *-e* (to indicate a noun) is also used
-to form the result of the action of a verb.
+The perfect stem plus an *-e* (to indicate a noun) is also used
+to form the result of the action of a verb:
 
 ====
 
