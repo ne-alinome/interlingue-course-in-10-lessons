@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.4+20190307
+:revnumber: 0.1.0-pre.5+20190308
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
 // :sectnumlevels: 3
@@ -20,7 +20,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903081532
+// Last modified 201903081550
 
 :dot: .
 
@@ -1428,27 +1428,27 @@ word *flicca* (girl, from Swedish _flicka_), which was changed
 to *puella* a long time ago. Now *flicca* has a similar feel to
 English "gal" or "chick".
 
-// XXX TODO -- Markup:
+// XXX REMARK -- The "verse" block name causes Asciidoctor create a
+// blockquote container in DocBook, no matter if the delimiters are
+// "____", "--" or omitted.
 
+[verse]
+--
 Triant dies hav' septembre,
-
 April, junio, novembre,
-
 Triant un have altris tot,
-
 Februar sol have duant ott;
-
 Except in annus intercalar
-
 Duant nin have februar.
+--
 
+[verse]
+--
 In li verne plantes cresce in li renascet natura.
-
 In estive flores vive e li dies es calid.
-
 In autune flores mori e li fructes es matur.
-
 In hiverne veni nive e li dies es frigid.
+--
 
 ===== Vocabularium
 
