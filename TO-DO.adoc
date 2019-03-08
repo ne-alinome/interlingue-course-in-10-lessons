@@ -16,3 +16,5 @@
 - Decide about titles in English and Interlingue: homogenize or
   markup.
 - Improve "About this book" with a short list of changes.
+- Add note about accent of "deci" in compounds, from the German
+  version.
