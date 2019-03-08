@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.2+20190307
+:revnumber: 0.1.0-pre.3+20190307
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
 // :sectnumlevels: 3
@@ -20,7 +20,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903081510
+// Last modified 201903081525
 
 :dot: .
 
@@ -921,6 +921,9 @@ verb. How do you find the perfect stem? This is where we come to
 First remove the *-r* from a verb, or *-er* for an *-er* verb. What is
 at the end?
 
+// XXX FIXED -- Moved "extracter" and "distincter" to the third step,
+// with the related notes.
+
 1. If it's a vowel, then add a t:
 +
 |===
@@ -931,6 +934,26 @@ at the end?
 | *le/er*, read                | *let-*         | *letion*, reading/lesson
 | *devo/er*, to devote         | *devot-*       | *devotion*
 | *institu/er*, to institute   | *institut-*    | *institution*
+|===
+
+2. If it's a *d* or an *r*, then it becomes *s*:
++
+|===
+| Infinitive              | Perfect stem    | Derived word 
+
+| *explod/er*, to explode | *explos-*       | *explosion*
+| *adher/er*, to adhere   | *adhes-*        | *adhesion*
+| *decid/er*, to decide   | *decis-*        | *decision*
+|===
+
+3. If it's a consonant, then you already have the perfect stem.
++
+|===
+| Infinitive                   | Perfect stem   | Derived word
+
+| *construct/er*, to construct | *construct-*   | *construction*
+| *express/er*, to express     | *express-*     | *expression*
+| *opin/er*, to opine          | *opin-*        | *opinion*
 | *extract/er*, to extract     | *extract-*     | *extraction*
 | *distint/er*, to distinguish | *distint-*     | *distintion*, distinction
 |===
@@ -952,26 +975,6 @@ can see derived as *lecter* -> *lect-* -> *lector*. The
 word *letion* above can also be written *lection*, which carries a more
 formal or pompous meaning. This freedom given to the user to explore the
 language oneself is a powerful tool for adding nuance in writing.
-
-2. If it's a *d* or an *r*, then it becomes *s*:
-+
-|===
-| Infinitive              | Perfect stem    | Derived word 
-
-| *explod/er*, to explode | *explos-*       | *explosion*
-| *adher/er*, to adhere   | *adhes-*        | *adhesion*
-| *decid/er*, to decide   | *decis-*        | *decision*
-|===
-
-3. If it's a consonant, then you already have the perfect stem.
-+
-|===
-| Infinitive                   | Perfect stem   | Derived word
-
-| *construct/er*, to construct | *construct-*   | *construction*
-| *express/er*, to express     | *express-*     | *expression*
-| *opin/er*, to opine          | *opin-*        | *opinion*
-|===
 
 Five verbs are exceptions to the above and must be learned separately.
 

@@ -16,5 +16,3 @@
 - Decide about titles in English and Interlingue: homogenize or
   markup.
 - Improve layout of examples in "Li témpore e su division".
-- Fix: Move examples "extracter" and "distinter" to the third step of
-  the De Whal's Rule.
