@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.5+20190308
+:revnumber: 0.1.0-pre.6+20190308
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
 // :sectnumlevels: 3
@@ -20,7 +20,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903081550
+// Last modified 201903081603
 
 :dot: .
 
@@ -28,11 +28,18 @@ endif::[]
 
 == About this book
 
-Author:: Mag. phil. A.Z. Ramstedt, Helsinki.
+// XXX FIXED -- "Helsinki" -> "Helsingfors" (beside, Cosmoglotta
+// always mentions it as his town)
+
+Author:: Mag. phil. A.Z. Ramstedt, Helsingfors.
 
 Original title in German:: Okzidental-Kursus in 10 Lektionen.
 
 Original publisher:: Occidental-Buró Berlin, 1929.
+
+Transcription of the original contents:: anonymous, 2006. Available in
+http://interlingue.narod.ru/[interlingue.narod.ru] and
+http://ie-munde.com[ie-munde.com].
 
 English translation, orthographic modernization and new additions::
 Dave MacLeod, 2018-2019.
