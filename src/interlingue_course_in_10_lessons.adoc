@@ -1,6 +1,7 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.8+20190308
+:revnumber: 0.1.0-pre.9+20190309
+:version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
 // :sectnumlevels: 3
@@ -20,7 +21,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903090019
+// Last modified 201903091836
 
 :dot: .
 
@@ -60,7 +61,7 @@ https://github.com/asciidoctor/asciidoctor-pdf[asciidoctor-pdf],
 dbtoepub,
 http://debian.org[Debian],
 http://git-scm.com/[Git],
-make,
+https://www.gnu.org/software/make/[GNU make],
 http://pandoc.org[pandoc],
 http://http://jonas.nitro.dk/tig[Tig],
 http://vim.org[Vim],
