@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.10+20190310
+:revnumber: 0.1.0-pre.11+20190310
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -21,7 +21,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903091836
+// Last modified 201903101508
 
 :dot: .
 
@@ -82,20 +82,24 @@ welcome at http://ne.alinome.net[ne.alinome.net].
 
 ==== Un international congress
 
+// XXX FIXED -- "symbol" (old orthograpy) -> "simbol"
+
 Noi have un grand international congress in li cité. Li nationes de
 Europa es representat per eminent cultural persones. Li centre del
 congress es in li palace del parlament. Elegant modern automobiles sta
 ante li portas e sur li stradas e plazzas. Li fassades es decorat per li
 national flaggas. Li flaggas del nordic landes have li cruce quam
-symbol. On vide delegationes de divers partes de Europa, de nord e sud,
+simbol. On vide delegationes de divers partes de Europa, de nord e sud,
 de ost e west. Un deputation visita li presidente del state in li
 grandiosi residentie contra li ópera. Special correspondentes fa
 observationes e scri articules por li redactiones de grand jurnales e
 telegrafa al burós de information.
 
+// XXX FIXED -- "official" (old orthograpy) -> "oficial"
+
 In li grand sala del palace es li general convent. In li micri chambres
 li special comissiones e comités have secret conferenties. Nu li
-official programma comensa. Li
+oficial programma comensa. Li
 borgomastre del cité saluta li congressantes. On electe un presidente.
 Du secretarios scri li protocolles. Un delegat del central states
 presenta un proposition pri li organisation del international trafic per
@@ -139,8 +143,10 @@ discusse li actual situation e international aferes.
 - *residentie* = residence
 - *sala* = room
 - *scri* = write
-- *sta* = to stand
-- *visita* = to visit
+- *sta* = stand(s) (verbal form)
+- *star* = to stand
+- *visita* = visit(s) (verbal form)
+- *visitar* = to visit
 - *unesim* = first
 
 ==== Li macules in li sole
@@ -155,7 +161,10 @@ Ma li prior responde tranquilmen:
 
 // XXX FIXED -- "mentionapri"
 
-„Tu erra, mi filio. Yo ha leet Aristóteles multvez, de comensa till
+// XXX FIXED -- "till" (old orthographie) -> "til" (several cases in
+// the text)
+
+„Tu erra, mi filio. Yo ha leet Aristóteles multvez, de comensa til
 fine, e necú il mentiona pri macules in li sole. Tui ocules have
 macules, e ne li sole.“
 
@@ -167,7 +176,8 @@ macules, e ne li sole.“
 - *hasta* = rushes (lit. hastes)
 - *macul* = spot
 - *mem* = even
-- *mentiona* = mentions
+- *mentiona* = mentions (verbal form)
+- *mentionar* = to mention
 - *mi filio* = my son
 - *monastere* = monastery
 - *multvez* = many times
@@ -197,9 +207,11 @@ surrogat de it; it es li compane del diminuent arte e destructe,
 anihila it in fine.
 ____
 
+// XXX FIXED -- "systema" (old orthographie) -> "sistema"
+
 [quote, Hume]
 ____
-Un bon comedie es plu durabil quam un systema de filosofie.
+Un bon comedie es plu durabil quam un sistema de filosofie.
 ____
 
 [quote, Pauly]
@@ -210,9 +222,11 @@ ____
 ===== Vocabularium
 
 - *compane* = companion
-- *destructe* = destroys
+- *destructe* = destroys (verbal form)
+- *destructer* = to destroy
 - *diminuent* = smaller, diminishing
-- *divide* = divide, share
+- *divide* = divide, share (verbal form)
+- *divider* = to divide, to share
 - *dómina* = dominates
 - *felicie* = happiness, fortune
 - *lor* = their
@@ -349,7 +363,7 @@ incontra un amico, quel saluta le e strax comensa questionar:
 "Quo Vu va far deman?"
 
 "Yo va scrir un long articul por un jurnal, e yo espera, que yo va har
-scrit it till fine posdeman."
+scrit it til fine posdeman."
 
 "Mey Vu haver success in Vor interprense! Ma it vell esser interessant
 saver, pri quo Vu va scrir e por qui Vu va scrir."
@@ -455,7 +469,7 @@ deposit li horloge in su tasca.
 // XXX FIXED -- "asked to ask questions" -> "used to ask questions"
 
 - *aurin* = golden
-- *casu* = case
+- *casu* = case (circumstance)
 - *confesser* = to confess
 - *confirmar* = to confirm
 - *dar* = to give
@@ -1159,7 +1173,7 @@ insul Oesel (Saaremaa), quel apartene al Republica de Estonia. Il esset
 in un societé de professores Kraus e Meyer del universitá in Riga e fat
 explorationes pri ti fenomen del natura.
 
-In to omni expertes esset unanim till nu, que ci ne acte se pri un
+In to omni expertes esset unanim til nu, que ci ne acte se pri un
 extint vulcan, quam on pensa in circules de laicos. Li max probabil
 opinion esset ti, que li cratere es un funel de ruition. Nu professor
 Wegener expresset un nov surprisant interpretation del orígine de ti
@@ -1176,7 +1190,7 @@ du cent (1200) metres in diametre, it es, un córpore de dimensiones de
 un micri satellite. Wegener aprecia li grandore del meteorite, quel ha
 productet li cratere de Sall, ye circa cent til cent quinant (100 til
 150) metres in diametre, e supposi que it deve trovar se in circa
-quinant till settant quin (50 til 75) metres de profundore. Adplu it es
+quinant til settant quin (50 til 75) metres de profundore. Adplu it es
 remarcabil, que in li vicinitá del principal cratere es situat pluri
 simil, ma mult plu micri, funeles, probabilmen causat per partes, queles
 ha separat se durant li cadida, quo es sovente observat che li cadidas
@@ -1785,11 +1799,13 @@ Separation, moving away:
 
 // XXX FIXED -- "in/un/etc." -> "(in-, un-, etc.)"
 
+// XXX FIXED -- "official" (old orthograpy) -> "oficial"
+
 Opposite meaning (in-, un-, etc.):
 
 ====
 
-- *ínoficial* = unofficial
+- *ínoficial* = unoficial
 - *ínclar* = unclear
 - *íncurabil* = uncurable
 - *ínpossibil* = impossible
