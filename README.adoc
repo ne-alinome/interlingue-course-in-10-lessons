@@ -1,10 +1,10 @@
 = Interlingue Course in 10 Lessons
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-03-08
+:revdate: 2019-03-10
 :toc:
 :toc-title: Contents/Contenete
 
-// Last modified 201903082339
+// Last modified 201903101305
 
 == English
 
@@ -40,6 +40,11 @@ follows:
 | make epubd          | Build the EPUB format with dbtoepub
 | make epubp          | Build the EPUB format with pandoc
 | make epubx          | Build the EPUB format with xsltproc
+| make html           | Build the HTML format (all variants)
+| make htmlap         | Build the HTML format with Asciidoctor (plain variant, without styles)
+| make htmlas         | Build the HTML format with Asciidoctor (stylish variant)
+| make htmlpb         | Build the HTML format with pandoc (body only)
+| make htmlpc         | Build the HTML format with pandoc (complete)
 | make odt            | Build the OpenDocument format
 | make pdf            | Build the PDF format (both sizes)
 | make pdfa4          | Build the DIN A4 size PDF format
@@ -84,6 +89,11 @@ ti exemples:
 | make epub1d         | Constructer li formate EPUB per dbtoepub
 | make epub1p         | Constructer li formate EPUB per pandoc
 | make epub1x         | Constructer li formate EPUB per xsltproc
+| make html           | Constructer li formate HTML (omni variantes)
+| make htmlap         | Constructer li formate HTML per Asciidoctor (crud variante, sin stiles)
+| make htmlas         | Constructer li formate HTML per Asciidoctor (stilisat variante)
+| make htmlpb         | Constructer li formate HTML per pandoc (solmen li córpore)
+| make htmlpc         | Constructer li formate HTML per pandoc (complet)
 | make odt            | Constructer li formate OpenDocument
 | make pdf            | Constructer li formate PDF (ambi grandores)
 | make pdfa4          | Constructer li formate PDF ye grandore DIN A4
