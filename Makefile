@@ -2,7 +2,7 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201903010012
+# Last modified 201903101323
 # See change log at the end of the file
 
 # ==============================================================
@@ -30,7 +30,7 @@ description=
 # Interface
 
 .PHONY: all
-all: epub odt pdf xml
+all: epub html odt pdf xml
 
 .PHONY: epub
 epub: epubd epubp epubx
@@ -43,6 +43,21 @@ epubp: target/$(book_basename).adoc.xml.pandoc.epub
 
 .PHONY: epubx
 epubx: target/$(book_basename).adoc.xml.xsltproc.epub
+
+.PHONY: html
+html: htmlap htmlas htmlpb htmlpc
+
+.PHONY: htmlap
+htmlap: target/$(book_basename).adoc.plain.html
+
+.PHONY: htmlas
+htmlas: target/$(book_basename).adoc.stylish.html
+
+.PHONY: htmlpb
+htmlpb: target/$(book_basename).adoc.xml.pandoc.body.html
+
+.PHONY: htmlpc
+htmlpc: target/$(book_basename).adoc.xml.pandoc.complete.html
 
 .PHONY: odt
 odt: target/$(book_basename).adoc.xml.pandoc.odt
@@ -85,6 +100,62 @@ target/%.adoc.xml: src/%.adoc
 	asciidoctor --backend=docbook5 --out-file=$@ $<
 
 # ==============================================================
+# Convert Asciidoctor to HTML
+
+# ----------------------------------------------
+# With styles included
+
+target/%.adoc.stylish.html: src/%.adoc
+	asciidoctor --backend=html --out-file=$@ $<
+
+# ----------------------------------------------
+# Plain, without styles included
+
+target/%.adoc.plain.html: src/%.adoc
+	asciidoctor \
+		--backend=html \
+		--attribute stylesheet=unexistent.css \
+		--out-file=$@ $<
+
+# ==============================================================
+# Convert DocBook to HTML
+
+# ----------------------------------------------
+# Body only
+
+target/$(book_basename).adoc.xml.pandoc.body.html: \
+	target/$(book_basename).adoc.xml \
+	src/$(book_basename)-docinfo.xml \
+	src/pandoc_html_body_template.txt
+	pandoc \
+		--from docbook \
+		--to html5 \
+		--template=src/pandoc_html_body_template.txt \
+		--variable=lang:$(lang) \
+		--variable=editor:$(editor) \
+		--variable=publisher:$(publisher) \
+		--variable=description:$(description) \
+		--output $@ $<
+
+# ----------------------------------------------
+# Complete
+
+target/$(book_basename).adoc.xml.pandoc.complete.html: \
+	target/$(book_basename).adoc.xml \
+	src/$(book_basename)-docinfo.xml \
+	src/pandoc_html_complete_template.txt
+	pandoc \
+		--from docbook \
+		--to html5 \
+		--template=src/pandoc_html_complete_template.txt \
+		--standalone \
+		--variable=lang:$(lang) \
+		--variable=editor:$(editor) \
+		--variable=publisher:$(publisher) \
+		--variable=description:$(description) \
+		--output $@ $<
+
+# ==============================================================
 # Convert DocBook to EPUB
 
 # ------------------------------------------------
@@ -110,8 +181,8 @@ target/$(book_basename).adoc.xml.pandoc.epub: \
 		--template=src/pandoc_epub_template.txt \
 		--css=src/pandoc_epub_stylesheet.css \
 		--variable=lang:$(lang) \
-		--variable=editor:$(author) \
-		--variable=publisher:$(editor) \
+		--variable=editor:$(editor) \
+		--variable=publisher:$(publisher) \
 		--variable=description:$(description) \
 		--output $@ $<
 
@@ -151,8 +222,8 @@ target/$(book_basename).adoc.xml.pandoc.odt: \
 		--to odt \
 		--template=src/pandoc_odt_template.txt \
 		--variable=lang:$(lang) \
-		--variable=editor:$(author) \
-		--variable=publisher:$(editor) \
+		--variable=editor:$(editor) \
+		--variable=publisher:$(publisher) \
 		--variable=description:$(description) \
 		--output $@ $<
 
@@ -165,3 +236,6 @@ target/$(book_basename).adoc.xml.pandoc.odt: \
 #
 # 2019-03-01: Fix the rule that builds the OpenDocument. Simplify the
 # interface: Make all lformats with "all".
+#
+# 2019-03-10: Add HTML output (several variants built with Asciidoctor and
+# pandoc). Fix metadata options in pandoc commands.
