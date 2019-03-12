@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.15+20190312
+:revnumber: 0.1.0-pre.16+20190312
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -21,7 +21,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903121656
+// Last modified 201903121706
 
 :dot: .
 
@@ -49,11 +49,21 @@ Original title of the English version:: Occidental Course in 10
 Lessons (English translation).
 
 Wiki edition:: Dave McLeod, 2018-2019. Available in 
-http://cosmoglotta.pbworks.com[cosmoglotta.pbworks.com], also in PDF.
+http://cosmoglotta.pbworks.com[cosmoglotta.pbworks.com].
 
 Revision and e-book edition:: Marcos Cruz, 2019.
 Available in http://ne.alinome.net[ne.alinome.net] in EPUB, PDF and
 other formats.
+
+Main changes in this edition::
+
+- All errors and typos found have been fixed.
+- In order to make the contents more legible in any format, the layout
+  of tables, lists, notes, block quotes, etc. has been modified.
+
+Some changes and improvements are unfinished yet. See the
+http://github.com/ne-alinome/interlingue-course-in-10-lessons/blob/master/TO-DO.adoc[to-do
+list in the project repository] for details.
 
 Edition made only by libre programs:: 
 http://asciidoctor.org[Asciidoctor],
