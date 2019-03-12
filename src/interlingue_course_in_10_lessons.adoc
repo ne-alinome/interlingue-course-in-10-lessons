@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.13+20190312
+:revnumber: 0.1.0-pre.14+20190312
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -21,7 +21,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903121625
+// Last modified 201903121633
 
 :dot: .
 
@@ -596,36 +596,31 @@ sin cessar e combatter mem li diábol."
 
 Verbs in Interlingue are all regular (except for the verb to be (*esser*)
 which is written *es* in the present). There is only one conjugation
-with four forms. Taking the verbal stem ama- (love) as as example we
+with four forms. Taking the verbal stem *ama-* (love) as as example we
 have the following four forms:
+*ama*,
+*ama__r__*,
+*ama__nt__*,
+*ama__t__*.
 
-1. ama
-2. ama**r**
-3. ama**nt**
-4. ama**t**
-
-// 
-
-1. *ama* has the following uses:
-+
-. Active present indicative (regular present form): *yo ama* = I love,
+* *ama* has the following uses:
+** Active present indicative (regular present form): *yo ama* = I love,
   *il ama* = he loves, *vu ama* = you love, etc.
-. Active present conjunctive: *Il di que il ama* = He says that he
+** Active present conjunctive: *Il di que il ama* = He says that he
   loves
-. Imperative: *ama*! = love! *veni*! = come!
+** Imperative: *ama*! = love! *veni*! = come!
 
-2. *amar* is the infinitive. *amar* = to love, *venir* = to
-come, *presser* = to press.
+* *amar* is the infinitive. *amar* = to love, *venir* = to come,
+   *presser* = to press.
 
-3. *amant* is the active participle (English -ing). *amant* =
-loving, *venient* = coming, *pressent* = pressing
+* *amant* is the active participle (English -ing). *amant* = loving,
+   *venient* = coming, *pressent* = pressing
 
-4. *amat* has the following uses:
-+
-. Perfect participle (i.e. an adjective): *amat* = loved, *venit*
-  = come, *presset* = pressed. *Li amat patria* = the (be)loved
+* *amat* has the following uses:
+** Perfect participle (i.e. an adjective): *amat* = loved, *venit* =
+  come, *presset* = pressed. *Li amat patria* = the (be)loved
   homeland.
-. Active indicative preterite (i.e. past tense): *yo amat* = I loved,
+** Active indicative preterite (i.e. past tense): *yo amat* = I loved,
   *tu amat* = you loved, *il amat* = he loved, *noi amat* = we loved,
   *ili amat su patria* = they loved their homeland, etc.
 
@@ -650,12 +645,12 @@ The other forms are created with the help of auxiliary verbs.
 | Future participle  | *hant amar*      | having to love
 |===
 
-1. *har* resembles *haver* (to have) but is used for verb conjugation,
+*har* resembles *haver* (to have) but is used for verb conjugation,
 while *haver* only refers to the verb to have. *yo ha venit* = I have
 come, *il ha esset* = he has been, *noi hat curret* = we had run, *il
 hat cadet* = he had fallen.
 
-2. *ples* in *ples amar* adds politeness to the imperative, in the
+*ples* in *ples amar* adds politeness to the imperative, in the
 same way as the English please. *ples venir!* = please come! *veni*! =
 Come!
 
