@@ -1,6 +1,6 @@
 = TO-DO of _Interlingue Course in 10 Lessons_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-03-08
+:revdate: 2019-03-12
 
 - Confirm year of the wiki version.
 - Rearrange tables in less columns.
@@ -19,5 +19,4 @@
 - Add note about accent of "deci" in compounds, from the German
   version.
 - Convert number lists into tables.
-- Convert dashes.
 - Homogenize quotes.

@@ -248,7 +248,7 @@ those that most countries in Europe (and of course countries in the
 Americas, in Australia, African countries with European languages, etc.)
 can already understand, and do not need to learn anew. These
 international words are, as we can see through these examples, used in
-an "unmutilated" form. But, - and this is what makes Interlingue unique -
+an "unmutilated" form. But, — and this is what makes Interlingue unique —
 in the language they are not foreign loanwords, but entirely regularly
 composed and derived from international root words, that have been
 chosen in such a way that all these completely international and natural
@@ -1116,7 +1116,7 @@ to form the result of the action of a verb:
 - *scrite* = writing (also note *manuscrite*, a manuscript, from
   *manu* (hand) + *scrite*)
 - *extracte* = extract, from *extracter* (*extrate* for a slightly
-  different nuance - see note above)
+  different nuance — see note above)
 - *miscomprense* = misunderstanding (from *miscomprender* =
   misunderstand)
 
@@ -2519,7 +2519,7 @@ words you already know:
 
 ===== -ificar
 
-"To make into something", "to bring towards" - similar to <<_isar,*-isar*>>
+"To make into something", "to bring towards" — similar to <<_isar,*-isar*>>
 above but slightly different.
 
 // XXX FIXED -- "with power cables with" -> "with power cables"
@@ -3194,7 +3194,7 @@ These three are best learned together.
 
 - *-iera*: a vast location containing something
 - *-iere*: a vessel or container holding something
-- *-iero*: carrying something (forms trees as well - "carriers" of
+- *-iero*: carrying something (forms trees as well — "carriers" of
   their fruits)
 
 *-iere* words:
@@ -3526,8 +3526,8 @@ fanciful ideas), *sistematic* from *sistema*, *problematic* from
 NOTE: Greek words ending in "-ma" take a "t", and those ending in "-se" turn
 the "s" into a "-t" ("xe" also counts as it is pronounced "cse"). Thus:
 
-- *hipnose - hipnotic*
-- *sintaxe - sintactic*
+- *hipnose — hipnotic*
+- *sintaxe — sintactic*
 
 From the adjective *-ic* we derive nouns with:
 
@@ -4417,7 +4417,7 @@ Examples:
 
 === Textus
 
-==== Un parol - un novelle
+==== Un parol — un novelle
 
 Si yo prende un parol ex un lingue, it va racontar me alcun
 cultur-historic facte. Lass nos, por exemple, prender li german parol
@@ -4440,7 +4440,7 @@ Historie del Homanité.
 
 - *concerner* = to concern
 - *developar* = to develop
-- *etimon* = etymon (a word root - cf. etymology)
+- *etimon* = etymon (a word root — cf. etymology)
 - *excerpte* = excerpt
 - *genuine* = genuine
 - *indicar* = to indicate
