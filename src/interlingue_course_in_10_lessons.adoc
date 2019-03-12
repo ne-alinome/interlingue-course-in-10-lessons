@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.14+20190312
+:revnumber: 0.1.0-pre.15+20190312
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -21,7 +21,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903121633
+// Last modified 201903121656
 
 :dot: .
 
@@ -155,7 +155,8 @@ Un yun monaco sede in un turre e observa interessat li sole tra un
 telescope. Per hasard il fa un sensational observation: it existe
 macules in li sole. Il hasta al prior del monastere e exclama:
 
-„Patre, qui nu posse esser sin macules, nam mem li sole have macules.“
+"`Patre, qui nu posse esser sin macules, nam mem li sole have
+macules.`"
 
 Ma li prior responde tranquilmen:
 
@@ -164,9 +165,9 @@ Ma li prior responde tranquilmen:
 // XXX FIXED -- "till" (old orthographie) -> "til" (several cases in
 // the text)
 
-„Tu erra, mi filio. Yo ha leet Aristóteles multvez, de comensa til
+"`Tu erra, mi filio. Yo ha leet Aristóteles multvez, de comensa til
 fine, e necú il mentiona pri macules in li sole. Tui ocules have
-macules, e ne li sole.“
+macules, e ne li sole.`"
 
 ===== Vocabularium
 
@@ -248,7 +249,7 @@ those that most countries in Europe (and of course countries in the
 Americas, in Australia, African countries with European languages, etc.)
 can already understand, and do not need to learn anew. These
 international words are, as we can see through these examples, used in
-an "unmutilated" form. But, — and this is what makes Interlingue unique —
+an "`unmutilated`" form. But, — and this is what makes Interlingue unique —
 in the language they are not foreign loanwords, but entirely regularly
 composed and derived from international root words, that have been
 chosen in such a way that all these completely international and natural
@@ -294,7 +295,7 @@ article (a/an), and does not decline (change form).
 ====
 
 Plural is formed with an *-s*, *-es* after a consonant. Some consonant
-endings such as "g", "um", "c" only add an *-s* for phonetic reasons.
+endings such as "`g`", "`um`", "`c`" only add an *-s* for phonetic reasons.
 
 ==== Cases
 
@@ -344,39 +345,39 @@ they do not in Interlingue.
 Un yun mann promena sur li trottuore de un strada e observa li vive. Il
 incontra un amico, quel saluta le e strax comensa questionar:
 
-"Bon die, mi amico. Quo Vu fa nu?"
+"`Bon die, mi amico. Quo Vu fa nu?`"
 
-"Yo promena."
+"`Yo promena.`"
 
-"Quo Vu ha fat hodie? Yo ne ha videt Vos ante nu."
+"`Quo Vu ha fat hodie? Yo ne ha videt Vos ante nu.`"
 
-"Yo ha laborat."
+"`Yo ha laborat.`"
 
-"Quo Vu fat yer?"
+"`Quo Vu fat yer?`"
 
-"Yo esset in hem e reposat."
+"`Yo esset in hem e reposat.`"
 
-"Quo Vu hat fat anteyer, si Vu esset yer tam fatigat?"
+"`Quo Vu hat fat anteyer, si Vu esset yer tam fatigat?`"
 
-"Yo hat laborat li tot die e nocte."
+"`Yo hat laborat li tot die e nocte.`"
 
-"Quo Vu va far deman?"
+"`Quo Vu va far deman?`"
 
-"Yo va scrir un long articul por un jurnal, e yo espera, que yo va har
-scrit it til fine posdeman."
+"`Yo va scrir un long articul por un jurnal, e yo espera, que yo va har
+scrit it til fine posdeman.`"
 
-"Mey Vu haver success in Vor interprense! Ma it vell esser interessant
-saver, pri quo Vu va scrir e por qui Vu va scrir."
+"`Mey Vu haver success in Vor interprense! Ma it vell esser interessant
+saver, pri quo Vu va scrir e por qui Vu va scrir.`"
 
-"Ci noi ne posse star plu. Noi deve ear."
+"`Ci noi ne posse star plu. Noi deve ear.`"
 
-"Lass nos visitar un café! Ta noi posse seder e trincar un glass de bir
-e parlar. O si Vu vole, café o té. Ples venir con me!"
+"`Lass nos visitar un café! Ta noi posse seder e trincar un glass de bir
+e parlar. O si Vu vole, café o té. Ples venir con me!`"
 
-"Mersí pro Vor invitation! Ma ples pardonar: pro quo Vu vole saver quo
-yo fa, e pri quo e por qui yo scri?"
+"`Mersí pro Vor invitation! Ma ples pardonar: pro quo Vu vole saver quo
+yo fa, e pri quo e por qui yo scri?`"
 
-"Pro que un yun mann deve saver omnicos."
+"`Pro que un yun mann deve saver omnicos.`"
 
 NOTE: *hodie* as a combination of *ho-* + *die* is stressed as *hodíe*, and *omnicos*
 as a combination of *omni* (all) + *cose* (thing) is stressed as *omnicós*.
@@ -417,11 +418,11 @@ They may be also written as *hodíe* and *omnicós*.
 - *por* = for
 - *posdeman* = the day after tomorrow
 - *pri quo* = about what
-- *pro que* = because ("due to that…")
-- *pro quo* = why ("due to what")
+- *pro que* = because ("`due to that…`")
+- *pro quo* = why ("`due to what`")
 - *pro* = due to
 - *promena* = strolls (cf. promenade)
-- *que* = that (as in "I hope _that_…")
+- *que* = that (as in "`I hope _that_…`")
 - *questionar* = to question, to ask
 - *quo* = what
 - *reposar* = to repose, to rest
@@ -443,26 +444,26 @@ Un furtard veni a un prestro por confesser su mult peccas e reciver
 pardon e absolution. Li prestro sede in su stul e escuta benevolent,
 durant que li furtard raconta le pri su trics.
 
-"Quo tu ha fat, mi filio?" questiona li prestro. – In li sam moment li
+"`Quo tu ha fat, mi filio?`" questiona li prestro. – In li sam moment li
 furtard vide, que li prestro porta un fin aurin horloge in un tasca de
 su gilete. Il prende it sin que li prestro remarca to.
 
-"Yo furte," li furtard responde.
+"`Yo furte,`" li furtard responde.
 
-"Talmen tu ne deve dir. Ples dir, yo ha furtet!" – Nu li furtard ja ha
+"`Talmen tu ne deve dir. Ples dir, yo ha furtet!`" – Nu li furtard ja ha
 deposit li horloge in su tasca.
 
-"Yo ha furtet," il confirma.
+"`Yo ha furtet,`" il confirma.
 
-"Yes, bon, mi filio. Nu tu deve retornar to quo tu ha furtet."
+"`Yes, bon, mi filio. Nu tu deve retornar to quo tu ha furtet.`"
 
-"Esque Vu ne vole haver it?"
+"`Esque Vu ne vole haver it?`"
 
-"No, tu deve dar it al possessor."
+"`No, tu deve dar it al possessor.`"
 
-"Li possessor ne vole haver it."
+"`Li possessor ne vole haver it.`"
 
-"In tal casu, ples departer in pace. Tui peccas es pardonat."
+"`In tal casu, ples departer in pace. Tui peccas es pardonat.`"
 
 ===== Vocabularium
 
@@ -504,20 +505,20 @@ deposit li horloge in su tasca.
 ==== Anecdotes
 
 Li persian legates postulat del Spartanes terra e aqua quam signe de
-subjugation. Li Spartanes jettat les in un profund bronn: "Ta vu have
-terra e aqua."
+subjugation. Li Spartanes jettat les in un profund bronn: "`Ta vu have
+terra e aqua.`"
 
-Zeno, li filosofo, dit a un querellant yun mann: "Li natura ha dat nos
-du oreles e un bocca, por que noi mey escutar mult e parlar poc."
+Zeno, li filosofo, dit a un querellant yun mann: "`Li natura ha dat nos
+du oreles e un bocca, por que noi mey escutar mult e parlar poc.`"
 
-"Si yo va venir a Laconia, yo va extinter omnicos e omnihom per foy e
-gladie," scrit Philippos, li rey de Macedonia, al Spartanes. "Si,"
+"`Si yo va venir a Laconia, yo va extinter omnicos e omnihom per foy e
+gladie,`" scrit Philippos, li rey de Macedonia, al Spartanes. "`Si,`"
 respondet li Spartanes.
 
 Un asiatic potentate esset questionat, quel esset su opinion pri li vin.
-Il respondet: "It es un fluide, quel es extraet de lingues de féminas e
+Il respondet: "`It es un fluide, quel es extraet de lingues de féminas e
 cordies de leones, pro que, quande yo ha trincat vin, yo posse parlar
-sin cessar e combatter mem li diábol."
+sin cessar e combatter mem li diábol.`"
 
 ===== Vocabularium
 
@@ -536,7 +537,7 @@ sin cessar e combatter mem li diábol."
 - *omnihom* = everyone
 - *orel* = ear
 - *poc* = little
-- *por que* = in order to ("for that…")
+- *por que* = in order to ("`for that…`")
 - *postular* = to demand
 - *profund* = deep
 - *quel* = which
@@ -678,15 +679,15 @@ printed.
 
 2. Using the verb *star* (to stand): *Li dom sta constructet* =
 the house is built. Using star adds a sense of finality (the house
-"stands" built). *Li libre stat printat* = the book was printed (the
+"`stands`" built). *Li libre stat printat* = the book was printed (the
 book's printing was all done).
 
 3. Using *se* after a verb to make it passive or reflexive (to
 make it refer to itself). *Li jurnal printa se rapidmen* = the magazine
-is being quickly printed (the magazine "prints itself" quickly). *Li
-cose explica se simplicmen* = it's easy to understand ("the thing
-explains itself simply"). *Yo nómina le Brian* (I call him Brian), *il
-nómina se Brian* (his name is Brian = "he calls himself Brian").
+is being quickly printed (the magazine "`prints itself`" quickly). *Li
+cose explica se simplicmen* = it's easy to understand ("`the thing
+explains itself simply`"). *Yo nómina le Brian* (I call him Brian), *il
+nómina se Brian* (his name is Brian = "`he calls himself Brian`").
 Adding *se* to a verb may also give a sense similar to that in
 English: *Yo procurat un libre* = I got a book; *Yo procurat me un
 libre* = I got myself (me) a book.
@@ -733,7 +734,7 @@ Quo il ha creat? Nos e omni altri *creaturas*.
 
 - *altri* = other
 - *crear* = to create
-- *creatori* = "creator-y"
+- *creatori* = "`creator-y`"
 - *Deo* = God
 - *durar* = to last
 - *munde* = world
@@ -787,7 +788,7 @@ grand donator e favorisator del scienties e artes.
 - *gradualmen* = gradually
 - *imperar* = to order (cf. imperative)
 - *innovar* = to innovate
-- *intervenir* = to intervene (lit. "between-come")
+- *intervenir* = to intervene (lit. "`between-come`")
 - *ja* = already
 - *necessi* = necessary
 - *negociar* = to negotiate
@@ -811,7 +812,7 @@ mult devot perlaboration de detallies e penetrativ analise.
 
 Ma it existe anc témpores, quande li pensa abandona su timid, defensiv
 position, marcha adavan e fa un general atacca. It es tal témpores, pri
-queles Hegel ha dit, que "li universal spíritu fa un choc adavan." Con
+queles Hegel ha dit, que "`li universal spíritu fa un choc adavan.`" Con
 egal justification on posse nominar les témpores de productiv erras. Tal
 periodes seque successiv un pos altri, in ritmic fluctuation quam
 sómmites e valleyes de undes.
@@ -886,15 +887,15 @@ before a plural it means *all*.
 ==== Anecdotes
 
 On questionat li filosof Aristippos de Kyrene, per quo li filosofos
-distinte se del altri homes. Il respondet: "Si omni leges vell esser
-abrogat, solmen li filosofos vell viver quam antey."
+distinte se del altri homes. Il respondet: "`Si omni leges vell esser
+abrogat, solmen li filosofos vell viver quam antey.`"
 
 Alqui objectet que on frequent incontra li filosofos avan li portas del
-riches. Aristippos replicat: "Sam quam li medicos avan li portas del
-malades. Esque pro to li malades es plu reputat quam li medicos?"
+riches. Aristippos replicat: "`Sam quam li medicos avan li portas del
+malades. Esque pro to li malades es plu reputat quam li medicos?`"
 
-"Moné," il declarat, "yo prende del riches ne pro que yo besona it, ma
-por que ili mey saver in quel maniere ili posse investir it."
+"`Moné,`" il declarat, "`yo prende del riches ne pro que yo besona it, ma
+por que ili mey saver in quel maniere ili posse investir it.`"
 
 ===== Vocabularium
 
@@ -986,7 +987,7 @@ is only an *extraction*. But an *extration*, derived from *extraer* (to
 pull out), is both a pulling out and an extraction.
 +
 Similarly, the word reader (*letor*, from *le/er* -> *let* -> *letor*)
-has a "hidden" companion in the form of *lecter* that can be seen from
+has a "`hidden`" companion in the form of *lecter* that can be seen from
 the word *lector* (same meaning in Interlingue as in English) that one
 can see derived as *lecter* -> *lect-* -> *lector*. The
 word *letion* above can also be written *lection*, which carries a more
@@ -1057,7 +1058,7 @@ something that is dedicated to or working as:
 - *un ilusori pensa* = an illusory thought (from *iluder*, to feint or
   delude)
 - *scritori crampe* = writer's cramp (i.e. the cramp of a *scritor*)
-- *defensori discurse* = lit. "defensive discourse" (e.g. the speech
+- *defensori discurse* = lit. "`defensive discourse`" (e.g. the speech
   on the defendant's side, from *defender*, to defend)
 
 ====
@@ -1236,7 +1237,7 @@ terra.
 
 ==== Li numerales
 
-Li *cardinal* numerales, queles responde al question "*quant?*" es:
+Li *cardinal* numerales, queles responde al question "`*quant?*`" es:
 
 // XXX FIXED -- "quar mill sett cent undeci" -> "quar mill sett cent
 // deciun"
@@ -1285,7 +1286,7 @@ Li *cardinal* numerales, queles responde al question "*quant?*" es:
 - 1 000 000 000 un milliard
 
 Per adjuntion del suffix *-esim* noi have li *ordinal* numerales,
-respondent al question "*quantesim?*":
+respondent al question "`*quantesim?*`":
 
 // XXX FIXED -- Remove duplicated "quantesim:" here.
 
@@ -1304,7 +1305,7 @@ NOTE: *decesim* (tenth) is written as *decesim* and
 not *deciesim* because *-i* in *deci* is the adjectival ending we
 encountered above (the root itself is *dec*). This is another example of
 an adjective that requires the *-i* ending on its own as
-otherwise *dec* would be pronounced "dek".
+otherwise *dec* would be pronounced "`dek`".
 
 NOTE: *-esim* also gives rise to internationally-recognized words such
 as *ínfinitesim* (an infinitessimal part) and *infinitesimal*. In
@@ -1316,8 +1317,8 @@ purposes. But because *-ant* on its own is easy enough to pronounce
 the *-anti* form is much rarer.
 
 Per adjuntion del sufix *-plic* (*-uplic* pos consonantes) (del verbe
-"plicar") noi recive li *multiplicativ* numerales, queles responde al
-question "*quantuplic?*":
+"`plicar`") noi recive li *multiplicativ* numerales, queles responde al
+question "`*quantuplic?*`":
 
 - unuplic (simplic)
 - duplic
@@ -1329,13 +1330,13 @@ question "*quantuplic?*":
 - centuplic
 
 NOTE: From these words are also derived many known words: *duplicitá*
-(duplicity), *triplicar* (to triplicate), etc. Also note the "d" in
+(duplicity), *triplicar* (to triplicate), etc. Also note the "`d`" in
 *quadr* to form recognizable terms such as *quadratic*, *quadrennial*,
 etc.
 
 NOTE: To summarize: *quant* asks how many, *quantesim* asks which
-place (the "howmany-ith"), and *quantuplic* how many times (the
-"howmany-uple").
+place (the "`howmany-ith`"), and *quantuplic* how many times (the
+"`howmany-uple`").
 
 Existe anc *colectiv* numerales, queles expresse un colection o un
 aproximativ númere:
@@ -1425,7 +1426,7 @@ and has a bit of a slangy feel. *Ye clocca du = a du horas*.
 NOTE: While we are on the subject, the same has happened with the
 word *flicca* (girl, from Swedish _flicka_), which was changed
 to *puella* a long time ago. Now *flicca* has a similar feel to
-English "gal" or "chick".
+English "`gal`" or "`chick`".
 
 // XXX REMARK -- The "verse" block name causes Asciidoctor create a
 // blockquote container in DocBook, no matter if the delimiters are
@@ -1581,7 +1582,7 @@ To. Has many uses:
 
 ===== ante
 
-Means "before" in terms of time and place (*avan* only refers to place).
+Means "`before`" in terms of time and place (*avan* only refers to place).
 
 ====
 - *Ante Cristo* = Before Christ
@@ -1608,10 +1609,10 @@ With.
   eyes.
 ====
 
-NOTE: The phrasing "the hands", "the eyes" to refer to body parts
+NOTE: The phrasing "`the hands`", "`the eyes`" to refer to body parts
 is more common internationally than the English his/her/their. But
-English also uses it sparingly such as in "look me in the eyes" (not
-"look me in my eyes").
+English also uses it sparingly such as in "`look me in the eyes`" (not
+"`look me in my eyes`").
 
 ===== de
 
@@ -1875,26 +1876,26 @@ following:
 | Etymologic | Doubled consonant | Modern single consonant form
 
 | adportar | apportar
-| *aportar* (to bring, from *ad* + *portar*, lit. to "to pull")
+| *aportar* (to bring, from *ad* + *portar*, lit. to "`to pull`")
 
 | adnexion | annexion
-| *anexion* (to annex, from *ad* + *nexer*, lit. to "to tie")
+| *anexion* (to annex, from *ad* + *nexer*, lit. to "`to tie`")
 
 | adtractiv | attractiv
-| *atractiv* (to attract, from ad + *tracter*, lit. to "to pull")
+| *atractiv* (to attract, from ad + *tracter*, lit. to "`to pull`")
 
 | obpression | oppression
-| *opression* (to oppress, from *ob* + *presser*, lit. to "against press")
+| *opression* (to oppress, from *ob* + *presser*, lit. to "`against press`")
 
 | subposition | supposition
-| *suposition* (to suppose, from *sub* + *poser*, lit. to "under place")
+| *suposition* (to suppose, from *sub* + *poser*, lit. to "`under place`")
 
 |===
 
 The form on the left was rarely if ever used, due to 1) the
 uninternational appearance and 2) the possibility of appearing to have a
-different meaning. Subposition for example simply looks like "under
-position" and does not give the sense of supposition.
+different meaning. Subposition for example simply looks like "`under
+position`" and does not give the sense of supposition.
 
 The second form was used for a time, but eventually the community
 settled on the form on the right for simplicity, with doubled consonants
@@ -1936,12 +1937,12 @@ idealistes, de to ne vell esser alquant ínjust, nam anc li realistes
 have su ideales, e anc li idealistes calcula con un realitá, quel posse
 fórsan esser plu ver quam li evident.
 
-Un filosof unquande ha expresset li sam pensa per ti paroles: "Li munde
+Un filosof unquande ha expresset li sam pensa per ti paroles: "`Li munde
 sempre ha ridet pri to quo plu tard ha verificat se. In omni témpores
 existe homes qui pensa, e homes qui ride. Quande li témpore ha passat e
 un nov intrat – it ha sempre esset talmen, ne existe exceptiones – tande
 li munde ha regardat a retro e erectet monumentes a tis qui pensat, e
-ridet pri tis qui ridet."
+ridet pri tis qui ridet.`"
 
 ===== Vocabularium
 
@@ -2060,7 +2061,7 @@ calculationes de profite.
 (Ruskin)
 
 NOTE: *to* is only written with an accent here to show emphasis
-("_that_ is never found in our profit calculations").
+("`_that_ is never found in our profit calculations`").
 
 ===== Vocabularium
 
@@ -2095,14 +2096,14 @@ victet in su unesim processu. Proque il tardat payar li ultim parte,
 Protágoras comensat processu contra il. In ti die, in quel li judicament
 evenit, li du parties incontrat ante li deliberationes del judicos.
 
-"It es plu bon, que tu paya me nu," dit li mastro, "nam si yo victe, tu
+"`It es plu bon, que tu paya me nu,`" dit li mastro, "`nam si yo victe, tu
 va esser judicat a payar, e si tu victe, tande tu ya ha victet in unesim
-processu, e va dever payar me anc in ti casu."
+processu, e va dever payar me anc in ti casu.`"
 
-"No, ples atender un poc," replicat li yun mann, "si tu victe, tande yo
+"`No, ples atender un poc,`" replicat li yun mann, "`si tu victe, tande yo
 ne ha victet in mu unesim processu, e tande, comprensibilmen, yo ne deve
 payar te e si yo victe, tande li judicament ya va esser tal, que yo ne
-deve payar."
+deve payar.`"
 
 // XXX FIXED -- Markup of "índemiatmen":
 
@@ -2477,9 +2478,9 @@ The present participle can also be made into verbs:
 
 ====
 
-- *sedentar* = to sit (from *sedent* = sitting, thus to "make sit")
+- *sedentar* = to sit (from *sedent* = sitting, thus to "`make sit`")
 - *reviventar* = to revive (from *re* + *vivent* = living, thus to
-  "re-make living")
+  "`re-make living`")
 - *calentar* = to heat (*caler* = to feel warm, thus *calent* = being
   warm and *calentar* = to make warm)
 
@@ -2487,7 +2488,7 @@ The present participle can also be made into verbs:
 
 ===== -isar
 
-"To make thus", "to make as", similar to English:
+"`To make thus`", "`to make as`", similar to English:
 
 ====
 
@@ -2514,7 +2515,7 @@ words you already know:
 
 ===== -ificar
 
-"To make into something", "to bring towards" — similar to <<_isar,*-isar*>>
+"`To make into something`", "`to bring towards`" — similar to <<_isar,*-isar*>>
 above but slightly different.
 
 // XXX FIXED -- "with power cables with" -> "with power cables"
@@ -2824,30 +2825,30 @@ flores de camp, queles injoyat li paisage. Ma li farmero totmen ne esset
 content con ti malherbe, quam
 
 il nominat les. Il haltat e prendet ex li tasca un tabaciere e presentat
-nos quelc cigares: "Vu ne posse imaginar Vos," dit il, "quant me despita
+nos quelc cigares: "`Vu ne posse imaginar Vos,`" dit il, "`quant me despita
 li insectes! vu vide ta li pomiera juntet a mi parc. It es presc vivid
 pro li mult vermes, con queles yo guerrea nu ja quelc annus. Anc li
 verdi pedicules de folies in mi adjacent pruniera, malgré omni
-precautiones, expande se in un horribil maniere."
+precautiones, expande se in un horribil maniere.`"
 
-"Esque Vu have fórsan formícas?"
+"`Esque Vu have fórsan formícas?`"
 
-"O yes. Ci es pluri formicieras in li boscage vicin. Ili es tre laborosi
+"`O yes. Ci es pluri formicieras in li boscage vicin. Ili es tre laborosi
 insectes. Ples notar que just li formícas cultiva li pedicules, e yo
 posse solmen consiliar Vos tam rapid quam possibil exterminar omni
-formicieras. Ili es tre nociv animales in un fructiera."
+formicieras. Ili es tre nociv animales in un fructiera.`"
 
-"Advere! Nu yo va secuer Vor consilie. Ples regardar tra ti clariera,
+"`Advere! Nu yo va secuer Vor consilie. Ples regardar tra ti clariera,
 quel aperte nos li vide súper li mare. Ta Vu posse vider un cannoniere e
-du destructores, queles crucea in ti regiones."
+du destructores, queles crucea in ti regiones.`"
 
-"Quel es ti nave, quel sub segles veni al portu?"
+"`Quel es ti nave, quel sub segles veni al portu?`"
 
-"To es nor seglero, quel aporta nos salpetre por amelioration del terre.
-It veni del famos nitrieras in Chile."
+"`To es nor seglero, quel aporta nos salpetre por amelioration del terre.
+It veni del famos nitrieras in Chile.`"
 
 Pos har fat un promenada tra li principal branches de su proprietás, li
-farmero invitat nos in su "garsoniera," quam il nominat su hem nu,
+farmero invitat nos in su "`garsoniera,`" quam il nominat su hem nu,
 proque su marita esset in un sanatoria. Quande noi hat sedentat nos in
 li comod apoyieres, sub li grand castaniero, un servitor aportat sur un
 tablette un chinesi teiere con tasses. Pos har trincat té e restaurat
@@ -3120,8 +3121,8 @@ Special property or condition, most similar to English -ness. Examples:
 
 ====
 
-This is also the suffix used for bombastic titles such as "your
-Highness" (*Vor Altesse*).
+This is also the suffix used for bombastic titles such as "`your
+Highness`" (*Vor Altesse*).
 
 ==== Local e colectiv sufixes
 
@@ -3189,7 +3190,7 @@ These three are best learned together.
 
 - *-iera*: a vast location containing something
 - *-iere*: a vessel or container holding something
-- *-iero*: carrying something (forms trees as well — "carriers" of
+- *-iero*: carrying something (forms trees as well — "`carriers`" of
   their fruits)
 
 *-iere* words:
@@ -3289,8 +3290,8 @@ honorabil maniere. Al german intellectu manca li frances brilliantie, li
 fin practical comprension del angleses, e li american aventura; ma it
 have un cert honestie, quel nequande resta in superficial performantie,
 ma questiona constant: pro quel scope? Un german publica
-demanda controlant sinceritá. "Ci es un activitá de pensada – ma por
-quo? Quo vole li mann? De u, de u omni ti pensas?"
+demanda controlant sinceritá. "`Ci es un activitá de pensada – ma por
+quo? Quo vole li mann? De u, de u omni ti pensas?`"
 
 Sol talent ne posse far un autor. It es necessi que existe un mann detra
 li libre, un personalitá qui per su orígine e su qualitá da garantíe a
@@ -3335,12 +3336,15 @@ cuida, quam fluent, quam brilliant il es . . .
 - *vocar* = to call
 - *voce* = voice
 
+// XXX FIXED -- nesting of quotes and parens (maybe not after
+// the rule in English, but more logical):
+
 NOTE: The *-nd* suffix (*-and* for *-ar* verbs, *-end* for *-er* and *-ir* verbs)
-adds the meaning "thing to be (verb)ed)". This is where words
+adds the meaning "`thing to be (verb)ed`"). This is where words
 like *dividende* (thing to be *divided*, from divider) come from, which
 adds a certain obligation (a thing to do = a thing one should do).  As
 an adjective it can also take the *-i* at the end for euphony. The
-above *un veritá explicand* thus means "a truth to be explained".
+above *un veritá explicand* thus means "`a truth to be explained`".
 Another way to say the same would be *un veritá a explicar*.
 
 ==== Aforismes
@@ -3518,8 +3522,8 @@ energie, fantastic from fantaste (a fantast, someone with eccentric or
 fanciful ideas), *sistematic* from *sistema*, *problematic* from
 *problema*, etc.
 
-NOTE: Greek words ending in "-ma" take a "t", and those ending in "-se" turn
-the "s" into a "-t" ("xe" also counts as it is pronounced "cse"). Thus:
+NOTE: Greek words ending in "`-ma`" take a "`t`", and those ending in "`-se`" turn
+the "`s`" into a "`-t`" ("`xe`" also counts as it is pronounced "`cse`"). Thus:
 
 - *hipnose — hipnotic*
 - *sintaxe — sintactic*
@@ -3569,7 +3573,7 @@ or *-ical* could be preferred:
 ====
 
 On a related note, beware of words where English is the odd man out such
-as *energic* (energetic) where only English has the added "-et-" in the
+as *energic* (energetic) where only English has the added "`-et-`" in the
 middle.
 
 ===== -aci
@@ -3754,7 +3758,7 @@ Highest, over-.
 
 - *archiepiscop* = archbishop
 - *archángel* = archangel
-- *archifripon* = an "arch rogue"
+- *archifripon* = an "`arch rogue`"
 - *archinull* = total zero, huge loser
 
 ====
@@ -3942,7 +3946,7 @@ distantie; circumstar, circumstantie*; etc.
 
 ====
 
-Plus some others if one considers that the "-stituer" ending is also
+Plus some others if one considers that the "`-stituer`" ending is also
 related to star: *constituer, constitution, instituer, institute,
 institution, institutor, restituer, restitution, substituer, substitute,
 substitution*,
@@ -3953,17 +3957,20 @@ substitution*,
 
 ==== Un somnie
 
-"In facte, yo havet un drolli somnie just nu," racontat un irlandeso.
-"Yo revat, que yo esset in Roma e visitat su Sanctitá, li Papa. Apen yo
-hat tappat sur li porta, quande il self apertet it. – "A, Pat, es it Vu,
-qui ha venit, o alqui altri?" – "Advere, Vor honore, it es yo e nequi
-altri." – "Ples venir con me in li superior etage!" il dit me. E ta
-esset un separat chambre, bellissim equipat, quel yo ne ha videt jamá."
-"Ples seder," dit su Sanctitá, "quo Vu vole?" – Yo meditat durant un
-momente, e in fine yo dit: "Un glass de fort trincage." – "Deve it esser
-frigid o calid?" – "Calid," yo respondet. E su Sanctitá departet por
+// XXX FIXED -- nested quotes: double for the telling, single for the
+// speeches in the telling.
+
+"`In facte, yo havet un drolli somnie just nu,`" racontat un irlandeso.
+"`Yo revat, que yo esset in Roma e visitat su Sanctitá, li Papa. Apen yo
+hat tappat sur li porta, quande il self apertet it. – '`A, Pat, es it Vu,
+qui ha venit, o alqui altri?`' – '`Advere, Vor honore, it es yo e nequi
+altri.`' – '`Ples venir con me in li superior etage!`' il dit me. E ta
+esset un separat chambre, bellissim equipat, quel yo ne ha videt jamá.
+'`Ples seder,`' dit su Sanctitá, '`quo Vu vole?`' – Yo meditat durant un
+momente, e in fine yo dit: '`Un glass de fort trincage.`' – '`Deve it esser
+frigid o calid?`' – '`Calid,`' yo respondet. E su Sanctitá departet por
 aportar li trincage, ma il esset absent tro long e interim yo avigilat
-me. Quam yo nu repente, que yo ne hat petit le dar me it frigid."
+me. Quam yo nu repente, que yo ne hat petit le dar me it frigid.`"
 
 ===== Vocabularium
 
@@ -4003,21 +4010,21 @@ abandonat it ja de long.
 
 Mani nómina se idealist: proque il vole viver ne por, ma per un idé.
 
-Un conosset patriot ha dit: "Yo ne comprende que alcun hom vole nascer
-quam extraniano."
+Un conosset patriot ha dit: "`Yo ne comprende que alcun hom vole nascer
+quam extraniano.`"
 
 On posse tacer pro divers motives: anc pro to que on have necos a dir.
 
 Homes (anc Vu ha certmen constatat it) have plu de témpore, quande ili
 vole alquicos de nos, quam quande noi vole alquicos de ili.
 
-A un yun mann, qui fanfaronat pri su saventies, un old mann dit: "Vu es
-felici, qui vive ancor in ti etá, quande on save omnicos."
+A un yun mann, qui fanfaronat pri su saventies, un old mann dit: "`Vu es
+felici, qui vive ancor in ti etá, quande on save omnicos.`"
 
-Quam ínprudent it vell esser, si noi vell dir a nor conossetes: "Yo have
-exact tant interesse por Vos quant Vu por me."
+Quam ínprudent it vell esser, si noi vell dir a nor conossetes: "`Yo have
+exact tant interesse por Vos quant Vu por me.`"
 
-Quande un hom di: "Un de nos erra," yo save strax, quem il alude.
+Quande un hom di: "`Un de nos erra,`" yo save strax, quem il alude.
 
 Certmen Vu conosse ti person, qui quande on parla pri un altri hom,
 comensa strax parlar pri se self.
@@ -4038,29 +4045,29 @@ ____
 
 ==== Bon respondet
 
-"Ples pardonar me, Senior," dit un tre seriosi aparent mann a un jolli
-hom, qui stat fumant un grand cigare sur li strada, "quant cigares Vu
-fuma in un die?"
+"`Ples pardonar me, Senior,`" dit un tre seriosi aparent mann a un jolli
+hom, qui stat fumant un grand cigare sur li strada, "`quant cigares Vu
+fuma in un die?`"
 
 // XXX FIXED -- "li response esset" -> "su response esset"
 
-"O," su response esset, "fórsan quar o quin."
+"`O,`" su response esset, "`fórsan quar o quin.`"
 
-"Quin cigares in un die fa triant quin in un semane, circa un cent
+"`Quin cigares in un die fa triant quin in un semane, circa un cent
 quinant in un mensu, e plu quam mill ott cent in un annu. Ples supposir,
 que Vu vell har economisat omni ti moné, quel Vu ha expenset a tabac! Vu
 vell posser fórsan esser li possessor de ti bell micri dom, quel Vu vide
-ci a levul."
+ci a levul.`"
 
-"Esque it es Vor, mi Senior?"
+"`Esque it es Vor, mi Senior?`"
 
-"O no, yo ne possede un dom."
+"`O no, yo ne possede un dom.`"
 
-"Esque Vu save, de qui it es?"
+"`Esque Vu save, de qui it es?`"
 
-"No."
+"`No.`"
 
-"It es mi!"
+"`It es mi!`"
 
 NOTE: *li mi, li vor* etc. is also used.
 
@@ -4152,8 +4159,8 @@ detra-parte paralel al squelette.
 
 Su altesse, li prince de S., intrat con mult grandesse in li sala del
 iguanodon, ma bentost il esset un modest micri hom apu li colossal
-animale. Un dama regardat li gigant e dit: "It es ínpossibil. Etsi un
-tal animal ha vivet, qualmen on posse saver su nómine?"
+animale. Un dama regardat li gigant e dit: "`It es ínpossibil. Etsi un
+tal animal ha vivet, qualmen on posse saver su nómine?`"
 
 ===== Vocabularium
 
@@ -4195,8 +4202,8 @@ pronouns in Interlingue. Let's look at them as a whole.
 - *vor* = your
 - *lor* = their
 
-*Se* is used to form reflexive pronouns, and *unaltru* means "each
-other".
+*Se* is used to form reflexive pronouns, and *unaltru* means "`each
+other`".
 
 Some examples:
 
@@ -4212,8 +4219,8 @@ Some examples:
   expressed as *Li nor victet li vor*.
 - *Yo es tua e tu es mio* = I am yours and you are mine (said by a
   woman to a man)
-- *Ples far lu tui!* = Please do yours! (remember *lu* = "the thing
-  which is")
+- *Ples far lu tui!* = Please do yours! (remember *lu* = "`the thing
+  which is`")
 
 ====
 
@@ -4225,8 +4232,8 @@ interestingly nobody has ever preferred the forms *con yo, con tu*,
 only *con me, con te*. Rule of thumb: always *me* and *te*, the others
 are up to personal preference. Whether the community will decide on one
 form over the other is tough to say: even English has yet to do so in
-cases such as "You are taller than _me_" (than + pronoun) vs. "You are
-taller than I" (short for "than I am").
+cases such as "`You are taller than _me_`" (than + pronoun) vs. "`You are
+taller than I`" (short for "`than I am`").
 
 ===== Demonstrative and determinative pronouns
 
@@ -4316,7 +4323,7 @@ Note that many of these are simply formed by prefixing *al-*, *ne-*,
 etc. to other existing pronouns. They are not accented.
 
 *on* = one. This is used much more than in English, where it has a
-pompous feel ("Pardon me, where can one purchase a…"). In Interlingue
+pompous feel ("`Pardon me, where can one purchase a…`"). In Interlingue
 it means one, we, people, you (a general you), and even forms the
 passive. *In Italia on parla italian* = one speaks Italian in Italy, we
 speak Italian in Italy, you speak Italian in Italy, Italian is spoken in
@@ -4347,7 +4354,7 @@ Italy.
 - *un cert* = a certain
 - *mani* = many, many a
 - *tot* = all
-- *-cunc* = fixed to pronouns to give the sense of "whatever".
+- *-cunc* = fixed to pronouns to give the sense of "`whatever`".
   *quicunc* = whoever, *quelcunc* = whichever, *quocunc* = whatever.
   *-cunc* is not accented.
 
@@ -4414,17 +4421,19 @@ Examples:
 
 ==== Un parol — un novelle
 
+// XXX FIXED -- "Infante" (Spanish) -> "infante"
+
 Si yo prende un parol ex un lingue, it va racontar me alcun
 cultur-historic facte. Lass nos, por exemple, prender li german parol
 infanterie. Su form indica, que it es un parol pruntat ex li francesi
 lingue. Ergo li franceses deve har havet un cert influentie concernent
 li developation e organisation del german armés, altrimen on vell har
-conservat li genuin old german parol "Fußvolk," usat ancor in li
+conservat li genuin old german parol "`Fußvolk,`" usat ancor in li
 decisixesim secul. Ma li parol explica ancor plu. It di, que originalmen
 it deve har esset usat por un cert sorte del infanterie, a saver, por li
-guardie del Infante de Hispania. Li "Infante" de Hispania es identic con
-li international e pro to anc occidental parol "infante," originant del
-latin "infans," quel es composit del prefix "in" (ne) e "fans"
+guardie del Infante de Hispania. Li "`infante`" de Hispania es identic con
+li international e pro to anc occidental parol "`infante,`" originant del
+latin "`infans,`" quel es composit del prefix "`in`" (ne) e "`fans`"
 (parlant), to es, un hom, quel ancor ne posse parlar. Talmen yo veni in
 mi exploration a plu e plu lontan témpores e popules, e yo fini che li
 unesim conosset form e sense del parol, che li etimon. Li historie de un
@@ -4476,22 +4485,22 @@ energie ne ha flammat quam vivent foyes in su anima? (Channing.)
 Du yun juristes, Miller e Brun, visitat sovente li sam yun dama. Un
 véspere Miller esset sol con ella. Il dit in tendri ton:
 
-"Esque Vu pensa, María, que Vu posse subitmen abandonar patre e matre,
+"`Esque Vu pensa, María, que Vu posse subitmen abandonar patre e matre,
 sestra e fratre, ti plesent, comfortabil dom, e emigrar in li savagi
 West con un yun jurist, qui posse viver solmen per su profession, e
-serchar ta un nov hem, in quel ambi posse esser felici?"
+serchar ta un nov hem, in quel ambi posse esser felici?`"
 
 Inclinante su bell cap sur li epoles de Miller, ella chuchotat
-tendrimen: "Yes, yo pensa que yo posse, Arnold."
+tendrimen: "`Yes, yo pensa que yo posse, Arnold.`"
 
-"Bon," dit Miller, "it es Brun, qui intente emigrar e desira un sponsa,
-yo va mentionar to a il."
+"`Bon,`" dit Miller, "`it es Brun, qui intente emigrar e desira un sponsa,
+yo va mentionar to a il.`"
 
 '''
 
 A un yun mann, qui sedet silent in un companie, Teophrástos, li famos
-grec filosof, dit: "Si Vu es folli, Vu acte sagimen; si Vu es sagi, Vu
-acte follimen."
+grec filosof, dit: "`Si Vu es folli, Vu acte sagimen; si Vu es sagi, Vu
+acte follimen.`"
 
 ===== Vocabularium
 
@@ -4698,10 +4707,10 @@ There are also some subordinate conjunctions:
 
 // XXX FIXED -- Clearer example with ellipsis:
 
-- *que* = that (e.g. "He said that …")
+- *que* = that (e.g. "`He said that …`")
 - *si* = if
 - *quam* = as, like
-- *esque, ca* = whether, if (e.g. "I don't know whether …")
+- *esque, ca* = whether, if (e.g. "`I don't know whether …`")
 - *quasi* = as if, quasi
 - *benque* = though, although
 - *etsi* = albeit, although With *quam* and *que* together with other
@@ -4713,7 +4722,7 @@ There are also some subordinate conjunctions:
 - *porque (por que)* = in order that
 - *perque (per que)* = in that (because of…)
 
-NOTE: The *que* here is not translated as "that" in English but carries
+NOTE: The *que* here is not translated as "`that`" in English but carries
 that sort of meaning. Point to take home: _Having *que* means the parts
 of the sentence before *que* and after it can stand on their own._
 Examples of conjunctions with and without *que* to demonstrate the
@@ -4747,7 +4756,9 @@ difference:
 
 === Textus
 
-==== "In comensa esset li parol"
+==== "`In comensa esset li parol`"
+
+// XXX FIXED -- nested quotes
 
 Li famosi unesim frase del Evangelium de Johannes cela un profund sense,
 anc si noi comprende it litteralmen. Nam solmen per su capabilitá
@@ -4763,9 +4774,9 @@ eveni instinctiv o intuitiv, un plu alt spiritual vive, quel eleva se
 súper obscur fluctuationes de pur instinctes e perceptiones a plen
 claritá e libertá del conceptiv pensada, es e va esser connectet a
 linguistic capacitá. Omni spiritual valores li hom debi finalmen a su
-talent de articulat parlation. Novális di unquande in su aforismes: "Li
+talent de articulat parlation. Novális di unquande in su aforismes: "`Li
 grammatica es li dinamica del spiritual dominia. Un parol de comande
-move armés, li parol "libertá" nationes."
+move armés, li parol '`libertá'` nationes.`"
 
 Quande li poet e li pensator vaga líber ad in li immens dominia de
 pensas, lor ales es li parol. Li parlant hom victe li circumant natura
@@ -4812,7 +4823,7 @@ conclude cartelles trans li frontieras. Li banks del tot munde es alliat
 per comun operationes.
 
 Li ovreros ha sentit, que, in regard a lor patrones, ili have identic
-interesses. Li formul "Laboreros de omni landes, unia vos" ha evocat ecó
+interesses. Li formul "`Laboreros de omni landes, unia vos`" ha evocat ecó
 in li classes de ovreros de omni landes.
 
 Li rel-vias, li naves, queles fa possibil li relationes inter li homes,
@@ -5033,13 +5044,13 @@ conditional sentences:
 ====
 
 For the conditional you can add a *in ti casu* (in that case) if wished
-to translate English *then* (if she had known her mother, *then* she
+to translate English "`then`" (if she had known her mother, _then_ she
 would have…), but *vell* on its own is always enough. Also note that
 in the conditional, both parts of the sentence use *vell*. This is like
-saying "if she *would have* known her mother she *would have*…",
+saying "`if she _would have_ known her mother she __would have__…`",
 because both parts are conditional. One does see the perfect past
-starting off these types of sentences from time to time, however: "*Si
-ella hat conosset su matre, ella vell har…*"
+starting off these types of sentences from time to time, however: *Si
+ella hat conosset su matre, ella vell har…*
 
 Where some languages use a preposition (especially *a*) before the
 subject of a verb and others don't, Interlingue prefers to not use them.
@@ -5047,9 +5058,9 @@ Rule of thumb: if in doubt, try going without a preposition if the
 meaning is still clear.
 
 The same goes for reflexive verbs (verbs using *se*). English uses
-them infrequently but still does in some places such as "I'm going to
-find *myself* something to eat" which would be written "Yo va trovar
-alquó a manjar" and not "Yo va trovar *me* alquó a manjar".
+them infrequently but still does in some places such as "`I'm going to
+find _myself_ something to eat`" which would be written *Yo va trovar
+alquó a manjar* and not *Yo va trovar _me_ alquó a manjar*.
 
 ====
 
@@ -5057,14 +5068,14 @@ alquó a manjar" and not "Yo va trovar *me* alquó a manjar".
 - *Ples auxiliar li* (not *a li*) *povri mann.* = Please help the poor
   man.
 - *Il menaciat su ínamicos.* = He threatened his enemies.
-- *Yo memora li cose tre bon.* = I remember it ("the thing") very
+- *Yo memora li cose tre bon.* = I remember it ("`the thing`") very
   well.
 - *Il prepara por un viage.* = He is preparing for a voyage.
 - *To il solmen imagina.* = He just imagines it.
 - *Yo es conscient pri to.* = I'm aware of that.
 - *Yo tre joya vider Vos.* = I'm very happy to see you.
 - *Yo senti dolore; yo regreta.* = I'm sorry; I regret that…
-- *Yo repente.* = I'm sorry ("I repent that…")
+- *Yo repente.* = I'm sorry ("`I repent that…`")
 - *Yo senti calore; yo cale.* = I'm hot.
 - *Yo senti frigore; yo frige.* = I'm cold.
 - *Yo senti fame / sete.* = I'm hungry / thirsty.
