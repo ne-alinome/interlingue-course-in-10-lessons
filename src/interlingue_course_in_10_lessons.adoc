@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.16+20190312
+:revnumber: 0.1.0-pre.17+20190312
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -4521,7 +4521,7 @@ acte follimen.`"
 - *felici* = happy
 - *foll(i*) = crazy
 - *fratre* = brother
-- *intenter* = to intend       |             |
+- *intenter* = to intend
 - *matre* = mother
 - *savagi* = wild
 - *serchar* = to search
