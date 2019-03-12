@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.12+20190312
+:revnumber: 0.1.0-pre.13+20190312
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -21,7 +21,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903121624
+// Last modified 201903121625
 
 :dot: .
 
@@ -638,8 +638,8 @@ The other forms are created with the help of auxiliary verbs.
 |===
 | Perfect            | *yo ha amat*     | I have loved
 | Pluperfect         | *yo hat amat*    | I had loved
-| Future I           | *yo va amar*     | I will love
-| Future II          | *yo va har amat* | I will have loved
+| Future 1           | *yo va amar*     | I will love
+| Future 2           | *yo va har amat* | I will have loved
 | Optative           | *yo mey amar*    | I may love
 | Conditional        | *yo vell amar*   | I would love
 | Precative          | *ples amar!*     | please love!
@@ -666,7 +666,7 @@ Come!
 | Preterite          | *yo esset amat*      | I was loved
 | Perfect            | *yo ha esset amat*   | I have been loved
 | Pluperfect         | *yo hat esset amat*  | I had been loved
-| Future I           | *yo va esser amat*   | I will be loved
+| Future 1           | *yo va esser amat*   | I will be loved
 | Optative           | *yo mey esser amat*  | may I be loved
 | Conditional        | *yo vell esser amat* | I would be loved
 | Present infinitive | *esser amat*         | to be loved
