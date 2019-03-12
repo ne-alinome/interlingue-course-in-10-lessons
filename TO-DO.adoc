@@ -19,4 +19,3 @@
 - Add note about accent of "deci" in compounds, from the German
   version.
 - Convert number lists into tables.
-- Homogenize quotes.
