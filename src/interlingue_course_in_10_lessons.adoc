@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.22+20190314
+:revnumber: 0.1.0-pre.23+20190314
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -4607,7 +4607,7 @@ occasion, *per ocasion* = by chance, etc.
 
 // XXX FIXED -- "Pronomial" -> "Pronominal"
 
-Pronominal adverbs
+Pronominal adverbs:
 
 - *u?* = where?
 - *ci* = here
