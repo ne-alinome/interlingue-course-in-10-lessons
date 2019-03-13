@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.21+20190313
+:revnumber: 0.1.0-pre.22+20190314
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -83,6 +83,8 @@ Version of this edition:: {revnumber}.
 
 Contributions:: Corrections and suggestions for next versions are
 welcome at http://ne.alinome.net[ne.alinome.net].
+
+NOTE: The name of Interlingue was "`Occidental`" until 1949.
 
 // :sectnums:
 
