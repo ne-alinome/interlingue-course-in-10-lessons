@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.19+20190313
+:revnumber: 0.1.0-pre.20+20190313
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -21,7 +21,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903131229
+// Last modified 201903131236
 
 :dot: .
 
@@ -954,7 +954,7 @@ at the end?
 // XXX FIXED -- Moved "extracter" and "distincter" to the third step,
 // with the related notes.
 
-1. If it's a vowel, then add a t:
+1. If it's a vowel, then add a "`t`":
 +
 |===
 | Infinitive                   | Perfect stem   | Derived word
@@ -966,7 +966,7 @@ at the end?
 | *institu/er*, to institute   | *institut-*    | *institution*
 |===
 
-2. If it's a *d* or an *r*, then it becomes *s*:
+2. If it's a "`d`" or an "`r`", then it becomes "`s`":
 +
 |===
 | Infinitive              | Perfect stem    | Derived word 
@@ -3020,7 +3020,7 @@ Suffix for females indicating an office or dignified position:
 
 ====
 
-Note that *-or* drops the *o* in this suffix.
+Note that *-or* drops the "`o`" in this suffix.
 
 ==== Qualitative suffixes
 
