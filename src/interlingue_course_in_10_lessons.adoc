@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.20+20190313
+:revnumber: 0.1.0-pre.21+20190313
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -21,7 +21,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903131236
+// Last modified 201903131300
 
 :dot: .
 
@@ -987,7 +987,9 @@ at the end?
 | *extract/er*, to extract     | *extract-*     | *extraction*
 | *distint/er*, to distinguish | *distint-*     | *distintion*, distinction
 |===
-
++
+[NOTE]
+--
 As in English, Interlingue sometimes has two groupings of verbs
 with nearly the same meaning where the more Latin-like one has a more
 formal or heavy character. To derive *extraction* above the
@@ -1005,6 +1007,7 @@ can see derived as *lecter* -> *lect-* -> *lector*. The
 word *letion* above can also be written *lection*, which carries a more
 formal or pompous meaning. This freedom given to the user to explore the
 language oneself is a powerful tool for adding nuance in writing.
+--
 
 Five verbs are exceptions to the above and must be learned separately.
 
@@ -1313,20 +1316,23 @@ respondent al question "`*quantesim?*`":
 - 100. centesim
 - 1000. milesim
 
-NOTE: *decesim* (tenth) is written as *decesim* and
+[NOTE]
+--
+*decesim* (tenth) is written as *decesim* and
 not *deciesim* because *-i* in *deci* is the adjectival ending we
 encountered above (the root itself is *dec*). This is another example of
 an adjective that requires the *-i* ending on its own as
 otherwise *dec* would be pronounced "`dek`".
 
-NOTE: *-esim* also gives rise to internationally-recognized words such
+*-esim* also gives rise to internationally-recognized words such
 as *ínfinitesim* (an infinitessimal part) and *infinitesimal*. In
 Interlingue these words are regularly derived from common verbs: *ín*
 + *fini-r* (to finish) + *t* + *-esim* + *-al* = *ínfinitesimal*.
 
-NOTE: Similarly, sometimes the *-ant* is written *-anti* for euphonic
+Similarly, sometimes the *-ant* is written *-anti* for euphonic
 purposes. But because *-ant* on its own is easy enough to pronounce
 the *-anti* form is much rarer.
+--
 
 Per adjuntion del sufix *-plic* (*-uplic* pos consonantes) (del verbe
 "`plicar`") noi recive li *multiplicativ* numerales, queles responde al
@@ -1428,17 +1434,20 @@ saturdí.
 Li decidu mensus es: januar, februar, marte, april, may, junio, julí,
 august, septembre, octobre, novembre e decembre.
 
-NOTE: The word *hora* refers to the hour of the day. The
+[NOTE]
+--
+The word *hora* refers to the hour of the day. The
 word *hor* refers to an hour of time.
 
-NOTE: The word *clocca* is an alternative to the word *hora*. It was
+The word *clocca* is an alternative to the word *hora*. It was
 replaced by *hora* during the 1940s but seems to have remained popular
 and has a bit of a slangy feel. *Ye clocca du = a du horas*.
 
-NOTE: While we are on the subject, the same has happened with the
+While we are on the subject, the same has happened with the
 word *flicca* (girl, from Swedish _flicka_), which was changed
 to *puella* a long time ago. Now *flicca* has a similar feel to
 English "`gal`" or "`chick`".
+--
 
 // XXX REMARK -- The "verse" block name causes Asciidoctor create a
 // blockquote container in DocBook, no matter if the delimiters are
@@ -1820,13 +1829,16 @@ Opposite meaning (in-, un-, etc.):
 
 ====
 
-NOTE: Other more internationally-recognized forms such
+[NOTE]
+--
+Other more internationally-recognized forms such
 as *impossibil* (vs. *ínpossibil*), *irregular* (vs. *ínregular*) etc.
 were often used in Interlingue but the user base showed a preference for
 a regular *ín-* and the other forms have become rarer.
 
-NOTE: Not to be confused with the unstressed preposition *in-*,
+Not to be confused with the unstressed preposition *in-*,
 similar to the one in English in words such as *inclusiv*, *inspecter*.
+--
 
 ===== mis-
 
@@ -3813,7 +3825,7 @@ Proto.
 
 ===== pseudo-
 
-Pseudo, false (note: p is not silent!)
+Pseudo, false (note: "`p`" is not silent!)
 
 ====
 
