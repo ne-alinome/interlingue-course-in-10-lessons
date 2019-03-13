@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.17+20190312
+:revnumber: 0.1.0-pre.18+20190313
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -21,7 +21,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903121706
+// Last modified 201903131212
 
 :dot: .
 
@@ -60,6 +60,8 @@ Main changes in this edition::
 - All errors and typos found have been fixed.
 - In order to make the contents more legible in any format, the layout
   of tables, lists, notes, block quotes, etc. has been modified.
+- For easier consulting, vocabulary tables have been converted to
+  alphabetic lists, and the notation has been homogenized.
 
 Some changes and improvements are unfinished yet. See the
 http://github.com/ne-alinome/interlingue-course-in-10-lessons/blob/master/TO-DO.adoc[to-do
