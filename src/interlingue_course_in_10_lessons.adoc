@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.18+20190313
+:revnumber: 0.1.0-pre.19+20190313
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -21,7 +21,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903131212
+// Last modified 201903131229
 
 :dot: .
 
@@ -987,8 +987,8 @@ at the end?
 | *extract/er*, to extract     | *extract-*     | *extraction*
 | *distint/er*, to distinguish | *distint-*     | *distintion*, distinction
 |===
-+
-NOTE: As in English, Interlingue sometimes has two groupings of verbs
+
+As in English, Interlingue sometimes has two groupings of verbs
 with nearly the same meaning where the more Latin-like one has a more
 formal or heavy character. To derive *extraction* above the
 verb *extracter* is used, but the verb *extraer* also exists
@@ -997,7 +997,7 @@ to *extra-er* -> *extrat* -> *extration*. This gives them a slightly
 nuanced meaning: an *extraction*, derived from *extracter* (to extract),
 is only an *extraction*. But an *extration*, derived from *extraer* (to
 pull out), is both a pulling out and an extraction.
-+
+
 Similarly, the word reader (*letor*, from *le/er* -> *let* -> *letor*)
 has a "`hidden`" companion in the form of *lecter* that can be seen from
 the word *lector* (same meaning in Interlingue as in English) that one
