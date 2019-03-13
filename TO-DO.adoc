@@ -14,4 +14,5 @@
   markup.
 - Add note about accent of "deci" in compounds, from the German
   version.
-- Convert number lists into tables.
+- Fix markups `"`*...*`"` to prevent the quotes from falling in their
+  own line.
