@@ -14,5 +14,3 @@
   markup.
 - Add note about accent of "deci" in compounds, from the German
   version.
-- Fix markups `"`*...*`"` to prevent the quotes from falling in their
-  own line.

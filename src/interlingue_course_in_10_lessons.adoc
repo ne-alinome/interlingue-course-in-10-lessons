@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.24+20190314
+:revnumber: 0.1.0-pre.25+20190314
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -21,7 +21,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903131353
+// Last modified 201903131359
 
 :dot: .
 
@@ -1254,7 +1254,7 @@ terra.
 
 ==== Li numerales
 
-Li *cardinal* numerales, queles responde al question "`*quant?*`" es:
+Li *cardinal* numerales, queles responde al question *"`quant?`"* es:
 
 // XXX FIXED -- "quar mill sett cent undeci" -> "quar mill sett cent
 // deciun"
@@ -1306,7 +1306,7 @@ Li *cardinal* numerales, queles responde al question "`*quant?*`" es:
 |===
 
 Per adjuntion del suffix *-esim* noi have li *ordinal* numerales,
-respondent al question "`*quantesim?*`":
+respondent al question *"`quantesim?`"*:
 
 // XXX FIXED -- Remove duplicated "quantesim" here.
 
@@ -1344,7 +1344,7 @@ the *-anti* form is much rarer.
 
 Per adjuntion del sufix *-plic* (*-uplic* pos consonantes) (del verbe
 "`plicar`") noi recive li *multiplicativ* numerales, queles responde al
-question "`*quantuplic?*`":
+question *"`quantuplic?`"*:
 
 - unuplic (simplic)
 - duplic
