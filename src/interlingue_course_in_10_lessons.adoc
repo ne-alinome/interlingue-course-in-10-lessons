@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.26+20190317
+:revnumber: 0.1.0-pre.27+20190317
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -2411,7 +2411,11 @@ no particular noun in mind:
 
 NOTE: *lu* is by far the most often used of the three above.
 
-Finally, the ending *-um* can be used on an adjective to form a noun that
+Finally, the ending
+
+*-um*
+
+can be used on an adjective to form a noun that
 expresses the general idea of something:
 
 ====
