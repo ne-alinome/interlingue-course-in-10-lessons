@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.29+20190317
+:revnumber: 0.1.0-pre.30+20190317
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -21,7 +21,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903171552
+// Last modified 201903171602
 
 :dot: .
 
@@ -630,7 +630,7 @@ have the following four forms:
 * *amar* is the infinitive. *amar* = to love, *venir* = to come,
    *presser* = to press.
 
-* *amant* is the active participle (English -ing). *amant* = loving,
+* *amant* is the active participle (English "`-ing`"). *amant* = loving,
    *venient* = coming, *pressent* = pressing.
 
 * *amat* has the following uses:
@@ -1070,7 +1070,7 @@ The acting person, thing or factor of a verb.
 
 ===== -ori
 
-Adjective derived from *-or* above, similar to English -ory. Refers to
+Adjective derived from *-or* above, similar to English "`-ory`". Refers to
 something that is dedicated to or working as:
 
 ====
@@ -1095,7 +1095,7 @@ something that is dedicated to or working as:
 
 ===== -iv
 
-English -ive, forms adjectives that denote an active ability:
+English "`-ive`", forms adjectives that denote an active ability:
 
 ====
 
@@ -1118,7 +1118,7 @@ English -ive, forms adjectives that denote an active ability:
 
 ===== -ura
 
-Similar to English -ure. Forms verbal nouns denoting a concrete,
+Similar to English "`-ure`". Forms verbal nouns denoting a concrete,
 realized action or its result.
 
 ====
@@ -2370,10 +2370,20 @@ which is also used for pronunciation and distinguishing types of words:
 For nouns referring to living creatures, the ending *-o*
 is used to indicate the male gender, and *-a*
 the female, when necessary. (Genderless or unspecified: *-e* or no
-ending): *un germano* = a German man, *un germana* = a german
-woman, *amico* = friend, *amica* = female friend, *cavallo* = male
-horse (stallion), *cavalla* = female horse (mare), *gallino* =
-rooster, *gallina* = hen.
+ending):
+
+====
+
+- *un germano* = a German man
+- *un germana* = a german woman
+- *amico* = friend
+- *amica* = female friend
+- *cavallo* = male horse (stallion)
+- *cavalla* = female horse (mare)
+- *gallino* = rooster
+- *gallina* = hen
+
+====
 
 // XXX TODO -- This explanation doesn't seem fine, because "o" and "a"
 // ar part of "-iero" and "-iera", "-ia":
@@ -2674,7 +2684,7 @@ refers to the activity of a verb in its duration.
 
 ===== -ntie
 
-More or less equivalent to the English -nce (designates a condition in
+More or less equivalent to the English "`-nce`" (designates a condition in
 its duration), this is formed from the *-nt* participle plus *-ie*.
 
 ====
@@ -2700,19 +2710,18 @@ the means for it.
 
 ====
 
-- *experiment* = an experiment (*experir* = to experience,
+- *experiment* = an experiment (*experir* = to experience;
   *experientie* = experience)
-- *fundament* = a foundation (*fundar* = to found, fundation refers to
-  a founding)
-- *impediment* = an impediment (*impedir* = to impede, impedition
+- *fundament* = a foundation (*fundar* = to found; *fundation* refers
+  to a founding)
+- *impediment* = an impediment (*impedir* = to impede; *impedition*
   refers to an impediment in the sense of impeding)
-- *nutriment* = nutrition (*nutrir* = to nourish, *nutrition* =
+- *nutriment* = nutrition (*nutrir* = to nourish; *nutrition* =
   nutrition in the sense of nourishing)
 - *developament* = development, a development (*developar* = to
+  develop; *developation* = development in the sense of developing)
 
 ====
-
-develop, *developation* = development in the sense of developing)
 
 Some other examples Edgar de Wahl mentioned in Cosmoglotta:
 
@@ -3116,7 +3125,7 @@ It may be used on nouns as well to make them abstract:
 
 ===== -tá, -té
 
-Quality or character, more or less equivalent to English -ty:
+Quality or character, more or less equivalent to English "`-ty`":
 
 ====
 
@@ -3173,7 +3182,7 @@ becomes *societá*. Rule of thumb: when in doubt, it's probably *-tá*.
 
 ===== -esse
 
-Special property or condition, most similar to English -ness. Examples:
+Special property or condition, most similar to English "`-ness`". Examples:
 
 ====
 
@@ -3209,7 +3218,7 @@ A frequent suffix for the names of places and countries:
 ===== -atu
 
 A legal, social, or public institution, state, or office (also location,
-time, and territory). Often corresponds to English -at or -iat:
+time, and territory). Often corresponds to English "`-at`" or "`-iat`":
 
 ====
 
@@ -3240,7 +3249,7 @@ location.
 ====
 
 Beyond the occupation, it also refers to a character trait and its
-manifestations, same as in English -ery:
+manifestations, same as in English "`-ery`":
 
 ====
 
@@ -3616,15 +3625,20 @@ From the adjective *-ic* we derive nouns with:
 *-ico* to the person practicing it. This is one situation where the *-o*
 does not necessarily denote a male.
 
-*logic logica logico* = logical, logic, logician
-
-*matematic matematica matematico* = mathematic, mathematics,
-mathematician
-
 ====
 
-- *politic politica politico* = political, politics, politician
-- *critic critica critico* = critical, criticism, critic
+- *logic* = logical
+- *logica* = logic
+- *logico* = logician
+- *matematic* = mathematic
+- *matematica* = mathematics
+- *matematico* = mathematician
+- *politic* = political
+- *politica* = politics
+- *politico* = politician
+- *critic* = critical
+- *critica* = criticism
+- *critico* = critic
 
 ====
 
@@ -3658,7 +3672,7 @@ middle.
 
 ===== -aci
 
-Tending to (similar to English -acious):
+Tending to (similar to English "`-acious`"):
 
 ====
 
@@ -3681,7 +3695,7 @@ Belonging to (often made into nouns with *-ano*, *-ana*, *-ane*):
 
 ===== -ari
 
-According to, fitting, belonging to (English -ar):
+According to, fitting, belonging to (English "`-ar`"):
 
 ====
 
@@ -3716,7 +3730,7 @@ Very rich in, exuberant:
 ===== -atri
 
 A resemblance but not entirely of the same quality (similar to English
--ish):
+"`-ish`"):
 
 ====
 
@@ -3728,7 +3742,7 @@ A resemblance but not entirely of the same quality (similar to English
 ===== -esc
 
 (Of people.) Similar to, possessing similar qualities to (similar to
-English -esque)
+English "`-esque`")
 
 ====
 
@@ -4315,7 +4329,7 @@ only *con me, con te*. Rule of thumb: always *me* and *te*, the others
 are up to personal preference. Whether the community will decide on one
 form over the other is tough to say: even English has yet to do so in
 cases such as "`You are taller than _me_`" (than + pronoun) vs. "`You are
-taller than I`" (short for "`than I am`").
+taller than _I_`" (short for "`than I am`").
 
 ===== Demonstrative and determinative pronouns
 
