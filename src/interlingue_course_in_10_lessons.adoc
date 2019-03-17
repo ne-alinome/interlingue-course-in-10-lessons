@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.37+20190317
+:revnumber: 0.1.0-pre.38+20190317
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -21,7 +21,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903172046
+// Last modified 201903172141
 
 :dot: .
 
@@ -959,10 +959,11 @@ We have just seen a large number of expressive international words that
 end with these five suffixes.
 Note that these words in Interlingue are regularly derived from verbs.
 
-The words with *-ion, or, -ori, -iv* and *-ura* are created with the
-perfect stem of the verb. But dictionaries only give the infinitive of a
-verb. How do you find the perfect stem? This is where we come to
-the de Wahl's Rule.
+The words with <<_ion,*-ion*>>, <<_or,*-or*>>, <<_ori,*-ori*>>,
+<<_iv,*-iv*>> and <<_ura,*-ura*>> are created with the perfect stem of
+the verb. But dictionaries only give the infinitive of a verb. How do
+you find the perfect stem?  This is where we come to the de Wahl's
+Rule.
 
 // XXX FIXED -- Completed the previous sentence.  It seems confusing,
 // letting the text continue into a title.
@@ -1011,6 +1012,7 @@ at the end?
 | *distint/er*, to distinguish | *distint-*     | *distintion*, distinction
 |===
 +
+[[_note_about_verb_pairs]]
 [NOTE]
 --
 As in English, Interlingue sometimes has two groupings of verbs
@@ -1078,8 +1080,8 @@ The acting person, thing or factor of a verb.
 
 ===== -ori
 
-Adjective derived from *-or* above, similar to English "`-ory`". Refers to
-something that is dedicated to or working as:
+Adjective derived from <<_or,*-or*>> above, similar to English
+"`-ory`". Refers to something that is dedicated to or working as:
 
 ====
 
@@ -1140,7 +1142,7 @@ realized action or its result.
 
 // XXX FIXED -- "to form showing the result" -> "to form the result"
 
-The perfect stem plus an *-e* (to indicate a noun) is also used
+The perfect stem plus an <<_e,*-e*>> (to indicate a noun) is also used
 to form the result of the action of a verb:
 
 ====
@@ -1150,7 +1152,7 @@ to form the result of the action of a verb:
 - *scrite* = writing (also note *manuscrite*, a manuscript, from
   *manu* (hand) + *scrite*)
 - *extracte* = extract, from *extracter* (*extrate* for a slightly
-  different nuance — see note above)
+  different nuance — see <<_note_about_verb_pairs,note above>>)
 - *miscomprense* = misunderstanding (from *miscomprender* =
   misunderstand)
 
@@ -1158,7 +1160,7 @@ to form the result of the action of a verb:
 
 // XXX FIXED -- "usage poetry" -> "usage in poetry"
 
-The *-e* is technically optional but is used for clarity; it may be
+The <<_e,*-e*>> is technically optional but is used for clarity; it may be
 removed for euphonic purposes (usage in poetry, to translate colloquial or
 informal speech, etc.).
 
@@ -1182,10 +1184,10 @@ The perfect stem on its own is also used as an adjective:
 
 ====
 
-NOTE: *-i*, like *-e* above, is affixed to show that the word is an
-adjective. *-i* is also optional, and tends to be used most often when
-euphony demands it (e.g. the word *micri*, small, could not be
-pronounced without it).
+NOTE: <<_i,*-i*>>, like <<_e,*-e*>> above, is affixed to show that the
+word is an adjective. <<_i,*-i*>> is also optional, and tends to be used most
+often when euphony demands it (e.g. the word *micri*, small, could not
+be pronounced without it).
 
 NOTE: The perfect stem is used when deriving (forming) words, but
 not for verb conjugation. Technically words above such
@@ -1348,15 +1350,16 @@ respondent al question *"`quantesim?`"*:
 [NOTE]
 --
 *decesim* (tenth) is written as *decesim* and
-not *deciesim* because *-i* in *deci* is the adjectival ending we
+not *deciesim* because <<_i,*-i*>> in *deci* is the adjectival ending we
 encountered above (the root itself is *dec*). This is another example of
-an adjective that requires the *-i* ending on its own as
+an adjective that requires the <<_i,*-i*>> ending on its own as
 otherwise *dec* would be pronounced "`dek`".
 
-*-esim* also gives rise to internationally-recognized words such
-as *ínfinitesim* (an infinitessimal part) and *infinitesimal*. In
+*-esim* also gives rise to internationally-recognized words such as
+*ínfinitesim* (an infinitessimal part) and *infinitesimal*. In
 Interlingue these words are regularly derived from common verbs: *ín*
-+ *fini-r* (to finish) + *t* + *-esim* + *-al* = *ínfinitesimal*.
++ <<_the_de_wahls_rule,*fini-r* (to finish) + *t*>> + *-esim* +
+<<_al,*-al*>> = *ínfinitesimal*.
 
 Similarly, sometimes the *-ant* is written *-anti* for euphonic
 purposes. But because *-ant* on its own is easy enough to pronounce
@@ -2353,7 +2356,7 @@ which does not have any particular meaning, but is used for ease of
 pronunciation and to distinguish words from others. Nouns: teatre,
 centre, lampe (nouns). Adjectives: pie (pious), varie (varied). An
 adverb: sovente (often). The *-e* is also seen in plurals after a
-consonant before the *-s*: nation, nationes. It can also play a role in
+consonant before the *-s*: *nation*, *nationes*. It can also play a role in
 distinguishing a noun from an adjective: central (central), centrale
 (headquarters).
 
@@ -2379,7 +2382,7 @@ which is also used for pronunciation and distinguishing types of words:
 
 For nouns referring to living creatures, the ending *-o*
 is used to indicate the male gender, and *-a*
-the female, when necessary. (Genderless or unspecified: *-e* or no
+the female, when necessary. (Genderless or unspecified: <<_e,*-e*>> or no
 ending):
 
 ====
@@ -2435,7 +2438,7 @@ NOTE: *lu* is by far the most often used of the three above.
 
 ==== -um
 
-Finally, the ending *-u*
+Finally, the ending *-um*
 can be used on an adjective to form a noun that
 expresses the general idea of something:
 
@@ -2578,8 +2581,8 @@ The present participle can also be made into verbs:
 ====
 
 NOTE: *electrisar* is formed from a sort of hidden word (*electr-*) formed
-by removing the suffix *-ic*, which forms other words as well such
-as *electron* (the *-on* suffix will show up in the <<_sixesim_letion,next chapter>>).
+by removing the suffix <<_ic,*-ic*>>, which forms other words as well such
+as *electron* (the <<_on,*-on*>> suffix will show up in the <<_sixesim_letion,next chapter>>).
 
 *-isar* can also be used, though more rarely, with nouns. They form
 words you already know:
@@ -2653,7 +2656,7 @@ refers to a simple action.
 ====
 
 NOTE: For *-ar* and *-ir* verbs, this often gives the opportunity to make
-very subtle distinctions if one wishes, due to the general *-e* and
+very subtle distinctions if one wishes, due to the general <<_e,*-e*>> and
 vowelless ending for nouns. This is better explained with examples:
 
 // XXX FIXED -- "pensa" and "pense" were exchanged in the first
@@ -2674,7 +2677,7 @@ This is, again, a subtle distinction that one may use if wished or
 ignore at will, like the English words clothing and clothes, dinner
 and supper, precise and accurate, venom and poison, etc.)
 
-We have already gone over the suffixes *-ion* and *-ura* in <<_triesim_letion,chapter 3>>.
+We have already gone over the suffixes <<_ion,*-ion*>> and <<_ura,*-ura*>> in <<_triesim_letion,chapter 3>>.
 Here are some others:
 
 ===== -ada, -ida
@@ -2694,8 +2697,9 @@ refers to the activity of a verb in its duration.
 
 ===== -ntie
 
-More or less equivalent to the English "`-nce`" (designates a condition in
-its duration), this is formed from the *-nt* participle plus *-ie*.
+More or less equivalent to the English "`-nce`" (designates a
+condition in its duration), this is formed from the
+<<_conjugation,*-nt* participle>> plus <<_ie,*-ie*>>.
 
 ====
 
@@ -2995,9 +2999,9 @@ Note the following:
 ====
 
 - *laborero* = a professional worker (this is the *-er-* suffix). This
-  is derived from the noun *labor* + *-ero*
-- *laborator* = a worker in general (this is the *-or* suffix). This
-  is derived from *laborar* -> *labora* + *t* + *-or*
+  is derived from the noun *labor* + <<_er,*-ero*>>
+- *laborator* = a worker in general (this is the <<_or,*-or*>> suffix). This
+  is derived from <<_the_de_wahls_rule,*laborar* -> *labora* + *t*>> + <<_or,*-or*>>
 
 ====
 
@@ -3094,7 +3098,7 @@ Suffix for females indicating an office or dignified position:
 
 ====
 
-Note that *-or* drops the "`o`" in this suffix.
+Note that <<_or,*-or*>> drops the "`o`" in this suffix.
 
 ==== Qualitative suffixes
 
@@ -3116,9 +3120,10 @@ Derivations from participles are particularly numerous:
 
 ====
 
-- *existentie* = existence (*existent* = existing). The ending *-ntie*
-  was covered in the <<_quinesim_letion,5th lesson>>, and we can see that it is simply the
-  present participle *-nt* plus *-ie*.
+- *existentie* = existence (*existent* = existing). The ending <<_ntie,*-ntie*>>
+  was covered in the <<_quinesim_letion,5th lesson>>, and we can see
+  that it is simply the <<_conjugation,present participle *-nt*>> plus
+  <<_ie,*-ie*>>.
 
 ====
 
@@ -3247,7 +3252,7 @@ time, and territory). Often corresponds to English "`-at`" or "`-iat`":
 
 An occupation and its activities. As -*ería*, it refers to the actual
 location. Both are actually formed from the *-er-* suffix (doer of an
-action), then <<_ie,*-ie*>> as above for the quality, or *-ia* for the
+action), then <<_ie,*-ie*>> as above for the quality, or <<_ia,*-ia*>> for the
 location.
 
 ====
@@ -3425,11 +3430,12 @@ Emerson
 // XXX FIXED -- nesting of quotes and parens (maybe not after
 // the rule in English, but more logical):
 
-NOTE: The *-nd* suffix (*-and* for *-ar* verbs, *-end* for *-er* and *-ir* verbs)
+[[_note_about_nd]]
+NOTE: The <<_nd,*-nd*>> suffix (*-and* for *-ar* verbs, *-end* for *-er* and *-ir* verbs)
 adds the meaning "`thing to be (verb)ed`"). This is where words
 like *dividende* (thing to be *divided*, from divider) come from, which
 adds a certain obligation (a thing to do = a thing one should do).  As
-an adjective it can also take the *-i* at the end for euphony. The
+an adjective it can also take the <<_i,*-i*>> at the end for euphony. The
 above *un veritá explicand* thus means "`a truth to be explained`".
 Another way to say the same would be *un veritá a explicar*.
 
@@ -3627,7 +3633,7 @@ the "`s`" into a "`-t`" ("`xe`" also counts as it is pronounced "`cse`"). Thus:
 
 ====
 
-From the adjective *-ic* we derive nouns with:
+From the adjective <<_ic,*-ic*>> we derive nouns with:
 
 ===== -ica and -ico
 
@@ -3655,7 +3661,7 @@ does not necessarily denote a male.
 ===== What about *-ical*?
 
 Generally, it is a good idea to resist the urge to express every "`-ical`"
-English word with another *-ical* in Interlingue (just *-ic* is
+English word with another *-ical* in Interlingue (just <<_ic,*-ic*>> is
 preferred). But this is another situation where you can for extra
 precision, and a subject mentioned in Cosmoglotta before. Because <<_ica_and_ico,*-ica*>>
 as shown above refers to the entire branch of art or science,
@@ -3807,7 +3813,8 @@ Rich in, full of:
 
 ====
 
-The similar suffixes *-iv* and *-ori* were mentioned in <<_triesim_letion,lesson 3>>.
+The similar suffixes <<_iv,*-iv*>> and <<_ori,*-ori*>> were mentioned
+in <<_triesim_letion,lesson 3>>.
 
 This finishes up the main suffixes seen in Interlingue for forming new
 words. On top of this are many other much less productive affixes that
@@ -3826,7 +3833,7 @@ having the qualities of a verb:
 
 ===== -nd
 
-Mentioned once in a note above: what is to be done.
+Mentioned once in a <<_note_about_nd,note above>>: what is to be done.
 
 ====
 
