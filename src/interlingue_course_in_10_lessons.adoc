@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.25+20190314
+:revnumber: 0.1.0-pre.26+20190317
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -1725,7 +1725,7 @@ By, through, with
 ====
 
 - *Noi parlat pri politica* = We talked about politics.
-- *Yo mersía pro Vor auxilie* = I thank (you) for your help.
+- *Yo mersia pro Vor auxilie* = I thank (you) for your help.
 
 ====
 
@@ -3502,7 +3502,7 @@ Cosmopolis, 12-esim marte 1930.
 
 Mi car amico.
 
-Yo mersía Vos cordialmen pro Vor amabil lettre de 10-esim ho-mensu. Yo
+Yo mersia Vos cordialmen pro Vor amabil lettre de 10-esim ho-mensu. Yo
 joya leer, que anc Vu have interesse por li lingue international
 auxiliari, e yo constata, que yo esset rect, quande yo suposit, que Vu
 ne posse esser índifferent pri un question quel have grandissim
