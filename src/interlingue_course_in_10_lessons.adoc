@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.32+20190317
+:revnumber: 0.1.0-pre.33+20190317
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -21,7 +21,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903171736
+// Last modified 201903171739
 
 :dot: .
 
@@ -4815,9 +4815,15 @@ There are also some subordinate conjunctions:
 - *esque, ca* = whether, if (e.g. "`I don't know whether …`")
 - *quasi* = as if, quasi
 - *benque* = though, although
-- *etsi* = albeit, although With *quam* and *que* together with other
-  words we get a large number of conjunctions such as:
+- *etsi* = albeit, although
 - *sam quam* = same as
+
+// XXX FIXED -- The lists had been combined by mistake. Also, in the
+// german transcription `*sam quam* = same as` was in wrong place.
+
+With *quam* and *que* together with other words we get a large number
+of conjunctions such as:
+
 - *anteque (ante que)* = before
 - *posque (pos que)* = after
 - *proque (pro que)* = because
