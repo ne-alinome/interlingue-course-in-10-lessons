@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.30+20190317
+:revnumber: 0.1.0-pre.31+20190317
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -21,7 +21,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903171602
+// Last modified 201903171707
 
 :dot: .
 
@@ -217,7 +217,7 @@ ____
 
 [quote, Goethe]
 ____
-Li humore es un del elementes del genie, ma, si it dómina, solmen un
+Li humore es un del elementes del genie, ma, si it domina, solmen un
 surrogat de it; it es li compane del diminuent arte e destructe,
 anihila it in fine.
 ____
@@ -242,7 +242,7 @@ ____
 - *diminuent* = smaller, diminishing
 - *divide* = divide, share (verbal form)
 - *divider* = to divide, to share
-- *dómina* = dominates
+- *domina* = dominates
 - *felicie* = happiness, fortune
 - *lor* = their
 - *nin* = nine
@@ -911,7 +911,7 @@ On questionat li filosof Aristippos de Kyrene, per quo li filosofos
 distinte se del altri homes. Il respondet: "`Si omni leges vell esser
 abrogat, solmen li filosofos vell viver quam antey.`"
 
-Alqui objectet que on frequent incontra li filosofos avan li portas del
+Alquí objectet que on frequent incontra li filosofos avan li portas del
 riches. Aristippos replicat: "`Sam quam li medicos avan li portas del
 malades. Esque pro to li malades es plu reputat quam li medicos?`"
 
@@ -921,7 +921,7 @@ por que ili mey saver in quel maniere ili posse investir it.`"
 ===== Vocabularium
 
 - *abrogar* = to abrogate, to repeal
-- *alqui* = someone
+- *alquí* = someone
 - *antey* = before
 - *avan* = before
 - *besonar* = to need
@@ -1714,7 +1714,7 @@ By, through, with
 
 ====
 
-- *Un libre por omnes e por nequi* = A book for all and for nobody.
+- *Un libre por omnes e por nequí* = A book for all and for nobody.
 - *On manja por viver, on ne vive por manjar* = You eat to live, you
   don't live to eat.
 
@@ -4057,7 +4057,7 @@ substitution*,
 "`In facte, yo havet un drolli somnie just nu,`" racontat un irlandeso.
 "`Yo revat, que yo esset in Roma e visitat su Sanctitá, li Papa. Apen yo
 hat tappat sur li porta, quande il self apertet it. – '`A, Pat, es it Vu,
-qui ha venit, o alqui altri?`' – '`Advere, Vor honore, it es yo e nequi
+qui ha venit, o alquí altri?`' – '`Advere, Vor honore, it es yo e nequí
 altri.`' – '`Ples venir con me in li superior etage!`' il dit me. E ta
 esset un separat chambre, bellissim equipat, quel yo ne ha videt jamá.
 '`Ples seder,`' dit su Sanctitá, '`quo Vu vole?`' – Yo meditat durant un
@@ -4090,9 +4090,6 @@ me. Quam yo nu repente, que yo ne hat petit le dar me it frigid.`"
 // "de mani autore es acceptat del publica – quande il" -->
 // "de mani autores es acceptat del publica – quande ili"
 
-[quote, Otto Weiss]
-____
-
 Pri un cose noi omni concorda: ne existe plu abominabil erras quam tis
 del altres.
 
@@ -4123,7 +4120,7 @@ Quande un hom di: "`Un de nos erra,`" yo save strax, quem il alude.
 Certmen Vu conosse ti person, qui quande on parla pri un altri hom,
 comensa strax parlar pri se self.
 
-____
+Otto Weiss
 
 ===== Vocabularium
 
@@ -4351,7 +4348,7 @@ or *ta* (there) after: *ti ci* (this), *ti ta* (that).
   that one is long: please take these.
 - *Il es sempre tal.* = He's always like that.
 - *Yo ama tal homes.* = I like such people.
-- *Vu ne ama tales?* = You don't like such (people)? (Here tales could
+- *Vu ne ama tales?* = You don't like such (people)? (Here *tales* could
   be something else besides people as it is not specified)
 - *To es ver.* = That's right.
 - *To es tant ver.* = That's so right.
@@ -4360,12 +4357,12 @@ or *ta* (there) after: *ti ci* (this), *ti ta* (that).
 
 Interrogative and relative pronouns
 
-- *qui*? = who?
-- *quem*? = whom?
-- *quel*? = which?
-- *qual*? = how?
-- *quo*? = what?
-- *quant*? = how much?
+- *qui?* = who?
+- *quem?* = whom?
+- *quel?* = which?
+- *qual?* = how?
+- *quo?* = what?
+- *quant?* = how much?
 
 Examples:
 
@@ -4466,7 +4463,7 @@ same forms:
 - *Quant vu have? Nequant.* = How much do you have? Nothing.
 - *Quant vu have? Alquant.* = How much do you have? Some.
 - *Qui veni? Quicunc.* = Who's coming? Whoever.
-- *Qui veni? Nequi.* = Who's coming? Nobody.
+- *Qui veni? Nequí.* = Who's coming? Nobody.
 - *Quo tu have? Nequó.* = What do you have? Nothing.
 - *Quem tu dat it? Nequem.* = Who did you give it to? To nobody.
 - *Qualmen tu fat it? Talmen.* = How did you do it? Like that.
@@ -4482,13 +4479,13 @@ Examples:
 - *Oh hom, conosse te self!* = Oh human, know thyself!
 - *In li sam témpore e in li sam loc, mi amica.* = At the same time
   and in the same place, my friend.
-- *Si alcun fémina parla pri alquo, ella pensa pri alqui.* = When some
+- *Si alcun fémina parla pri alquó, ella pensa pri alquí.* = When some
   woman talks about something, she thinks about someone.
 - *Chascun hom es forjero de su propri fortune.* = Each person is the
   forger of his/her own fortune.
 - *Ples dar me quelc libres, yo have quelc líber hores por leer!* =
   Please give me some books, I have some free hours for reading.
-- *Placer a omnes on ne posse, es arte, quel nequi conosse.* =
+- *Placer a omnes on ne posse, es arte, quel nequí conosse.* =
   Pleasing all one cannot do, it is an art known by no one. (Note: in
   Interlingue it rhymes.)
 - *Ja pluri annus yo vive in ti cité.* = I have lived in this city for
@@ -4821,8 +4818,8 @@ There are also some subordinate conjunctions:
 - *perque (per que)* = in that (because of…)
 
 NOTE: The *que* here is not translated as "`that`" in English but carries
-that sort of meaning. Point to take home: _Having *que* means the parts
-of the sentence before *que* and after it can stand on their own._
+that sort of meaning. Point to take home: Having *que* means the parts
+of the sentence before *que* and after it can stand on their own.
 Examples of conjunctions with and without *que* to demonstrate the
 difference:
 
@@ -4874,7 +4871,7 @@ claritá e libertá del conceptiv pensada, es e va esser connectet a
 linguistic capacitá. Omni spiritual valores li hom debi finalmen a su
 talent de articulat parlation. Novális di unquande in su aforismes: "`Li
 grammatica es li dinamica del spiritual dominia. Un parol de comande
-move armés, li parol '`libertá'` nationes.`"
+move armés, li parol '`libertá`' nationes.`"
 
 Quande li poet e li pensator vaga líber ad in li immens dominia de
 pensas, lor ales es li parol. Li parlant hom victe li circumant natura
@@ -4884,7 +4881,9 @@ fenomenes: li munde del spíritu – de su spíritu. On ha dit, que li hom
 es un hibride inter deo e animale, e yo vole dir que li paroles es li
 scalunes de ti scaliere celesti, along quel il prova grimpar súper lu
 pur animalic ad in li luce del spritualitá. De to seque anc, que li
-lingue da nos li fundament e li unesim base de omni cultura. (Güntert.)
+lingue da nos li fundament e li unesim base de omni cultura.
+
+Güntert
 
 ==== Li mult lingues de Europa
 
@@ -4913,7 +4912,7 @@ scientie. It existe, por chascun specialitá scientific, un micri
 comunité de erudites, qui, amicos o rivales, conosse unaltru, seque li
 activitá de unaltru e reacte un a li altri.
 
-Li scientie, quel es un, dómina un tecnica, quel anc es un. Chascun
+Li scientie, quel es un, domina un tecnica, quel anc es un. Chascun
 decovrition scientific change li procedes de fabrication e li
 conditiones de production. E omni nov procede de fabrication es rapidmen
 conosset in li tot munde.
