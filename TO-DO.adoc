@@ -1,6 +1,6 @@
 = TO-DO of _Interlingue Course in 10 Lessons_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-03-12
+:revdate: 2019-03-17
 
 - Confirm year of the wiki version.
 - Rearrange tables in less columns.
@@ -15,3 +15,6 @@
 - Add note about accent of "deci" in compounds, from the German
   version.
 - Make width of tables depend on the target.
+- Separate "A un yun mann...". The horizontal rules are not preserved
+  in DocBook.
+- Fix `*etsi* = albeit, although With *quam* and *que*`.
