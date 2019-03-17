@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.28+20190317
+:revnumber: 0.1.0-pre.29+20190317
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -21,7 +21,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903171413
+// Last modified 201903171552
 
 :dot: .
 
@@ -5021,41 +5021,34 @@ front of.  Other examples: *tro*, and *tre*.
 
 ////////////////////////////////////////////////////////////////
 
-// XXX FIXME -- This example is not totally fine, because "ne" can
-// modify "vor libre", not only "vor":
-
-- *Yo va prender ne _Vor_ libre.* = I won't take your book (I will
-  take somebody else's).
-
-// XXX FIXME -- This example is not fine:
+// XXX FIXED -- This example was not right:
 
 - *Vor _libre_ yo ne prende.* = I'm not taking your book (I'm taking
   something else of yours).
 
-// XXX FIXED -- This alternative version seems fine:
-
-- *Vor libre yo ne _prende_.* = I'm not taking your book (I'm doing
-  something else with it).
+// Other examples have been revised.
 
 ////////////////////////////////////////////////////////////////
 
 ====
 
-- *Yo ne _va prender_ Vor libre.* = I won't take your book (but will
-  leave it lying).
+- *Yo ne _va prender_ Vor libre.* = I won't _take_ your book (but will
+  leave it lying or do something else with it).
 - *Ne _yo_ va prender Vor libre.* = _I_ won't take your book (somebody
   else will).
-- *Yo va prender ne _Vor_ libre.* = I won't take your book (I will
+- *Yo va prender ne _Vor_ libre.* = I won't take _your_ book (I will
   take somebody else's).
-- *Vor _libre_ yo ne prende.* = I'm not taking your book (I'm taking
-  something else of yours).
-- *Anc _yo_ ama Vos.* = I love you too (other people like you).
-- *Yo ama anc _Vos_.* = I love you took (I love many people, including
-  you).
-- *Solmen _ella_ ride.* = Only she is laughing (nobody else is).
-- *Ella solmen _ride_.* = She only laughs (she keeps laughing).
-- *Il tre regreta, que il have solmen poc euros.* = He regrets having
-  just a few euros.
+- *Vor libre yo ne _prende_.* = I'm not _taking_ your book (I'm doing
+  something else with it, e.g. leave it lying).
+- *Anc _yo_ ama Vos.* = _I_ love you too (other people, including me,
+  love you)
+- *Yo ama anc _Vos_.* = I love _you_ too (I love other people,
+  including you).
+- *Solmen _ella_ ride.* = Only _she_ is laughing (nobody else is).
+- *Ella solmen _ride_.* = She only _laughs_ (she keeps laughing, she
+  doesn't something else).
+- *Il tre regreta, que il have solmen _poc_ euros.* = He regrets
+  having just _a few_ euros.
 
 ====
 
