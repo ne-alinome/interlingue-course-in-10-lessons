@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.38+20190317
+:revnumber: 0.1.0-pre.39+20190317
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -21,7 +21,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903172141
+// Last modified 201903172202
 
 :dot: .
 
@@ -328,8 +328,8 @@ endings such as "`g`", "`um`", "`c`" only add an *-s* for phonetic reasons.
 - *al congress* = to the congress
 ====
 
-For the definite article (the), a + li is abbreviated to al and de + il
-to del.
+For the definite article (the), *a*{nbsp}+ *li* is abbreviated to *al*
+and *de*{nbsp}+ *il* to *del*.
 
 ==== Adjectives
 
@@ -401,9 +401,10 @@ yo fa, e pri quo e por qui yo scri?`"
 
 "`Pro que un yun mann deve saver omnicos.`"
 
-NOTE: *hodie* as a combination of *ho-* + *die* is stressed as *hodíe*, and *omnicos*
-as a combination of *omni* (all) + *cose* (thing) is stressed as *omnicós*.
-They may be also written as *hodíe* and *omnicós*.
+NOTE: *hodie* as a combination of *ho-*{nbsp}+ *die* is stressed as
+*hodíe*, and *omnicos* as a combination of *omni* (all){nbsp}+ *cose*
+(thing) is stressed as *omnicós*.  They may be also written as *hodíe*
+and *omnicós*.
 
 // XXX FIXED -- "I hope that" -> "I hope that…";
 // The original example is confusing, because "that" can be
@@ -1150,7 +1151,7 @@ to form the result of the action of a verb:
 - *tribute* = tribute (from *tribuer*)
 - *flute* = flood (from *fluer*)
 - *scrite* = writing (also note *manuscrite*, a manuscript, from
-  *manu* (hand) + *scrite*)
+  *manu* (hand){nbsp}+ *scrite*)
 - *extracte* = extract, from *extracter* (*extrate* for a slightly
   different nuance — see <<_note_about_verb_pairs,note above>>)
 - *miscomprense* = misunderstanding (from *miscomprender* =
@@ -1357,9 +1358,9 @@ otherwise *dec* would be pronounced "`dek`".
 
 *-esim* also gives rise to internationally-recognized words such as
 *ínfinitesim* (an infinitessimal part) and *infinitesimal*. In
-Interlingue these words are regularly derived from common verbs: *ín*
-+ <<_the_de_wahls_rule,*fini-r* (to finish) + *t*>> + *-esim* +
-<<_al,*-al*>> = *ínfinitesimal*.
+Interlingue these words are regularly derived from common verbs:
+*ín*{nbsp}+ <<_the_de_wahls_rule,*fini-r* (to finish){nbsp}+
+*t*>>{nbsp}+ *-esim*{nbsp}+ <<_al,*-al*>> = *ínfinitesimal*.
 
 Similarly, sometimes the *-ant* is written *-anti* for euphonic
 purposes. But because *-ant* on its own is easy enough to pronounce
@@ -1778,26 +1779,27 @@ These prepositions are also used to form other words.
 
 ====
 
-- *aportar* = to bring (*a* + *portar*, to carry)
-- *antediluvian* = antediluvian (*ante* + *diluvie*, a flood)
-- *avanposto* = outpost (*avan* + *posto*)
-- *circumstantie* = circumstance (*circum* + *stantie* from *star* =
-  to stand)
-- *constellation* = constellation (*con* + *stelle* = star)
-- *contravention* = contravention (*contra* + *vention* = coming, from
-  *venir*)
-- *deportar* = to deport (*de* + *portar*, to carry)
-- *exportar* = to export (*ex* + *portar*, to carry)
+- *aportar* = to bring (*a*{nbsp}+ *portar*, to carry)
+- *antediluvian* = antediluvian (*ante*{nbsp}+ *diluvie*, a flood)
+- *avanposto* = outpost (*avan*{nbsp}+ *posto*)
+- *circumstantie* = circumstance (*circum*{nbsp}+ *stantie* from
+  *star* = to stand)
+- *constellation* = constellation (*con*{nbsp}+ *stelle* = star)
+- *contravention* = contravention (*contra*{nbsp}+ *vention* = coming,
+  from *venir*)
+- *deportar* = to deport (*de*{nbsp}+ *portar*, to carry)
+- *exportar* = to export (*ex*{nbsp}+ *portar*, to carry)
 - *ex-imperator* = former emperor
-- *extraordinari* = extraordinary (*extra* + *ordinari*)
-- *inclusiv* = inclusive (*in* + *cluder*, to close or shut)
-- *intervalle* = interval (*inter* + *valle*, a bulwark or embankment
-  (related to English wall))
-- *preterpassant* = passing by (*preter* + *passar*, to pass)
-- *subordination* = subordination (*sub* + *ordinar*, to order)
-- *traducter* = to translate or render (*tra* + *ducter*, to lead)
+- *extraordinari* = extraordinary (*extra*{nbsp}+ *ordinari*)
+- *inclusiv* = inclusive (*in*{nbsp}+ *cluder*, to close or shut)
+- *intervalle* = interval (*inter*{nbsp}+ *valle*, a bulwark or
+  embankment (related to English wall))
+- *preterpassant* = passing by (*preter*{nbsp}+ *passar*, to pass)
+- *subordination* = subordination (*sub*{nbsp}+ *ordinar*, to order)
+- *traducter* = to translate or render (*tra*{nbsp}+ *ducter*, to
+  lead)
 - *transatlantic* = transatlantic
-- *vice-presidente* = vice president (*vice* + *presidente*)
+- *vice-presidente* = vice president (*vice*{nbsp}+ *presidente*)
 
 ====
 
@@ -1936,19 +1938,19 @@ following:
 | Etymologic | Doubled consonant | Modern single consonant form
 
 | adportar | apportar
-| *aportar* (to bring, from *ad* + *portar*, lit. to "`to pull`")
+| *aportar* (to bring, from *ad*{nbsp}+ *portar*, lit. to "`to pull`")
 
 | adnexion | annexion
-| *anexion* (to annex, from *ad* + *nexer*, lit. to "`to tie`")
+| *anexion* (to annex, from *ad*{nbsp}+ *nexer*, lit. to "`to tie`")
 
 | adtractiv | attractiv
-| *atractiv* (to attract, from ad + *tracter*, lit. to "`to pull`")
+| *atractiv* (to attract, from ad{nbsp}+ *tracter*, lit. to "`to pull`")
 
 | obpression | oppression
-| *opression* (to oppress, from *ob* + *presser*, lit. to "`against press`")
+| *opression* (to oppress, from *ob*{nbsp}+ *presser*, lit. to "`against press`")
 
 | subposition | supposition
-| *suposition* (to suppose, from *sub* + *poser*, lit. to "`under place`")
+| *suposition* (to suppose, from *sub*{nbsp}+ *poser*, lit. to "`under place`")
 
 |===
 
@@ -2229,7 +2231,8 @@ va esser parlat sur ti ci globe.
 - *luder* = to play
 - *lurar* = to lure
 - *mente* = mind
-- *necos* = nothing (n.b. derived from *ne* + *cose*, thus accented as *necós* and often written with the accent)
+- *necos* = nothing (n.b. derived from *ne*{nbsp}+ *cose*, thus
+  accented as *necós* and often written with the accent)
 - *perdir* = to lose
 - *presupposir* = to presuppose
 - *pur* = pure
@@ -2561,8 +2564,8 @@ The present participle can also be made into verbs:
 ====
 
 - *sedentar* = to sit (from *sedent* = sitting, thus to "`make sit`")
-- *reviventar* = to revive (from *re* + *vivent* = living, thus to
-  "`re-make living`")
+- *reviventar* = to revive (from *re*{nbsp}+ *vivent* = living, thus
+  to "`re-make living`")
 - *calentar* = to heat (*caler* = to feel warm, thus *calent* = being
   warm and *calentar* = to make warm)
 
@@ -2999,9 +3002,10 @@ Note the following:
 ====
 
 - *laborero* = a professional worker (this is the *-er-* suffix). This
-  is derived from the noun *labor* + <<_er,*-ero*>>
-- *laborator* = a worker in general (this is the <<_or,*-or*>> suffix). This
-  is derived from <<_the_de_wahls_rule,*laborar* -> *labora* + *t*>> + <<_or,*-or*>>
+  is derived from the noun *labor*{nbsp}+ <<_er,*-ero*>>
+- *laborator* = a worker in general (this is the <<_or,*-or*>>
+  suffix). This is derived from <<_the_de_wahls_rule,*laborar* ->
+  *labora*{nbsp}+ *t*>>{nbsp}+ <<_or,*-or*>>
 
 ====
 
@@ -3170,13 +3174,14 @@ Words that refer to a group of people or things use *-té* instead of
 ====== -tá or -té?
 
 Besides the above, *-té* is much more limited in scope and any
-doubtful cases are given the *-tá* ending, such
-as *universitá* (university), which is neither the character of being a
-universe (*universe* + *tá*) nor a collection of universes
-(*universe* + *té*). In the same way, society (*societá*) is not simply
-the state of being a *socio*, but it is also not a collection of them (a
-society is not simply a collection of associates) and thus it
-becomes *societá*. Rule of thumb: when in doubt, it's probably *-tá*.
+doubtful cases are given the *-tá* ending, such as *universitá*
+(university), which is neither the character of being a universe
+(*universe*{nbsp}+ *tá*) nor a collection of universes
+(*universe*{nbsp}+ *té*). In the same way, society (*societá*) is not
+simply the state of being a *socio*, but it is also not a collection
+of them (a society is not simply a collection of associates) and thus
+it becomes *societá*. Rule of thumb: when in doubt, it's probably
+*-tá*.
 
 ===== -ore
 
@@ -3288,8 +3293,8 @@ These three are best learned together.
 
 ====
 
-- *cigariere* = cigar case (*cigar* + iere)
-- *tacabiere* = a tobacco case (*tabaco* + iere)
+- *cigariere* = cigar case (*cigar*{nbsp}+ iere)
+- *tacabiere* = a tobacco case (*tabaco*{nbsp}+ iere)
 - *candeliere* = candle box (*candel* = candle)
 
 ====
@@ -4332,16 +4337,16 @@ Some examples:
 
 ====
 
-Note that after prepositions the pronouns except *me* and *te* are
-in their subject form). This has long been a subject of discussion, with
+Note that after prepositions the pronouns except *me* and *te* are in
+their subject form). This has long been a subject of discussion, with
 some preferring outright object forms (*con le, a la, sin les*) and
 others preferring the nominative (*con il, con ella, con ili*). But
 interestingly nobody has ever preferred the forms *con yo, con tu*,
 only *con me, con te*. Rule of thumb: always *me* and *te*, the others
-are up to personal preference. Whether the community will decide on one
-form over the other is tough to say: even English has yet to do so in
-cases such as "`You are taller than _me_`" (than + pronoun) vs. "`You are
-taller than _I_`" (short for "`than I am`").
+are up to personal preference. Whether the community will decide on
+one form over the other is tough to say: even English has yet to do so
+in cases such as "`You are taller than _me_`" (than{nbsp}+ pronoun)
+vs. "`You are taller than _I_`" (short for "`than I am`").
 
 ===== Demonstrative and determinative pronouns
 
@@ -5136,12 +5141,12 @@ Dependent clauses: note the same word order.
 
 ====
 
-- *Il di, que il es malad.* = He said that he is sick. (*Il di* + *il
-  es malad*).
+- *Il di, que il es malad.* = He said that he is sick. (*Il di*{nbsp}+
+  *il es malad*).
 - *Il pensat, que yo hat ja venit.* = He thought that I had already
-  come.  (*Il pensat* + *yo hat ja venit*).
+  come.  (*Il pensat*{nbsp}+ *yo hat ja venit*).
 - *Ella questionat, pro quo yo es tam felici.* = She asked why I was
-  so happy. (*Ella questionat* + *yo es tam felici*).
+  so happy. (*Ella questionat*{nbsp}+ *yo es tam felici*).
 
 ====
 
