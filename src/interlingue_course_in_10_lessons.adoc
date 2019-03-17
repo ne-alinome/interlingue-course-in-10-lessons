@@ -609,9 +609,11 @@ sin cessar e combatter mem li diábol.`"
 
 ==== Conjugation
 
-Verbs in Interlingue are all regular (except for the verb to be (*esser*)
+// XXX FIXED -- "as as" -> "as an"
+
+Verbs in Interlingue are all regular (except for the verb "`to be`" (*esser*)
 which is written *es* in the present). There is only one conjugation
-with four forms. Taking the verbal stem *ama-* (love) as as example we
+with four forms. Taking the verbal stem *ama-* (love) as an example we
 have the following four forms:
 *ama*,
 *ama__r__*,
@@ -622,14 +624,14 @@ have the following four forms:
 ** Active present indicative (regular present form): *yo ama* = I love,
   *il ama* = he loves, *vu ama* = you love, etc.
 ** Active present conjunctive: *Il di que il ama* = He says that he
-  loves
-** Imperative: *ama*! = love! *veni*! = come!
+  loves.
+** Imperative: *ama*! = love!, *veni*! = come!
 
 * *amar* is the infinitive. *amar* = to love, *venir* = to come,
    *presser* = to press.
 
 * *amant* is the active participle (English -ing). *amant* = loving,
-   *venient* = coming, *pressent* = pressing
+   *venient* = coming, *pressent* = pressing.
 
 * *amat* has the following uses:
 ** Perfect participle (i.e. an adjective): *amat* = loved, *venit* =
@@ -661,13 +663,18 @@ The other forms are created with the help of auxiliary verbs.
 |===
 
 *har* resembles *haver* (to have) but is used for verb conjugation,
-while *haver* only refers to the verb to have. *yo ha venit* = I have
-come, *il ha esset* = he has been, *noi hat curret* = we had run, *il
-hat cadet* = he had fallen.
+while *haver* only refers to the verb "`to have`":
+  
+- *yo ha venit* = I have come
+- *il ha esset* = he has been
+- *noi hat curret* = we had run
+- *il hat cadet* = he had fallen
 
-*ples* in *ples amar* adds politeness to the imperative, in the
-same way as the English please. *ples venir!* = please come! *veni*! =
-Come!
+*ples* in *ples amar* adds politeness to the imperative, in the same
+way as the English "`please`":
+
+- *ples venir!* = please come!
+- *veni!* = come!
 
 ===== Passive
 
@@ -697,13 +704,13 @@ the house is built. Using star adds a sense of finality (the house
 book's printing was all done).
 
 3. Using *se* after a verb to make it passive or reflexive (to
-make it refer to itself). *Li jurnal printa se rapidmen* = the magazine
+make it refer to itself). *Li jurnal printa se rapidmen* = The magazine
 is being quickly printed (the magazine "`prints itself`" quickly). *Li
-cose explica se simplicmen* = it's easy to understand ("`the thing
-explains itself simply`"). *Yo nómina le Brian* (I call him Brian), *il
-nómina se Brian* (his name is Brian = "`he calls himself Brian`").
+cose explica se simplicmen* = It's easy to understand ("`the thing
+explains itself simply`"). *Yo nómina le Brian* = I call him Brian. *Il
+nómina se Brian* = His name is Brian ("`He calls himself Brian`").
 Adding *se* to a verb may also give a sense similar to that in
-English: *Yo procurat un libre* = I got a book; *Yo procurat me un
+English: *Yo procurat un libre* = I got a book. *Yo procurat me un
 libre* = I got myself (me) a book.
 
 ===== Progressive form
@@ -725,7 +732,7 @@ It works as an adjective in the same way as in English:
 
 ====
 - *It va esser un tre fatigant annu.* = It will be a very tiring year
-  (from *fatigar*, to tire)
+  (from *fatigar*, "`to tire`").
 ====
 
 == Triesim letion
@@ -895,8 +902,8 @@ tam senil, quam li profetes de fatiga vole far nos creder.
 - *unde* = wave
 - *van* = in vain
 
-NOTE: *omni* before a singular means *each* (same as *chascun*), while
-before a plural it means *all*.
+NOTE: *omni* before a singular means "`each`" (same as *chascun*), while
+before a plural it means "`all`".
 
 ==== Anecdotes
 
@@ -935,16 +942,22 @@ por que ili mey saver in quel maniere ili posse investir it.`"
 
 === Explanations
 
-We have just seen a large number of expressive international words that
-end with the 5
+// XXX FIXED -- Text moved to the following subsection and modified,
+// instead of running into the title. It seems more legible.
 
 ==== Suffixes -ion, -or, -ori, -iv, -ura
 
+We have just seen a large number of expressive international words that
+end with these five suffixes.
 Note that these words in Interlingue are regularly derived from verbs.
 
 The words with *-ion, or, -ori, -iv* and *-ura* are created with the
 perfect stem of the verb. But dictionaries only give the infinitive of a
 verb. How do you find the perfect stem? This is where we come to
+the de Wahl's Rule.
+
+// XXX FIXED -- Completed the previous sentence.  It seems confusing,
+// letting the text continue into a title.
 
 // XXX FIXED -- "de Wahl's Rule" -> "The de Wahl's Rule"
 
@@ -1110,10 +1123,10 @@ realized action or its result.
 
 ====
 
-- *garnitura* = garnish (the English noun garnish, from *garnir*, to
-  garnish)
+- *garnitura* = garnish (the English noun "`garnish`", from *garnir* =
+  to garnish)
 - *scritura* = writing, scripture (from *scrir* = to write)
-- *politura* = polish (the noun polish, from *polir* = to polish)
+- *politura* = polish (the noun "`polish`", from *polir* = to polish)
 
 ====
 
@@ -1147,10 +1160,10 @@ The perfect stem on its own is also used as an adjective:
 
 ====
 
-- *un apert fenestre* = an open window (from aperter = open) (note the
-  difference between this and *un apertet fenestre* = an opened
-  window)
-- *un pervers(i) opinion* = a perverse opinion (from *perverter*, to
+- *un apert fenestre* = an open window (from *aperter* = to open)
+  (note the difference between this and *un apertet fenestre* = an
+  opened window)
+- *un pervers(i) opinion* = a perverse opinion (from *perverter* = to
   pervert) Here again there is a difference between *perversi*
   (perverse) and *pervertet* (perverted).
 - *un devot amico* = a devoted friend (from *devoer* = to devote). In
@@ -1607,8 +1620,8 @@ To. Has many uses:
 - *Yo viagea a Berlin* = I travel to Berlin.
 - *Li vapornave ea a Lisbon* = The steamboat goes to Lisbon.
 - *Clar a departer* = Ready (clear) to depart.
-- *Un error a regrettar* = A regretful error. (lit. an error to
-  regret)
+- *Un error a regrettar* = A regretful error (lit. an error to
+  regret).
 
 ====
 
@@ -1653,15 +1666,15 @@ in its place.
 
 ====
 
-- *Li dom de mi patre* = The house of my father, my father's house
-- *Li dramas de Schiller* = Schiller's dramas
+- *Li dom de mi patre* = The house of my father, my father's house.
+- *Li dramas de Schiller* = Schiller's dramas.
 - *Ti libre es scrit de un fémina* = This book is written by a woman
-  (*per* fits here as well)
+  (*per* fits here as well).
 - *Un senior de Berlin* = A gentleman from Berlin (*ex* fits here as
-  well)
+  well).
 - *Li max grand de omnis* = The largest of all (*ex* potentially fits
-  here as well)
-- *Un vase de aure* = A vase of gold
+  here as well).
+- *Un vase de aure* = A vase of gold.
 
 ====
 
@@ -1693,10 +1706,9 @@ By, through, with
 - *Il defendet se per un gladie* = He defended himself with a sword.
 - *Il salvat se per svimmar* = He saved himself by swimming.
 - *Li moné ha esset furtet per un ínconosset hom* = The money has been
+  stolen by an unknown person.
 
 ====
-
-stolen by an unknown person.
 
 ===== por
 
@@ -1934,8 +1946,8 @@ position`" and does not give the sense of supposition.
 
 The second form was used for a time, but eventually the community
 settled on the form on the right for simplicity, with doubled consonants
-used in the cases mentioned in the beginning of the book (ss to maintain
-the [s] sound in all cases, ch for [sh], etc.).
+used in the cases mentioned in the beginning of the book ("`ss`" to maintain
+the [s] sound in all cases, "`ch`" for [sh], etc.).
 
 == Quinesim letion
 
@@ -2093,7 +2105,7 @@ stal, e raffina sucre e modella ceramica, ma clarar, indurar, rafinar o
 modellar un singul vivent anim, tó nequande trova se in nor
 calculationes de profite.
 
-(Ruskin)
+Ruskin
 
 NOTE: *to* is only written with an accent here to show emphasis
 ("`_that_ is never found in our profit calculations`").
@@ -2112,7 +2124,8 @@ NOTE: *to* is only written with an accent here to show emphasis
 - *fine* = end
 - *forn* = oven
 - *indurar* = to harden
-- *inpallidar* = to bleach (also *pallidar*, *in-* strengthens the verb a bit as in to bleach in)
+- *inpallidar* = to bleach (also *pallidar*, *in-* strengthens the
+  verb a bit as in "`to bleach in`")
 - *pezze* = piece
 - *pivote* = fulcrum, hinge
 - *restar* = to remain
@@ -2144,6 +2157,8 @@ deve payar.`"
 
 ===== Vocabularium
 
+// XXX FIXED -- "Ancient" -> "ancient"
+
 - *aprender* = to learn
 - *atender* = to wait
 - *comprender* = to understand
@@ -2152,7 +2167,7 @@ deve payar.`"
 - *judicar* = to judge
 - *judico* = a judge
 - *mastro* = master
-- *mine* = mine (Ancient Greek currency)
+- *mine* = mine (ancient Greek currency)
 - *payar* = to pay
 - *replicar* = to reply
 - *tardar* = to delay
@@ -2775,11 +2790,16 @@ ferreros etc. Li ovreros del fabricas ne prendet parte in ti parade, ma
 li mineros del vicin carbon-miniera esset representat per lor delegates
 in su original costumes.
 
+// XXX FIXED -- footballistes (old) -> futballistes (after the
+// English-Interlingue Dictionary)
+
+// XXX FIXED -- arrangeat -> arangeat
+
 Nu sequet li sportiv organisationes e on posset vider mult conosset
-championes del footballistes, boxeros, velocipedistes, canotistes etc.
+championes del futballistes, boxeros, velocipedistes, canotistes etc.
 In fin sequet un corso de automobilistes e motoristes.
 
-In li véspere in li vast sala municipal esset arrangeat un grand festa,
+In li véspere in li vast sala municipal esset arangeat un grand festa,
 u incontrat se li tot population per su eminent laboratores scientific,
 politic, artistic e social. Inter li
 scientistes on posset reconnosser li professores del universitá, li
@@ -2798,7 +2818,6 @@ anachronisme.
 
 Li babillada cessat quande li trio: li pianisto Z., li cellisto Str. e
 li violinista Senioretta
-
 Ilona M. intonat un arie del local compositor G. Solmen in tard nocte li
 festa trovat su fine, talmen que li reporteros havet mult a far scrir li
 rapportes al rect témpore, e li redactores e correctores esset occupat
@@ -2859,9 +2878,11 @@ extendet se un vast herbiera con bellissim trifolie e anc mult bell
 flores de camp, queles injoyat li paisage. Ma li farmero totmen ne esset
 content con ti malherbe, quam
 
+// XXX FIXED -- Fixed "vu vide" -> "Vu vide"
+
 il nominat les. Il haltat e prendet ex li tasca un tabaciere e presentat
 nos quelc cigares: "`Vu ne posse imaginar Vos,`" dit il, "`quant me despita
-li insectes! vu vide ta li pomiera juntet a mi parc. It es presc vivid
+li insectes! Vu vide ta li pomiera juntet a mi parc. It es presc vivid
 pro li mult vermes, con queles yo guerrea nu ja quelc annus. Anc li
 verdi pedicules de folies in mi adjacent pruniera, malgré omni
 precautiones, expande se in un horribil maniere.`"
@@ -2873,7 +2894,9 @@ insectes. Ples notar que just li formícas cultiva li pedicules, e yo
 posse solmen consiliar Vos tam rapid quam possibil exterminar omni
 formicieras. Ili es tre nociv animales in un fructiera.`"
 
-"`Advere! Nu yo va secuer Vor consilie. Ples regardar tra ti clariera,
+// XXX FIXED -- "secuer" -> "sequer" (e in altri locos del libre)
+
+"`Advere! Nu yo va sequer Vor consilie. Ples regardar tra ti clariera,
 quel aperte nos li vide súper li mare. Ta Vu posse vider un cannoniere e
 du destructores, queles crucea in ti regiones.`"
 
@@ -3340,9 +3363,9 @@ importa que il mistrotta e balbutia, que su voce es crud e mis-sonant,
 que su metodes e su tropes es ínadequat? Ti mission va trovar metode e
 images, articulation e melodie. Etsi il vell esser mut, it vell parlar.
 Si ne – si ne vell exister un tal divin parol che li mann – quo noi
-cuida, quam fluent, quam brilliant il es . . .
+cuida, quam fluent, quam brilliant il es...
 
-(Emerson)
+Emerson
 
 ===== Vocabularium
 
@@ -3441,9 +3464,11 @@ posse depender solmen de ínsuficent production, e ti es, in su órdine,
 tro sovente un consequentie de mancant saventies pri to quo e qualmen on
 deve producter.
 
+// XXX FIXED -- arrangear -> arangear
+
 Ja in comensa noi deve fixar quam facte: li terra es capabil producter
 decent vive a chascun; ne solmen nutrition ma omnicos quo noi besona;
-nam omnicos veni del terra. It es possibil arrangear li labor, li
+nam omnicos veni del terra. It es possibil arangear li labor, li
 production, li distribution e li recompensation talmen, que a chascun
 qui fa su deventie, es garantit un parte del resultate in conformitá al
 exact justicie.
@@ -3451,7 +3476,7 @@ exact justicie.
 Omnicos es possibil. Crede es li substantie de coses pri queles noi
 espera, e li testimonie pri coses queles ne es visibil.
 
-(Henry Ford.)
+Henry Ford
 
 ===== Vocabularium
 
@@ -3468,8 +3493,8 @@ espera, e li testimonie pri coses queles ne es visibil.
 - *substantie* = substance
 - *tintinar* = to jingle
 
-NOTE: *mani* before a singular means *many a*, while before a plural
-it means *many* (same as *mult*).
+NOTE: *mani* before a singular means "`many a`", while before a plural
+it means "`many`" (same as *mult*).
 
 ==== Un lettre
 
@@ -4874,7 +4899,7 @@ Omnicos va uniformisar se.
 Durant omni to li lingues, queles servi quam organes por li
 civilisation, es tre divers, ili deveni constantmen plu mult. Li
 conossenties del german, anglesi, hispan, francesi e italian ne sufice
-plu a tis queles vole secuer li currente del tot civilisation modern.
+plu a tis queles vole sequer li currente del tot civilisation modern.
 
 Chascun nation, quamcunc micri it es, vole haver su propri lingue de
 civilisation. Presc chascun nation de Europa ha obtenet autonomie e nu
@@ -4882,7 +4907,7 @@ li conossentie de duant lingues ne suffice por sequer li civilisation de
 sol Europa.
 
 Por experir li obstacules quel resulta de to, sufice transpassar un
-lingual frontiera. Por tis, doctos o practicos, qui deve secuer li
+lingual frontiera. Por tis, doctos o practicos, qui deve sequer li
 currente del labor fat in li munde, li diversitá del lingues del
 civilisation complica li labor in un maniere íntolerabil. Li aprension
 de un scientie o tecnica deveni per chascun die plu laborosi, e li
