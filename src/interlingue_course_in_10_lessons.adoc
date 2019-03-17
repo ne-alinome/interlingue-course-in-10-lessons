@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.33+20190317
+:revnumber: 0.1.0-pre.34+20190317
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -21,7 +21,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903171739
+// Last modified 201903171741
 
 :dot: .
 
@@ -4532,7 +4532,7 @@ conservat li genuin old german parol "`Fußvolk,`" usat ancor in li
 decisixesim secul. Ma li parol explica ancor plu. It di, que originalmen
 it deve har esset usat por un cert sorte del infanterie, a saver, por li
 guardie del Infante de Hispania. Li "`Infante`" de Hispania es identic con
-li international e pro to anc occidental parol "`infante,`" originant del
+li international parol, e pro to anc de Interlingue,  "`infante,`" originant del
 latin "`infans,`" quel es composit del prefix "`in`" (ne) e "`fans`"
 (parlant), to es, un hom, quel ancor ne posse parlar. Talmen yo veni in
 mi exploration a plu e plu lontan témpores e popules, e yo fini che li
