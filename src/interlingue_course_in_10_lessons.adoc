@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.36+20190317
+:revnumber: 0.1.0-pre.37+20190317
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -21,7 +21,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903172002
+// Last modified 201903172046
 
 :dot: .
 
@@ -4098,7 +4098,7 @@ me. Quam yo nu repente, que yo ne hat petit le dar me it frigid.`"
 
 // XXX FIXED --
 // "de mani autore es acceptat del publica – quande il" ->
-// "de mani autores es acceptat del publica – quande ili"
+// "de mani autor es acceptat del publica – quande il"
 
 Pri un cose noi omni concorda: ne existe plu abominabil erras quam tis
 del altres.
@@ -4106,7 +4106,7 @@ del altres.
 It es sovente plu facil pardonar un injurie quel noi ha causat a un
 altri hom.
 
-Li opinion de mani autores es acceptat del publica – quande ili self ha
+Li opinion de mani autor es acceptat del publica – quande il self ha
 abandonat it ja de long.
 
 Mani nómina se idealist: proque il vole viver ne por, ma per un idé.
@@ -4394,6 +4394,7 @@ The most used relative pronouns are *quel* (singular) and *queles*
 for objects and abstract things also *quo*.
 
 // XXX FIXED -- "fa on constant" -> "fa un constant"
+// XXX FIXED -- "progress que" -> "progress que"
 
 ====
 
@@ -4405,7 +4406,7 @@ for objects and abstract things also *quo*.
   I don't understand.
 - *Yo ne comprendet to quo Vu dit.* = I didn't understand what you
   said.
-- *Nor lingue fa un constant progress que* (= *quel facte*) *tre joya
+- *Nor lingue fa un constant progress quo* (= *quel facte*) *tre joya
   me*.  = Our language makes constant progress, which much pleases me.
 - *Qual compositor, tal musica.* = As the composer, so the music.
 - *Quant vive, tant espera.* = As long as there is life, there is
