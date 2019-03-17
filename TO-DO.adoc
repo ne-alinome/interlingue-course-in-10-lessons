@@ -17,4 +17,3 @@
 - Make width of tables depend on the target.
 - Separate "A un yun mann...". The horizontal rules are not preserved
   in DocBook.
-- Fix `*etsi* = albeit, although With *quam* and *que*`.
