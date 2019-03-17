@@ -14,3 +14,4 @@
   markup.
 - Add note about accent of "deci" in compounds, from the German
   version.
+- Make width of tables depend on the target.
