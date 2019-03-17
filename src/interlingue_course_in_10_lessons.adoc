@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.34+20190317
+:revnumber: 0.1.0-pre.35+20190317
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -21,7 +21,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903171741
+// Last modified 201903171747
 
 :dot: .
 
@@ -1611,6 +1611,8 @@ Let's take a look at a few from all of these.
 
 To. Has many uses:
 
+// XXX FIXED -- regrettar -> regretar
+
 ====
 
 - *Il dat li flores a su amata* = He gave the flowers to his
@@ -1620,7 +1622,7 @@ To. Has many uses:
 - *Yo viagea a Berlin* = I travel to Berlin.
 - *Li vapornave ea a Lisbon* = The steamboat goes to Lisbon.
 - *Clar a departer* = Ready (clear) to depart.
-- *Un error a regrettar* = A regretful error (lit. an error to
+- *Un error a regretar* = A regretful error (lit. an error to
   regret).
 
 ====
@@ -4930,8 +4932,10 @@ decovrition scientific change li procedes de fabrication e li
 conditiones de production. E omni nov procede de fabrication es rapidmen
 conosset in li tot munde.
 
+// XXX FIXED -- banks --> bankes
+
 Li afferes comercial es international. Li industries de un branche
-conclude cartelles trans li frontieras. Li banks del tot munde es alliat
+conclude cartelles trans li frontieras. Li bankes del tot munde es alliat
 per comun operationes.
 
 Li ovreros ha sentit, que, in regard a lor patrones, ili have identic
@@ -5098,18 +5102,20 @@ adding extra information, etc.
 ====
 
 In the first two sentences above it is somewhat a matter of taste
-whether to say russ caviare or international lingue, though the word
-international being long feels a bit more right after the noun. The next
+whether to say *russ caviare* or *international lingue*, though the word
+*international* being long feels a bit more right after the noun. The next
 three sentences however are much more clear cut
 (*necessi-por-su-viage-arangeamentes* would be odd).
 
 Dependent clauses: note the same word order.
 
+// XXX FIXED -- "pensat, quo" -> "pensat, que"
+
 ====
 
 - *Il di, que il es malad.* = He said that he is sick. (*Il di* + *il
   es malad*).
-- *Il pensat, quo yo hat ja venit.* = He thought that I had already
+- *Il pensat, que yo hat ja venit.* = He thought that I had already
   come.  (*Il pensat* + *yo hat ja venit*).
 - *Ella questionat, pro quo yo es tam felici.* = She asked why I was
   so happy. (*Ella questionat* + *yo es tam felici*).
