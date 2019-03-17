@@ -17,3 +17,5 @@
 - Make width of tables depend on the target.
 - Separate "A un yun mann...". The horizontal rules are not preserved
   in DocBook.
+- Confirm and fix `(*necessi-por-su-viage-arangeamentes* would be odd)`.
+- Update old orthography, e.g. "affere".
