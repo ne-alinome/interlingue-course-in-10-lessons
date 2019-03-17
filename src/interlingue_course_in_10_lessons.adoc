@@ -21,7 +21,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903131359
+// Last modified 201903171413
 
 :dot: .
 
@@ -2355,8 +2355,15 @@ distinguishing a noun from an adjective: central (central), centrale
 The most common adjectival ending is *-i*,
 which is also used for pronunciation and distinguishing types of words:
 
-*vivaci* = vivacious/lively, *sagi* = wise, *omni* = all, *stormi* = stormy
-(*storm* = storm), *uniformi* (the noun is *uniform*).
+====
+
+- *vivaci* = vivacious/lively
+- *sagi* = wise
+- *omni* = all
+- *stormi* = stormy (*storm* = storm)
+- *uniformi* (the noun is *uniform*)
+
+====
 
 ==== -o, -a
 
@@ -2441,6 +2448,8 @@ formed in the following way:
 The above are the regular comparative forms. Other less regular forms
 exist due to their being part of already existing international words:
 
+====
+
 - *bon* = good
 - *melior* = better (*a__melior__ar*, to improve)
 - *optim* = best (*__optim__ist*)
@@ -2453,6 +2462,8 @@ exist due to their being part of already existing international words:
 - *micri* = small
 - *minor* = smaller (*__minor__ité*)
 - *minim* = smallest (*__minim__al*)
+
+====
 
 NOTE: *minim* is included here for the sake of completeness even
 though it is part of the regular comparative forms.
@@ -2733,7 +2744,7 @@ expenses, etc.:
 - *doanage* = customs (collecting tax; *doane* = tax)
 ====
 
-2. collections with order, things made by:
+2. Collections with order, things made by:
 +
 ====
 - *tonnage* = tonnage (*tonne* = ton)
@@ -3575,16 +3586,27 @@ etc.
 
 ===== -ic
 
-Being so, possessing properties of the word: energic (energetic) from
-energie, fantastic from fantaste (a fantast, someone with eccentric or
-fanciful ideas), *sistematic* from *sistema*, *problematic* from
-*problema*, etc.
+Being so, possessing properties of the word:
+
+====
+
+- *energic* (energetic) from *energie*
+- *fantastic* from *fantaste* (a fantast, someone with eccentric or
+  fanciful ideas)
+
+====
 
 NOTE: Greek words ending in "`-ma`" take a "`t`", and those ending in "`-se`" turn
 the "`s`" into a "`-t`" ("`xe`" also counts as it is pronounced "`cse`"). Thus:
 
-- *hipnose — hipnotic*
-- *sintaxe — sintactic*
+====
+
+- *sistematic* from *sistema*
+- *problematic* from *problema*
+- *hipnotic* from *hipnose*
+- *sintactic* from *sintaxe*
+
+====
 
 From the adjective *-ic* we derive nouns with:
 
@@ -3606,9 +3628,9 @@ mathematician
 
 ====
 
-===== What about -ical?
+===== What about *-ical*?
 
-Generally, it is a good idea to resist the urge to express every -ical
+Generally, it is a good idea to resist the urge to express every "`-ical`"
 English word with another *-ical* in Interlingue (just *-ic* is
 preferred). But this is another situation where you can for extra
 precision, and a subject mentioned in Cosmoglotta before. Because <<_ica_and_ico,*-ica*>>
@@ -4129,10 +4151,12 @@ ci a levul.`"
 
 NOTE: *li mi, li vor* etc. is also used.
 
-|===
-| *seriosi* | serious  | *jolli*   | jolly
-| *fumar*   | to smoke | *a levul* | on the left
-|===
+===== Vocabularium
+
+- *a levul* = on the left
+- *fumar* = to smoke
+- *jolli* = jolly
+- *seriosi* = serious 
 
 ==== Aforismes
 
@@ -4380,13 +4404,13 @@ deserving of a correction when not.
 Note that many of these are simply formed by prefixing *al-*, *ne-*,
 etc. to other existing pronouns. They are not accented.
 
-*on* = one. This is used much more than in English, where it has a
-pompous feel ("`Pardon me, where can one purchase a…`"). In Interlingue
-it means one, we, people, you (a general you), and even forms the
-passive. *In Italia on parla italian* = one speaks Italian in Italy, we
-speak Italian in Italy, you speak Italian in Italy, Italian is spoken in
-Italy.
-
+- *on* = one. This is used much more than in English, where it has a
+  pompous feel ("`Pardon me, where can one purchase a…`"). In
+  Interlingue it means "`one`", "`we`", "`people`", "`you`" (a general
+  "`you`"), and even
+  forms the passive. *In Italia on parla italian* = one speaks Italian
+  in Italy, we speak Italian in Italy, you speak Italian in Italy,
+  Italian is spoken in Italy.
 - *self* = self
 - *li sam* = the same
 - *alquí* = somebody
@@ -4479,7 +4503,9 @@ Examples:
 
 ==== Un parol — un novelle
 
-// XXX FIXED -- "Infante" (Spanish) -> "infante"
+// XXX TODO -- Consultar notatation in Interlingue:
+//
+// "`Fußvolk,`" -- "`Fußvolk`",
 
 Si yo prende un parol ex un lingue, it va racontar me alcun
 cultur-historic facte. Lass nos, por exemple, prender li german parol
@@ -4489,7 +4515,7 @@ li developation e organisation del german armés, altrimen on vell har
 conservat li genuin old german parol "`Fußvolk,`" usat ancor in li
 decisixesim secul. Ma li parol explica ancor plu. It di, que originalmen
 it deve har esset usat por un cert sorte del infanterie, a saver, por li
-guardie del Infante de Hispania. Li "`infante`" de Hispania es identic con
+guardie del Infante de Hispania. Li "`Infante`" de Hispania es identic con
 li international e pro to anc occidental parol "`infante,`" originant del
 latin "`infans,`" quel es composit del prefix "`in`" (ne) e "`fans`"
 (parlant), to es, un hom, quel ancor ne posse parlar. Talmen yo veni in
@@ -4848,6 +4874,8 @@ lingue da nos li fundament e li unesim base de omni cultura. (Güntert.)
 
 ==== Li mult lingues de Europa
 
+// XXX FIXED -- Parisano -> parisano
+
 Li lingual situation in li hodial Europa es paradoxal.
 
 Li material civilisation, li scientie, e mem li arte unifica se plu e
@@ -4855,7 +4883,7 @@ plu. Li cultivat europano senti se quasi in hem in omni landes queles
 have europan civilisation, it es, plu e plu, in li tot munde. Hodie
 presc omni states guerrea per li sam armes. Sin cessa li medies de
 intercommunication ameliora se, e in consequentie de to li terra sembla
-diminuer se. Un Parisano es nu plu proxim a un angleso o a un germano
+diminuer se. Un parisano es nu plu proxim a un angleso o a un germano
 quam il esset ante cent annus a un paisano francesi.
 
 Li civilisation tende vers unitá.
@@ -5136,7 +5164,8 @@ alquó a manjar* and not *Yo va trovar _me_ alquó a manjar*.
 - *Yo repente.* = I'm sorry ("`I repent that…`")
 - *Yo senti calore; yo cale.* = I'm hot.
 - *Yo senti frigore; yo frige.* = I'm cold.
-- *Yo senti fame / sete.* = I'm hungry / thirsty.
+- *Yo senti fame.* = I'm hungry.
+- *Yo senti sete.* = I'm thirsty.
 - *Yo successat far it.* = I was able to do it.
 - *On dansat e ludet.* = We/they/one danced and played.
 
