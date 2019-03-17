@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.27+20190317
+:revnumber: 0.1.0-pre.28+20190317
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -2334,40 +2334,35 @@ in Interlingue as in other languages. Some of them are: *firma* (company),
 *boa*, *auto*, *conto* (account), *cangurú* (kangaroo), *marabú* (a type of tree),
 *tabú*, *colibrí* (hummingbird), *lampe*, *idé* (idea), etc. Nouns, adjectives
 and particles can end in any vowel or consonant, as long as the word can
-be clearly spoken. A very common end vowel in Interlingue is:
+be clearly spoken.
 
-*-e*
+==== -e
 
+A very common end vowel in Interlingue is *-e*,
 which does not have any particular meaning, but is used for ease of
 pronunciation and to distinguish words from others. Nouns: teatre,
 centre, lampe (nouns). Adjectives: pie (pious), varie (varied). An
-adverb: sovente (often). The -e is also seen in plurals after a
-consonant before the -s: nation, nationes. It can also play a role in
+adverb: sovente (often). The *-e* is also seen in plurals after a
+consonant before the *-s*: nation, nationes. It can also play a role in
 distinguishing a noun from an adjective: central (central), centrale
 (headquarters).
 
+==== -i
+
 // XXX FIXED -- commen -> common
-
-The most common adjectival ending is:
-
-*-i*
-
 // XXX FIXED -- pronunciation -> pronounciation 
 
+The most common adjectival ending is *-i*,
 which is also used for pronunciation and distinguishing types of words:
 
 *vivaci* = vivacious/lively, *sagi* = wise, *omni* = all, *stormi* = stormy
 (*storm* = storm), *uniformi* (the noun is *uniform*).
 
-For nouns referring to living creatures, the ending
+==== -o, -a
 
-*-o*
-
-is used to indicate the male gender, and
-
-*-a*
-
-the female, when necessary. (Genderless or unspecified: -e or no
+For nouns referring to living creatures, the ending *-o*
+is used to indicate the male gender, and *-a*
+the female, when necessary. (Genderless or unspecified: *-e* or no
 ending): *un germano* = a German man, *un germana* = a german
 woman, *amico* = friend, *amica* = female friend, *cavallo* = male
 horse (stallion), *cavalla* = female horse (mare), *gallino* =
@@ -2411,10 +2406,9 @@ no particular noun in mind:
 
 NOTE: *lu* is by far the most often used of the three above.
 
-Finally, the ending
+==== -um
 
-*-um*
-
+Finally, the ending *-u*
 can be used on an adjective to form a noun that
 expresses the general idea of something:
 
