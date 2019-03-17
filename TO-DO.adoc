@@ -17,6 +17,10 @@
 - Make width of tables depend on the target.
 - Separate "A un yun mann...". The horizontal rules are not preserved
   in DocBook.
-- Confirm and fix `(*necessi-por-su-viage-arangeamentes* would be odd)`.
+- Confirm and fix `(*necessi-por-su-viage-arangeamentes* would be
+  odd)`.
 - Update also "brilliant", "carriera", "detalli-", "satellite",
   "svimm-"...
+- Fix rendering of "+" as markup: use `{plus}` instead.  See this
+  case: `+ <<_the_de_wahls_rule,*fini-r* (to finish) + *t*>>
+  + *-esim* +`.
