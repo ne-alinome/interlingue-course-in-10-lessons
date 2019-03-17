@@ -18,4 +18,5 @@
 - Separate "A un yun mann...". The horizontal rules are not preserved
   in DocBook.
 - Confirm and fix `(*necessi-por-su-viage-arangeamentes* would be odd)`.
-- Update old orthography, e.g. "affere".
+- Update also "brilliant", "carriera", "detalli-", "satellite",
+  "svimm-"...
