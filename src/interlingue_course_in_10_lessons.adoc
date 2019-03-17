@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.35+20190317
+:revnumber: 0.1.0-pre.36+20190317
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -21,7 +21,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903171747
+// Last modified 201903172002
 
 :dot: .
 
@@ -96,7 +96,9 @@ NOTE: The name of Interlingue was "`Occidental`" until 1949.
 
 ==== Un international congress
 
-// XXX FIXED -- "symbol" (old orthograpy) -> "simbol"
+// XXX FIXED -- "symbol" (old orthography) -> "simbol"
+
+// XXX FIXED -- "correspondentes" (old orthography) -> "corespondentes"
 
 Noi have un grand international congress in li cité. Li nationes de
 Europa es representat per eminent cultural persones. Li centre del
@@ -105,11 +107,13 @@ ante li portas e sur li stradas e plazzas. Li fassades es decorat per li
 national flaggas. Li flaggas del nordic landes have li cruce quam
 simbol. On vide delegationes de divers partes de Europa, de nord e sud,
 de ost e west. Un deputation visita li presidente del state in li
-grandiosi residentie contra li ópera. Special correspondentes fa
+grandiosi residentie contra li ópera. Special corespondentes fa
 observationes e scri articules por li redactiones de grand jurnales e
 telegrafa al burós de information.
 
-// XXX FIXED -- "official" (old orthograpy) -> "oficial"
+// XXX FIXED -- "official" (old orthography) -> "oficial"
+
+// XXX FIXED -- "applaude" (old orthography) -> "aplaude"
 
 In li grand sala del palace es li general convent. In li micri chambres
 li special comissiones e comités have secret conferenties. Nu li
@@ -118,9 +122,11 @@ borgomastre del cité saluta li congressantes. On electe un presidente.
 Du secretarios scri li protocolles. Un delegat del central states
 presenta un proposition pri li organisation del international trafic per
 aeroplanes. Li orator parla con fascinant eloquentie e li auditoria
-escuta con interesse e applaude con entusiasme. Un polemic debatte
+escuta con interesse e aplaude con entusiasme. Un polemic debatte
 comensa e it fini per un resolution in favor al propositor. On accepta
 li proposition e refusa li contrapropositiones.
+
+// XXX FIXED -- "corridores" (old orthography) -> "coridores"
 
 In li vestibules e corridores sta gruppes de persones, famosi
 professores de universitás, rich directores de commercial firmas,
@@ -215,10 +221,12 @@ ____
 Genie es un percent inspiration e ninant nin percent transpiration.
 ____
 
+// XXX FIXED -- "surrogat" (old orthography) -> "surogat"
+
 [quote, Goethe]
 ____
 Li humore es un del elementes del genie, ma, si it domina, solmen un
-surrogat de it; it es li compane del diminuent arte e destructe,
+surogat de it; it es li compane del diminuent arte e destructe,
 anihila it in fine.
 ____
 
@@ -1841,7 +1849,7 @@ Separation, moving away:
 
 // XXX FIXED -- "in/un/etc." -> "(in-, un-, etc.)"
 
-// XXX FIXED -- "official" (old orthograpy) -> "oficial"
+// XXX FIXED -- "official" (old orthography) -> "oficial"
 
 Opposite meaning (in-, un-, etc.):
 
@@ -1977,7 +1985,7 @@ un, quel crede in li permanentie de lu existent e insiste in li
 conservation de it, e un altri, quel crede in li existentie de alquicos
 plu bon. Fórsan con un cert exageration on nómina li unesimes frenatores
 e reactionarios, li duesimes fantasistes e utopistes. Li fundamental
-differentie inter li du partises es proprimen to, que li regressistes ne
+diferentie inter li du partises es proprimen to, que li regressistes ne
 conosse li essentie del nov idés e pro to ne posse apreciar lor valore e
 importantie, durant que li progressistes es tro inclinat depreciar li
 existentie del conservativ leges del realitá e li potentie del temporari
@@ -2828,7 +2836,7 @@ representat, on videt juristes, medicos, inter ili li oculist S., li
 internist A. e li dentist U. Anc conosset pictores quam li paisagist L.,
 li portretist R. e li aquarellist e aquafortist K. participat al festa.
 Ta esset anc li sculptor C. con su marita, li famosi actressa Lola C. On
-vide li max different persones in amical conversation: ci un radical
+vide li max diferent persones in amical conversation: ci un radical
 socialist fonde se sub li ardent ocules del excentric baronessa S., ta
 un prestro del metodistes parla con li millionario e bankero M. e li
 proprietario del grand fabrica de motores, lord Ch. Li charitabil
@@ -3525,15 +3533,15 @@ Mi car amico.
 Yo mersia Vos cordialmen pro Vor amabil lettre de 10-esim ho-mensu. Yo
 joya leer, que anc Vu have interesse por li lingue international
 auxiliari, e yo constata, que yo esset rect, quande yo suposit, que Vu
-ne posse esser índifferent pri un question quel have grandissim
+ne posse esser índiferent pri un question quel have grandissim
 importantie por li future de nor civilisation. Quam omni novones in li
 interlinguistica Vu comensa per decreter. In Vor curt lettre de quelc
 lineas Vu expresse Vor opiniones e exposi tant postulates concernent li
 lingue auxiliari, que, si Vu self vell provar satisfar les, Vu vell
-haver sufficent occupation por quelc cent annus. Vu di, que li lingue
+haver suficent occupation por quelc cent annus. Vu di, que li lingue
 deve esser ne europan; ma universal, i. e. un
 sintese de omni lingues existent sur li terra. Vu oblivia, que p. ex. li
-lingues chinesi e german es tam different, que un lingue, quel deve
+lingues chinesi e german es tam diferent, que un lingue, quel deve
 satisfar Vor postulate, vell esser quasi un hibride inter harengo e
 sparro. Vu di, que li lingue deve esser idealic, i. e. li max perfect
 linguistic instrument pensabil. Vu oblivia, que ne omnicos pensabil es
@@ -4089,7 +4097,7 @@ me. Quam yo nu repente, que yo ne hat petit le dar me it frigid.`"
 ==== Aforismes
 
 // XXX FIXED --
-// "de mani autore es acceptat del publica – quande il" -->
+// "de mani autore es acceptat del publica – quande il" ->
 // "de mani autores es acceptat del publica – quande ili"
 
 Pri un cose noi omni concorda: ne existe plu abominabil erras quam tis
@@ -4518,7 +4526,7 @@ Examples:
 //
 // "`Fußvolk,`" -- "`Fußvolk`",
 
-// XXX FIXED -- _infanterie_. --> "`Infanterie,`"
+// XXX FIXED -- _infanterie_. -> "`Infanterie,`"
 //
 // Signes de citation por coherentie con li altri exemples.  Con
 // majuscul nam it es un german substantive. Li punctu intern por
@@ -4932,9 +4940,10 @@ decovrition scientific change li procedes de fabrication e li
 conditiones de production. E omni nov procede de fabrication es rapidmen
 conosset in li tot munde.
 
-// XXX FIXED -- banks --> bankes
+// XXX FIXED -- banks -> bankes
+// XXX FIXED -- afferes -> aferes
 
-Li afferes comercial es international. Li industries de un branche
+Li aferes comercial es international. Li industries de un branche
 conclude cartelles trans li frontieras. Li bankes del tot munde es alliat
 per comun operationes.
 
@@ -4957,9 +4966,11 @@ civilisation, es tre divers, ili deveni constantmen plu mult. Li
 conossenties del german, anglesi, hispan, francesi e italian ne sufice
 plu a tis queles vole sequer li currente del tot civilisation modern.
 
+// XXX FIXED -- suffic- -> sufic- (e omni altris in li libre)
+
 Chascun nation, quamcunc micri it es, vole haver su propri lingue de
 civilisation. Presc chascun nation de Europa ha obtenet autonomie e nu
-li conossentie de duant lingues ne suffice por sequer li civilisation de
+li conossentie de duant lingues ne sufice por sequer li civilisation de
 sol Europa.
 
 Por experir li obstacules quel resulta de to, sufice transpassar un
@@ -4970,11 +4981,15 @@ de un scientie o tecnica deveni per chascun die plu laborosi, e li
 necessitá aprender divers lingues e sempre plu divers, adjunte un cargo,
 quel ne cessa far se plu e plu pesant.
 
+// XXX FIXED -- differ- -> difer- (e omni altris in li libre)
+
 In li sam gradu quam li civilisation deveni plu uniform, li lingues have
-a expresser li sam coses per materialmen different, ma paralel procedes.
+a expresser li sam coses per materialmen diferent, ma paralel procedes.
 Li notiones ne varia con li paroles, queles expresse les. Li lingues de
 Europa per to quo ili expresse, tende a devenir li fidel calcationes de
 unaltru.
+
+// XXX FIXED -- applicabil -> aplicabil
 
 On save quel desfacilitás incontra un congress international pro li
 diversitá del lingues, ne solmen si it acte se pri un congress de homes
@@ -4987,7 +5002,7 @@ delegates del micri landes deve esser electet solmen inter tal homes,
 queles bon conosse un de ti lingues queles es usat in li congress. E it
 es ínevitabil haver un comun lingue por far possibil un ver discussion.
 Por ti scope on besona un lingue, quel es facilmen aprensibil e
-applicabil e neutral. Solmen un lingue artificial responde a ti
+aplicabil e neutral. Solmen un lingue artificial responde a ti
 conditiones.
 
 Li practic necessitá haver un lingue international es evident. E proque
