@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.31+20190317
+:revnumber: 0.1.0-pre.32+20190317
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -21,7 +21,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903171707
+// Last modified 201903171736
 
 :dot: .
 
@@ -2068,7 +2068,7 @@ perspective.
 Un passu ancor ad-supra li monte fa li horizonte plu vast in omni
 directiones.
 
-(Channing.)
+Channing
 
 ===== Vocabularium
 
@@ -4240,14 +4240,12 @@ ____
 
 ==== Iguanodon
 
-// XXX FIXED -- "in li grand sala" --> "In li grand sala"
-
 Durant mi viage a Stockholm yo visitat anc li natur-historic muséo e yo
 esset vermen impressionat per li granditá opressiv del squelette del
 antediluvian iguanodon. Benque yo conosset teoricmen li dimensiones e li
 grandore de ti prehistoric gigant, li realitá superat omni
 imaginationes. Li longore del caude es tam grand, que it ne have
-spacie. In li grand sala, ma on ha devet divider it e posir li
+spacie in li grand sala, ma on ha devet divider it e posir li
 detra-parte paralel al squelette.
 
 Su altesse, li prince de S., intrat con mult grandesse in li sala del
@@ -4518,9 +4516,16 @@ Examples:
 //
 // "`Fußvolk,`" -- "`Fußvolk`",
 
+// XXX FIXED -- _infanterie_. --> "`Infanterie,`"
+//
+// Signes de citation por coherentie con li altri exemples.  Con
+// majuscul nam it es un german substantive. Li punctu intern por
+// coherentie con li notation del altri exemples, benque su rect
+// usation ne es ancor confirmat in Interlingue.
+
 Si yo prende un parol ex un lingue, it va racontar me alcun
 cultur-historic facte. Lass nos, por exemple, prender li german parol
-infanterie. Su form indica, que it es un parol pruntat ex li francesi
+"`Infanterie.`" Su form indica, que it es un parol pruntat ex li francesi
 lingue. Ergo li franceses deve har havet un cert influentie concernent
 li developation e organisation del german armés, altrimen on vell har
 conservat li genuin old german parol "`Fußvolk,`" usat ancor in li
@@ -4564,7 +4569,9 @@ conosset tre doct homes, qui apparet a me tre povri in intelectu, proque
 ili havet null grand pensas. Quo vale to, que un mann ha studiat
 quantcunc detalliat li histories de Grecia e Roma, si per li historic
 documentes li grand idés de libertá e bellitá e bravitá e spiritual
-energie ne ha flammat quam vivent foyes in su anima? (Channing.)
+energie ne ha flammat quam vivent foyes in su anima?
+
+Channing
 
 ===== Vocabularium
 
@@ -4604,7 +4611,7 @@ acte follimen.`"
 - *emigrar* = to emigrate
 - *epol* = shoulder
 - *felici* = happy
-- *foll(i*) = crazy
+- *foll(i)* = crazy
 - *fratre* = brother
 - *intenter* = to intend
 - *matre* = mother
