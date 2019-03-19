@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.39+20190317
+:revnumber: 0.1.0-pre.40+20190319
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -21,7 +21,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903172202
+// Last modified 201903191843
 
 :dot: .
 
@@ -1283,7 +1283,7 @@ Li *cardinal* numerales, queles responde al question *"`quant?`"* es:
 // XXX FIXED -- "quar mill sett cent undeci" -> "quar mill sett cent
 // deciun"
 
-[cols=">13,<24",width=65%]
+[cols=">13,<24"]
 |===
 | 1             | un
 | 2             | du
@@ -1334,7 +1334,7 @@ respondent al question *"`quantesim?`"*:
 
 // XXX FIXED -- Remove duplicated "quantesim" here.
 
-[cols=">5,<15",width=65%]
+[cols=">5,<15"]
 |===
 | 1    | unesim
 | 2    | duesim
@@ -1411,7 +1411,7 @@ while Interlingue allows it with any number with the *-ene* ending.
 
 Li fractiones es:
 
-[cols="<10,<35",width=65%]
+[cols="<10,<35"]
 |===
 | 1/1        | un tot
 | 1/2        | un demí (o un duesim)
@@ -1593,26 +1593,46 @@ simply standalone particles but also used to form words.
 ==== Prepositiones
 
 |===
-| *a, ad*     | to          | *intra*  | between
-| *along*     | along       | *malgré* | despite
-| *alor*      | then        | *per*    | by, through
-| *ante*      | before      | *por*    | for
-| *apu*       | by, next to | *pos*    | after
-| *avan*      | before      | *preter* | past
-| *caus*      | because of  | *pri*    | regarding
-| *che*       | at, with    | *pro*    | due to
-| *circum*    | around      | *secun*  | according to
-| *con*       | with        | *sin*    | without
-| *contra*    | against     | *sub*    | under
-| *de*        | of, from    | *súper*  | over
-| *desde*     | since       | *sur*    | on
-| *detra*     | behind      | *til*    | until
-| *durant(e)* | during      | *tra*    | through
-| *ex*        | out         | *trans*  | across
-| *except*    | except      | *ultra*  | beyond
-| *extra*     | besides     | *vers*   | towards
-| *in*        | in          | *vice*   | instead
-| *infra*     | below       | *ye*     | preposition used when no other apt preposition comes to mind
+| *a, ad*     | to
+| *along*     | along
+| *alor*      | then
+| *ante*      | before
+| *apu*       | by, next to
+| *avan*      | before
+| *caus*      | because of
+| *che*       | at, with
+| *circum*    | around
+| *con*       | with
+| *contra*    | against
+| *de*        | of, from
+| *desde*     | since
+| *detra*     | behind
+| *durant(e)* | during
+| *ex*        | out
+| *except*    | except
+| *extra*     | besides
+| *in*        | in
+| *infra*     | below
+| *intra*     | between
+| *malgré*    | despite
+| *per*       | by, through
+| *por*       | for
+| *pos*       | after
+| *preter*    | past
+| *pri*       | regarding
+| *pro*       | due to
+| *secun*     | according to
+| *sin*       | without
+| *sub*       | under
+| *sur*       | on
+| *súper*     | over
+| *til*       | until
+| *tra*       | through
+| *trans*     | across
+| *ultra*     | beyond
+| *vers*      | towards
+| *vice*      | instead
+| *ye*        | preposition used when no other apt preposition comes to mind
 |===
 
 Let's take a look at a few from all of these.
@@ -1934,30 +1954,36 @@ form it preferred. This process of ironing out took place over the next
 minor. Some examples of theoretically equally valid forms are the
 following:
 
+[cols="25,25,50"]
 |===
 | Etymologic | Doubled consonant | Modern single consonant form
 
-| adportar | apportar
+| *adportar*
+| *apportar*
 | *aportar* (to bring, from *ad*{nbsp}+ *portar*, lit. to "`to pull`")
 
-| adnexion | annexion
+| *adnexion*
+| *annexion*
 | *anexion* (to annex, from *ad*{nbsp}+ *nexer*, lit. to "`to tie`")
 
-| adtractiv | attractiv
-| *atractiv* (to attract, from ad{nbsp}+ *tracter*, lit. to "`to pull`")
+| *adtractiv*
+| *attractiv*
+| *atractiv* (to attract, from *ad*{nbsp}+ *tracter*, lit. to "`to pull`")
 
-| obpression | oppression
+| *obpression*
+| *oppression*
 | *opression* (to oppress, from *ob*{nbsp}+ *presser*, lit. to "`against press`")
 
-| subposition | supposition
+| *subposition*
+| *supposition*
 | *suposition* (to suppose, from *sub*{nbsp}+ *poser*, lit. to "`under place`")
 
 |===
 
 The form on the left was rarely if ever used, due to 1) the
 uninternational appearance and 2) the possibility of appearing to have a
-different meaning. Subposition for example simply looks like "`under
-position`" and does not give the sense of supposition.
+different meaning. *Subposition* for example simply looks like "`under
+position`" and does not give the sense of "`supposition`".
 
 The second form was used for a time, but eventually the community
 settled on the form on the right for simplicity, with doubled consonants
