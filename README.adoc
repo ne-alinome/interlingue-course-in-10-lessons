@@ -1,10 +1,10 @@
 = Interlingue Course in 10 Lessons
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-03-10
+:revdate: 2019-03-19
 :toc:
 :toc-title: Contents/Contenete
 
-// Last modified 201903101305
+// Last modified 201903191837
 
 == English
 
@@ -48,7 +48,7 @@ follows:
 | make odt            | Build the OpenDocument format
 | make pdf            | Build the PDF format (both sizes)
 | make pdfa4          | Build the DIN A4 size PDF format
-| make pdfl           | Build the letter size PDF format
+| make pdfletter      | Build the letter size PDF format
 | make xml            | Build the DocBook format
 |===
 
@@ -97,7 +97,7 @@ ti exemples:
 | make odt            | Constructer li formate OpenDocument
 | make pdf            | Constructer li formate PDF (ambi grandores)
 | make pdfa4          | Constructer li formate PDF ye grandore DIN A4
-| make pdfl           | Constructer li formate PDF ye grandore "letter"
+| make pdfletter      | Constructer li formate PDF ye grandore "letter"
 | make xml            | Constructer li formate DocBook
 |===
 
