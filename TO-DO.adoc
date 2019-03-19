@@ -3,7 +3,6 @@
 :revdate: 2019-03-17
 
 - Confirm year of the wiki version.
-- Rearrange tables in less columns.
 - Add quotes to example terms in English explanations.
 - Fix: automatic numbering of sections with `:sectnum:` is not
   preserved in DocBook, therefore it's not rendered into EPUB, only
@@ -14,10 +13,7 @@
   markup.
 - Add note about accent of "deci" in compounds, from the German
   version.
-- Make width of tables depend on the target.
 - Separate "A un yun mann...". The horizontal rules are not preserved
   in DocBook.
-- Confirm and fix `(*necessi-por-su-viage-arangeamentes* would be
-  odd)`.
-- Update also "brilliant", "carriera", "detalli-", "satellite",
+- Consult "brilliant", "carriera", "detalli-", "satellite",
   "svimm-"...
