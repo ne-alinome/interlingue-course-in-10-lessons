@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.41+20190320
+:revnumber: 0.1.0-pre.42+20190320
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -271,8 +271,10 @@ ____
 - *sol* = sole, only
 - *tot* = entire, whole
 
-// Explanation {{{2
-=== Explanation
+// Explanations {{{2
+=== Explanations
+
+// XXX FIXED -- Titul: "Explanation" -> "Explanations"
 
 Reading the <<_unesim_letion,first lesson>>, we find that the majority of words in
 Interlingue are already long familiar to us. That is, the vocabulary in
@@ -1630,8 +1632,10 @@ ____
 - *refusar* = to refuse
 - *veritá* = truth
 
-// Explanation {{{2
-=== Explanation
+// Explanations {{{2
+=== Explanations
+
+// XXX FIXED -- Titul: "Explanation" -> "Explanations"
 
 Knowing how to derive words with prefixes and suffixes is of great
 importance in the understanding of international words, because being
@@ -1654,8 +1658,10 @@ are made up.
 We are now going to look at prepositions, which in Interlingue are not
 simply standalone particles but also used to form words.
 
-// Prepositiones {{{3
-==== Prepositiones
+// Prepositions {{{3
+==== Prepositions
+
+// XXX FIXED -- Titul: "Prepositiones" -> "Prepositions"
 
 |===
 | *a, ad*     | to
@@ -2592,8 +2598,6 @@ expresses the general idea of something:
 
 ====
 
-// XXX FIXME -- Translate:
-
 // Comparative forms {{{3
 ==== Comparative forms
 
@@ -2634,8 +2638,10 @@ exist due to their being part of already existing international words:
 NOTE: *minim* is included here for the sake of completeness even
 though it is part of the regular comparative forms.
 
-// Divers sufixes {{{3
-==== Divers sufixes
+// Divers suffixes {{{3
+==== Divers suffixes
+
+// XXX FIXED -- Titul: "Divers sufixes" -> "Divers suffixes" (anglesi)
 
 // -ett {{{4
 ===== -ett
@@ -3395,8 +3401,11 @@ Special property or condition, most similar to English "`-ness`". Examples:
 This is also the suffix used for bombastic titles such as "`your
 Highness`" (*Vor Altesse*).
 
-// Local e colectiv sufixes {{{3
-==== Local e colectiv sufixes
+// Local and collective suffixes {{{3
+==== Local and collective suffixes
+
+// XXX FIXED -- Titul: "Local e colectiv sufixes" -> Local and
+// collective suffixes" (anglesi)
 
 // -ia {{{4
 ===== -ia
@@ -3551,8 +3560,10 @@ A more scientific or specialized grouping of something.
 
 ====
 
-// Setesim letion {{{1
-== Setesim letion
+// Settesim letion {{{1
+== Settesim letion
+
+// XXX FIXED -- "Setesim" -> "Settesim"
 
 // Textus {{{2
 === Textus
@@ -4061,8 +4072,10 @@ Mentioned once in a <<_note_about_nd,note above>>: what is to be done.
 
 ====
 
-// Divers afixes {{{3
-==== Divers afixes
+// Divers affixes {{{3
+==== Divers affixes
+
+// XXX FIXED -- Titul: "Divers afixes" -> "Divers affixes" (anglesi)
 
 Here are some more Latin- or Greek-derived affixes that are seen in
 words in Interlingue and most other western European languages:
@@ -4227,8 +4240,10 @@ Fearing.
 
 ====
 
-// Parol-composition {{{3
-==== Parol-composition
+// Word composition {{{3
+==== Word composition
+
+// XXX FIXED -- Titul: "Parol-composition" -> "Word composition"
 
 Words can be joined together in a variety of ways.
 
@@ -4236,7 +4251,7 @@ Words can be joined together in a variety of ways.
 Without a hyphen: *postcarte*, *manuscrite*. b) With a
 hyphen: *Nord-Europa*, *automobil-garage*
 
-2. With the vowels i or o between
+2. With the vowels "`i`" or "`o`" between
 words: *uniform*, *unilateral*, *centimetre*, *microcosmo*, *aeroplan*.
 
 The imperative of a verb can also be used to join words
@@ -4244,10 +4259,11 @@ together: *portamoné* (a wallet, lit. a carry-money), *parapluvie* (an
 umbrella, lit. a block-rain), *gardarobe* (a wardrobe, lit. a
 guard-robe).
 
-// XXX REMARK -- This title is translated, why?:
+// Word families {{{3
+==== Word families
 
-// Parol-families (word families) {{{3
-==== Parol-families (word families)
+// XXX FIXED -- Titul: "Parol-families (word families)" -> "Word
+// families"
 
 You might have noticed that properly applying the above derivation rules
 almost always produces existing international words with the same
@@ -5301,10 +5317,8 @@ possibil.
 // Explanations {{{2
 === Explanations
 
-// XXX FIXED -- Level hierarchy:
-
-// Syntax {{{2
-=== Syntax
+// Syntax {{{3
+==== Syntax
 
 // XXX FIXED -- "Syntax is Interlingue" -> "Syntax in Interlingue"
 
