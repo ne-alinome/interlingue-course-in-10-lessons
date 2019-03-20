@@ -27,6 +27,7 @@ endif::[]
 
 // :sectnums!:
 
+// About this book {{{1
 == About this book
 
 // XXX FIXED -- "Helsinki" -> "Helsingfors" (beside, Cosmoglotta
@@ -88,12 +89,15 @@ NOTE: The name of Interlingue was "`Occidental`" until 1949.
 
 // :sectnums:
 
+// Unesim letion {{{1
 == Unesim letion
 
 // XXX FIXED -- Texte -> Textus (in all headings)
 
+// Textus {{{2
 === Textus
 
+// Un international congress {{{3
 ==== Un international congress
 
 // XXX FIXED -- "symbol" (old orthography) -> "simbol"
@@ -134,6 +138,7 @@ energic secretarios de social e professional organisationes, e militares
 in gala-uniformes. Ili have portafolias con documentes e actes e
 discusse li actual situation e international aferes.
 
+// Vocabularium {{{4
 ===== Vocabularium
 
 - *afere* = affair               
@@ -169,6 +174,7 @@ discusse li actual situation e international aferes.
 - *visitar* = to visit
 - *unesim* = first
 
+// Li macules in li sole {{{3
 ==== Li macules in li sole
 
 Un yun monaco sede in un turre e observa interessat li sole tra un
@@ -189,6 +195,7 @@ Ma li prior responde tranquilmen:
 fine, e necú il mentiona pri macules in li sole. Tui ocules have
 macules, e ne li sole.`"
 
+// Vocabularium {{{4
 ===== Vocabularium
 
 - *esser* = to be
@@ -214,6 +221,7 @@ macules, e ne li sole.`"
 - *yo ha leet* = I have read
 - *yun monaco* = young monk
 
+// Aforismes {{{3
 ==== Aforismes
 
 [quote,Edison]
@@ -242,6 +250,7 @@ ____
 Grand artistes es li sol riches qui divide lor tot felicie con nos.
 ____
 
+// Vocabularium {{{4
 ===== Vocabularium
 
 - *compane* = companion
@@ -262,6 +271,7 @@ ____
 - *sol* = sole, only
 - *tot* = entire, whole
 
+// Explanation {{{2
 === Explanation
 
 Reading the <<_unesim_letion,first lesson>>, we find that the majority of words in
@@ -285,6 +295,7 @@ learned and mastered with the help of a few rules.
 But it's not just the vocabulary of Interlingue that is natural and easy
 to learn; the grammar is also extremely easy thanks to its regularity.
 
+// Article {{{3
 ==== Article
 
 ====
@@ -299,6 +310,7 @@ article (a/an), and does not decline (change form).
 
 *Li* is the definite article (the), which also does not decline.
 
+// Singular and plural {{{3
 ==== Singular and plural
 
 // XXX FIXED -- "Dictionnarium(s)" -> "Dictionarium(s)"
@@ -319,6 +331,7 @@ article (a/an), and does not decline (change form).
 Plural is formed with an *-s*, *-es* after a consonant. Some consonant
 endings such as "`g`", "`um`", "`c`" only add an *-s* for phonetic reasons.
 
+// Cases {{{3
 ==== Cases
 
 ====
@@ -331,6 +344,7 @@ endings such as "`g`", "`um`", "`c`" only add an *-s* for phonetic reasons.
 For the definite article (the), *a*{nbsp}+ *li* is abbreviated to *al*
 and *de*{nbsp}+ *il* to *del*.
 
+// Adjectives {{{3
 ==== Adjectives
 
 ====
@@ -340,6 +354,7 @@ and *de*{nbsp}+ *il* to *del*.
 
 Adjectives in Interlingue do not decline for gender, number or case.
 
+// Persons {{{3
 ==== Persons
 
 While verbs in English conjugate depending on the person and number,
@@ -358,10 +373,13 @@ they do not in Interlingue.
 | *on have*   | one has           | *on es*   | one is
 |===
 
+// Duesim letion {{{1
 == Duesim letion
 
+// Textus {{{2
 === Textus
 
+// Un dialog {{{3
 ==== Un dialog
 
 Un yun mann promena sur li trottuore de un strada e observa li vive. Il
@@ -410,6 +428,7 @@ and *omnicós*.
 // The original example is confusing, because "that" can be
 // also a pronoun.
 
+// Vocabularium {{{4
 ===== Vocabularium
 
 // XXX FIXED -- Separate "*le strax* = him right away"
@@ -461,6 +480,7 @@ and *omnicós*.
 - *Vos* = you (object)
 - *yer* = yesterday
 
+// Li furtard e li prestro {{{3
 ==== Li furtard e li prestro
 
 Un furtard veni a un prestro por confesser su mult peccas e reciver
@@ -488,6 +508,7 @@ deposit li horloge in su tasca.
 
 "`In tal casu, ples departer in pace. Tui peccas es pardonat.`"
 
+// Vocabularium {{{4
 ===== Vocabularium
 
 // XXX FIXED -- "asked to ask questions" -> "used to ask questions"
@@ -525,6 +546,7 @@ deposit li horloge in su tasca.
 - *to* = it, that
 - *tui* = your (informal)
 
+// Anecdotes {{{3
 ==== Anecdotes
 
 Li persian legates postulat del Spartanes terra e aqua quam signe de
@@ -543,6 +565,7 @@ Il respondet: "`It es un fluide, quel es extraet de lingues de féminas e
 cordies de leones, pro que, quande yo ha trincat vin, yo posse parlar
 sin cessar e combatter mem li diábol.`"
 
+// Vocabularium {{{4
 ===== Vocabularium
 
 - *bocca* = mouth
@@ -568,6 +591,7 @@ sin cessar e combatter mem li diábol.`"
 - *terra e aqua* = earth and water
 - *vin* = wine
 
+// Proverbies {{{3
 ==== Proverbies
 
 - Mannes fa domes, ma féminas fa hemes.
@@ -585,6 +609,7 @@ sin cessar e combatter mem li diábol.`"
 - Mult homes es vocat, ma poc homes es electet.
 - Li sapon es li mesura de bon-esser e cultura del state.
 
+// Vocabularium {{{4
 ===== Vocabularium
 
 - *aure* = gold
@@ -614,8 +639,10 @@ sin cessar e combatter mem li diábol.`"
 - *trovar* = to find
 - *vocar* = to call
 
+// Explanations {{{2
 === Explanations
 
+// Conjugation {{{3
 ==== Conjugation
 
 // XXX FIXED -- "as as" -> "as an"
@@ -652,6 +679,7 @@ have the following four forms:
 
 The other forms are created with the help of auxiliary verbs.
 
+// Active {{{4
 ===== Active
 
 // XXX FIXED -- "vant amar" -> "hant amar"
@@ -685,6 +713,7 @@ way as the English "`please`":
 - *ples venir!* = please come!
 - *veni!* = come!
 
+// Passive {{{4
 ===== Passive
 
 |===
@@ -700,7 +729,8 @@ way as the English "`please`":
 | Present participle | *essent amat*        | being loved
 |===
 
-====== Other forms
+// Other forms {{{5
+======Other forms
 
 1. Using the verb *ear* (to go): *Li dom ea constructet* = the
 house is being built. Using *ear* adds a sense of continuation (the
@@ -722,6 +752,7 @@ Adding *se* to a verb may also give a sense similar to that in
 English: *Yo procurat un libre* = I got a book. *Yo procurat me un
 libre* = I got myself (me) a book.
 
+// Progressive form {{{4
 ===== Progressive form
 
 |===
@@ -744,10 +775,13 @@ It works as an adjective in the same way as in English:
   (from *fatigar*, "`to tire`").
 ====
 
+// Triesim letion {{{1
 == Triesim letion
 
+// Textus {{{2
 === Textus
 
+// Li creation {{{3
 ==== Li creation
 
 In li Bible sta scrit, que Deo ha *creat* li munde.
@@ -760,6 +794,7 @@ Noi ne have *creatori* qualitás, solmen Deo es vermen *creativ*.
 
 Quo il ha creat? Nos e omni altri *creaturas*.
 
+// Vocabularium {{{4
 ===== Vocabularium
 
 - *altri* = other
@@ -773,6 +808,7 @@ Quo il ha creat? Nos e omni altri *creaturas*.
 - *triesim* = third
 - *vermen* = truly
 
+// Un brilliant carriera {{{3
 ==== Un brilliant carriera
 
 Mi fratre have un amico, un ingeniero, qui ha fat un brilliant carriera.
@@ -804,6 +840,7 @@ possession. Quam possessor de grand capitales, il ha fat mult donationes
 in favor a cultural institutiones, e pro to il have li reputation de un
 grand donator e favorisator del scienties e artes.
 
+// Vocabularium {{{4
 ===== Vocabularium
 
 - *anc* = also
@@ -829,6 +866,7 @@ grand donator e favorisator del scienties e artes.
 - *transitori* = transitory
 - *vendir* = to sell
 
+// Li eterni problemas {{{3
 ==== Li eterni problemas
 
 It existe témpores, quande li filosofic speculation sembla haltar in
@@ -865,6 +903,7 @@ un nov era de filosofic speculation, un nov romantica e idealisme, támen
 con plu critic reflection quam li antiqui? Li munde fórsan ne es ancor
 tam senil, quam li profetes de fatiga vole far nos creder.
 
+// Vocabularium {{{4
 ===== Vocabularium
 
 - *abandonar* = to abandon
@@ -914,6 +953,7 @@ tam senil, quam li profetes de fatiga vole far nos creder.
 NOTE: *omni* before a singular means "`each`" (same as *chascun*), while
 before a plural it means "`all`".
 
+// Anecdotes {{{3
 ==== Anecdotes
 
 On questionat li filosof Aristippos de Kyrene, per quo li filosofos
@@ -927,6 +967,7 @@ malades. Esque pro to li malades es plu reputat quam li medicos?`"
 "`Moné,`" il declarat, "`yo prende del riches ne pro que yo besona it, ma
 por que ili mey saver in quel maniere ili posse investir it.`"
 
+// Vocabularium {{{4
 ===== Vocabularium
 
 - *abrogar* = to abrogate, to repeal
@@ -949,11 +990,13 @@ por que ili mey saver in quel maniere ili posse investir it.`"
 - *sam quam* = same as
 - *viver* = to live
 
+// Explanations {{{2
 === Explanations
 
 // XXX FIXED -- Text moved to the following subsection and modified,
 // instead of running into the title. It seems more legible.
 
+// Suffixes -ion, -or, -ori, -iv, -ura {{{3
 ==== Suffixes -ion, -or, -ori, -iv, -ura
 
 We have just seen a large number of expressive international words that
@@ -971,6 +1014,7 @@ Rule.
 
 // XXX FIXED -- "de Wahl's Rule" -> "The de Wahl's Rule"
 
+// The de Wahl's Rule {{{3
 ==== The de Wahl's Rule
 
 First remove the *-r* from a verb, or *-er* for an *-er* verb. What is
@@ -1055,8 +1099,10 @@ verbs *moer* (to move, to budge) and *mover* (to move) would allow
 greater precision while doing away with an irregularity. Thus, the word
 motion is regularly derived from *mo/er* -> *mot-* -> *motion*.
 
+// Meaning of the suffixes {{{3
 ==== Meaning of the suffixes
 
+// -ion {{{4
 ===== -ion
 
 The action, result or location of a verb.
@@ -1067,6 +1113,7 @@ The action, result or location of a verb.
 - *expedition*, from *expedir* (to send, to expedite)
 ====
 
+// -or {{{4
 ===== -or
 
 The acting person, thing or factor of a verb.
@@ -1079,6 +1126,7 @@ The acting person, thing or factor of a verb.
 - *compressor*, from *compresser* (to compress)
 ====
 
+// -ori {{{4
 ===== -ori
 
 Adjective derived from <<_or,*-or*>> above, similar to English
@@ -1104,6 +1152,7 @@ Adjective derived from <<_or,*-or*>> above, similar to English
 
 ====
 
+// -iv {{{4
 ===== -iv
 
 English "`-ive`", forms adjectives that denote an active ability:
@@ -1127,6 +1176,7 @@ English "`-ive`", forms adjectives that denote an active ability:
 
 ====
 
+// -ura {{{4
 ===== -ura
 
 Similar to English "`-ure`". Forms verbal nouns denoting a concrete,
@@ -1197,10 +1247,13 @@ separate entities but knowing how they are derived from verbs gives the
 user of the language a much greater range of options when speaking and
 leads to much less looking up of words in the dictionary.
 
+// Quadresim letion {{{1
 == Quadresim letion
 
+// Textus {{{2
 === Textus
 
+// Li misterie del cratere in Sall {{{3
 ==== Li misterie del cratere in Sall
 
 In fine del septembre mill nin cent duant sett (1927) li conosset
@@ -1237,6 +1290,7 @@ Si li suposition de prof. Wegener es rect, tande li cratere in Sall es
 un unic monument de natura in Europa, e li duesim sur li tot globe de
 terra.
 
+// Vocabularium {{{4
 ===== Vocabularium
 
 - *acter* = to act
@@ -1276,6 +1330,7 @@ terra.
 - *unic* = unique
 - *vicinitá* = vicinity
 
+// Li numerales {{{3
 ==== Li numerales
 
 Li *cardinal* numerales, queles responde al question *"`quant?`"* es:
@@ -1429,6 +1484,7 @@ Li fractiones es:
 
 De 1/5 li fractiones es simil al ordinales.
 
+// Vocabularium {{{4
 ===== Vocabularium
 
 // XXX REMARK -- Ni "in vice de" ni "vice" es usat in ti letion, ma
@@ -1447,6 +1503,7 @@ De 1/5 li fractiones es simil al ordinales.
 - *reciver* = to receive
 - *unité* = unit       
 
+// Li témpore e su division {{{3
 ==== Li témpore e su division
 
 Quel hora es? Quel es li témpore?
@@ -1510,6 +1567,7 @@ In autune flores mori e li fructes es matur.
 In hiverne veni nive e li dies es frigid.
 --
 
+// Vocabularium {{{4
 ===== Vocabularium
 
 - *annu* = year
@@ -1529,6 +1587,7 @@ In hiverne veni nive e li dies es frigid.
 - *semane* = week
 - *verne* = spring
 
+// Aforismes {{{3
 ==== Aforismes
 
 [quote, Bismarck]
@@ -1555,6 +1614,7 @@ ____
 Quo noi nómina accidentie, es li asil del ignorantie.
 ____
 
+// Vocabularium {{{4
 ===== Vocabularium
 
 - *accidentie* = accidence, chance
@@ -1570,6 +1630,7 @@ ____
 - *refusar* = to refuse
 - *veritá* = truth
 
+// Explanation {{{2
 === Explanation
 
 Knowing how to derive words with prefixes and suffixes is of great
@@ -1593,6 +1654,7 @@ are made up.
 We are now going to look at prepositions, which in Interlingue are not
 simply standalone particles but also used to form words.
 
+// Prepositiones {{{3
 ==== Prepositiones
 
 |===
@@ -1640,6 +1702,7 @@ simply standalone particles but also used to form words.
 
 Let's take a look at a few from all of these.
 
+// a {{{4
 ===== a
 
 // XXX FIXED -- "Of." -> "To.":
@@ -1662,6 +1725,7 @@ To. Has many uses:
 
 ====
 
+// ante {{{4
 ===== ante
 
 Means "`before`" in terms of time and place (*avan* only refers to place).
@@ -1671,6 +1735,7 @@ Means "`before`" in terms of time and place (*avan* only refers to place).
 - *Avan li dom* = Before the house
 ====
 
+// caus {{{4
 ===== caus
 
 Because of. The reason for something goes right after *caus*, which is
@@ -1681,6 +1746,7 @@ an abbreviation of the longer *in cause de*.
 - *Caus li politic evenimentes* = Because of the political events.
 ====
 
+// con {{{4
 ===== con
 
 With.
@@ -1696,6 +1762,7 @@ is more common internationally than the English his/her/their. But
 English also uses it sparingly such as in "`look me in the eyes`" (not
 "`look me in my eyes`").
 
+// de {{{4
 ===== de
 
 *De* has a wide usage, and oftentimes other prepositions can be used
@@ -1715,12 +1782,14 @@ in its place.
 
 ====
 
+// desde {{{4
 ===== desde
 
 Since, for.
 
 *Desde du annus* = For two years.
 
+// ex {{{4
 ===== ex
 
 Out (of), from.
@@ -1734,6 +1803,7 @@ Out (of), from.
 
 ====
 
+// per {{{4
 ===== per
 
 By, through, with
@@ -1747,6 +1817,7 @@ By, through, with
 
 ====
 
+// por {{{4
 ===== por
 
 ====
@@ -1757,6 +1828,7 @@ By, through, with
 
 ====
 
+// pri {{{4
 ===== pri
 
 ====
@@ -1766,6 +1838,7 @@ By, through, with
 
 ====
 
+// til {{{4
 ===== til
 
 ====
@@ -1775,12 +1848,14 @@ By, through, with
 
 ====
 
+// tra {{{4
 ===== tra
 
 ====
 - *Yo videt le tra li fenestre* = I saw him through the window.
 ====
 
+// trans {{{4
 ===== trans
 
 ====
@@ -1790,12 +1865,14 @@ By, through, with
 
 ====
 
+// vers {{{4
 ===== vers
 
 ====
 - *Li avie volat vers li sole* = The bird flew towards the sun.
 ====
 
+// Words formed by prepositions {{{3
 ==== Words formed by prepositions
 
 These prepositions are also used to form other words.
@@ -1826,12 +1903,14 @@ These prepositions are also used to form other words.
 
 ====
 
+// Prefixes {{{3
 ==== Prefixes
 
 The following prefixes are only used in compound words.
 
 // XXX FIXED -- "bei-" -> "bel-"
 
+// bel- {{{4
 ===== bel-
 
 Related by marriage.
@@ -1842,6 +1921,7 @@ Related by marriage.
 
 ====
 
+// des- {{{4
 ===== des-
 
 (Usually *de-* before consonants.)
@@ -1862,6 +1942,7 @@ On verbs: loss of something:
 - *desarmar* = to disarm (*armar* = to arm)
 ====
 
+// dis- {{{4
 ===== dis-
 
 Separation, moving away:
@@ -1873,6 +1954,7 @@ Separation, moving away:
 
 ====
 
+// ín- {{{4
 ===== ín-
 
 // XXX FIXED -- "in/un/etc." -> "(in-, un-, etc.)"
@@ -1901,6 +1983,7 @@ Not to be confused with the unstressed preposition *in-*,
 similar to the one in English in words such as *inclusiv*, *inspecter*.
 --
 
+// mis- {{{4
 ===== mis-
 
 Wrong, improper, mis-:
@@ -1912,6 +1995,7 @@ Wrong, improper, mis-:
 
 ====
 
+// pre- {{{4
 ===== pre-
 
 Before, pre-:
@@ -1924,6 +2008,7 @@ Before, pre-:
 
 ====
 
+// pro- {{{4
 ===== pro-
 
 Ahead, forth
@@ -1935,6 +2020,7 @@ Ahead, forth
 
 ====
 
+// re- {{{4
 ===== re-
 
 Again, re-:
@@ -1947,6 +2033,7 @@ Again, re-:
 
 ====
 
+// Which form to use? {{{3
 ==== Which form to use?
 
 When Interlingue was first announced in 1922, Edgar de Wahl proposed a
@@ -1993,10 +2080,13 @@ settled on the form on the right for simplicity, with doubled consonants
 used in the cases mentioned in the beginning of the book ("`ss`" to maintain
 the [s] sound in all cases, "`ch`" for [sh], etc.).
 
+// Quinesim letion {{{1
 == Quinesim letion
 
+// Textus {{{2
 === Textus
 
+// Regress e progress {{{3
 ==== Regress e progress
 
 Etsi it sempre ne es litteralmen ver que it custa torrentes de sangue
@@ -2035,6 +2125,7 @@ un nov intrat – it ha sempre esset talmen, ne existe exceptiones – tande
 li munde ha regardat a retro e erectet monumentes a tis qui pensat, e
 ridet pri tis qui ridet.`"
 
+// Vocabularium {{{4
 ===== Vocabularium
 
 - *acordantie* = accordance
@@ -2096,6 +2187,7 @@ ridet pri tis qui ridet.`"
 - *índiferentie* = indifference
 - *ínjust* = unjust
 
+// Economisation {{{3
 ==== Economisation
 
 Si noi vole economisar moné, noi deve deposir it e ne spoliar it in
@@ -2114,6 +2206,7 @@ directiones.
 
 Channing
 
+// Vocabularium {{{4
 ===== Vocabularium
 
 - *ad-supra* = up
@@ -2133,6 +2226,7 @@ Channing
 - *usar* = to use
 - *vast* = vast
 
+// Li division de labor {{{3
 ==== Li division de labor
 
 Noi ha studiat mult e perfectionat mult, durant li ultim témpore,
@@ -2154,6 +2248,7 @@ Ruskin
 NOTE: *to* is only written with an accent here to show emphasis
 ("`_that_ is never found in our profit calculations`").
 
+// Vocabularium {{{4
 ===== Vocabularium
 
 - *anim* = soul
@@ -2178,6 +2273,7 @@ NOTE: *to* is only written with an accent here to show emphasis
 - *suficent* = sufficient
 - *ultim* = final, recent
 
+// Sofistica {{{3
 ==== Sofistica
 
 // XXX FIXED -- Protagoras -> Protágoras
@@ -2199,6 +2295,7 @@ deve payar.`"
 
 // XXX FIXED -- Markup of "índemiatmen":
 
+// Vocabularium {{{4
 ===== Vocabularium
 
 // XXX FIXED -- "Ancient" -> "ancient"
@@ -2218,6 +2315,7 @@ deve payar.`"
 - *victer* = to win
 - *ínmediatmen* = immediately
 
+// Li max perfect lingue {{{3
 ==== Li max perfect lingue
 
 Un lingue, aprioric e logic, in quel chascun parol vell esser solmen un
@@ -2247,6 +2345,7 @@ tam long quam homes ama li flores del verne ne solmen li sicc folies del
 autune – tam long un lingue aprioric, sin historie e sin metáfores ne
 va esser parlat sur ti ci globe.
 
+// Vocabularium {{{4
 ===== Vocabularium
 
 - *adherer* = to adhere
@@ -2273,6 +2372,7 @@ va esser parlat sur ti ci globe.
 - *superficie* = surface
 - *vicear* = to replace
 
+// Proverbies {{{3
 ==== Proverbies
 
 Honestie es li max bon politica.
@@ -2293,6 +2393,7 @@ De lu sublim a lu comic es sovente solmen un passu.
 Leges es quam li texturas del aranés; li micri moscas es captet, li
 grandes trapassa.
 
+// Vocabularium {{{4
 ===== Vocabularium
 
 - *arané* = spider
@@ -2305,6 +2406,7 @@ grandes trapassa.
 - *texter* = to spin
 - *trapassar* = to pass through
 
+// Li historie {{{3
 ==== Li historie
 
 Per li studia del historie noi percepte li intim conexion, quel existe
@@ -2317,6 +2419,7 @@ tro inclinat regardar lu passat quam alquicos mort, ma it existe ye
 vivent evidentie in nor animas hodie. It opresse nos e stimula nos al
 action, it tirannisa nos e inspira nos a coses plu sublim.
 
+// Vocabularium {{{4
 ===== Vocabularium
 
 - *abiss* = abyss
@@ -2336,6 +2439,7 @@ action, it tirannisa nos e inspira nos a coses plu sublim.
 - *subtil* = subtle
 - *transir* = to transit, to go by
 
+// Aforismes {{{3
 ==== Aforismes
 
 [quote, O. Fehlmann]
@@ -2357,6 +2461,7 @@ Du levul gantes de fa un pare de gantes, du demí veritás ne fa un
 veritá.
 ____
 
+// Vocabularium {{{4
 ===== Vocabularium
 
 - *alcun* = some
@@ -2369,6 +2474,7 @@ ____
 - *repose* = repose
 - *scop-conscient* = goal-conscious
 
+// Explanations {{{2
 === Explanations
 
 Endings for types of words such as nouns, adjectives and the like are no
@@ -2381,6 +2487,7 @@ in Interlingue as in other languages. Some of them are: *firma* (company),
 and particles can end in any vowel or consonant, as long as the word can
 be clearly spoken.
 
+// -e {{{3
 ==== -e
 
 A very common end vowel in Interlingue is *-e*,
@@ -2392,6 +2499,7 @@ consonant before the *-s*: *nation*, *nationes*. It can also play a role in
 distinguishing a noun from an adjective: central (central), centrale
 (headquarters).
 
+// -i {{{3
 ==== -i
 
 // XXX FIXED -- commen -> common
@@ -2410,6 +2518,7 @@ which is also used for pronunciation and distinguishing types of words:
 
 ====
 
+// -o, -a {{{3
 ==== -o, -a
 
 For nouns referring to living creatures, the ending *-o*
@@ -2468,6 +2577,7 @@ no particular noun in mind:
 
 NOTE: *lu* is by far the most often used of the three above.
 
+// -um {{{3
 ==== -um
 
 Finally, the ending *-um*
@@ -2484,6 +2594,7 @@ expresses the general idea of something:
 
 // XXX FIXME -- Translate:
 
+// Comparative forms {{{3
 ==== Comparative forms
 
 Comparative (more, less) and superlative (most, least) adjectives are
@@ -2523,8 +2634,10 @@ exist due to their being part of already existing international words:
 NOTE: *minim* is included here for the sake of completeness even
 though it is part of the regular comparative forms.
 
+// Divers sufixes {{{3
 ==== Divers sufixes
 
+// -ett {{{4
 ===== -ett
 
 The usual diminutive (making smaller) suffix is *-ett*:
@@ -2545,6 +2658,7 @@ The same suffix is used to indicate small tools or instruments.
 Example: *inflammette* = match (from flamme, flame), *tenette* = grip,
 hilt (on a sword, from *tener*, to hold)
 
+// -ach {{{4
 ===== -ach
 
 The usual suffix to make something pejorative is *-ach*:
@@ -2561,6 +2675,7 @@ The usual suffix to make something pejorative is *-ach*:
 Many other expressions can be pejorative on their own: *simiar* also
 means to ape (*simie* = monkey, ape).
 
+// -ar {{{4
 ===== -ar
 
 Verbs are usually formed with the *-ar* suffix, the most commonly used for
@@ -2600,6 +2715,7 @@ The present participle can also be made into verbs:
 
 ====
 
+// -isar {{{4
 ===== -isar
 
 "`To make thus`", "`to make as`", similar to English:
@@ -2627,6 +2743,7 @@ words you already know:
 
 ====
 
+// -ificar {{{4
 ===== -ificar
 
 "`To make into something`", "`to bring towards`" — similar to <<_isar,*-isar*>>
@@ -2651,6 +2768,7 @@ above but slightly different.
 
 ====
 
+// -ijar {{{4
 ===== -ijar
 
 To become. The word itself to become is *devenir*, and *-ijar* is an
@@ -2664,6 +2782,7 @@ alternate way of expressing the idea.
 
 ====
 
+// -ear {{{4
 ===== -ear
 
 This suffix forms verbs that indicate a swinging or repeating motion, or
@@ -2675,6 +2794,7 @@ an intense state of being.
 
 *verdear* = to green (greening fields, verdant forests, etc.)
 
+// Suffixes for verbal nouns {{{3
 ==== Suffixes for verbal nouns
 
 The verbal stem (present tense) can also be used as a verbal noun, which
@@ -2712,6 +2832,7 @@ and supper, precise and accurate, venom and poison, etc.)
 We have already gone over the suffixes <<_ion,*-ion*>> and <<_ura,*-ura*>> in <<_triesim_letion,chapter 3>>.
 Here are some others:
 
+// -ada, -ida {{{4
 ===== -ada, -ida
 
 *-ar* verbs use the *-ada* suffix, *-er* and *-ir* verbs the *-ida* suffix. It
@@ -2727,6 +2848,7 @@ refers to the activity of a verb in its duration.
 
 ====
 
+// -ntie {{{4
 ===== -ntie
 
 More or less equivalent to the English "`-nce`" (designates a
@@ -2743,6 +2865,7 @@ condition in its duration), this is formed from the
 
 ====
 
+// -ment {{{4
 ===== -ment
 
 // XXX FIXED -- full stop:
@@ -2784,6 +2907,7 @@ Some other examples Edgar de Wahl mentioned in Cosmoglotta:
 
 ====
 
+// -age {{{4
 ===== -age
 
 1. The activity of a verb, mainly industrial or professional, its
@@ -2808,10 +2932,13 @@ expenses, etc.:
 - *plumage* = plumage (*plum* = feather, pen)
 ====
 
+// Sixesim letion {{{1
 == Sixesim letion
 
+// Textus {{{2
 === Textus
 
+// Li festivitás ye li ocasion del ottcentenarie del cité capital {{{3
 ==== Li festivitás ye li ocasion del ottcentenarie del cité capital
 
 Ja ante ott horas in li matin li publica comensat barrar li stradas
@@ -2887,6 +3014,7 @@ festa trovat su fine, talmen que li reporteros havet mult a far scrir li
 rapportes al rect témpore, e li redactores e correctores esset occupat
 til li límite. Criticastros comprensibilmen ne esset content.
 
+// Vocabularium {{{4
 ===== Vocabularium
 
 - *alt* = high
@@ -2927,6 +3055,7 @@ til li límite. Criticastros comprensibilmen ne esset content.
 - *veste* = clothing
 - *vitre* = glass
 
+// Un farme in li subtropic landes {{{3
 ==== Un farme in li subtropic landes
 
 Li farmero amabilmen monstrat nos su possessiones. Sur li corte noi
@@ -2982,12 +3111,15 @@ abunda in altri tal ovrerías. Li old forjero con su long albi barbe stat
 apu li incude avan li foyiere con ardent brase illuminant su energic
 facie, un image del old témpore.
 
+// Explanations {{{2
 === Explanations
 
+// Personal suffixes {{{3
 ==== Personal suffixes
 
 The following suffixes create nouns that refer to persons.
 
+// -er- {{{4
 ===== -er-
 
 (From nouns.) Similar to -er in English, refers to a person who is
@@ -3003,6 +3135,7 @@ engaged in a task.
 
 ====
 
+// -ist {{{4
 ===== -ist
 
 (From nouns.) The follower of an -ism, or someone engaged in some sort of
@@ -3023,6 +3156,7 @@ occupation:
 
 ====
 
+// -or {{{4
 ===== -or
 
 (Formed from verbs.) Explained in <<_triesim_letion,lesson 3>>, a simple doer of an action.
@@ -3038,6 +3172,7 @@ Note the following:
 
 ====
 
+// -ario {{{4
 ===== -ario
 
 A person that is characterized through something exterior, such as a
@@ -3053,6 +3188,7 @@ career:
 
 ====
 
+// -on {{{4
 ===== -on
 
 A person characterized by an inner or natural character:
@@ -3076,6 +3212,7 @@ A person characterized by an inner or natural character:
 
 ====
 
+// -ard {{{4
 ===== -ard
 
 A person with a negative or criminal quality:
@@ -3088,6 +3225,7 @@ A person with a negative or criminal quality:
 
 ====
 
+// -astro {{{4
 ===== -astro
 
 Someone unskilled at his or her profession:
@@ -3101,6 +3239,7 @@ Someone unskilled at his or her profession:
 
 ====
 
+// -es- {{{4
 ===== -es-
 
 Resident of a place or someone who originates from it (also as an
@@ -3116,6 +3255,7 @@ adjective):
 
 ====
 
+// -essa {{{4
 ===== -essa
 
 Suffix for females indicating an office or dignified position:
@@ -3133,11 +3273,13 @@ Suffix for females indicating an office or dignified position:
 
 Note that <<_or,*-or*>> drops the "`o`" in this suffix.
 
+// Qualitative suffixes {{{3
 ==== Qualitative suffixes
 
 The following suffixes form many of the nouns referring to the states
 and properties of other words.
 
+// -ie {{{4
 ===== -ie
 
 An abstract state:
@@ -3171,6 +3313,7 @@ It may be used on nouns as well to make them abstract:
 
 ====
 
+// -tá, -té {{{4
 ===== -tá, -té
 
 Quality or character, more or less equivalent to English "`-ty`":
@@ -3200,7 +3343,8 @@ Words that refer to a group of people or things use *-té* instead of
 
 // XXX TODO -- Transalate:
 
-====== -tá or -té?
+// -tá or -té? {{{5
+======-tá or -té?
 
 Besides the above, *-té* is much more limited in scope and any
 doubtful cases are given the *-tá* ending, such as *universitá*
@@ -3212,6 +3356,7 @@ of them (a society is not simply a collection of associates) and thus
 it becomes *societá*. Rule of thumb: when in doubt, it's probably
 *-tá*.
 
+// -ore {{{4
 ===== -ore
 
 1. (from verbs): a state of feeling, activity, temperature, etc.
@@ -3229,6 +3374,7 @@ it becomes *societá*. Rule of thumb: when in doubt, it's probably
 - *grandore* = size (*grand* = large)
 ====
 
+// -esse {{{4
 ===== -esse
 
 Special property or condition, most similar to English "`-ness`". Examples:
@@ -3249,8 +3395,10 @@ Special property or condition, most similar to English "`-ness`". Examples:
 This is also the suffix used for bombastic titles such as "`your
 Highness`" (*Vor Altesse*).
 
+// Local e colectiv sufixes {{{3
 ==== Local e colectiv sufixes
 
+// -ia {{{4
 ===== -ia
 
 A frequent suffix for the names of places and countries:
@@ -3264,6 +3412,7 @@ A frequent suffix for the names of places and countries:
 
 ====
 
+// -atu {{{4
 ===== -atu
 
 A legal, social, or public institution, state, or office (also location,
@@ -3282,6 +3431,7 @@ time, and territory). Often corresponds to English "`-at`" or "`-iat`":
 
 ====
 
+// -eríe {{{4
 ===== -eríe
 
 An occupation and its activities. As -*ería*, it refers to the actual
@@ -3309,6 +3459,7 @@ manifestations, same as in English "`-ery`":
 
 ====
 
+// -iera, -iere, -iero {{{4
 ===== -iera, -iere, -iero
 
 These three are best learned together.
@@ -3349,6 +3500,7 @@ These three are best learned together.
 
 ====
 
+// -uore {{{4
 ===== -uore
 
 A place or device where something is done:
@@ -3362,6 +3514,7 @@ A place or device where something is done:
 
 ====
 
+// -ade {{{4
 ===== -ade
 
 A consecutive, ordered series or certain amount of something:
@@ -3373,6 +3526,7 @@ A consecutive, ordered series or certain amount of something:
 
 ====
 
+// -allia {{{4
 ===== -allia
 
 An unordered or pile of something:
@@ -3384,6 +3538,7 @@ An unordered or pile of something:
 
 ====
 
+// -arium {{{4
 ===== -arium
 
 A more scientific or specialized grouping of something.
@@ -3396,10 +3551,13 @@ A more scientific or specialized grouping of something.
 
 ====
 
+// Setesim letion {{{1
 == Setesim letion
 
+// Textus {{{2
 === Textus
 
+// Li intern veritá {{{3
 ==== Li intern veritá
 
 To quo, secun li opinion de frances e angles letores, distinte Goethe,
@@ -3434,6 +3592,7 @@ cuida, quam fluent, quam brilliant il es...
 
 Emerson
 
+// Vocabularium {{{4
 ===== Vocabularium
 
 - *atinger* = to attain
@@ -3473,6 +3632,7 @@ an adjective it can also take the <<_i,*-i*>> at the end for euphony. The
 above *un veritá explicand* thus means "`a truth to be explained`".
 Another way to say the same would be *un veritá a explicar*.
 
+// Aforismes {{{3
 ==== Aforismes
 
 // XXX FIXED -- "su Due" -> "su Deo"
@@ -3504,6 +3664,7 @@ It esset silent durant un demí seconde. To ne es pensabil ta, u damas es
 present.
 ____
 
+// Vocabularium {{{4
 ===== Vocabularium
 
 - *angule* = angle
@@ -3513,6 +3674,7 @@ ____
 - *siler* = to be silent
 - *spirar* = to breathe
 
+// Li evangelie del labor {{{3
 ==== Li evangelie del labor
 
 It existe du folles in li munde. Li un es li millionario, qui crede, que
@@ -3546,6 +3708,7 @@ espera, e li testimonie pri coses queles ne es visibil.
 
 Henry Ford
 
+// Vocabularium {{{4
 ===== Vocabularium
 
 - *acumular* = to accumulate
@@ -3564,6 +3727,7 @@ Henry Ford
 NOTE: *mani* before a singular means "`many a`", while before a plural
 it means "`many`" (same as *mult*).
 
+// Un lettre {{{3
 ==== Un lettre
 
 Cosmopolis, 12-esim marte 1930.
@@ -3612,6 +3776,7 @@ Vor devoet
 
 Y{dot} Z{dot}
 
+// Vocabularium {{{4
 ===== Vocabularium
 
 - *acustomar* = to accustom
@@ -3629,20 +3794,24 @@ Y{dot} Z{dot}
 - *sparro* = sparrow
 - *suposir* = to suppose
 
+// Explanations {{{2
 === Explanations
 
 // XXX FIXED -- Hierarchy:
 
+// Adjectival suffixes {{{3
 ==== Adjectival suffixes
 
 The three most used adjectival suffixes are:
 
+// -al {{{4
 ===== -al
 
 A general suffix showing a relationship or dependency: *national* from
 *nation*, *central* from *centre*, *diferential* from *diferentie*,
 etc.
 
+// -ic {{{4
 ===== -ic
 
 Being so, possessing properties of the word:
@@ -3669,6 +3838,7 @@ the "`s`" into a "`-t`" ("`xe`" also counts as it is pronounced "`cse`"). Thus:
 
 From the adjective <<_ic,*-ic*>> we derive nouns with:
 
+// -ica and -ico {{{4
 ===== -ica and -ico
 
 *-ica* refers to the name of the science or art in general, and
@@ -3692,6 +3862,7 @@ does not necessarily denote a male.
 
 ====
 
+// What about *-ical*? {{{4
 ===== What about *-ical*?
 
 Generally, it is a good idea to resist the urge to express every "`-ical`"
@@ -3720,6 +3891,7 @@ On a related note, beware of words where English is the odd man out such
 as *energic* (energetic) where only English has the added "`-et-`" in the
 middle.
 
+// -aci {{{4
 ===== -aci
 
 Tending to (similar to English "`-acious`"):
@@ -3732,6 +3904,7 @@ Tending to (similar to English "`-acious`"):
 
 ====
 
+// -an {{{4
 ===== -an
 
 Belonging to (often made into nouns with *-ano*, *-ana*, *-ane*):
@@ -3743,6 +3916,7 @@ Belonging to (often made into nouns with *-ano*, *-ana*, *-ane*):
 
 ====
 
+// -ari {{{4
 ===== -ari
 
 According to, fitting, belonging to (English "`-ar`"):
@@ -3754,6 +3928,7 @@ According to, fitting, belonging to (English "`-ar`"):
 
 ====
 
+// -at {{{4
 ===== -at
 
 (On nouns.) Provided with something:
@@ -3765,6 +3940,7 @@ According to, fitting, belonging to (English "`-ar`"):
 
 ====
 
+// -ut {{{4
 ===== -ut
 
 Very rich in, exuberant:
@@ -3777,6 +3953,7 @@ Very rich in, exuberant:
 
 ====
 
+// -atri {{{4
 ===== -atri
 
 A resemblance but not entirely of the same quality (similar to English
@@ -3789,6 +3966,7 @@ A resemblance but not entirely of the same quality (similar to English
 
 ====
 
+// -esc {{{4
 ===== -esc
 
 (Of people.) Similar to, possessing similar qualities to (similar to
@@ -3801,6 +3979,7 @@ English "`-esque`")
 
 ====
 
+// -bil {{{4
 ===== -bil
 
 (Transitive verbs): what can be done (transitive verbs) what one can do.
@@ -3822,6 +4001,7 @@ English "`-esque`")
 
 ====
 
+// -in {{{4
 ===== -in
 
 Denotes ancestry, origin:
@@ -3834,6 +4014,7 @@ Denotes ancestry, origin:
 
 ====
 
+// -osi {{{4
 ===== -osi
 
 Rich in, full of:
@@ -3854,6 +4035,7 @@ This finishes up the main suffixes seen in Interlingue for forming new
 words. On top of this are many other much less productive affixes that
 show up from time to time and are worth noting:
 
+// -id {{{4
 ===== -id
 
 having the qualities of a verb:
@@ -3865,6 +4047,7 @@ having the qualities of a verb:
 
 ====
 
+// -nd {{{4
 ===== -nd
 
 Mentioned once in a <<_note_about_nd,note above>>: what is to be done.
@@ -3878,11 +4061,13 @@ Mentioned once in a <<_note_about_nd,note above>>: what is to be done.
 
 ====
 
+// Divers afixes {{{3
 ==== Divers afixes
 
 Here are some more Latin- or Greek-derived affixes that are seen in
 words in Interlingue and most other western European languages:
 
+// anti- {{{4
 ===== anti-
 
 Against.
@@ -3895,6 +4080,7 @@ Against.
 
 ====
 
+// arch(i)- {{{4
 ===== arch(i)-
 
 Highest, over-.
@@ -3908,6 +4094,7 @@ Highest, over-.
 
 ====
 
+// auto- {{{4
 ===== auto-
 
 Auto, self.
@@ -3918,12 +4105,14 @@ Auto, self.
 
 ====
 
+// non- {{{4
 ===== non-
 
 Non.
 
 *non-agression, nonsense*
 
+// pan- {{{4
 ===== pan-
 
 Pan-.
@@ -3934,6 +4123,7 @@ Pan-.
 
 ====
 
+// proto- {{{4
 ===== proto-
 
 Proto.
@@ -3944,6 +4134,7 @@ Proto.
 
 ====
 
+// pseudo- {{{4
 ===== pseudo-
 
 Pseudo, false (note: "`p`" is not silent!)
@@ -3955,6 +4146,7 @@ Pseudo, false (note: "`p`" is not silent!)
 
 ====
 
+// semi-, hemi- {{{4
 ===== semi-, hemi-
 
 Half.
@@ -3965,6 +4157,7 @@ Half.
 
 ====
 
+// tele- {{{4
 ===== tele-
 
 Tele-, far.
@@ -3975,6 +4168,7 @@ Tele-, far.
 
 ====
 
+// -cide {{{4
 ===== -cide
 
 Killer of.
@@ -3986,6 +4180,7 @@ Killer of.
 
 ====
 
+// -fer {{{4
 ===== -fer
 
 Bringing, bearing.
@@ -3999,6 +4194,7 @@ Bringing, bearing.
 
 ====
 
+// -file {{{4
 ===== -file
 
 -phile, loving.
@@ -4009,6 +4205,7 @@ Bringing, bearing.
 
 ====
 
+// -fobe {{{4
 ===== -fobe
 
 Fearing.
@@ -4019,6 +4216,7 @@ Fearing.
 
 ====
 
+// -oide {{{4
 ===== -oide
 
 -oid, resembling.
@@ -4029,6 +4227,7 @@ Fearing.
 
 ====
 
+// Parol-composition {{{3
 ==== Parol-composition
 
 Words can be joined together in a variety of ways.
@@ -4047,6 +4246,7 @@ guard-robe).
 
 // XXX REMARK -- This title is translated, why?:
 
+// Parol-families (word families) {{{3
 ==== Parol-families (word families)
 
 You might have noticed that properly applying the above derivation rules
@@ -4096,10 +4296,13 @@ related to star: *constituer, constitution, instituer, institute,
 institution, institutor, restituer, restitution, substituer, substitute,
 substitution*,
 
+// Ottesim letion {{{1
 == Ottesim letion
 
+// Textus {{{2
 === Textus
 
+// Un somnie {{{3
 ==== Un somnie
 
 // XXX FIXED -- nested quotes: double for the telling, single for the
@@ -4117,6 +4320,7 @@ frigid o calid?`' – '`Calid,`' yo respondet. E su Sanctitá departet por
 aportar li trincage, ma il esset absent tro long e interim yo avigilat
 me. Quam yo nu repente, que yo ne hat petit le dar me it frigid.`"
 
+// Vocabularium {{{4
 ===== Vocabularium
 
 - *apen* = hardly, barely, just as
@@ -4135,6 +4339,7 @@ me. Quam yo nu repente, que yo ne hat petit le dar me it frigid.`"
 - *tappar* = to tap, to knock
 - *trincage* = a drink
 
+// Aforismes {{{3
 ==== Aforismes
 
 // XXX FIXED --
@@ -4173,6 +4378,7 @@ comensa strax parlar pri se self.
 
 Otto Weiss
 
+// Vocabularium {{{4
 ===== Vocabularium
 
 - *abominabil* = abominable
@@ -4185,6 +4391,7 @@ Otto Weiss
 - *tacer* = to be silent
 - *ínprudent* = imprudent, careless
 
+// Bon respondet {{{3
 ==== Bon respondet
 
 "`Ples pardonar me, Senior,`" dit un tre seriosi aparent mann a un jolli
@@ -4213,6 +4420,7 @@ ci a levul.`"
 
 NOTE: *li mi, li vor* etc. is also used.
 
+// Vocabularium {{{4
 ===== Vocabularium
 
 - *a levul* = on the left
@@ -4220,6 +4428,7 @@ NOTE: *li mi, li vor* etc. is also used.
 - *jolli* = jolly
 - *seriosi* = serious 
 
+// Aforismes {{{3
 ==== Aforismes
 
 [quote, Montaigne]
@@ -4278,6 +4487,7 @@ Un solari sistema es solmen un punctuat profil del mundan genie, ma un
 homan ocul es li miniatura del solari sistema.
 ____
 
+// Vocabularium {{{4
 ===== Vocabularium
 
 - *animale* = animal
@@ -4289,6 +4499,7 @@ ____
 - *puella* = girl
 - *ásino* = donkey, ass
 
+// Iguanodon {{{3
 ==== Iguanodon
 
 Durant mi viage a Stockholm yo visitat anc li natur-historic muséo e yo
@@ -4304,6 +4515,7 @@ iguanodon, ma bentost il esset un modest micri hom apu li colossal
 animale. Un dama regardat li gigant e dit: "`It es ínpossibil. Etsi un
 tal animal ha vivet, qualmen on posse saver su nómine?`"
 
+// Vocabularium {{{4
 ===== Vocabularium
 
 - *animale* = animal
@@ -4315,13 +4527,16 @@ tal animal ha vivet, qualmen on posse saver su nómine?`"
 - *superar* = to surpass
 - *viage* = journey
 
+// Explanations {{{2
 === Explanations
 
+// Pronouns {{{3
 ==== Pronouns
 
 In the preceding texts we have become very familiar with many of the
 pronouns in Interlingue. Let's look at them as a whole.
 
+// Personal pronouns {{{4
 ===== Personal pronouns
 
 // XXX FIXED -- formar -> formal
@@ -4335,6 +4550,7 @@ pronouns in Interlingue. Let's look at them as a whole.
 - *it, it* = it, it
 - *ili, les* = they, them
 
+// Possessive pronouns {{{4
 ===== Possessive pronouns
 
 - *mi* = my
@@ -4377,6 +4593,7 @@ one form over the other is tough to say: even English has yet to do so
 in cases such as "`You are taller than _me_`" (than{nbsp}+ pronoun)
 vs. "`You are taller than _I_`" (short for "`than I am`").
 
+// Demonstrative and determinative pronouns {{{4
 ===== Demonstrative and determinative pronouns
 
 - *ti* = this, that
@@ -4460,6 +4677,7 @@ NOTE: Sometimes users of Interlingue do not bother to pluralize *quel*:
 of those words that looks more proper when used but not outright
 deserving of a correction when not.
 
+// Various other pronouns {{{4
 ===== Various other pronouns
 
 Note that many of these are simply formed by prefixing *al-*, *ne-*,
@@ -4558,10 +4776,13 @@ Examples:
 
 ====
 
+// Ninesim letion {{{1
 == Ninesim letion
 
+// Textus {{{2
 === Textus
 
+// Un parol — un novelle {{{3
 ==== Un parol — un novelle
 
 // XXX TODO -- Consultar notatation in Interlingue:
@@ -4592,6 +4813,7 @@ unesim conosset form e sense del parol, che li etimon. Li historie de un
 parol es un micri novelle, un excerpte ex un immensimen grand libre: li
 Historie del Homanité.
 
+// Vocabularium {{{4
 ===== Vocabularium
 
 - *concerner* = to concern
@@ -4605,6 +4827,7 @@ Historie del Homanité.
 - *lontan* = far
 - *pruntar* = to borrow
 
+// Li grand idés {{{3
 ==== Li grand idés
 
 To quo es necessi por elevar li spíritu, ne es to, que un hom save
@@ -4625,6 +4848,7 @@ energie ne ha flammat quam vivent foyes in su anima?
 
 Channing
 
+// Vocabularium {{{4
 ===== Vocabularium
 
 - *bravitá* = bravery
@@ -4634,6 +4858,7 @@ Channing
 - *larg* = broad, wide
 - *terminar* = to end
 
+// Anecdotes {{{3
 ==== Anecdotes
 
 // XXX REMARK -- 2019-03-20: Por leibilitá, it esset necessi separar
@@ -4644,6 +4869,7 @@ Channing
 // Asciidoctor.  Finalmen, titoles ha esset adjuntent a ambi
 // anecdotes.
 
+// Li question {{{4
 ===== Li question
 
 Du yun juristes, Miller e Brun, visitat sovente li sam yun dama. Un
@@ -4660,12 +4886,14 @@ tendrimen: "`Yes, yo pensa que yo posse, Arnold.`"
 "`Bon,`" dit Miller, "`it es Brun, qui intente emigrar e desira un sponsa,
 yo va mentionar to a il.`"
 
+// Teophrástos dit {{{4
 ===== Teophrástos dit
 
 A un yun mann, qui sedet silent in un companie, Teophrástos, li famos
 grec filosof, dit: "`Si Vu es folli, Vu acte sagimen; si Vu es sagi, Vu
 acte follimen.`"
 
+// Vocabularium {{{4
 ===== Vocabularium
 
 - *ambi* = both
@@ -4684,6 +4912,7 @@ acte follimen.`"
 - *subitmen* = suddenly
 - *tendri* = tender
 
+// Aforismes {{{3
 ==== Aforismes
 
 ____
@@ -4716,6 +4945,7 @@ de un fals teorie, ma ili defende se per omni forties, si on vole denove
 extraer it.
 ____
 
+// Explanations {{{2
 === Explanations
 
 From adjectives we can create adverbs by adding the ending *-men*. This
@@ -4844,6 +5074,7 @@ Some more examples showing their function?
 
 ====
 
+// Conjunctions {{{3
 ==== Conjunctions
 
 The most frequently used conjunctions are:
@@ -4922,10 +5153,13 @@ difference:
 
 ====
 
+// Decesim letion {{{1
 == Decesim letion
 
+// Textus {{{2
 === Textus
 
+// "`In comensa esset li parol`" {{{3
 ==== "`In comensa esset li parol`"
 
 // XXX FIXED -- nested quotes
@@ -4960,6 +5194,7 @@ lingue da nos li fundament e li unesim base de omni cultura.
 
 Güntert
 
+// Li mult lingues de Europa {{{3
 ==== Li mult lingues de Europa
 
 // XXX FIXED -- Parisano -> parisano
@@ -5063,10 +5298,12 @@ possibil.
 
 (Secun A. Meillet, professore de Collège de France.)
 
+// Explanations {{{2
 === Explanations
 
 // XXX FIXED -- Level hierarchy:
 
+// Syntax {{{2
 === Syntax
 
 // XXX FIXED -- "Syntax is Interlingue" -> "Syntax in Interlingue"
