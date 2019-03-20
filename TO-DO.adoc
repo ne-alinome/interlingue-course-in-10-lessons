@@ -9,8 +9,6 @@
   into PDF. Beside, `:sectnum:` makes asciidoctor-pdf add "Chapter X"
   before the text of level-1 headings. Automatic numbering is
   deactivated.
-- Decide about titles in English and Interlingue: homogenize or
-  markup.
 - Add note about accent of "deci" in compounds, from the German
   version.
 - Consult "brilliant", "carriera", "detalli-", "satellite",
