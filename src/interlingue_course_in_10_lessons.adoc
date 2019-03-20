@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.42+20190320
+:revnumber: 0.1.0-pre.43+20190320
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -21,7 +21,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903191843
+// Last modified 201903202205
 
 :dot: .
 
@@ -3682,7 +3682,7 @@ ____
 - *calambure* = wordplay, pun
 - *loc* = place
 - *sagie* = sage
-- *siler* = to be silent
+- *siler* = to be silent (to make no sound)
 - *spirar* = to breathe
 
 // Li evangelie del labor {{{3
@@ -4404,7 +4404,7 @@ Otto Weiss
 - *fanfaronar* = to boast, to talk up
 - *injurie* = injury, insult
 - *mani* = many a
-- *tacer* = to be silent
+- *tacer* = to be silent (to say nothing)
 - *ínprudent* = imprudent, careless
 
 // Bon respondet {{{3
