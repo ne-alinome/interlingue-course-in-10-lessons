@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.40+20190319
+:revnumber: 0.1.0-pre.41+20190320
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -1430,6 +1430,9 @@ Li fractiones es:
 De 1/5 li fractiones es simil al ordinales.
 
 ===== Vocabularium
+
+// XXX REMARK -- Ni "in vice de" ni "vice" es usat in ti letion, ma
+// solmen in ti vocabularium:
 
 - *adjunter* = to add to
 - *colecter* = to collect
@@ -4633,6 +4636,16 @@ Channing
 
 ==== Anecdotes
 
+// XXX REMARK -- 2019-03-20: Por leibilitá, it esset necessi separar
+// ambi anectodes, ma un simplic marca de linea (equivalent a `<hr/>`
+// de HTML) ne esset traductet ex Asciidoctor ad-in DocBook, ergo anc
+// ne ad-in EPUB (nam it es un marca visual, ne semantic).  Li linea
+// esset videbli solmen in PDF, nam ti ci es creat directmen ex
+// Asciidoctor.  Finalmen, titoles ha esset adjuntent a ambi
+// anecdotes.
+
+===== Li question
+
 Du yun juristes, Miller e Brun, visitat sovente li sam yun dama. Un
 véspere Miller esset sol con ella. Il dit in tendri ton:
 
@@ -4647,7 +4660,7 @@ tendrimen: "`Yes, yo pensa que yo posse, Arnold.`"
 "`Bon,`" dit Miller, "`it es Brun, qui intente emigrar e desira un sponsa,
 yo va mentionar to a il.`"
 
-'''
+===== Teophrástos dit
 
 A un yun mann, qui sedet silent in un companie, Teophrástos, li famos
 grec filosof, dit: "`Si Vu es folli, Vu acte sagimen; si Vu es sagi, Vu

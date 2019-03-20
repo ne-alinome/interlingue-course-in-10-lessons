@@ -1,6 +1,6 @@
 = TO-DO of _Interlingue Course in 10 Lessons_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-03-17
+:revdate: 2019-03-20
 
 - Confirm year of the wiki version.
 - Add quotes to example terms in English explanations.
@@ -13,7 +13,6 @@
   markup.
 - Add note about accent of "deci" in compounds, from the German
   version.
-- Separate "A un yun mann...". The horizontal rules are not preserved
-  in DocBook.
 - Consult "brilliant", "carriera", "detalli-", "satellite",
   "svimm-"...
+- Complete translations of "tacer" e "siler".
