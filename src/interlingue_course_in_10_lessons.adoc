@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.43+20190320
+:revnumber: 0.1.0-pre.44+20190321
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -39,8 +39,8 @@ Original title in German:: Okzidental-Kursus in 10 Lektionen.
 
 Original publisher:: Occidental-Buró Berlin, 1929.
 
-Transcription of the original contents:: Anonymous, 2006. Available in
-http://interlingue.narod.ru/[interlingue.narod.ru] and
+Transcription of the original contents:: Thomas Schmidt, 2006.
+Available in http://interlingue.narod.ru/[interlingue.narod.ru] and
 http://ie-munde.com[ie-munde.com].
 
 English translation, orthographic modernization and new additions::
@@ -64,9 +64,9 @@ Main changes in this edition::
 - For easier consulting, vocabulary tables have been converted to
   alphabetic lists, and the notation has been homogenized.
 
-Some changes and improvements are unfinished yet. See the
-http://github.com/ne-alinome/interlingue-course-in-10-lessons/blob/master/TO-DO.adoc[to-do
-list in the project repository] for details.
+// Some changes and improvements are unfinished yet. See the
+// http://github.com/ne-alinome/interlingue-course-in-10-lessons/blob/master/TO-DO.adoc[to-do
+// list in the project repository] for details.
 
 Edition made only by libre programs:: 
 http://asciidoctor.org[Asciidoctor],
