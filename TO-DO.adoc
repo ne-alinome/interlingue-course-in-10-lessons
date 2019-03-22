@@ -11,10 +11,9 @@
 - Consult "brilliant", "carriera", "detalli-", "satellite",
   "svimm-"...
 - "-ería" is missing (also in the german original). It's only
-  mentioned in "-eríe".
-- Fix: tre unordered lists in the example blocks of "-age" are
-  rendered as ordered lists in EPUB (epub2db). They are ok in PDF. Try
-  `*` markups.
+  mentioned in "-eríe". Meanwhile "barbería" links there.
+- The unordered lists in the example blocks of "-age" are rendered as
+  ordered lists in EPUB (epub2db) by one reader, but they are rendered
+  ok by other readers. They are ok also in PDF.
 - "-issim" is missing.
 - Add a note about the PDF size.
-- Fix "barbería" and its link.

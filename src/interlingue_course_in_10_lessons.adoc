@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.50+20190322
+:revnumber: 0.1.0-pre.51+20190322
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -21,7 +21,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903221812
+// Last modified 201903221822
 
 :dot: .
 
@@ -2596,7 +2596,7 @@ ending):
 In many other words the *-o* ending is used for a specific item, while *-a*
 refers to something in a more collective sense, a location or
 time. <<_iero,*rosiero*>> = rose bush, <<_iera,*rosiera*>> = rose
-garden, <<_ia,*barberia*>> =
+garden, <<_eríe,*barbería*>> =
 barbershop, *auditoria* = auditorium, *imperia* = empire, etc.
 
 Substantival (noun) adjectives may be used as nouns:
