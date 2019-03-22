@@ -1,10 +1,19 @@
 = Interlingue Course in 10 Lessons
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-03-19
+:revdate: 2019-03-22
 :toc:
 :toc-title: Contents/Contenete
 
-// Last modified 201903191837
+// This file is part of project
+// _Interlingue Course in 10 Lessons_
+//
+// by Marcos Cruz (programandala.net)
+// http://ne.alinome.net
+//
+// This file is in Asciidoctor format
+// (http//asciidoctor.org)
+//
+// Last modified 201903221915
 
 == English
 
@@ -13,7 +22,7 @@
 Goal:: Make an e-book version of _Occidental Course in 10 Lessons_,
 the English version of _Okzidental-Kursus in 10 Lektionen_ (by Mag.
 phil. A.Z. Ramstedt, 1929), translated into English, updated and
-edited by Dave McLeod in 2019 in
+edited by Dave McLeod in 2018-2019 in
 http://cosmoglotta.pbworks.com[cosmoglotta.pbworks.com].
 
 Author:: Marcos Cruz, 2019.
@@ -54,6 +63,36 @@ follows:
 
 The documents are built in the <target> directory.
 
+=== Names of the target files
+
+When all target files are built (as included in the GitHub releases and in the
+corresponding archives downloadable from
+http://ne.alinome.net[ne.alinome.net]), the contents of the <target> directory
+are the following:
+
+- interlingue_course_in_10_lessons.adoc.a4.pdf
+- interlingue_course_in_10_lessons.adoc.letter.pdf
+- interlingue_course_in_10_lessons.adoc.plain.html
+- interlingue_course_in_10_lessons.adoc.stylish.html
+- interlingue_course_in_10_lessons.adoc.xml
+- interlingue_course_in_10_lessons.adoc.xml.dbtoepub.epub
+- interlingue_course_in_10_lessons.adoc.xml.pandoc.body.html
+- interlingue_course_in_10_lessons.adoc.xml.pandoc.complete.html
+- interlingue_course_in_10_lessons.adoc.xml.pandoc.epub
+- interlingue_course_in_10_lessons.adoc.xml.pandoc.odt
+- interlingue_course_in_10_lessons.adoc.xml.xsltproc.epub
+
+The names are self-explanatory: They indicate the format conversion process
+from the http://asciidoctor.org[Asciidoctor] source document, the converters
+used and the style or size variants of the final formats (PDF, HTML, DocBook,
+EPUB and OpenDocument). Beside, this naming convention prevents name clashes in
+the future, if more tools of formats are added to the project.
+
+NOTE: Three converters are used to build the EPUB files. Those built by
+dbtoepub and xsltproc are virtually identical, but both of them are included
+just in case. Perhaps some of the three variants gives better results on your
+reader.
+
 == Interlingue
 
 === Pri ti projecte
@@ -61,7 +100,7 @@ The documents are built in the <target> directory.
 Scope:: Crear un libre digital de _Occidental Course in 10 Lessons_,
 li anglesi version de _Okzidental-Kursus in 10 Lektionen_ (de Mag.
 phil. A.Z. Ramstedt, 1929), traductet ad-in anglesi, actualisat e
-redactet de Dave McLeod in 2019 in
+redactet de Dave McLeod in 2018-2019 in
 http://cosmoglotta.pbworks.com[cosmoglotta.pbworks.com].
 
 Autor:: Marcos Cruz, 2019.
@@ -70,11 +109,11 @@ Web-loc:: http://ne.alinome.net[ne.alinome.net].
 
 === Qualmen constructer li libre
 
-Si vu ne posse atender li liberation de li sequente version, vu self
+Si Vu ne posse atender li liberation de li sequente version, Vu self
 posse constructer li libre-documentes.
 
-In prim, ples confirmar que li programes listat in li section
-"Requirements" (besones) del document <Makefile> es instalat in vor
+In prim, ples confirmar que li programas listat in li section
+"Requirements" (besones) del document <Makefile> es instalat in Vor
 sistema.
 
 Tande ples intrar li documentiere del projecte e comandar `make` secun
@@ -101,4 +140,39 @@ ti exemples:
 | make xml            | Constructer li formate DocBook
 |===
 
-Li documentes es creat in li documentiere <target> (scope).
+Li documentes es creat in li documentiere <target>.
+
+=== Nómines del documentes final
+
+When all target files are built (in the GitHub releases or in the corresponding
+archives downloadable from http://ne.alinome.net[ne.alinome.net]), the contents
+of the <target> directory are the following:
+
+Quande omni documentes final es constructet (talmen anc contenet in e li
+liberaturas che GitHub e li archives descargabil ex
+http://ne.alinome.net[ne.alinome.net]), li contenete del documentiere <target>
+es ti:
+
+- interlingue_course_in_10_lessons.adoc.a4.pdf
+- interlingue_course_in_10_lessons.adoc.letter.pdf
+- interlingue_course_in_10_lessons.adoc.plain.html
+- interlingue_course_in_10_lessons.adoc.stylish.html
+- interlingue_course_in_10_lessons.adoc.xml
+- interlingue_course_in_10_lessons.adoc.xml.dbtoepub.epub
+- interlingue_course_in_10_lessons.adoc.xml.pandoc.body.html
+- interlingue_course_in_10_lessons.adoc.xml.pandoc.complete.html
+- interlingue_course_in_10_lessons.adoc.xml.pandoc.epub
+- interlingue_course_in_10_lessons.adoc.xml.pandoc.odt
+- interlingue_course_in_10_lessons.adoc.xml.xsltproc.epub
+
+Li nómines es self-explicatori: Ili indica li operation de conversion de
+formates ex li documente fontal de http://asciidoctor.org[Asciidoctor], li
+convertores usat e li variantes de stil o grandore por li formates final (PDF,
+HTML, DocBook, EPUB e OpenDocument). Ultra to, ti convention nominal prevente
+futur colisiones de nómines, si plu convertores vel esser adjuntet al projecte.
+
+NOTE: Tri convertores es usat por constructer li documentes EPUB. Tis
+constructet per dbtoepub e xsltproc es virtualmen identic, ma ambi es includet
+por possibil beson. Fórsan alcun ex li tri variantes functiona plu bon in Vor
+libre-letor.
+
