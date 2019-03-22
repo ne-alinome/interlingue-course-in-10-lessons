@@ -8,12 +8,11 @@
   into PDF. Beside, `:sectnum:` makes asciidoctor-pdf add "Chapter X"
   before the text of level-1 headings. That's why automatic numbering
   was deactivated.
-- Consult "brilliant", "carriera", "detalli-", "satellite",
-  "svimm-"...
 - "-ería" is missing (also in the german original). It's only
   mentioned in "-eríe". Meanwhile "barbería" links there.
-- The unordered lists in the example blocks of "-age" are rendered as
-  ordered lists in EPUB (epub2db) by one reader, but they are rendered
-  ok by other readers. They are ok also in PDF.
-- "-issim" is missing.
+- Note: The unordered lists in the example blocks of "-age" are
+  rendered as ordered lists in EPUB (epub2db) by one reader, but they
+  are rendered ok by other readers. They are ok also in PDF.
+- "-issim" is missing (also in the german original).
 - Add a note about the PDF size.
+- Check what suffixes are missing.
