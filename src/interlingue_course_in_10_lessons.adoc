@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.46+20190322
+:revnumber: 0.1.0-pre.47+20190322
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -21,7 +21,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903221542
+// Last modified 201903221606
 
 :dot: .
 
@@ -704,16 +704,16 @@ The other forms are created with the help of auxiliary verbs.
 *har* resembles *haver* (to have) but is used for verb conjugation,
 while *haver* only refers to the verb "`to have`":
   
-- *yo ha venit* = I have come
-- *il ha esset* = he has been
-- *noi hat curret* = we had run
-- *il hat cadet* = he had fallen
+- *Yo ha venit.* = I have come.
+- *Il ha esset.* = He has been.
+- *Noi hat curret.* = We had run.
+- *Il hat cadet.* = He had fallen.
 
-*ples* in *ples amar* adds politeness to the imperative, in the same
+*Ples* in *ples amar* adds politeness to the imperative, in the same
 way as the English "`please`":
 
-- *ples venir!* = please come!
-- *veni!* = come!
+- *Ples venir!* = Please come!
+- *Veni!* = Come!
 
 // Passive {{{4
 ===== Passive
@@ -734,25 +734,25 @@ way as the English "`please`":
 // Other forms {{{5
 ====== Other forms
 
-1. Using the verb *ear* (to go): *Li dom ea constructet* = the
+1. Using the verb *ear* (to go): *Li dom ea constructet.* = The
 house is being built. Using *ear* adds a sense of continuation (the
-construction is going on). *Li libre eat printat* = the book was being
+construction is going on). *Li libre eat printat.* = The book was being
 printed.
 
-2. Using the verb *star* (to stand): *Li dom sta constructet* =
-the house is built. Using star adds a sense of finality (the house
-"`stands`" built). *Li libre stat printat* = the book was printed (the
+2. Using the verb *star* (to stand): *Li dom sta constructet.* =
+The house is built. Using star adds a sense of finality (the house
+"`stands`" built). *Li libre stat printat.* = The book was printed (the
 book's printing was all done).
 
 3. Using *se* after a verb to make it passive or reflexive (to
-make it refer to itself). *Li jurnal printa se rapidmen* = The magazine
+make it refer to itself). *Li jurnal printa se rapidmen.* = The magazine
 is being quickly printed (the magazine "`prints itself`" quickly). *Li
-cose explica se simplicmen* = It's easy to understand ("`the thing
+cose explica se simplicmen.* = It's easy to understand ("`the thing
 explains itself simply`"). *Yo nómina le Brian* = I call him Brian. *Il
 nómina se Brian* = His name is Brian ("`He calls himself Brian`").
 Adding *se* to a verb may also give a sense similar to that in
-English: *Yo procurat un libre* = I got a book. *Yo procurat me un
-libre* = I got myself (me) a book.
+English: *Yo procurat un libre.* = I got a book. *Yo procurat me un
+libre.* = I got myself (me) a book.
 
 // Progressive form {{{4
 ===== Progressive form
@@ -1542,7 +1542,7 @@ replaced by *hora* during the 1940s but seems to have remained popular
 and has a bit of a slangy feel. *Ye clocca du = a du horas*.
 
 While we are on the subject, the same has happened with the
-word *flicca* (girl, from Swedish _flicka_), which was changed
+word *flicca* ("`girl`", from Swedish _flicka_), which was changed
 to *puella* a long time ago. Now *flicca* has a similar feel to
 English "`gal`" or "`chick`".
 --
@@ -1719,14 +1719,14 @@ To. Has many uses:
 
 ====
 
-- *Il dat li flores a su amata* = He gave the flowers to his
+- *Il dat li flores a su amata.* = He gave the flowers to his
   girlfriend.
-- *Un epistul a nor societé* = A letter to our society (note: society
+- *Un epistul a nor societé.* = A letter to our society (note: society
   as in a group or company).
-- *Yo viagea a Berlin* = I travel to Berlin.
-- *Li vapornave ea a Lisbon* = The steamboat goes to Lisbon.
-- *Clar a departer* = Ready (clear) to depart.
-- *Un error a regretar* = A regretful error (lit. an error to
+- *Yo viagea a Berlin.* = I travel to Berlin.
+- *Li vapornave ea a Lisbon.* = The steamboat goes to Lisbon.
+- *Clar a departer.* = Ready (clear) to depart.
+- *Un error a regretar.* = A regretful error (lit. an error to
   regret).
 
 ====
@@ -1737,8 +1737,8 @@ To. Has many uses:
 Means "`before`" in terms of time and place (*avan* only refers to place).
 
 ====
-- *Ante Cristo* = Before Christ
-- *Avan li dom* = Before the house
+- *ante Cristo* = before Christ
+- *avan li dom* = before the house
 ====
 
 // caus {{{4
@@ -1748,8 +1748,8 @@ Because of. The reason for something goes right after *caus*, which is
 an abbreviation of the longer *in cause de*.
 
 ====
-- *Caus vor intervention* = Because of your intervention.
-- *Caus li politic evenimentes* = Because of the political events.
+- *caus vor intervention* = because of your intervention
+- *caus li politic evenimentes* = because of the political events
 ====
 
 // con {{{4
@@ -1758,7 +1758,7 @@ an abbreviation of the longer *in cause de*.
 With.
 
 ====
-- *Li filio ea con su patre* = The son goes with his father.
+- *Li filio ea con su patre.* = The son goes with his father.
 - *Ella stat con lácrimes in li ocules.* = She stood with tears in her
   eyes.
 ====
@@ -1776,15 +1776,15 @@ in its place.
 
 ====
 
-- *Li dom de mi patre* = The house of my father, my father's house.
-- *Li dramas de Schiller* = Schiller's dramas.
-- *Ti libre es scrit de un fémina* = This book is written by a woman
+- *Li dom de mi patre.* = The house of my father, my father's house.
+- *Li dramas de Schiller.* = Schiller's dramas.
+- *Ti libre es scrit de un fémina.* = This book is written by a woman
   (*per* fits here as well).
-- *Un senior de Berlin* = A gentleman from Berlin (*ex* fits here as
+- *Un senior de Berlin.* = A gentleman from Berlin (*ex* fits here as
   well).
-- *Li max grand de omnis* = The largest of all (*ex* potentially fits
+- *Li max grand de omnis.* = The largest of all (*ex* potentially fits
   here as well).
-- *Un vase de aure* = A vase of gold.
+- *Un vase de aure.* = A vase of gold.
 
 ====
 
@@ -1793,7 +1793,11 @@ in its place.
 
 Since, for.
 
-*Desde du annus* = For two years.
+====
+
+- *Desde du annus.* = For two years.
+
+====
 
 // ex {{{4
 ===== ex
@@ -1802,7 +1806,7 @@ Out (of), from.
 
 ====
 
-- *Il venit ex su chambre* = He came out ofhis room.
+- *Il venit ex su chambre.* = He came out ofhis room.
 - *Yo trinca ex li glass.* = I drinkt out of the glass.
 - *Traductet ex german in Interlingue.* = Translated from German into
   Interlingue.
@@ -1816,9 +1820,9 @@ By, through, with
 
 ====
 
-- *Il defendet se per un gladie* = He defended himself with a sword.
-- *Il salvat se per svimmar* = He saved himself by swimming.
-- *Li moné ha esset furtet per un ínconosset hom* = The money has been
+- *Il defendet se per un gladie.* = He defended himself with a sword.
+- *Il salvat se per svimmar.* = He saved himself by swimming.
+- *Li moné ha esset furtet per un ínconosset hom.* = The money has been
   stolen by an unknown person.
 
 ====
@@ -1828,8 +1832,8 @@ By, through, with
 
 ====
 
-- *Un libre por omnes e por nequí* = A book for all and for nobody.
-- *On manja por viver, on ne vive por manjar* = You eat to live, you
+- *Un libre por omnes e por nequí.* = A book for all and for nobody.
+- *On manja por viver, on ne vive por manjar.* = You eat to live, you
   don't live to eat.
 
 ====
@@ -1839,8 +1843,8 @@ By, through, with
 
 ====
 
-- *Noi parlat pri politica* = We talked about politics.
-- *Yo mersia pro Vor auxilie* = I thank (you) for your help.
+- *Noi parlat pri politica.* = We talked about politics.
+- *Yo mersia pro Vor auxilie.* = I thank (you) for your help.
 
 ====
 
@@ -1850,7 +1854,7 @@ By, through, with
 ====
 
 - *Yo laborat til decidu horas.* = I worked until twelve o'clock.
-- *Til li extrem fine del munde* = Until the very end of the world
+- *Til li extrem fine del munde.* = Until the very end of the world.
 
 ====
 
@@ -1858,7 +1862,7 @@ By, through, with
 ===== tra
 
 ====
-- *Yo videt le tra li fenestre* = I saw him through the window.
+- *Yo videt le tra li fenestre.* = I saw him through the window.
 ====
 
 // trans {{{4
@@ -1866,7 +1870,7 @@ By, through, with
 
 ====
 
-- *Lindberg volat trans li Atlantic Ocean* = Lindberg flew across the
+- *Lindberg volat trans li Atlantic Ocean.* = Lindberg flew across the
   Atlantic Ocean.
 
 ====
@@ -1875,7 +1879,7 @@ By, through, with
 ===== vers
 
 ====
-- *Li avie volat vers li sole* = The bird flew towards the sun.
+- *Li avie volat vers li sole.* = The bird flew towards the sun.
 ====
 
 // Words formed by prepositions {{{3
@@ -2503,7 +2507,8 @@ be clearly spoken.
 // -e {{{3
 ==== -e
 
-// XXX FIXED -- Removed "(nouns)" (format of the german original)
+// XXX FIXED -- Removed "(nouns)" (which was the format of the
+// original german transcription)
 
 A very common end vowel in Interlingue is *-e*,
 which does not have any particular meaning, but is used for ease of
@@ -2841,8 +2846,9 @@ thought. Both are correct, and have a subtle difference:
 ====
 
 This is, again, a subtle distinction that one may use if wished or
-ignore at will, like the English words clothing and clothes, dinner
-and supper, precise and accurate, venom and poison, etc.)
+ignore at will, like the English words "`clothing`" and "`clothes`",
+"`dinner`" and "`supper`", "`precise`" and "`accurate`", "`venom`" and
+"`poison`", etc.)
 
 We have already gone over the suffixes <<_ion,*-ion*>> and <<_ura,*-ura*>> in <<_triesim_letion,chapter 3>>.
 Here are some others:
@@ -2887,7 +2893,7 @@ condition in its duration), this is formed from the
 
 (This suffix requires some special attention, as their international use
 is more limited than the way they are used in English and in French
-which uses -ment with great frequency.)
+which uses "`-ment`" with great frequency.)
 
 Forms nouns that signify a special, concrete action or its outcome or
 the means for it.
@@ -3138,7 +3144,7 @@ The following suffixes create nouns that refer to persons.
 // -er- {{{4
 ===== -er-
 
-(From nouns.) Similar to -er in English, refers to a person who is
+(From nouns.) Similar to "`-er`" in English, refers to a person who is
 engaged in a type of work, or more rarely someone who coincidentally is
 engaged in a task.
 
@@ -3154,16 +3160,20 @@ engaged in a task.
 // -ist {{{4
 ===== -ist
 
-(From nouns.) The follower of an -ism, or someone engaged in some sort of
-artistic, ideal, scientific, military, technical or sport-related
-occupation:
+(From nouns.) The follower of an "`-ism`", or someone engaged in some
+sort of artistic, ideal, scientific, military, technical or
+sport-related occupation:
 
 ====
 
+// XXX FIXED -- "B/bonapartist" and "D/darwinist" are common nouns,
+// they are not included in the rules for capital letters in
+// Interlingue.
+
 - *librist* = book lover (*libre* = book)
 - *socialist* = socialist (*social* = social)
-- *Bonapartist* = Bonapartist (follower of Napoleon Bonaparte)
-- *Darwinist* = Darwinist
+- *bonapartist* = Bonapartist (follower of Napoleon Bonaparte)
+- *darwinist* = Darwinist
 - *oculist* = eye doctor (*ocul* = eye)
 - *cavallerist* = cavalry trooper (*cavallerie* = cavalry)
 - *machinist* = machinist (*machine* = machine)
@@ -4591,20 +4601,27 @@ other`".
 
 Some examples:
 
+// XXX FIXED -- Dots have been added after the convention used in this
+// book and also in the original german transcription, from which this
+// block of examples seems to be an exception without a reason.  The
+// nesting of ending dots, parens and quotes is not totally right in
+// English, though, but simpler and more logical.
+
 ====
 
-- *Il da la su parol = Il da su parol a ella* = He gives her his word
-- *Yo da te mi parol = Yo da mi parol a te* = I give you my word
-- *Li diferentie inter me e te* = The difference between me and you
-- *Li diferentie inter mi e tui* = The difference between mine and
-  yours
-- *Li nores victet li vores* = Ours (plural) beat yours (plural).  If
+- *Il da la su parol. = Il da su parol a ella.* = He gives her his
+  word.
+- *Yo da te mi parol. = Yo da mi parol a te.* = I give you my word.
+- *Li diferentie inter me e te.* = The difference between me and you.
+- *Li diferentie inter mi e tui.* = The difference between mine and
+  yours.
+- *Li nores victet li vores.* = Ours (plural) beat yours (plural).  If
   *noi* had had one and *vu* had also had had one, it would be
   expressed as *Li nor victet li vor*.
-- *Yo es tua e tu es mio* = I am yours and you are mine (said by a
-  woman to a man)
+- *Yo es tua e tu es mio.* = I am yours and you are mine (said by a
+  woman to a man).
 - *Ples far lu tui!* = Please do yours! (remember *lu* = "`the thing
-  which is`")
+  which is`").
 
 ====
 
@@ -4985,14 +5002,14 @@ When the meaning is clear, the adjective by itself may function as an
 adverb:
 
 ====
-- *Il parla bon* = He speaks well (lit. good).
-- *Li sole luce clar* = The sun shines clear(ly).
+- *Il parla bon.* = He speaks well (lit. good).
+- *Li sole luce clar.* = The sun shines clear(ly).
 ====
 
 Another way to form an adjective is to use *in maniere*:
 
 ====
-- *Il scri in elegant maniere* = He writes in an elegant manner.
+- *Il scri in elegant maniere.* = He writes in an elegant manner.
 ====
 
 Prepositions can be used to form adverbs: *in (li) nocte* = at night,
