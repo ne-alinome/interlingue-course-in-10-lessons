@@ -15,3 +15,5 @@
 - Fix: tre unordered lists in the example blocks of "-age" are
   rendered as ordered lists in EPUB (epub2db). They are ok in PDF. Try
   `*` markups.
+- Improve layout of "Other forms": use three open blocks with captions
+  and internal lists.
