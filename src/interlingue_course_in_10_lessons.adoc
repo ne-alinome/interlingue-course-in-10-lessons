@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.45+20190322
+:revnumber: 0.1.0-pre.46+20190322
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -21,7 +21,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903221528
+// Last modified 201903221542
 
 :dot: .
 
@@ -732,7 +732,7 @@ way as the English "`please`":
 |===
 
 // Other forms {{{5
-======Other forms
+====== Other forms
 
 1. Using the verb *ear* (to go): *Li dom ea constructet* = the
 house is being built. Using *ear* adds a sense of continuation (the
@@ -2503,14 +2503,16 @@ be clearly spoken.
 // -e {{{3
 ==== -e
 
+// XXX FIXED -- Removed "(nouns)" (format of the german original)
+
 A very common end vowel in Interlingue is *-e*,
 which does not have any particular meaning, but is used for ease of
-pronunciation and to distinguish words from others. Nouns: teatre,
-centre, lampe (nouns). Adjectives: pie (pious), varie (varied). An
-adverb: sovente (often). The *-e* is also seen in plurals after a
+pronunciation and to distinguish words from others. Nouns: *teatre*,
+*centre*, *lampe*. Adjectives: *pie* (pious), *varie* (varied). An
+adverb: *sovente* (often). The *-e* is also seen in plurals after a
 consonant before the *-s*: *nation*, *nationes*. It can also play a role in
-distinguishing a noun from an adjective: central (central), centrale
-(headquarters).
+distinguishing a noun from an adjective: *central* (central),
+*centrale* (headquarters).
 
 // -i {{{3
 ==== -i
@@ -2774,8 +2776,8 @@ above but slightly different.
   *electrifica* it. Though such subtle differences are not too
   relevant in fluid conversation)
 - *identificar* = to identify (from *identic*, identical; identify has
-  these two meanings in English as well: 1 to establish the identity
-  of and 2 to make the same)
+  these two meanings in English as well: 1) to establish the identity
+  of and 2) to make the same)
 - *falsificar* = to falsify (*fals* = false)
 - *rectificar* = to rectify (*rect* = right)
 
@@ -3073,6 +3075,8 @@ til li límite. Criticastros comprensibilmen ne esset content.
 // Un farme in li subtropic landes {{{3
 ==== Un farme in li subtropic landes
 
+// XXX FIXED -- Fixed "vu vide" -> "Vu vide"
+
 Li farmero amabilmen monstrat nos su possessiones. Sur li corte noi
 videt a dextri un grand dom. To esset li gallinería, u esset anc anates,
 ganses e quelc altri avies. Detra ti voliera extendet se un pisciera
@@ -3085,9 +3089,6 @@ exotic flores. Noi eat sur un bell planat via, de un látere de quel
 extendet se un vast herbiera con bellissim trifolie e anc mult bell
 flores de camp, queles injoyat li paisage. Ma li farmero totmen ne esset
 content con ti malherbe, quam
-
-// XXX FIXED -- Fixed "vu vide" -> "Vu vide"
-
 il nominat les. Il haltat e prendet ex li tasca un tabaciere e presentat
 nos quelc cigares: "`Vu ne posse imaginar Vos,`" dit il, "`quant me despita
 li insectes! Vu vide ta li pomiera juntet a mi parc. It es presc vivid
@@ -3359,7 +3360,7 @@ Words that refer to a group of people or things use *-té* instead of
 // XXX TODO -- Transalate:
 
 // -tá or -té? {{{5
-======-tá or -té?
+====== -tá or -té?
 
 Besides the above, *-té* is much more limited in scope and any
 doubtful cases are given the *-tá* ending, such as *universitá*
@@ -3646,7 +3647,7 @@ Emerson
 [[_note_about_nd]]
 NOTE: The <<_nd,*-nd*>> suffix (*-and* for *-ar* verbs, *-end* for *-er* and *-ir* verbs)
 adds the meaning "`thing to be (verb)ed`". This is where words
-like *dividende* (thing to be *divided*, from divider) come from, which
+like *dividende* (thing to be divided, from *divider*) come from, which
 adds a certain obligation (a thing to do = a thing one should do).  As
 an adjective it can also take the <<_i,*-i*>> at the end for euphony. The
 above *un veritá explicand* thus means "`a truth to be explained`".
@@ -5363,6 +5364,7 @@ examples.
 
 The regular word order in Interlingue is:
 
+[cols="3*^"]
 |===
 | 1. Subject | 2. Predicate | 3.  Object
 
