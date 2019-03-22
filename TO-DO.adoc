@@ -12,3 +12,6 @@
   "svimm-"...
 - "-ería" is missing (also in the german original). It's only
   mentioned in "-eríe".
+- Fix: tre unordered lists in the example blocks of "-age" are
+  rendered as ordered lists in EPUB (epub2db). They are ok in PDF. Try
+  `*` markups.
