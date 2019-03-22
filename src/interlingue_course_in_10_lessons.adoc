@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.47+20190322
+:revnumber: 0.1.0-pre.48+20190322
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -21,7 +21,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903221606
+// Last modified 201903221635
 
 :dot: .
 
@@ -2564,7 +2564,8 @@ ending):
 
 In many other words the *-o* ending is used for a specific item, while *-a*
 refers to something in a more collective sense, a location or
-time. *rosiero* = rose bush, *rosiera* = rose garden, *barberia* =
+time. <<_iero,*rosiero*>> = rose bush, <<_iera,*rosiera*>> = rose
+garden, <<_ia,*barberia*>> =
 barbershop, *auditoria* = auditorium, *imperia* = empire, etc.
 
 Substantival (noun) adjectives may be used as nouns:
@@ -2635,17 +2636,17 @@ exist due to their being part of already existing international words:
 ====
 
 - *bon* = good
-- *melior* = better (*a__melior__ar*, to improve)
-- *optim* = best (*__optim__ist*)
+- *melior* = better (<<_ar,*a__melior__ar*>>, to improve)
+- *optim* = best (<<_ist,*__optim__ist*>>)
 - *mal* = bad
-- *pejor* = worse (*__pejor__ativ*)
-- *pessim* = worst (*__pessim__ist*)
+- *pejor* = worse (<<_iv,*__pejor__ativ*>>)
+- *pessim* = worst (<<_ist,*__pessim__ist*>>)
 - *grand* = large
-- *major* = larger (*__major__ité*)
-- *maxim* = largest (*__maxim__al*)
+- *major* = larger (<<_tá_té,*__major__ité*>>)
+- *maxim* = largest (<<_al,*__maxim__al*>>)
 - *micri* = small
-- *minor* = smaller (*__minor__ité*)
-- *minim* = smallest (*__minim__al*)
+- *minor* = smaller (<<_tá_té,*__minor__ité*>>)
+- *minim* = smallest (<<_al,*__minim__al*>>)
 
 ====
 
@@ -3498,6 +3499,7 @@ These three are best learned together.
 - *-iero*: carrying something (forms trees as well — "`carriers`" of
   their fruits)
 
+[[_iere]]
 *-iere* words:
 
 ====
@@ -3508,6 +3510,7 @@ These three are best learned together.
 
 ====
 
+[[_iero]]
 *-iero* words:
 
 ====
@@ -3519,6 +3522,7 @@ These three are best learned together.
 
 ====
 
+[[_iera]]
 *-iera* words:
 
 ====
