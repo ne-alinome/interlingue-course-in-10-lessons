@@ -1,13 +1,14 @@
 = TO-DO of _Interlingue Course in 10 Lessons_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-03-20
+:revdate: 2019-03-22
 
 - Confirm year of the wiki version.
-- Add quotes to example terms in English explanations.
-- Fix: automatic numbering of sections with `:sectnum:` is not
+- Note: automatic numbering of sections with `:sectnum:` is not
   preserved in DocBook, therefore it's not rendered into EPUB, only
   into PDF. Beside, `:sectnum:` makes asciidoctor-pdf add "Chapter X"
-  before the text of level-1 headings. Automatic numbering is
-  deactivated.
+  before the text of level-1 headings. That's why automatic numbering
+  was deactivated.
 - Consult "brilliant", "carriera", "detalli-", "satellite",
   "svimm-"...
+- "-ería" is missing (also in the german original). It's only
+  mentioned in "-eríe".
