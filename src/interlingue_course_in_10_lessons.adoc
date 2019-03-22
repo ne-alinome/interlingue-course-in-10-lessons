@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.49+20190322
+:revnumber: 0.1.0-pre.50+20190322
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -21,7 +21,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903221649
+// Last modified 201903221812
 
 :dot: .
 
@@ -734,25 +734,51 @@ way as the English "`please`":
 // Other forms {{{5
 ====== Other forms
 
-1. Using the verb *ear* (to go): *Li dom ea constructet.* = The
-house is being built. Using *ear* adds a sense of continuation (the
-construction is going on). *Li libre eat printat.* = The book was being
-printed.
+Using the verb *ear* (to go) adds a sense of continuation (the
+construction is going on):
 
-2. Using the verb *star* (to stand): *Li dom sta constructet.* =
-The house is built. Using star adds a sense of finality (the house
-"`stands`" built). *Li libre stat printat.* = The book was printed (the
-book's printing was all done).
+====
 
-3. Using *se* after a verb to make it passive or reflexive (to
-make it refer to itself). *Li jurnal printa se rapidmen.* = The magazine
-is being quickly printed (the magazine "`prints itself`" quickly). *Li
-cose explica se simplicmen.* = It's easy to understand ("`the thing
-explains itself simply`"). *Yo nómina le Brian* = I call him Brian. *Il
-nómina se Brian* = His name is Brian ("`He calls himself Brian`").
+- *Li dom ea constructet.* = The house is being built.
+- *Li libre eat printat.* = The book was being printed.
+
+====
+
+Using the verb *star* (to stand) adds a sense of finality (the
+construction "`stands`" built):
+
+====
+
+- *Li dom sta constructet.* = The house is built.
+- *Li libre stat printat.* = The book was printed (the book's printing
+  was all done).
+
+====
+
+Using *se* after a verb to make it passive or reflexive (to make it
+refer to itself):
+
+====
+
+- *Li jurnal printa se rapidmen.* = The magazine is being quickly
+  printed (the magazine "`prints itself`" quickly).
+- *Li cose explica se simplicmen.* = It's easy to understand ("`the
+  thing explains itself simply`").
+- *Yo nómina le Brian.* = I call him Brian.
+- *Il nómina se Brian.* = His name is Brian ("`he calls himself
+  Brian`").
+
+====
+
 Adding *se* to a verb may also give a sense similar to that in
-English: *Yo procurat un libre.* = I got a book. *Yo procurat me un
-libre.* = I got myself (me) a book.
+English:
+
+====
+
+- *Yo procurat un libre.* = I got a book.
+- *Yo procurat me un libre.* = I got myself (me) a book.
+
+====
 
 // Progressive form {{{4
 ===== Progressive form
