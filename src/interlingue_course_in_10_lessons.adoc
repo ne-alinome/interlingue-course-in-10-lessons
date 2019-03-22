@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.48+20190322
+:revnumber: 0.1.0-pre.49+20190322
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -21,7 +21,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903221635
+// Last modified 201903221649
 
 :dot: .
 
@@ -2313,10 +2313,15 @@ deve payar.`"
 
 // XXX FIXED -- "Ancient" -> "ancient"
 
+// XXX FIXED -- Made "comprensibilmen" the headword, which is the one
+// used in the text, and make "comprensibil" its explication. The
+// german original transcription had this issue too.
+
 - *aprender* = to learn
 - *atender* = to wait
 - *comprender* = to understand
-- *comprensibil* = understandable, natural (*comprensibilmen* = of course)
+- *comprensibilmen* = of course (from *comprensibil* = understandable,
+  natural)
 - *evenir* = to happen
 - *judicar* = to judge
 - *judico* = a judge
@@ -2550,7 +2555,7 @@ ending):
 
 - *un germano* = a German man
 - *un germana* = a german woman
-- *amíco* = friend
+- *amíco* = male friend
 - *amíca* = female friend
 - *cavallo* = male horse (stallion)
 - *cavalla* = female horse (mare)
@@ -3946,8 +3951,11 @@ Belonging to (often made into nouns with *-ano*, *-ana*, *-ane*):
 
 ====
 
+// XXX FIXED -- "(hom = human)" -> "(hom = a human)". The previous
+// identical translations "human" could be confusing.
+
 - *american* = American (*America* = America)
-- *homan* = human (*hom* = human)
+- *homan* = human (*hom* = a human)
 
 ====
 
