@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.1.0-pre.44+20190321
+:revnumber: 0.1.0-pre.45+20190322
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -21,7 +21,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903202205
+// Last modified 201903221528
 
 :dot: .
 
@@ -385,9 +385,9 @@ they do not in Interlingue.
 ==== Un dialog
 
 Un yun mann promena sur li trottuore de un strada e observa li vive. Il
-incontra un amico, quel saluta le e strax comensa questionar:
+incontra un amíco, quel saluta le e strax comensa questionar:
 
-"`Bon die, mi amico. Quo Vu fa nu?`"
+"`Bon die, mi amíco. Quo Vu fa nu?`"
 
 "`Yo promena.`"
 
@@ -438,7 +438,7 @@ and *omnicós*.
 // XXX FIXED -- "trottuor" -> "trottuore" (which is the form used in
 // the text, and in the "-uore" suffix).
 
-- *amico* = friend
+- *amíco* = friend
 - *ante nu* = before now
 - *bon die* = good day
 - *ci* = here
@@ -813,7 +813,7 @@ Quo il ha creat? Nos e omni altri *creaturas*.
 // Un brilliant carriera {{{3
 ==== Un brilliant carriera
 
-Mi fratre have un amico, un ingeniero, qui ha fat un brilliant carriera.
+Mi fratre have un amíco, un ingeniero, qui ha fat un brilliant carriera.
 Ja quam yun studente su aspirationes evocat atention. Pos obligatori
 teoretic studies in un technical institute e practic preparatori labores
 in un micri fabrica, in quel il laborat quam reparator de electric
@@ -1229,7 +1229,7 @@ The perfect stem on its own is also used as an adjective:
 - *un pervers(i) opinion* = a perverse opinion (from *perverter* = to
   pervert) Here again there is a difference between *perversi*
   (perverse) and *pervertet* (perverted).
-- *un devot amico* = a devoted friend (from *devoer* = to devote). In
+- *un devot amíco* = a devoted friend (from *devoer* = to devote). In
   cases where no obvious difference exists between the perfect stem
   (*devot*) and the past tense (*devoet*), the two tend to be used
   interchangeably.  One could still imagine however situations where
@@ -2294,8 +2294,11 @@ evenit, li du parties incontrat ante li deliberationes del judicos.
 va esser judicat a payar, e si tu victe, tande tu ya ha victet in unesim
 processu, e va dever payar me anc in ti casu.`"
 
+// XXX FIXED -- Erra ex li original german: "in mu unesim processu" ->
+// "in unesim processu"
+
 "`No, ples atender un poc,`" replicat li yun mann, "`si tu victe, tande yo
-ne ha victet in mu unesim processu, e tande, comprensibilmen, yo ne deve
+ne ha victet in unesim processu, e tande, comprensibilmen, yo ne deve
 payar te e si yo victe, tande li judicament ya va esser tal, que yo ne
 deve payar.`"
 
@@ -2415,11 +2418,13 @@ grandes trapassa.
 // Li historie {{{3
 ==== Li historie
 
+// XXX FIXED -- abyss -> abiss
+
 Per li studia del historie noi percepte li intim conexion, quel existe
 inter lu present e lu passat. Li present moment es un transient cose, su
 radicas es in lu passat, su esperas in lu futuri. Si omnicos vell
 depender del subtil fil del fugient moment, quel ilumina e dura solmen
-durant un move del ocul, solmen por evanescer in li abyss de Nihil,
+durant un move del ocul, solmen por evanescer in li abiss de Nihil,
 tande omni vive vell significar solmen un exeada ad in li morte. Noi es
 tro inclinat regardar lu passat quam alquicos mort, ma it existe ye
 vivent evidentie in nor animas hodie. It opresse nos e stimula nos al
@@ -2461,9 +2466,11 @@ Sovente it es plu desfacil viver por un idé quam morir por it. To es li
 diferentie inter heróes e martiros.
 ____
 
+// XXX FIXED -- "de fa" -> "ne fa"
+
 [quote, Multatuli]
 ____
-Du levul gantes de fa un pare de gantes, du demí veritás ne fa un
+Du levul gantes ne fa un pare de gantes, du demí veritás ne fa un
 veritá.
 ____
 
@@ -2536,8 +2543,8 @@ ending):
 
 - *un germano* = a German man
 - *un germana* = a german woman
-- *amico* = friend
-- *amica* = female friend
+- *amíco* = friend
+- *amíca* = female friend
 - *cavallo* = male horse (stallion)
 - *cavalla* = female horse (mare)
 - *gallino* = rooster
@@ -2996,6 +3003,8 @@ Nu sequet li sportiv organisationes e on posset vider mult conosset
 championes del futballistes, boxeros, velocipedistes, canotistes etc.
 In fin sequet un corso de automobilistes e motoristes.
 
+// XXX FIXED -- anachronisme -> anacronisme
+
 In li véspere in li vast sala municipal esset arangeat un grand festa,
 u incontrat se li tot population per su eminent laboratores scientific,
 politic, artistic e social. Inter li
@@ -3011,7 +3020,7 @@ un prestro del metodistes parla con li millionario e bankero M. e li
 proprietario del grand fabrica de motores, lord Ch. Li charitabil
 comtessa T. sembla interessar se ye li activitá del conosset calvinistic
 missionario B., un alt barbon, quel in ti desbarbat témpore es quasi un
-anachronisme.
+anacronisme.
 
 Li babillada cessat quande li trio: li pianisto Z., li cellisto Str. e
 li violinista Senioretta
@@ -3636,7 +3645,7 @@ Emerson
 
 [[_note_about_nd]]
 NOTE: The <<_nd,*-nd*>> suffix (*-and* for *-ar* verbs, *-end* for *-er* and *-ir* verbs)
-adds the meaning "`thing to be (verb)ed`"). This is where words
+adds the meaning "`thing to be (verb)ed`". This is where words
 like *dividende* (thing to be *divided*, from divider) come from, which
 adds a certain obligation (a thing to do = a thing one should do).  As
 an adjective it can also take the <<_i,*-i*>> at the end for euphony. The
@@ -3743,7 +3752,7 @@ it means "`many`" (same as *mult*).
 
 Cosmopolis, 12-esim marte 1930.
 
-Mi car amico.
+Mi car amíco.
 
 Yo mersia Vos cordialmen pro Vor amabil lettre de 10-esim ho-mensu. Yo
 joya leer, que anc Vu have interesse por li lingue international
@@ -3794,7 +3803,7 @@ Y{dot} Z{dot}
 - *adplu* = moreover
 - *chargear* = to charge, to burden
 - *devoer* = to be devoted
-- *esser rect* = be right (*haver rason* is another way to say it)
+- *esser rect* = to be right (*haver rason* is another way to say it)
 - *exposir* = to expose
 - *harengo* = herring
 - *iniciat* = initiated
@@ -4110,7 +4119,7 @@ Highest, over-.
 // auto- {{{4
 ===== auto-
 
-Auto, self.
+Auto-, self.
 
 ====
 
@@ -4202,7 +4211,7 @@ Bringing, bearing.
 
 ====
 
-- *fructiferi* = fruit-bearing)
+- *fructiferi* = fruit-bearing
 - *mammifere* = a mammal
 
 ====
@@ -4761,7 +4770,7 @@ Examples:
 ====
 
 - *Oh hom, conosse te self!* = Oh human, know thyself!
-- *In li sam témpore e in li sam loc, mi amica.* = At the same time
+- *In li sam témpore e in li sam loc, mi amíca.* = At the same time
   and in the same place, my friend.
 - *Si alcun fémina parla pri alquó, ella pensa pri alquí.* = When some
   woman talks about something, she thinks about someone.
@@ -4774,7 +4783,7 @@ Examples:
   Interlingue it rhymes.)
 - *Ja pluri annus yo vive in ti cité.* = I have lived in this city for
   several years already. (Note: only the present tense is used here.
-  *yo ha vivet* is also acceptable)
+  *Yo ha vivet* is also acceptable)
 - *Il have poc espera.* = He has little hope.
 - *Il have un poc de espera.* = He has a little hope.
 - *Yo conosse un cert senior Miller, ma yo ne es cert, esque il es
