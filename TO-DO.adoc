@@ -2,6 +2,17 @@
 :author: Marcos Cruz (programandala.net)
 :revdate: 2019-03-22
 
+// This file is part of project
+// _Interlingue Course in 10 Lessons_
+//
+// by Marcos Cruz (programandala.net)
+// http://ne.alinome.net
+//
+// This file is in Asciidoctor format
+// (http//asciidoctor.org)
+//
+// Last modified 201903221830
+
 - Confirm year of the wiki version.
 - Note: automatic numbering of sections with `:sectnum:` is not
   preserved in DocBook, therefore it's not rendered into EPUB, only
