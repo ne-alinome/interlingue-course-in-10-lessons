@@ -30,6 +30,3 @@
 - Use uppercase to mark the stress in the "Stress" subsection.
 - Improve the description of the effect of exception endings.
 - Add example of plural with "-s" to the "Stress" subsection.
-- Add URL
-  https://drive.google.com/file/d/1gelftqO9zPPi0KUkqdjOjikax2O1GvBL/view
-  (PDF of the original English version) to "About this book".
