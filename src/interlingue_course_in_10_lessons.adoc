@@ -21,7 +21,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903222009
+// Last modified 201904061924
 
 :dot: .
 
@@ -2554,7 +2554,7 @@ distinguishing a noun from an adjective: *central* (central),
 ==== -i
 
 // XXX FIXED -- commen -> common
-// XXX FIXED -- pronunciation -> pronounciation 
+// XXX FIXED -- pronounciation -> pronunciation 
 
 The most common adjectival ending is *-i*,
 which is also used for pronunciation and distinguishing types of words:
