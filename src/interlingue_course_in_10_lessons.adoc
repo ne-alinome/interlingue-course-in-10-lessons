@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.2.0-dev.0+20190407
+:revnumber: 0.2.0-dev.1+20190407
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -21,7 +21,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201904071729
+// Last modified 201904071830
 
 :dot: .
 
@@ -87,51 +87,87 @@ welcome at http://ne.alinome.net[ne.alinome.net].
 
 NOTE: The name of Interlingue was "`Occidental`" until 1949.
 
-
+// Pronunciation and accent {{{1
 == Pronunciation and accent
 
-Occidental is written with the 26 Latin letters. The letters of the alphabet
-are pronounced as a, be, ce, de, e, ef, ge, ha, i, jot, ka, el, em, en, o, pe,
-qu, er, es, te, u, ve, duplic ve, ix, ypsilon , and zet .
+Interlingue is written with the 26 Latin letters. The letters of the
+alphabet are pronounced as _a, be, ce, de, e, ef, ge, ha, i, jot, ka,
+el, em, en, o, pe, qu, er, es, te, u, ve, duplic ve, ix, ypsilon, and
+zet_.
 
+// Pronunciation {{{2
 === Pronunciation
 
-The vowels a, e, i, o , and u have a continental pronunciation and are all
-sounded. The y (initial and medial) are pronounced as in "yes", ey (final) as
-in "they", and eu as éh-oo.
+The vowels "`a`", "`e`", "`i`", "`o`" , and "`u`" have a continental
+pronunciation and are all sounded. The "`y`" (initial and medial) are
+pronounced as in "`yes`", "`ey`" (final) as in "`they`", and "`eu`" as
+"`éh-oo`".
 
 The consonants are pronounced as in English, with the following exceptions:
 
-- c when before e and i = [ts]: cive, helice
-- g when before e and i = [ʒ], French j, or English s in pleasure: plage,
-  giraffe ; but elsewhere c and g are hard as in can, go
-- ss = [s] as in pass
-- s between vowels = [z]: rose, positiv
-- z = [dz]
-- zz = [ts]
-- ch = [ʃ], English sh: chambre
-- j = [ʒ], French j, or English s in pleasure
-- t as [t], except when followed by ia, io, iu, or ie and not preceded by an s.
-  Thus the t in nation is pronounced [ts] but in bastion as [t].
+c::
 
-Other doubled consonants are pronounced as a single consonant, unless when
-separated they would be pronounced differently. Ex. grammatica is pronounced as
-if written gramatica , but occidental and suggestion are pronounced as if
-written as oc followed by cidental , and sug followed by gestion .
+When before "`e`" and "`i`" = [ts]: *cive*, *helice*.
 
+g::
+
+When before "`e`" and "`i`" = [ʒ], French "`j`", or English "`s`" in
+pleasure: *plage*, *giraffe*; but elsewhere "`c`" and "`g`" are hard
+as in "`can`", "`go`".
+
+ss::
+
+[s] as in "`pass`".
+
+s::
+
+Between vowels = [z]: *rose*, *positiv*.
+
+z::
+
+[dz].
+
+zz::
+
+[ts].
+
+ch::
+
+[ʃ], English "`sh`": *chambre*.
+
+j::
+
+[ʒ], French "`j`", or English "`s`" in "`pleasure`".
+
+t::
+
+As [t], except when followed by "`ia`", "`io`", "`iu`", or "`ie`" and
+not preceded by an "`s`".  Thus the t in *nation* is pronounced [ts]
+but in *bastion* as [t].
+
+Other doubled consonants are pronounced as a single consonant, unless
+when separated they would be pronounced differently. Ex. *grammatica*
+is pronounced as if written *gramatica*, but *occidental* and
+*suggestion* are pronounced as if written as "`oc`" followed by
+"`cidental`", and "`sug`" followed by "`gestion`".
+
+// Stress {{{2
 === Stress
 
-Words are generally stressed on the vowel before the final consonant: intercal
-ar , par ol , for me.  Pluralizing a noun does not change the stress: par ol
-es, for mes. The endings -bil , -ic , -im , -ul and -um do not change the
-stress (even when more than one is present in a single word), nor does the
-adverbial ending -men: ra pid men, dup lic, bon iss im, sin gul, poss i bil,
-max imum, sta tis ticas. Two vowels together are diphthongized and do not count
-as two syllables for the purpose of stress: fa mil ie, po ten tie, unless the
-word is a single consonant or consonant cluster followed by two vowels: d i e,
-d e o. Compound words are stressed based on the last word in the compound: hod
-i e, substr a e. In cases where the accent is irregular, it is indicated by an
-accent: caf é , í npossibil, numer ó , n ú mere, felicit á .
+Words are generally stressed on the vowel before the final consonant:
+*intercal__ar__*, *par__ol__*, *__for__me*.  Pluralizing a noun does
+not change the stress: *par__ol__es*, *__for__mes*. The endings
+*-bil*, *-ic*, *-im*, *-ul* and *-um* do not change the stress (even
+when more than one is present in a single word), nor does the
+adverbial ending *-men*: *ra__pid__men*, *__dup__lic*, *bon__iss__im*,
+*__sin__gul*, *poss__i__bil*, *__max__imum*, *sta__tis__ticas*. Two
+vowels together are diphthongized and do not count as two syllables
+for the purpose of stress: *fa__mil__ie*, *po__ten__tie*, unless the
+word is a single consonant or consonant cluster followed by two
+vowels: *d__i__e*, *d__e__o*. Compound words are stressed based on the
+last word in the compound: *hod__i__e*, *substr__a__e*. In cases where
+the accent is irregular, it is indicated by an accent: *caf__é__*,
+*__ín__possibil*, *numer__ó__*, *n__ú__mere*, *felicit__á__*.
 
 // :sectnums:
 
