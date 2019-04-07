@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.2.0-dev.2+20190407
+:revnumber: 0.2.0-dev.3+20190407
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -21,7 +21,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201904071838
+// Last modified 201904071845
 
 :dot: .
 
@@ -107,21 +107,35 @@ The consonants are pronounced as in English, with the following exceptions:
 
 c::
 
-When before "`e`" and "`i`" = [ts]: *cive*, *helice*.
+When before "`e`" and "`i`" = [ts]: *cive*, *helice*.  Elsewhere "`c`"
+is hard as in "`can`".
+
+ch::
+
+[ʃ], English "`sh`": *chambre*.
 
 g::
 
 When before "`e`" and "`i`" = [ʒ], French "`j`", or English "`s`" in
-pleasure: *plage*, *giraffe*; but elsewhere "`c`" and "`g`" are hard
-as in "`can`", "`go`".
+pleasure: *plage*, *giraffe*. Elsewhere "`g`" is hard as in "`go`".
+
+j::
+
+[ʒ], French "`j`", or English "`s`" in "`pleasure`".
+
+s::
+
+Between vowels = [z]: *rose*, *positiv*.
 
 ss::
 
 [s] as in "`pass`".
 
-s::
+t::
 
-Between vowels = [z]: *rose*, *positiv*.
+As [t], except when followed by "`ia`", "`io`", "`iu`", or "`ie`" and
+not preceded by an "`s`".  Thus the t in *nation* is pronounced [ts]
+but in *bastion* as [t].
 
 z::
 
@@ -130,20 +144,6 @@ z::
 zz::
 
 [ts].
-
-ch::
-
-[ʃ], English "`sh`": *chambre*.
-
-j::
-
-[ʒ], French "`j`", or English "`s`" in "`pleasure`".
-
-t::
-
-As [t], except when followed by "`ia`", "`io`", "`iu`", or "`ie`" and
-not preceded by an "`s`".  Thus the t in *nation* is pronounced [ts]
-but in *bastion* as [t].
 
 Other doubled consonants are pronounced as a single consonant, unless
 when separated they would be pronounced differently. Ex. *grammatica*
@@ -157,6 +157,8 @@ is pronounced as if written *gramatica*, but *occidental* and
 // XXX TODO -- Use uppercase to mark the stress.
 
 // XXX FIXME -- Effect of exception endings.
+
+// XXX TODO -- Add example of plural with "-s".
 
 - Words are generally stressed on the vowel before the final
   consonant: *intercal__ar__*, *par__ol__*, *__for__me*.
