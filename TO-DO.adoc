@@ -1,6 +1,6 @@
 = TO-DO of _Interlingue Course in 10 Lessons_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-03-22
+:revdate: 2019-04-07
 
 // This file is part of project
 // _Interlingue Course in 10 Lessons_
@@ -11,7 +11,7 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903221830
+// Last modified 201904071853
 
 - Confirm year of the wiki version.
 - Note: automatic numbering of sections with `:sectnum:` is not
@@ -27,3 +27,9 @@
 - "-issim" is missing (also in the german original).
 - Add a note about the PDF size.
 - Check what suffixes are missing.
+- Use uppercase to mark the stress in the "Stress" subsection.
+- Improve the description of the effect of exception endings.
+- Add example of plural with "-s" to the "Stress" subsection.
+- Add URL
+  https://drive.google.com/file/d/1gelftqO9zPPi0KUkqdjOjikax2O1GvBL/view
+  (PDF of the original English version) to "About this book".
