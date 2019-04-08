@@ -11,7 +11,7 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201904081309
+// Last modified 201904082023
 
 - Note: automatic numbering of sections with `:sectnum:` is not
   preserved in DocBook, therefore it's not rendered into EPUB, only
@@ -24,10 +24,8 @@
   rendered as ordered lists in EPUB (epub2db) by one reader, but they
   are rendered ok by other readers. They are ok also in PDF.
 - "-issim" is missing (also in the german original).
-- Add a note about the PDF size.
-- Check what suffixes are missing.
+- Check if more suffixes are missing, beside "-ería" and "-issim".
 - Improve the description of the effect of exception endings.
-- Add example of plural with "-s" to the "Stress" subsection.
 - Replace the removed note _"`eu`" as "`éh-oo`"_ with a general
   description of similar cases, from Haas' grammar.
 
