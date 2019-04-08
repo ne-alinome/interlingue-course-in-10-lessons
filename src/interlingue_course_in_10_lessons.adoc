@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.2.0-dev.6+20190408
+:revnumber: 0.2.0-dev.7+20190408
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -21,7 +21,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201904081222
+// Last modified 201904081229
 
 :dot: .
 
@@ -87,10 +87,12 @@ NOTE: The name of Interlingue was "`Occidental`" until 1949.
 // Pronunciation and accent {{{1
 == Pronunciation and accent
 
-Interlingue is written with the 26 Latin letters. The letters of the
-alphabet are pronounced as _a, be, ce, de, e, ef, ge, ha, i, jot, ka,
-el, em, en, o, pe, qu, er, es, te, u, ve, duplic ve, ix, ypsilon, and
-zet_.
+// Alphabet {{{2
+=== Alphabet
+
+Interlingue is written with the 26 Latin letters:
+
+a, b, c, d, e, f, g, h, i, j, k, i, m, n, o, p, q, r, s, t, u, v, w, x, y, z.
 
 // Pronunciation {{{2
 === Pronunciation
@@ -189,6 +191,14 @@ is pronounced as if written *gramatica*, but *occidental* and
 - In cases where the accent is irregular, it is indicated by an
   accent: *caf__é__*, *__ín__possibil*, *numer__ó__*, *n__ú__mere*,
   *felicit__á__*.
+
+// The names of the letters {{{2
+=== The names of the letters
+
+The letters of the alphabet are pronounced as:
+
+*a, be, ce, de, e, ef, ge, ha, i, jot, ka, el, em, en, o, pe, qu, er, es, te,
+u, ve, duplic ve, ix, ypsilon, zet*.
 
 // :sectnums:
 
