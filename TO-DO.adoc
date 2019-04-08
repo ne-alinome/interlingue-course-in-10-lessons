@@ -11,7 +11,7 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201904081238
+// Last modified 201904081251
 
 - Note: automatic numbering of sections with `:sectnum:` is not
   preserved in DocBook, therefore it's not rendered into EPUB, only
@@ -29,4 +29,6 @@
 - Use uppercase to mark the stress in the "Stress" subsection.
 - Improve the description of the effect of exception endings.
 - Add example of plural with "-s" to the "Stress" subsection.
-- Improve description of "y", vowel and consonant.
+- Replace the removed note _"`eu`" as "`éh-oo`"_ with a general
+  description of similar cases, from Haas' grammar.
+
