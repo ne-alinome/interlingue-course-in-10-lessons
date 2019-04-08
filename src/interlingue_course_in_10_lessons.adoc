@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.2.0-dev.7+20190408
+:revnumber: 0.2.0-dev.8+20190408
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -21,7 +21,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201904081229
+// Last modified 201904081237
 
 :dot: .
 
@@ -84,8 +84,8 @@ welcome at http://ne.alinome.net[ne.alinome.net].
 
 NOTE: The name of Interlingue was "`Occidental`" until 1949.
 
-// Pronunciation and accent {{{1
-== Pronunciation and accent
+// Pronunciation {{{1
+== Pronunciation
 
 // Alphabet {{{2
 === Alphabet
@@ -94,8 +94,8 @@ Interlingue is written with the 26 Latin letters:
 
 a, b, c, d, e, f, g, h, i, j, k, i, m, n, o, p, q, r, s, t, u, v, w, x, y, z.
 
-// Pronunciation {{{2
-=== Pronunciation
+// Vowels {{{2
+=== Vowels
 
 The vowels "`a`", "`e`", "`i`", "`o`" , and "`u`" have a continental
 pronunciation, as in German, Italian and Spanish, and are all sounded:
@@ -115,6 +115,9 @@ preferable.
 
 The "`y`" (initial and medial) are pronounced as in "`yes`", "`ey`"
 (final) as in "`they`", and "`eu`" as "`éh-oo`".
+
+// Consonants {{{2
+=== Consonants 
 
 The consonants are pronounced as in English, with the following exceptions:
 
