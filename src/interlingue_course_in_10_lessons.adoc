@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.2.0-dev.10+20190408
+:revnumber: 0.2.0-dev.11+20190408
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -21,7 +21,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201904081305
+// Last modified 201904082030
 
 :dot: .
 
@@ -97,8 +97,8 @@ a, b, c, d, e, f, g, h, i, j, k, i, m, n, o, p, q, r, s, t, u, v, w, x, y, z.
 // Vowels {{{2
 === Vowels
 
-The vowels "`a`", "`e`", "`i`", "`o`" , and "`u`" have a continental
-pronunciation, as in German, Italian and Spanish, and are all sounded:
+The vowels have a continental pronunciation, as in German, Italian and
+Spanish, and are all sounded:
 
 a:: father
 e:: bed, yes
@@ -173,8 +173,6 @@ is pronounced as if written *gramatica*, but *occidental* and
 === Stress
 
 // XXX FIXME -- Effect of exception endings.
-
-// XXX TODO -- Add example of plural with "-s".
 
 NOTE: In the following examples, the regularly stressed vowel is shown
 in uppercase.
