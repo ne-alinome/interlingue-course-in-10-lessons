@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.2.0-dev.4+20190407
+:revnumber: 0.2.0-dev.5+20190408
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -21,7 +21,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201904071922
+// Last modified 201904081143
 
 :dot: .
 
@@ -114,7 +114,8 @@ ch::
 g::
 
 When before "`e`" and "`i`" = [ʒ], French "`j`", or English "`s`" in
-pleasure: *plage*, *giraffe*. Elsewhere "`g`" is hard as in "`go`".
+"`pleasure`": *plage*, *giraffe*. Elsewhere "`g`" is hard as in
+"`go`".
 
 j::
 
@@ -130,9 +131,9 @@ ss::
 
 t::
 
-As [t], except when followed by "`ia`", "`io`", "`iu`", or "`ie`" and
-not preceded by an "`s`".  Thus the t in *nation* is pronounced [ts]
-but in *bastion* as [t].
+When followed by "`ia`", "`io`", "`iu`", or "`ie`" and
+not preceded by an "`s`" = [ts]:  *nation*. Elsewhere as [t]:
+*bastion*.
 
 z::
 
