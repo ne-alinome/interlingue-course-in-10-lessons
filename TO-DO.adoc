@@ -11,9 +11,8 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201904071853
+// Last modified 201904081114
 
-- Confirm year of the wiki version.
 - Note: automatic numbering of sections with `:sectnum:` is not
   preserved in DocBook, therefore it's not rendered into EPUB, only
   into PDF. Beside, `:sectnum:` makes asciidoctor-pdf add "Chapter X"
