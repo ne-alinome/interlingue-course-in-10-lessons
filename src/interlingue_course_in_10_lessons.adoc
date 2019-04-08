@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.2.0-dev.5+20190408
+:revnumber: 0.2.0-dev.6+20190408
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -21,7 +21,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201904081143
+// Last modified 201904081222
 
 :dot: .
 
@@ -96,9 +96,23 @@ zet_.
 === Pronunciation
 
 The vowels "`a`", "`e`", "`i`", "`o`" , and "`u`" have a continental
-pronunciation and are all sounded. The "`y`" (initial and medial) are
-pronounced as in "`yes`", "`ey`" (final) as in "`they`", and "`eu`" as
-"`éh-oo`".
+pronunciation, as in German, Italian and Spanish, and are all sounded:
+
+a:: father
+e:: bed, yes
+i:: machine
+o:: door, hot
+u:: rule, pull
+
+All <<_stress,unstressed vowels>> are short. Stressed vowels can be lengthened
+if they are not followed by a doubled consonant.
+
+A strict rule on the long or short, closed or open pronunciation of the vowels
+does not exist. Pronunciations similar to German, Italian or Spanish are
+preferable.
+
+The "`y`" (initial and medial) are pronounced as in "`yes`", "`ey`"
+(final) as in "`they`", and "`eu`" as "`éh-oo`".
 
 The consonants are pronounced as in English, with the following exceptions:
 
