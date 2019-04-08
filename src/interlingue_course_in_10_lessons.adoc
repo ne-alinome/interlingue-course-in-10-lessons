@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.2.0-dev.9+20190408
+:revnumber: 0.2.0-dev.10+20190408
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -21,7 +21,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201904081251
+// Last modified 201904081305
 
 :dot: .
 
@@ -172,29 +172,30 @@ is pronounced as if written *gramatica*, but *occidental* and
 // Stress {{{2
 === Stress
 
-// XXX TODO -- Use uppercase to mark the stress.
-
 // XXX FIXME -- Effect of exception endings.
 
 // XXX TODO -- Add example of plural with "-s".
 
+NOTE: In the following examples, the regularly stressed vowel is shown
+in uppercase.
+
 - Words are generally stressed on the vowel before the final
-  consonant: *intercal__ar__*, *par__ol__*, *__for__me*.
-- Pluralizing a noun does not change the stress: *par__ol__es*,
-  *__for__mes*.
+  consonant: *intercalAr*, *parOl*, *fOrme*.
+- Pluralizing a noun does not change the stress: *parOles*,
+  *fOrmes*.
 - The endings *-bil*, *-ic*, *-im*, *-ul* and *-um* do not change the
   stress (even when more than one is present in a single word), nor
-  does the adverbial ending *-men*: *ra__pid__men*, *__dup__lic*,
-  *bon__iss__im*, *__sin__gul*, *poss__i__bil*, *__max__imum*,
-  *sta__tis__ticas*.
+  does the adverbial ending *-men*: *rapIdmen*, *dUplic*,
+  *bonIssim*, *sIngul*, *possIbil*, *mAximum*,
+  *statIsticas*.
 - Two vowels together are diphthongized and do not count as two
-  syllables for the purpose of stress: *fa__mil__ie*, *po__ten__tie*,
+  syllables for the purpose of stress: *famIlie*, *potEntie*,
   unless the word is a single consonant or consonant cluster followed
-  by two vowels: *d__i__e*, *d__e__o*. Compound words are stressed
-  based on the last word in the compound: *hod__i__e*, *substr__a__e*.
+  by two vowels: *dIe*, *dEo*. Compound words are stressed
+  based on the last word in the compound: *hodIe*, *substrAe*.
 - In cases where the accent is irregular, it is indicated by an
-  accent: *caf__é__*, *__ín__possibil*, *numer__ó__*, *n__ú__mere*,
-  *felicit__á__*.
+  accent: *café*, *ínpossibil*, *numeró*, *númere*,
+  *felicitá*.
 
 // The names of the letters {{{2
 === The names of the letters
