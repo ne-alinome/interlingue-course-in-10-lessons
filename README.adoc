@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-03-22
+:revdate: 2019-04-12
 :toc:
 :toc-title: Contents/Contenete
 
@@ -13,7 +13,7 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201903221915
+// Last modified 201904121950
 
 == English
 
@@ -84,9 +84,9 @@ are the following:
 
 The names are self-explanatory: They indicate the format conversion process
 from the http://asciidoctor.org[Asciidoctor] source document, the converters
-used and the style or size variants of the final formats (PDF, HTML, DocBook,
-EPUB and OpenDocument). Beside, this naming convention prevents name clashes in
-the future, if more tools of formats are added to the project.
+used and the style or size variants of the final formats (DocBook, EPUB, HTML,
+OpenDocument and PDF). Beside, this naming convention prevents name clashes in
+the future, if more tools or formats are added to the project.
 
 NOTE: Three converters are used to build the EPUB files. Those built by
 dbtoepub and xsltproc are virtually identical, but both of them are included
@@ -109,7 +109,7 @@ Web-loc:: http://ne.alinome.net[ne.alinome.net].
 
 === Qualmen constructer li libre
 
-Si Vu ne posse atender li liberation de li sequente version, Vu self
+Si Vu ne posse atender li liberation del sequente version, Vu self
 posse constructer li libre-documentes.
 
 In prim, ples confirmar que li programas listat in li section
@@ -125,9 +125,9 @@ ti exemples:
 | make                | Constructer omni formates e variantes
 | make all            | Constructer omni formates e variantes
 | make epub           | Constructer li formate EPUB (omni variantes)
-| make epub1d         | Constructer li formate EPUB per dbtoepub
-| make epub1p         | Constructer li formate EPUB per pandoc
-| make epub1x         | Constructer li formate EPUB per xsltproc
+| make epubd          | Constructer li formate EPUB per dbtoepub
+| make epubp          | Constructer li formate EPUB per pandoc
+| make epubx          | Constructer li formate EPUB per xsltproc
 | make html           | Constructer li formate HTML (omni variantes)
 | make htmlap         | Constructer li formate HTML per Asciidoctor (crud variante, sin stiles)
 | make htmlas         | Constructer li formate HTML per Asciidoctor (stilisat variante)
@@ -143,10 +143,6 @@ ti exemples:
 Li documentes es creat in li documentiere <target>.
 
 === Nómines del documentes final
-
-When all target files are built (in the GitHub releases or in the corresponding
-archives downloadable from http://ne.alinome.net[ne.alinome.net]), the contents
-of the <target> directory are the following:
 
 Quande omni documentes final es constructet (talmen anc contenet in e li
 liberaturas che GitHub e li archives descargabil ex
@@ -167,12 +163,12 @@ es ti:
 
 Li nómines es self-explicatori: Ili indica li operation de conversion de
 formates ex li documente fontal de http://asciidoctor.org[Asciidoctor], li
-convertores usat e li variantes de stil o grandore por li formates final (PDF,
-HTML, DocBook, EPUB e OpenDocument). Ultra to, ti convention nominal prevente
-futur colisiones de nómines, si plu convertores vel esser adjuntet al projecte.
+convertores usat e li variantes de stil o grandore por li formates final
+(DocBook, EPUB, HTML, OpenDocument e PDF). Ultra to, ti convention nominal
+prevente futur colisiones de nómines, si plu convertores o formates vel esser
+adjuntet al projecte.
 
 NOTE: Tri convertores es usat por constructer li documentes EPUB. Tis
 constructet per dbtoepub e xsltproc es virtualmen identic, ma ambi es includet
 por possibil beson. Fórsan alcun ex li tri variantes functiona plu bon in Vor
 libre-letor.
-
