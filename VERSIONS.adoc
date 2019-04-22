@@ -1,0 +1,33 @@
+= VERSIONS of _Interlingue Course in 10 Lessons_
+:author: Marcos Cruz (programandala.net)
+:revdate: 2019-04-22
+
+// This file is part of project
+// _Interlingue Course in 10 Lessons_
+//
+// by Marcos Cruz (programandala.net)
+// http://ne.alinome.net
+//
+// This file is in Asciidoctor format
+// (http//asciidoctor.org)
+//
+// Last modified 201904221730
+
+== 0.1.0+20190322
+
+Changes from the original edition of _Occidental Course in 10 Lessons
+(English translation)_:
+
+- All errors and typos found have been fixed.
+- In order to make the contents more legible in any format, the layout
+  of tables, lists, notes, block quotes, etc. has been modified.
+- For easier consulting, vocabulary tables have been converted to
+  alphabetic lists, and the notation has been homogenized.
+
+== 0.2.0+20190422
+
+Changes from version 0.1.0+20190322:
+
+- The section about pronunciation, which was missing in the wiki
+  version of _Occidental Course in 10 Lessons (English translation)_,
+  has been added from its PDF version, with small modifications.
