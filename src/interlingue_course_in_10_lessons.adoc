@@ -21,7 +21,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201908111611
+// Last modified 201908111742
 
 :dot: .
 
@@ -50,8 +50,9 @@ http://cosmoglotta.pbworks.com[cosmoglotta.pbworks.com (wiki)] and
 https://drive.google.com/file/d/1gelftqO9zPPi0KUkqdjOjikax2O1GvBL/view[drive.google.com
 (PDF format)].
 
-Revision and e-book edition:: Marcos Cruz, 2019.  Available in
-http://ne.alinome.net[ne.alinome.net] in EPUB, PDF and other formats.
+Conversion to Asciidoctor, revision and e-book edition:: Marcos Cruz,
+2019{dot}  Available in http://ne.alinome.net[ne.alinome.net] in EPUB, PDF
+and other formats.
 
 Main changes in this edition::
 
