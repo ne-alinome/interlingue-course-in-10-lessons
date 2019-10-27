@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-05-29
+:revdate: 2019-10-27
 :toc:
 :toc-title: Contents/Contenete
 
@@ -13,7 +13,7 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201904121950
+// Last modified 201910271916
 
 == English
 
@@ -99,7 +99,7 @@ reader.
 
 Scope:: Crear un libre digital de _Occidental Course in 10 Lessons_,
 li anglesi version de _Okzidental-Kursus in 10 Lektionen_ (de Mag.
-phil. A.Z. Ramstedt, 1929), traductet ad-in anglesi, actualisat e
+phil. A.Z. Ramstedt, 1929), traductet in anglesi, actualisat e
 redactet de Dave MacLeod in 2018-2019 in
 http://cosmoglotta.pbworks.com[cosmoglotta.pbworks.com].
 
@@ -109,7 +109,7 @@ Web-loc:: http://ne.alinome.net[ne.alinome.net].
 
 === Qualmen constructer li libre
 
-Si Vu ne posse atender li liberation del sequente version, Vu self
+Si vu ne posse atender li liberation del sequent version, vu self
 posse constructer li libre-documentes.
 
 In prim, ples confirmar que li programas listat in li section
