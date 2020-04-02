@@ -1,16 +1,21 @@
 = Interlingue Course in 10 Lessons
 :author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.2.1+20190811
+:revnumber: 0.3.0-dev.0.0+202004021905
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
-// :sectnumlevels: 3
 ifdef::backend-pdf[]
 :doctype: book
 :toc: auto
 :toclevels: 5
 :toc-title: Contenete
 endif::[]
+ifdef::backend-epub3[]
+:doctype: book
+:toclevels: 5
+:toc-title: Contenete
+endif::[]
+// :sectnumlevels: 3
 
 // This file is part of project
 // _Interlingue Course in 10 Lessons_
@@ -21,7 +26,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201908111742
+// Last modified 202004021906
 
 :dot: .
 
