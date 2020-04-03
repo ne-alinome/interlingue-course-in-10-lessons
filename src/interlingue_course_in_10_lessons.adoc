@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
-:author: Mag. phil. A.Z. Ramstedt
-:revnumber: 0.3.0-dev.0.0+202004021905
+:author: A. Z. Ramstedt; Dave MacLeod
+:revnumber: 0.3.0-dev.0.0+202004022135
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -9,11 +9,13 @@ ifdef::backend-pdf[]
 :toc: auto
 :toclevels: 5
 :toc-title: Contenete
+:front-cover-image: ../tmp/interlingue_course_in_10_lessons_cover.pdf
 endif::[]
 ifdef::backend-epub3[]
 :doctype: book
 :toclevels: 5
 :toc-title: Contenete
+:front-cover-image: ../target/interlingue_course_in_10_lessons_cover.jpg
 endif::[]
 // :sectnumlevels: 3
 
@@ -26,7 +28,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202004021906
+// Last modified 202004022141
 
 :dot: .
 
@@ -56,8 +58,8 @@ https://drive.google.com/file/d/1gelftqO9zPPi0KUkqdjOjikax2O1GvBL/view[drive.goo
 (PDF format)].
 
 Conversion to Asciidoctor, revision and e-book edition:: Marcos Cruz,
-2019{dot}  Available in http://ne.alinome.net[ne.alinome.net] in EPUB, PDF
-and other formats.
+2019, 2020{dot}  Available in http://ne.alinome.net[ne.alinome.net] in
+EPUB, PDF and other formats.
 
 Main changes in this edition::
 
@@ -78,7 +80,9 @@ dbtoepub,
 http://debian.org[Debian],
 http://git-scm.com/[Git],
 https://www.gnu.org/software/make/[GNU make],
-http://pandoc.org[pandoc],
+http://imagemagick.org[ImageMagick],
+https://gitlab.mister-muffin.de/josch/img2pdf[img2pdf],
+http://pandoc.org[Pandoc],
 http://http://jonas.nitro.dk/tig[Tig],
 http://vim.org[Vim],
 http://xmlsoft.org/XSLT/[xsltproc]...
