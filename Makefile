@@ -2,11 +2,11 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 202004021456
+# Last modified 202004022228
 # See change log at the end of the file
 
 # ==============================================================
-# Requirements
+# Requirements {{{1
 
 # Asciidoctor (by Dan Allen, Sarah White et al.)
 #   http://asciidoctor.org
@@ -20,6 +20,12 @@
 # dbtoepub
 #   http://docbook.sourceforge.net/release/xsl/current/epub/README
 
+# ImageMagick (by ImageMagick Studio LCC)
+#   http://imagemagick.org
+
+# img2pdf (by Johannes 'josch' Schauer)
+#   https://gitlab.mister-muffin.de/josch/img2pdf
+
 # Pandoc (by John MaFarlane)
 #   http://pandoc.org
 
@@ -27,114 +33,111 @@
 #   http://xmlsoft.org/xslt/xsltproc.html
 
 # ==============================================================
-# Config
+# Config {{{1
 
 VPATH=./src:./target
 
-book_basename=interlingue_course_in_10_lessons
+book=interlingue_course_in_10_lessons
+cover=$(book)_cover
+author="A. Z. Ramstedt\nDave MacLeod"
 title="Interlingue Course in 10 Lessons"
 lang="en"
 editor="Marcos Cruz (programandala.net)"
 publisher="ne alinome"
-description=
+description="Course of the Interlingue international auxiliary language"
 
 # ==============================================================
-# Interface
+# Interface {{{1
 
 .PHONY: default
-default: epuba pdf 
+default: epuba pdf thumb
 
 .PHONY: all
-all: dbk epub html odt pdf 
+all: dbk epub html odt pdf thumb
 
 .PHONY: epub
-epub: epubd epubp epubx
+epub: epuba epubd epubp epubx
 
 .PHONY: epuba
-epuba: target/$(book_basename).adoc.epub
+epuba: target/$(book).adoc.epub
 
 .PHONY: epubd
-epubd: target/$(book_basename).adoc.dbk.dbtoepub.epub
+epubd: target/$(book).adoc.dbk.dbtoepub.epub
 
 .PHONY: epubp
-epubp: target/$(book_basename).adoc.dbk.pandoc.epub
+epubp: target/$(book).adoc.dbk.pandoc.epub
 
 .PHONY: epubx
-epubx: target/$(book_basename).adoc.dbk.xsltproc.epub
+epubx: target/$(book).adoc.dbk.xsltproc.epub
 
 .PHONY: html
 html: htmlap htmlas htmlpb htmlpc
 
 .PHONY: htmlap
-htmlap: target/$(book_basename).adoc._plain.html
+htmlap: target/$(book).adoc._plain.html
 
 .PHONY: htmlas
-htmlas: target/$(book_basename).adoc._stylish.html
+htmlas: target/$(book).adoc._stylish.html
 
 .PHONY: htmlpb
-htmlpb: target/$(book_basename).adoc.dbk.pandoc._body.html
+htmlpb: target/$(book).adoc.dbk.pandoc._body.html
 
 .PHONY: htmlpc
-htmlpc: target/$(book_basename).adoc.dbk.pandoc._complete.html
+htmlpc: target/$(book).adoc.dbk.pandoc._complete.html
 
 .PHONY: odt
-odt: target/$(book_basename).adoc.dbk.pandoc.odt
+odt: target/$(book).adoc.dbk.pandoc.odt
 
 .PHONY: pdf
 pdf: pdfa4 pdfl
 
 .PHONY: pdfa4
-pdfa4: target/$(book_basename).adoc._a4.pdf
+pdfa4: target/$(book).adoc._a4.pdf
 
 .PHONY: pdfl
-pdfl: target/$(book_basename).adoc._letter.pdf
+pdfl: target/$(book).adoc._letter.pdf
 
 .PHONY: dbk
-dbk: target/$(book_basename).adoc.dbk
+dbk: target/$(book).adoc.dbk
 
-.PHONY: it
-it: epubd pdfa4
+.PHONY: cover
+cover: target/$(cover).jpg
+
+.PHONY: thumb
+thumb: target/$(cover)_thumb.jpg
 
 .PHONY: clean
 clean:
 	rm -fr target/* tmp/*
 
-# ==============================================================
-# Convert Asciidoctor to EPUB
+.PHONY: cleancover
+cleancover:
+	rm -f target/*.jpg tmp/*.png
 
-target/%.adoc.epub: src/%.adoc
+# ==============================================================
+# Convert Asciidoctor to EPUB {{{1
+
+target/%.adoc.epub: src/%.adoc target/$(cover).jpg
 	asciidoctor-epub3 \
 		--out-file=$@ $<
 
 # ==============================================================
-# Convert Asciidoctor to PDF
-
-target/%.adoc._a4.pdf: src/%.adoc
-	asciidoctor-pdf \
-		--out-file=$@ $<
-
-target/%.adoc._letter.pdf: src/%.adoc
-	asciidoctor-pdf \
-		--attribute pdf-page-size=letter \
-		--out-file=$@ $<
-
-# ==============================================================
-# Convert Asciidoctor to DocBook
+# Convert Asciidoctor to DocBook {{{1
 
 target/%.adoc.dbk: src/%.adoc
 	asciidoctor --backend=docbook5 --out-file=$@ $<
 
 # ==============================================================
-# Convert Asciidoctor to HTML
+# Convert Asciidoctor to HTML {{{1
 
 # ----------------------------------------------
-# With styles included
+# With styles included {{{2
 
 target/%.adoc._stylish.html: src/%.adoc
 	asciidoctor --backend=html --out-file=$@ $<
 
 # ----------------------------------------------
-# Plain, without styles included
+# Plain, without styles included {{{2
 
 target/%.adoc._plain.html: src/%.adoc
 	asciidoctor \
@@ -143,63 +146,38 @@ target/%.adoc._plain.html: src/%.adoc
 		--out-file=$@ $<
 
 # ==============================================================
-# Convert DocBook to HTML
+# Convert Asciidoctor to PDF {{{1
 
-# ----------------------------------------------
-# Body only
+target/%.adoc._a4.pdf: src/%.adoc tmp/$(cover).pdf
+	asciidoctor-pdf \
+		--out-file=$@ $<
 
-target/$(book_basename).adoc.dbk.pandoc._body.html: \
-	target/$(book_basename).adoc.dbk \
-	src/$(book_basename)-docinfo.xml \
-	src/pandoc_html_body_template.txt
-	pandoc \
-		--from docbook \
-		--to html5 \
-		--template=src/pandoc_html_body_template.txt \
-		--variable=lang:$(lang) \
-		--variable=editor:$(editor) \
-		--variable=publisher:$(publisher) \
-		--variable=description:$(description) \
-		--output $@ $<
-
-# ----------------------------------------------
-# Complete
-
-target/$(book_basename).adoc.dbk.pandoc._complete.html: \
-	target/$(book_basename).adoc.dbk \
-	src/$(book_basename)-docinfo.xml \
-	src/pandoc_html_complete_template.txt
-	pandoc \
-		--from docbook \
-		--to html5 \
-		--template=src/pandoc_html_complete_template.txt \
-		--standalone \
-		--variable=lang:$(lang) \
-		--variable=editor:$(editor) \
-		--variable=publisher:$(publisher) \
-		--variable=description:$(description) \
-		--output $@ $<
+target/%.adoc._letter.pdf: src/%.adoc tmp/$(cover).pdf
+	asciidoctor-pdf \
+		--attribute pdf-page-size=letter \
+		--out-file=$@ $<
 
 # ==============================================================
-# Convert DocBook to EPUB
+# Convert DocBook to EPUB {{{1
 
 # ------------------------------------------------
-# With dbtoepub
+# With dbtoepub {{{2
 
-target/$(book_basename).adoc.dbk.dbtoepub.epub: \
-	target/$(book_basename).adoc.dbk \
-	src/$(book_basename)-docinfo.xml
+target/$(book).adoc.dbk.dbtoepub.epub: \
+	target/$(book).adoc.dbk \
+	src/$(book)-docinfo.xml
 	dbtoepub \
 		--output $@ $<
 
 # ------------------------------------------------
-# With pandoc
+# With pandoc {{{2
 
-target/$(book_basename).adoc.dbk.pandoc.epub: \
-	target/$(book_basename).adoc.dbk \
-	src/$(book_basename)-docinfo.xml \
+target/$(book).adoc.dbk.pandoc.epub: \
+	target/$(book).adoc.dbk \
+	src/$(book)-docinfo.xml \
 	src/pandoc_epub_template.txt \
-	src/pandoc_epub_stylesheet.css
+	src/pandoc_epub_stylesheet.css \
+	target/$(cover).jpg
 	pandoc \
 		--from docbook \
 		--to epub3 \
@@ -209,10 +187,11 @@ target/$(book_basename).adoc.dbk.pandoc.epub: \
 		--variable=editor:$(editor) \
 		--variable=publisher:$(publisher) \
 		--variable=description:$(description) \
+		--epub-cover-image=target/$(cover).jpg \
 		--output $@ $<
 
 # ------------------------------------------------
-# With xsltproc
+# With xsltproc {{{2
 
 target/%.adoc.dbk.xsltproc.epub: target/%.adoc.dbk
 	rm -fr tmp/xsltproc/* && \
@@ -236,11 +215,49 @@ target/%.adoc.dbk.xsltproc.epub: target/%.adoc.dbk
 #  cp -f src/xsltproc/stylesheet.css tmp/xsltproc/OEBPS/ && \
 
 # ==============================================================
-# Convert DocBook to OpenDocument
+# Convert DocBook to HTML {{{1
 
-target/$(book_basename).adoc.dbk.pandoc.odt: \
-	target/$(book_basename).adoc.dbk \
-	src/$(book_basename)-docinfo.xml \
+# ----------------------------------------------
+# Body only {{{2
+
+target/$(book).adoc.dbk.pandoc._body.html: \
+	target/$(book).adoc.dbk \
+	src/$(book)-docinfo.xml \
+	src/pandoc_html_body_template.txt
+	pandoc \
+		--from docbook \
+		--to html5 \
+		--template=src/pandoc_html_body_template.txt \
+		--variable=lang:$(lang) \
+		--variable=editor:$(editor) \
+		--variable=publisher:$(publisher) \
+		--variable=description:$(description) \
+		--output $@ $<
+
+# ----------------------------------------------
+# Complete {{{2
+
+target/$(book).adoc.dbk.pandoc._complete.html: \
+	target/$(book).adoc.dbk \
+	src/$(book)-docinfo.xml \
+	src/pandoc_html_complete_template.txt
+	pandoc \
+		--from docbook \
+		--to html5 \
+		--template=src/pandoc_html_complete_template.txt \
+		--standalone \
+		--variable=lang:$(lang) \
+		--variable=editor:$(editor) \
+		--variable=publisher:$(publisher) \
+		--variable=description:$(description) \
+		--output $@ $<
+
+# ==============================================================
+# Convert DocBook to OpenDocument {{{1
+
+target/$(book).adoc.dbk.pandoc.odt: \
+	target/$(book).adoc.dbk \
+	src/$(book)-docinfo.xml \
 	src/pandoc_odt_template.txt
 	pandoc \
 		--from docbook \
@@ -253,7 +270,102 @@ target/$(book_basename).adoc.dbk.pandoc.odt: \
 		--output $@ $<
 
 # ==============================================================
-# Change log
+# Create the cover image {{{1
+
+# ------------------------------------------------
+# Create the canvas and texts of the cover image {{{2
+
+font=Helvetica
+background=yellow
+fill=black
+strokewidth=4
+logo='\#FFD700' # gold
+
+tmp/$(cover).title.png:
+	convert \
+		-background transparent \
+		-fill $(fill) \
+		-font $(font) \
+		-pointsize 140 \
+		-size 890x \
+		-gravity east \
+		caption:$(title) \
+		$@
+
+tmp/$(cover).author.png:
+	convert \
+		-background transparent \
+		-fill $(fill) \
+		-font $(font) \
+		-pointsize 90 \
+		-size 890x \
+		-gravity east \
+		caption:$(author) \
+		$@
+
+tmp/$(cover).publisher.png:
+	convert \
+		-background transparent \
+		-fill $(fill) \
+		-font $(font) \
+		-pointsize 24 \
+		-gravity east \
+		-size 128x \
+		caption:$(publisher) \
+		$@
+
+tmp/$(cover).logo.png: img/icon_plaincircle.svg
+	convert $< \
+		-fuzz 50% \
+		-fill $(background) \
+		-opaque white \
+		-fuzz 50% \
+		-fill $(logo) \
+		-opaque black \
+		-resize 256% \
+		$@
+
+tmp/$(cover).decoration.png: img/$(book)_cover_decoration.png
+	convert $< \
+		-fuzz 10% \
+		-fill $(background) \
+		-opaque white \
+		-resize 48% \
+		$@
+
+# ------------------------------------------------
+# Create the cover image {{{2
+
+target/$(cover).jpg: \
+	tmp/$(cover).title.png \
+	tmp/$(cover).author.png \
+	tmp/$(cover).publisher.png \
+	tmp/$(cover).logo.png \
+	tmp/$(cover).decoration.png
+	convert -size 1200x1600 canvas:$(background) $@
+	composite -gravity south     -geometry +000+000 tmp/$(cover).logo.png $@ $@
+	composite -gravity northeast -geometry +048+048 tmp/$(cover).title.png $@ $@
+	composite -gravity northeast -geometry +048+512 tmp/$(cover).author.png $@ $@
+	composite -gravity southeast -geometry +048+048 tmp/$(cover).publisher.png $@ $@
+	composite -gravity west      -geometry +102+170 tmp/$(cover).decoration.png $@ $@
+
+# ------------------------------------------------
+# Convert the cover image to PDF {{{2
+
+# This is needed in order to make sure the cover image ocuppies the whole page
+# in the PDF versions of the book.
+
+tmp/$(cover).pdf: target/$(cover).jpg
+	img2pdf --output $@ --border 0 $<
+
+# ------------------------------------------------
+# Create a thumb version of the cover image {{{2
+
+%_thumb.jpg: %.jpg
+	convert $< -resize 190x $@
+
+# ==============================================================
+# Change log {{{1
 
 # 2019-02-18: Start.
 #
@@ -268,4 +380,4 @@ target/$(book_basename).adoc.dbk.pandoc.odt: \
 # 2020-04-02: Replace DocBook extension "xml" with "dbk". Change the file
 # naming convention: add "_" before the variant names. Create an EPUB also with
 # Asciidoctor EPUB3. Update/improve the requirements list. Make only the
-# recommended formats by default. Update the publisher.
+# recommended formats by default. Update the publisher. Add a cover image.
