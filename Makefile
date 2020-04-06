@@ -2,7 +2,7 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 202004022228
+# Last modified 202004062210
 # See change log at the end of the file
 
 # ==============================================================
@@ -39,8 +39,8 @@ VPATH=./src:./target
 
 book=interlingue_course_in_10_lessons
 cover=$(book)_cover
-author="A. Z. Ramstedt\nDave MacLeod"
-title="Interlingue Course in 10 Lessons"
+cover_author="A. Z. Ramstedt\nDave MacLeod"
+cover_title="Interlingue\nCourse\nin 10 Lessons"
 lang="en"
 editor="Marcos Cruz (programandala.net)"
 publisher="ne alinome"
@@ -286,10 +286,10 @@ tmp/$(cover).title.png:
 		-background transparent \
 		-fill $(fill) \
 		-font $(font) \
-		-pointsize 140 \
-		-size 890x \
+		-pointsize 128 \
+		-size 1200x \
 		-gravity east \
-		caption:$(title) \
+		caption:$(cover_title) \
 		$@
 
 tmp/$(cover).author.png:
@@ -297,10 +297,10 @@ tmp/$(cover).author.png:
 		-background transparent \
 		-fill $(fill) \
 		-font $(font) \
-		-pointsize 90 \
-		-size 890x \
+		-pointsize 72 \
+		-size 896x \
 		-gravity east \
-		caption:$(author) \
+		caption:$(cover_author) \
 		$@
 
 tmp/$(cover).publisher.png:
@@ -381,3 +381,5 @@ tmp/$(cover).pdf: target/$(cover).jpg
 # naming convention: add "_" before the variant names. Create an EPUB also with
 # Asciidoctor EPUB3. Update/improve the requirements list. Make only the
 # recommended formats by default. Update the publisher. Add a cover image.
+#
+# 2020-04-06: Adjust the size and layout of the cover texts.
