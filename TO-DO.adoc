@@ -1,6 +1,6 @@
 = TO-DO of _Interlingue Course in 10 Lessons_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-04-08
+:revdate: 2020-04-06
 
 // This file is part of project
 // _Interlingue Course in 10 Lessons_
@@ -11,21 +11,20 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201904082023
+// Last modified 202004062212
 
 - Note: automatic numbering of sections with `:sectnum:` is not
   preserved in DocBook, therefore it's not rendered into EPUB, only
-  into PDF. Beside, `:sectnum:` makes asciidoctor-pdf add "Chapter X"
+  into PDF. Beside, `:sectnum:` makes Asciidoctor PDF add "Chapter X"
   before the text of level-1 headings. That's why automatic numbering
   was deactivated.
 - "-ería" is missing (also in the german original). It's only
   mentioned in "-eríe". Meanwhile "barbería" links there.
 - Note: The unordered lists in the example blocks of "-age" are
-  rendered as ordered lists in EPUB (epub2db) by one reader, but they
+  rendered as ordered lists in EPUB (dbtoepub) by one reader, but they
   are rendered ok by other readers. They are ok also in PDF.
 - "-issim" is missing (also in the german original).
 - Check if more suffixes are missing, beside "-ería" and "-issim".
 - Improve the description of the effect of exception endings.
 - Replace the removed note _"`eu`" as "`éh-oo`"_ with a general
   description of similar cases, from Haas' grammar.
-
