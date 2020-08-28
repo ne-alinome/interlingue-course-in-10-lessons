@@ -2,7 +2,7 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 202008281724
+# Last modified 202008281806
 # See change log at the end of the file
 
 # ==============================================================
@@ -92,10 +92,14 @@ odt: target/$(book).adoc.dbk.pandoc.odt
 pdf: pdfa4 pdfl
 
 .PHONY: pdfa4
-pdfa4: target/$(book).adoc._a4.pdf
+pdfa4: \
+	target/$(book).adoc._a4.pdf.zip \
+	target/$(book).adoc._a4.pdf.gz
 
 .PHONY: pdfl
-pdfl: target/$(book).adoc._letter.pdf
+pdfl: \
+	target/$(book).adoc._letter.pdf.zip \
+	target/$(book).adoc._letter.pdf.gz
 
 .PHONY: dbk
 dbk: target/$(book).adoc.dbk
@@ -148,14 +152,20 @@ target/%.adoc._plain.html: src/%.adoc
 # ==============================================================
 # Convert Asciidoctor to PDF {{{1
 
-target/%.adoc._a4.pdf: src/%.adoc tmp/$(cover).pdf
+tmp/%.adoc._a4.pdf: src/%.adoc tmp/$(cover).pdf
 	asciidoctor-pdf \
 		--out-file=$@ $<
 
-target/%.adoc._letter.pdf: src/%.adoc tmp/$(cover).pdf
+tmp/%.adoc._letter.pdf: src/%.adoc tmp/$(cover).pdf
 	asciidoctor-pdf \
 		--attribute pdf-page-size=letter \
 		--out-file=$@ $<
+
+target/%.pdf.zip: tmp/%.pdf
+	zip -9 $@ $<
+
+target/%.pdf.gz: tmp/%.pdf
+	gzip -9 --stdout $< > $@
 
 # ==============================================================
 # Convert DocBook to EPUB {{{1
@@ -273,6 +283,8 @@ target/$(book).adoc.dbk.pandoc.odt: \
 # Create the cover image {{{1
 
 include Makefile.cover_image
+
+# ==============================================================
 # Change log {{{1
 
 # 2019-02-18: Start.
@@ -292,4 +304,5 @@ include Makefile.cover_image
 #
 # 2020-04-06: Adjust the size and layout of the cover texts.
 #
-# 2020-08-28: Move the cover image rules to an independent file.
+# 2020-08-28: Move the cover image rules to an independent file. Compress the
+# PDF files.
