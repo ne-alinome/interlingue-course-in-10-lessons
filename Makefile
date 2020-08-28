@@ -2,7 +2,7 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 202004062210
+# Last modified 202008281724
 # See change log at the end of the file
 
 # ==============================================================
@@ -272,99 +272,7 @@ target/$(book).adoc.dbk.pandoc.odt: \
 # ==============================================================
 # Create the cover image {{{1
 
-# ------------------------------------------------
-# Create the canvas and texts of the cover image {{{2
-
-font=Helvetica
-background=yellow
-fill=black
-strokewidth=4
-logo='\#FFD700' # gold
-
-tmp/$(cover).title.png:
-	convert \
-		-background transparent \
-		-fill $(fill) \
-		-font $(font) \
-		-pointsize 128 \
-		-size 1200x \
-		-gravity east \
-		caption:$(cover_title) \
-		$@
-
-tmp/$(cover).author.png:
-	convert \
-		-background transparent \
-		-fill $(fill) \
-		-font $(font) \
-		-pointsize 72 \
-		-size 896x \
-		-gravity east \
-		caption:$(cover_author) \
-		$@
-
-tmp/$(cover).publisher.png:
-	convert \
-		-background transparent \
-		-fill $(fill) \
-		-font $(font) \
-		-pointsize 24 \
-		-gravity east \
-		-size 128x \
-		caption:$(publisher) \
-		$@
-
-tmp/$(cover).logo.png: img/icon_plaincircle.svg
-	convert $< \
-		-fuzz 50% \
-		-fill $(background) \
-		-opaque white \
-		-fuzz 50% \
-		-fill $(logo) \
-		-opaque black \
-		-resize 256% \
-		$@
-
-tmp/$(cover).decoration.png: img/$(book)_cover_decoration.png
-	convert $< \
-		-fuzz 10% \
-		-fill $(background) \
-		-opaque white \
-		-resize 48% \
-		$@
-
-# ------------------------------------------------
-# Create the cover image {{{2
-
-target/$(cover).jpg: \
-	tmp/$(cover).title.png \
-	tmp/$(cover).author.png \
-	tmp/$(cover).publisher.png \
-	tmp/$(cover).logo.png \
-	tmp/$(cover).decoration.png
-	convert -size 1200x1600 canvas:$(background) $@
-	composite -gravity south     -geometry +000+000 tmp/$(cover).logo.png $@ $@
-	composite -gravity northeast -geometry +048+048 tmp/$(cover).title.png $@ $@
-	composite -gravity northeast -geometry +048+512 tmp/$(cover).author.png $@ $@
-	composite -gravity southeast -geometry +048+048 tmp/$(cover).publisher.png $@ $@
-	composite -gravity west      -geometry +102+170 tmp/$(cover).decoration.png $@ $@
-
-# ------------------------------------------------
-# Convert the cover image to PDF {{{2
-
-# This is needed in order to make sure the cover image ocuppies the whole page
-# in the PDF versions of the book.
-
-tmp/$(cover).pdf: target/$(cover).jpg
-	img2pdf --output $@ --border 0 $<
-
-# ------------------------------------------------
-# Create a thumb version of the cover image {{{2
-
-%_thumb.jpg: %.jpg
-	convert $< -resize 190x $@
-
-# ==============================================================
+include Makefile.cover_image
 # Change log {{{1
 
 # 2019-02-18: Start.
@@ -383,3 +291,5 @@ tmp/$(cover).pdf: target/$(cover).jpg
 # recommended formats by default. Update the publisher. Add a cover image.
 #
 # 2020-04-06: Adjust the size and layout of the cover texts.
+#
+# 2020-08-28: Move the cover image rules to an independent file.
