@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: A. Z. Ramstedt; Dave MacLeod
-:revnumber: 0.3.0-dev.1.0+202008281840
+:revnumber: 0.3.0-dev.1.1+202008281946
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -1557,7 +1557,7 @@ respondent al question *"`quantesim?`"*:
 | 30   | triantesim
 | 55   | quinantquinesim
 | 100  | centesim
-| 1000 | milesim
+| 1000 | millesim
 |===
 
 [NOTE]
@@ -1614,7 +1614,7 @@ aproximativ númere:
 - deciduene
 - duantene
 - centene
-- milene
+- millene
 
 NOTE: The above numbers are used collectively or approximatively in
 phrases such as *un centene de soldates*: a hundred soldiers. English
