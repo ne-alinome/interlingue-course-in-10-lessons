@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: A. Z. Ramstedt; Dave MacLeod
-:revnumber: 0.3.0-dev.0.0+202004022135
+:revnumber: 0.3.0-dev.1.0+202008281840
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -92,7 +92,9 @@ Version of this edition:: {revnumber}.
 Contributions:: Corrections and suggestions for next versions are
 welcome at http://ne.alinome.net[ne.alinome.net].
 
-NOTE: The name of Interlingue was "`Occidental`" until 1949.
+NOTE: The name of the international language created by Edgar de Wahl
+was *Occidental* until 1949, when it was renamed to *Interlingue* in
+order to avoid the political aspect of the name "`Occidental-Union`".
 
 // Pronunciation {{{1
 == Pronunciation
