@@ -2,7 +2,7 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 202011051802
+# Last modified 202011051813
 # See change log at the end of the file
 
 # ==============================================================
@@ -286,6 +286,8 @@ include Makefile.cover_image
 
 # ==============================================================
 # Build the release archives {{{1
+
+version_file=src/$(book).adoc
 
 include Makefile.release
 
