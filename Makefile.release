@@ -5,17 +5,23 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 202011051748
+# Last modified 202011051811
 # See change log at the end of the file
 
 # ==============================================================
 
-# Input: $(book) = basename of the main Asciicoctor source (without the ".adoc"
-# extension), in the <scr> directory.
+# Input variables, set by <Makefile>:
+#
+# book = basename of the main Asciidoctor source (without the ".adoc"
+# extension), in the <scr> directory. Example: "my_book".
+#
+# version_file = path to the Asciidoctor file containing the `:revnumber:`
+# attribute with the version number of the book. Examples: "src/VERSION.adoc",
+# "src/my_book.adoc".
 
 branch=$(book)
 
-release=$(shell grep ":revnumber:" src/$(book).adoc | sed -e "s/:revnumber: \\+//" )
+release=$(shell grep ":revnumber:" $(version_file) | sed -e "s/:revnumber: \\+//" )
 
 prerequisites=*.adoc target/
 
