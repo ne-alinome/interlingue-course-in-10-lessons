@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: A. Z. Ramstedt; Dave MacLeod
-:revnumber: 0.3.0-dev.2.0+202011041911
+:revnumber: 0.3.0-dev.3.0+20201105
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -28,7 +28,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011041911
+// Last modified 202011051840
 
 :dot: .
 
@@ -59,8 +59,9 @@ https://drive.google.com/file/d/1gelftqO9zPPi0KUkqdjOjikax2O1GvBL/view[drive.goo
 (PDF format)].
 
 Conversion to Asciidoctor, revision and e-book edition:: Marcos Cruz,
-2019, 2020{dot}  Available in http://ne.alinome.net[ne.alinome.net] in
-EPUB, PDF and other formats.
+2019, 2020{dot}  Available in several formats in
+http://ne.alinome.net[ne.alinome.net] and its
+http://github.com/ne-alinome[GitHub repository].
 
 Main changes in this edition::
 
