@@ -1,0 +1,53 @@
+# Makefile.release
+
+# Build the release archives of an e-book project.
+
+# By Marcos Cruz (programandala.net)
+# http://ne.alinome.net
+
+# Last modified 202011051748
+# See change log at the end of the file
+
+# ==============================================================
+
+# Input: $(book) = basename of the main Asciicoctor source (without the ".adoc"
+# extension), in the <scr> directory.
+
+branch=$(book)
+
+release=$(shell grep ":revnumber:" src/$(book).adoc | sed -e "s/:revnumber: \\+//" )
+
+prerequisites=*.adoc target/
+
+.PHONY: release
+release: tgz zip
+
+.PHONY: tgz
+tgz: tmp/$(book)_$(release).tar.gz
+
+.PHONY: zip
+zip: tmp/$(book)_$(release).zip
+
+tmp/$(book)_$(release).tar.gz: $(prerequisites)
+	cd .. ; \
+	ln -sfn $(branch) $(book)_$(release) ; \
+	tar czf \
+		$(book)_$(release)/$@ \
+		--exclude="*.swp" \
+		--exclude=".gitignore" \
+		$(addprefix $(book)_$(release)/,$^) ; \
+	rm -f $(book)_$(release)
+
+tmp/$(book)_$(release).zip:  $(prerequisites)
+	cd .. ; \
+	ln -sfn $(branch) $(book)_$(release) ; \
+	zip -9r \
+		$(book)_$(release)/$@ \
+		$(addprefix $(book)_$(release)/,$^) \
+		--exclude "*.gitignore" "*.swp" ; \
+	rm -f $(book)_$(release)
+
+# ==============================================================
+# Change log {{{1
+
+# 2020-11-05: Start.

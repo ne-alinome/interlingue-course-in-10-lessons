@@ -2,7 +2,7 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 202008281806
+# Last modified 202011051802
 # See change log at the end of the file
 
 # ==============================================================
@@ -285,6 +285,11 @@ target/$(book).adoc.dbk.pandoc.odt: \
 include Makefile.cover_image
 
 # ==============================================================
+# Build the release archives {{{1
+
+include Makefile.release
+
+# ==============================================================
 # Change log {{{1
 
 # 2019-02-18: Start.
@@ -306,3 +311,5 @@ include Makefile.cover_image
 #
 # 2020-08-28: Move the cover image rules to an independent file. Compress the
 # PDF files.
+#
+# 2020-11-05: Include <Makefile.release>.
