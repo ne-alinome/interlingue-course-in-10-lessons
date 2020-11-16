@@ -1,6 +1,6 @@
 = TO-DO of _Interlingue Course in 10 Lessons_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-04-06
+:revdate: 2020-11-16
 
 // This file is part of project
 // _Interlingue Course in 10 Lessons_
@@ -11,7 +11,7 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202004062212
+// Last modified 202011161940
 
 - Note: automatic numbering of sections with `:sectnum:` is not
   preserved in DocBook, therefore it's not rendered into EPUB, only
@@ -28,3 +28,4 @@
 - Improve the description of the effect of exception endings.
 - Replace the removed note _"`eu`" as "`éh-oo`"_ with a general
   description of similar cases, from Haas' grammar.
+- Improve the style of quotes with CSS.  
