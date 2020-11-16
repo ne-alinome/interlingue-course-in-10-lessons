@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: A. Z. Ramstedt; Dave MacLeod
-:revnumber: 0.3.0-dev.5.0+20201116
+:revnumber: 0.3.0-dev.6.0+20201116
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -28,7 +28,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011161829
+// Last modified 202011161859
 
 :dot: .
 
@@ -150,7 +150,7 @@ ch::
 consonant (ex. "`technic`"), in the syllabe "`arch`" (ex. "`monarch`")
 and before or after "`y`" (ex. "`psycho`", "`pachyderm`"). See article
 "`Linguistic explorationes -- Pronunciation de «ch»`" in _Cosmoglotta_
-series A number 101, 1935. Note del editor digital.]: *chambre*.
+series A number 101, 1935. Note of the digital editor.]: *chambre*.
 
 g::
 
@@ -215,7 +215,10 @@ in uppercase.
   vowels: *dIe*, *dEo*. Compound words are stressed based on the last
   word in the compound: *hodIe*, *substrAe*.
 - In cases where the accent is irregular, it is indicated by an
-  accent: *café*, *ínpossibil*, *numeró*, *númere*, *felicitá*.
+  accent: *café*, *ínpossibil*{blank}footnote:[In "`ínpossibil`" the
+  accent is not strictly irregular, because it belongs to the "`ín-`"
+  prefix. Note of the digital editor.], *numeró*, *númere*,
+  *felicitá*.
 
 // The names of the letters {{{2
 === The names of the letters
