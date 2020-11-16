@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: A. Z. Ramstedt; Dave MacLeod
-:revnumber: 0.3.0-dev.4.0+20201116
+:revnumber: 0.3.0-dev.5.0+20201116
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -28,7 +28,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011161745
+// Last modified 202011161829
 
 :dot: .
 
@@ -146,7 +146,11 @@ is hard as in "`can`".
 
 ch::
 
-[ʃ], English "`sh`": *chambre*.
+[ʃ], English "`sh`"{blank}footnote:["`Ch`" sounds like "`k`" before a
+consonant (ex. "`technic`"), in the syllabe "`arch`" (ex. "`monarch`")
+and before or after "`y`" (ex. "`psycho`", "`pachyderm`"). See article
+"`Linguistic explorationes -- Pronunciation de «ch»`" in _Cosmoglotta_
+series A number 101, 1935. Note del editor digital.]: *chambre*.
 
 g::
 
