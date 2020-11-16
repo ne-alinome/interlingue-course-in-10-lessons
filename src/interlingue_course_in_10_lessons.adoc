@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: A. Z. Ramstedt; Dave MacLeod
-:revnumber: 0.3.0-dev.3.0+20201105
+:revnumber: 0.3.0-dev.4.0+20201116
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -28,7 +28,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011051840
+// Last modified 202011161745
 
 :dot: .
 
@@ -69,25 +69,25 @@ Main changes in this edition::
 - In order to make the contents more legible in any format, the layout
   of tables, lists, notes, block quotes, etc. has been modified.
 - For easier consulting, vocabulary tables have been converted to
-  alphabetic lists, and the notation has been homogenized.
+  alphabetic lists, and the notation has been homogenized, e.g.
+  the infinitives.
 
 // Some changes and improvements are unfinished yet. See the
 // http://github.com/ne-alinome/interlingue-course-in-10-lessons/blob/master/TO-DO.adoc[to-do
 // list in the project repository] for details.
 
-Edition made only by libre programs:: 
+Main programs used to build this edition:: 
 http://asciidoctor.org[Asciidoctor],
-https://github.com/asciidoctor/asciidoctor-pdf[asciidoctor-pdf],
-dbtoepub,
-http://debian.org[Debian],
-http://git-scm.com/[Git],
-https://www.gnu.org/software/make/[GNU make],
+https://github.com/asciidoctor/asciidoctor-epub3[Asciidoctor EPUB3],
+https://github.com/asciidoctor/asciidoctor-pdf[Asciidoctor PDF],
+http://docbook.sourceforge.net/release/xsl/current/epub/README[dbtoepub],
+http://manual.calibre-ebook.com/generated/en/ebook-convert.html[ebook-convert],
 http://imagemagick.org[ImageMagick],
 https://gitlab.mister-muffin.de/josch/img2pdf[img2pdf],
 http://pandoc.org[Pandoc],
-http://http://jonas.nitro.dk/tig[Tig],
-http://vim.org[Vim],
-http://xmlsoft.org/XSLT/[xsltproc]...
+http://vim.org[Vim]…
+on the http://debian.org[Debian] operating system.
+All programs used in this project are libre software.
 
 Version of this edition:: {revnumber}.
 
@@ -97,6 +97,9 @@ welcome at http://ne.alinome.net[ne.alinome.net].
 NOTE: The name of the international language created by Edgar de Wahl
 was *Occidental* until 1949, when it was renamed to *Interlingue* in
 order to avoid the political aspect of the name "`Occidental-Union`".
+Currently both names are used as synonyms, and also some compounds
+like "`Interlingue (Occidental)`", "`Interlingue/Occidental`" or
+"`Occidental/Interlingue`". 
 
 // Pronunciation {{{1
 == Pronunciation
