@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: A. Z. Ramstedt; Dave MacLeod
-:revnumber: 0.3.0-dev.10.1+20201117
+:revnumber: 0.3.0-dev.11.0+20201117
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -28,7 +28,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011171712
+// Last modified 202011171718
 
 :dot: .
 
@@ -2242,24 +2242,24 @@ following:
 |===
 | Etymologic | Doubled consonant | Modern single consonant form
 
-| *adportar*
-| *apportar*
+| adportar
+| apportar
 | *aportar* (to bring, from *ad*{nbsp}+ *portar*, lit. to "`to pull`")
 
-| *adnexion*
-| *annexion*
+| adnexion
+| annexion
 | *anexion* (to annex, from *ad*{nbsp}+ *nexer*, lit. to "`to tie`")
 
-| *adtractiv*
-| *attractiv*
+| adtractiv
+| attractiv
 | *atractiv* (to attract, from *ad*{nbsp}+ *tracter*, lit. to "`to pull`")
 
-| *obpression*
-| *oppression*
+| obpression
+| oppression
 | *opression* (to oppress, from *ob*{nbsp}+ *presser*, lit. to "`against press`")
 
-| *subposition*
-| *supposition*
+| subposition
+| supposition
 | *suposition* (to suppose, from *sub*{nbsp}+ *poser*, lit. to "`under place`")
 
 |===
