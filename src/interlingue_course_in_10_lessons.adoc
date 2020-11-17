@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: A. Z. Ramstedt; Dave MacLeod
-:revnumber: 0.3.0-dev.6.6+20201117
+:revnumber: 0.3.0-dev.6.7+20201117
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -1118,7 +1118,7 @@ tam senil, quam li profetes de fatiga vole far nos creder.
 - *támen* = however
 - *témpore* = time
 - *unde* = wave
-- *van* = in vain
+- *van* = vain, in vain
 
 NOTE: *omni* before a singular means "`each`" (same as *chascun*), while
 before a plural it means "`all`".
