@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: A. Z. Ramstedt; Dave MacLeod
-:revnumber: 0.3.0-dev.6.5+20201117
+:revnumber: 0.3.0-dev.6.6+20201117
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -28,7 +28,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011171535
+// Last modified 202011171537
 
 :dot: .
 
@@ -869,7 +869,7 @@ way as the English "`please`":
 | Optative           | *yo mey esser amat*  | may I be loved
 | Conditional        | *yo vell esser amat* | I would be loved
 | Present infinitive | *esser amat*         | to be loved
-| Perfect infinitive | *har esset amat*     | having been loved
+| Perfect infinitive | *har esset amat*     | te have been loved
 | Present participle | *essent amat*        | being loved
 |===
 
