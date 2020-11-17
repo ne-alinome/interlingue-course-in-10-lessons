@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: A. Z. Ramstedt; Dave MacLeod
-:revnumber: 0.3.0-dev.6.3+20201117
+:revnumber: 0.3.0-dev.6.4+20201117
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -28,7 +28,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011170147
+// Last modified 202011170225
 
 :dot: .
 
@@ -1854,7 +1854,7 @@ simply standalone particles but also used to form words.
 | *extra*     | besides
 | *in*        | in
 | *infra*     | below
-| *intra*     | between
+| *ínter*     | between
 | *malgré*    | despite
 | *per*       | by, through
 | *por*       | for
@@ -2851,7 +2851,7 @@ The usual diminutive (making smaller) suffix is *-ett*:
 ====
 
 The same suffix is used to indicate small tools or instruments.
-Example: *inflammette* = match (from flamme, flame), *tenette* = grip,
+Example: *inflammette* = match (from *flamme*, flame), *tenette* = grip,
 hilt (on a sword, from *tener*, to hold)
 
 // -ach {{{4
@@ -2946,6 +2946,9 @@ words you already know:
 above but slightly different.
 
 // XXX FIXED -- "with power cables with" -> "with power cables"
+
+// XXX FIXME: "make electric" es repetit in "electrisar" e
+// "electrificar":
 
 ====
 
@@ -3057,7 +3060,7 @@ condition in its duration), this is formed from the
 - *existentie* = existence (*exister* = to exist)
 - *índependentie* = independence (*depender* = to depend)
 - *confidentie* = confidence (*confider* = to confide)
-- *provenientie* = provenance (*provenir* = originate)
+- *provenientie* = provenance (*provenir* = to originate)
 - *tolerantie* = tolerance (*tolerar* = to tolerate)
 
 ====
@@ -3170,7 +3173,7 @@ li infanteristes marchat max von li musqueteros, flancat per li
 jaloneros. Li officeros portat su órdenes, e on posset remarcar, que li
 pedones esset plu decorat quam li truppes de ingenieros.
 
-Pos li militare defilat li brigade de pumperos e depoy sequet li
+Pos li militares defilat li brigade de pumperos e depoy sequet li
 scoleros de divers institutes con lor directores, preceptores e
 instructores. Pos ili marchat li professionales: tallieros, chapeleros,
 sapateros, barberos, carreteros, carpenteros, mureros, vitreros,
@@ -3183,9 +3186,11 @@ in su original costumes.
 
 // XXX FIXED -- arrangeat -> arangeat
 
+// XXX FIXED: corso -> curse
+
 Nu sequet li sportiv organisationes e on posset vider mult conosset
 championes del futballistes, boxeros, velocipedistes, canotistes etc.
-In fin sequet un corso de automobilistes e motoristes.
+In fin sequet un curse de automobilistes e motoristes.
 
 // XXX FIXED -- anachronisme -> anacronisme
 
@@ -3209,7 +3214,7 @@ anacronisme.
 Li babillada cessat quande li trio: li pianisto Z., li cellisto Str. e
 li violinista Senioretta
 Ilona M. intonat un arie del local compositor G. Solmen in tard nocte li
-festa trovat su fine, talmen que li reporteros havet mult a far scrir li
+festa trovat su fine, talmen que li reporteros havet mult a far por scrir li
 rapportes al rect témpore, e li redactores e correctores esset occupat
 til li límite. Criticastros comprensibilmen ne esset content.
 
@@ -3770,6 +3775,8 @@ A more scientific or specialized grouping of something.
 // Li intern veritá {{{3
 ==== Li intern veritá
 
+// XXX REMARK li original usa "practical" vice "practic"
+
 To quo, secun li opinion de frances e angles letores, distinte Goethe,
 es un qualitá, quel il divide con su nation – constant referentie a
 intern veritá. In Anglia e America existe reverentie por talent, e li
@@ -3778,7 +3785,7 @@ comprensibil interesse o partie, o in regulari oposition contra un de
 tales. In Francia existe un plu grand delicie por intellectual
 brilliantie, pro it self. E in omni ti landes talentat homes scri
 talentosimen. It es suficent, si li intercomprension es ganiat, li
-contact attinger, tant columnes, tant hores ocupat in un vivaci e
+contact atinger, tant columnes, tant hores ocupat in un vivaci e
 honorabil maniere. Al german intellectu manca li frances brilliantie, li
 fin practical comprension del angleses, e li american aventura; ma it
 have un cert honestie, quel nequande resta in superficial performantie,
@@ -3787,7 +3794,7 @@ demanda controlant sinceritá. "`Ci es un activitá de pensada – ma por
 quo? Quo vole li mann? De u, de u omni ti pensas?`"
 
 Sol talent ne posse far un autor. It es necessi que existe un mann detra
-li libre, un personalitá qui per su orígine e su qualitá da garantíe a
+li libre, un personalitá qui per su orígine e su qualitá da garantie a
 ti doctrines queles il exposi, e qui existe por vider e constatar li
 coses in ti e ne in un altri maniere, qui defende factes proque ili es
 factes. Si il ne posse expresser se corect hodie, li sam coses supervive
@@ -3968,7 +3975,7 @@ que li lingue deve esser absolut regulari, nam tande it vell esser max
 facil. Yo ne posse comprender, pro quo regularitá vell esser identic con
 facilitá. Li lingue ne es solmen grammatica. It posse esser facil
 aprender simplic regules, ma it es tre desfacil memorar e usar
-ínaccustomat paroles. Quant minu un nov lingue chargea li memorie del
+ínacustomat paroles. Quant minu un nov lingue chargea li memorie del
 parlantes, tant plu facil it es.
 
 It existet unquande témpores, quande homes credet seriosimen, que on
@@ -4190,7 +4197,7 @@ English "`-esque`")
 ====
 
 - *infantesc* = childlike (*infant* = child)
-- *gigantesc* = giantesque (*gigante* = giant, *gigantic* = gigantic)
+- *gigantesc* = gigantesque (*gigante* = giant, *gigantic* = gigantic)
 
 ====
 
@@ -4223,8 +4230,8 @@ Denotes ancestry, origin:
 
 ====
 
-- *argentin* = silber (*argente* = silver)
-- *florentin* = Florentine (from Florence, *Florentia* = Florence)
+- *argentin* = silvery (*argente* = silver)
+- *florentin* = florentine (from Florence, *Florentia* = Florence)
 - *svinine* = pork (*svin* = pig)
 
 ====
@@ -4296,6 +4303,8 @@ Against.
 - *antisocial* = antisocial, asocial
 
 ====
+
+// XXX TODO pednote pri pronunciation de "arch".
 
 // arch(i)- {{{4
 ===== arch(i)-
@@ -4711,7 +4720,7 @@ ____
 ===== Vocabularium
 
 - *animale* = animal
-- *constituer* = constitute
+- *constituer* = to constitute
 - *debil* = weak
 - *despecte* = scorn
 - *fidel* = faithful
@@ -4867,7 +4876,7 @@ Examples:
   another way to say the same thing)
 - *Quem Vu saluta?* = Whom are you greeting?
 - *Quem tu ama max mult?* = Whom do you love the most?
-- *Quel adresse Vu have nu?* = What/which adress do you have now?
+- *Quel adresse Vu have nu?* = What/which address do you have now?
 - *Qual es li aqua hodie, calid o frigid?* = How is the water today,
   hot or cold?
 - *Quo es to?* = What is that?
@@ -4892,7 +4901,7 @@ for objects and abstract things also *quo*.
 - *Yo ne comprendet to quo Vu dit.* = I didn't understand what you
   said.
 - *Nor lingue fa un constant progress quo* (= *quel facte*) *tre joya
-  me*.  = Our language makes constant progress, which much pleases me.
+  me*. = Our language makes constant progress, which much pleases me.
 - *Qual compositor, tal musica.* = As the composer, so the music.
 - *Quant vive, tant espera.* = As long as there is life, there is
   (that much) hope.
@@ -4978,7 +4987,7 @@ Examples:
   woman talks about something, she thinks about someone.
 - *Chascun hom es forjero de su propri fortune.* = Each person is the
   forger of his/her own fortune.
-- *Ples dar me quelc libres, yo have quelc líber hores por leer!* =
+- *Ples dar me quelc libres, yo have quelc líber hores por leer.* =
   Please give me some books, I have some free hours for reading.
 - *Placer a omnes on ne posse, es arte, quel nequí conosse.* =
   Pleasing all one cannot do, it is an art known by no one. (Note: in
