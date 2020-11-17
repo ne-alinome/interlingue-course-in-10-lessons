@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: A. Z. Ramstedt; Dave MacLeod
-:revnumber: 0.3.0-dev.10.0+20201117
+:revnumber: 0.3.0-dev.10.1+20201117
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -28,7 +28,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011171709
+// Last modified 202011171712
 
 :dot: .
 
@@ -2230,7 +2230,7 @@ Again, re-:
 // Which form to use? {{{3
 ==== Which form to use?
 
-When Interlingue was first announced in 1922, Edgar de Wahl proposed a
+When Occidental was first announced in 1922, Edgar de Wahl proposed a
 number of standalone and derived words that he believed to be equally
 valid, leaving the decision between them to the community to see which
 form it preferred. This process of ironing out took place over the next
