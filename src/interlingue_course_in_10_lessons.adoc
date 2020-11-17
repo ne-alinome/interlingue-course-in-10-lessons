@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: A. Z. Ramstedt; Dave MacLeod
-:revnumber: 0.3.0-dev.6.2+20201117
+:revnumber: 0.3.0-dev.6.3+20201117
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -28,7 +28,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011170131
+// Last modified 202011170147
 
 :dot: .
 
@@ -751,7 +751,7 @@ sin cessar e combatter mem li diábol.`"
 - Sur un rulant petre moss ne cresce.
 - Li morites governa li viventes.
 - Bon comensat es demí parat.
-- Que sempre es comensant, nequande es finient.
+- Qui sempre es comensant, nequande es finient.
 - Mult homes es vocat, ma poc homes es electet.
 - Li sapon es li mesura de bon-esser e cultura del state.
 
@@ -1004,7 +1004,7 @@ transactiones de exportationes e concessiones in exotic landes.
 Difamatori lingues di, que il es un poc imperatori, ma to es
 exageration. Quande il ha decidet un afere, il es firm in su decision,
 ne tolera contradition e intervention, e pro to il have success in su
-interprenses. Tal qualificationes es anc absolutmen necessi a decisiv
+interprenses. Tal qualificationes es anc absolutmen necessi e decisiv
 por un mann in su position.
 
 Il es inventor de mult patentat aparates, queles es ancor in su exclusiv
@@ -1168,8 +1168,8 @@ por que ili mey saver in quel maniere ili posse investir it.`"
 // XXX FIXED -- Text moved to the following subsection and modified,
 // instead of running into the title. It seems more legible.
 
-// Suffixes -ion, -or, -ori, -iv, -ura {{{3
-==== Suffixes -ion, -or, -ori, -iv, -ura
+// Suffixes *-ion*, *-or*, *-ori*, *-iv*, *-ura* {{{3
+==== Suffixes *-ion*, *-or*, *-ori*, *-iv*, *-ura*
 
 We have just seen a large number of expressive international words that
 end with these five suffixes.
@@ -1451,7 +1451,7 @@ Ma quo es significativ – per forationes on ja ha constatat in quar cent
 du cent (1200) metres in diametre, it es, un córpore de dimensiones de
 un micri satellite. Wegener aprecia li grandore del meteorite, quel ha
 productet li cratere de Sall, ye circa cent til cent quinant (100 til
-150) metres in diametre, e supposi que it deve trovar se in circa
+150) metres in diametre, e suposi que it deve trovar se in circa
 quinant til settant quin (50 til 75) metres de profundore. Adplu it es
 remarcabil, que in li vicinitá del principal cratere es situat pluri
 simil, ma mult plu micri, funeles, probabilmen causat per partes, queles
@@ -1550,7 +1550,7 @@ Li *cardinal* numerales, queles responde al question *"`quant?`"* es:
 | 700           | sett cent
 | 800           | ott cent
 | 900           | nin cent
-| 1000          | mil
+| 1000          | mill
 | 4711          | quar mill sett cent deciun
 | 1 000 000     | un million
 | 1 000 000 000 | un milliard
@@ -1584,7 +1584,7 @@ an adjective that requires the <<_i,*-i*>> ending on its own as
 otherwise *dec* would be pronounced "`dek`".
 
 *-esim* also gives rise to internationally-recognized words such as
-*ínfinitesim* (an infinitessimal part) and *infinitesimal*. In
+*ínfinitesim* (an infinitessimal part) and *ínfinitesimal*. In
 Interlingue these words are regularly derived from common verbs:
 *ín*{nbsp}+ <<_the_de_wahls_rule,*fini-r* (to finish){nbsp}+
 *t*>>{nbsp}+ *-esim*{nbsp}+ <<_al,*-al*>> = *ínfinitesimal*.
@@ -1696,8 +1696,8 @@ Quel hora es? Quel es li témpore?
 - Decidu mensus es un annu.
 - Cent annus es nominat un secul, mill annus un millennie.
 
-Li sett dies del semane es: soledí, lunedí, mardí, jovedí, mercurdí,
-saturdí.
+Li sett dies del semane es: soledí, lunedí, mardí, mercurdí, jovedí,
+venerdí, saturdí.
 
 Li decidu mensus es: januar, februar, marte, april, may, junio, julí,
 august, septembre, octobre, novembre e decembre.
@@ -1976,8 +1976,8 @@ Out (of), from.
 
 ====
 
-- *Il venit ex su chambre.* = He came out ofhis room.
-- *Yo trinca ex li glass.* = I drinkt out of the glass.
+- *Il venit ex su chambre.* = He came out of his room.
+- *Yo trinca ex li glass.* = I drink out of the glass.
 - *Traductet ex german in Interlingue.* = Translated from German into
   Interlingue.
 
@@ -2072,7 +2072,7 @@ These prepositions are also used to form other words.
 - *ex-imperator* = former emperor
 - *extraordinari* = extraordinary (*extra*{nbsp}+ *ordinari*)
 - *inclusiv* = inclusive (*in*{nbsp}+ *cluder*, to close or shut)
-- *intervalle* = interval (*inter*{nbsp}+ *valle*, a bulwark or
+- *intervalle* = interval (*ínter*{nbsp}+ *valle*, a bulwark or
   embankment (related to English wall))
 - *preterpassant* = passing by (*preter*{nbsp}+ *passar*, to pass)
 - *subordination* = subordination (*sub*{nbsp}+ *ordinar*, to order)
@@ -2284,12 +2284,12 @@ pioneros ha postulat e va postular li movement por un lingue
 international, qual persistentie in li confidentie e esperantie al final
 victorie del nobil idé!
 
-Omni progress es li resultate de un tenaci luctada inter du tendenties:
+Omni progress es li resultate de un tenaci luctada ínter du tendenties:
 un, quel crede in li permanentie de lu existent e insiste in li
 conservation de it, e un altri, quel crede in li existentie de alquicos
 plu bon. Fórsan con un cert exageration on nómina li unesimes frenatores
 e reactionarios, li duesimes fantasistes e utopistes. Li fundamental
-diferentie inter li du partises es proprimen to, que li regressistes ne
+diferentie ínter li du partises es proprimen to, que li regressistes ne
 conosse li essentie del nov idés e pro to ne posse apreciar lor valore e
 importantie, durant que li progressistes es tro inclinat depreciar li
 existentie del conservativ leges del realitá e li potentie del temporari
@@ -2550,7 +2550,7 @@ va esser parlat sur ti ci globe.
 - *necos* = nothing (n.b. derived from *ne*{nbsp}+ *cose*, thus
   accented as *necós* and often written with the accent)
 - *perdir* = to lose
-- *presupposir* = to presuppose
+- *presuposir* = to presuppose
 - *pur* = pure
 - *radica* = a root
 - *rol* = role
@@ -2600,7 +2600,7 @@ grandes trapassa.
 // XXX FIXED -- abyss -> abiss
 
 Per li studia del historie noi percepte li intim conexion, quel existe
-inter lu present e lu passat. Li present moment es un transient cose, su
+ínter lu present e lu passat. Li present moment es un transient cose, su
 radicas es in lu passat, su esperas in lu futuri. Si omnicos vell
 depender del subtil fil del fugient moment, quel ilumina e dura solmen
 durant un move del ocul, solmen por evanescer in li abiss de Nihil,
@@ -2642,7 +2642,7 @@ ____
 [quote, O. Wilde]
 ____
 Sovente it es plu desfacil viver por un idé quam morir por it. To es li
-diferentie inter heróes e martiros.
+diferentie ínter heróes e martiros.
 ____
 
 // XXX FIXED -- "de fa" -> "ne fa"
@@ -3155,17 +3155,17 @@ li central tribune comensat plenar se. Ultra li presidente e su marita,
 nascet princessa D. con su can Bolognes, li comissario de policie, li
 magistrate municipal, li borgomastro Ciennes on videt mult altri distint
 persones. In li diplomatic loge prendet plazze li ambassadores anglesi,
-francesi, german, chinesi, japanesi, con lor damas, inter ili li marita
+francesi, german, chinesi, japanesi, con lor damas, ínter ili li marita
 del ambassador italian, li conosset patronessa del societé de
-protectores de infantes. Inter li deputates del parlament on remarcat
+protectores de infantes. Ínter li deputates del parlament on remarcat
 omni fractiones comensante del max revolutionari bolshevistes, til li
 conosset reactionario M., actionario e companion del chef del Grand
 Magazin Central, e anc quelc pastores del partise Christian.
 
 Presc precis ye deci horas comensat li grand parade militari con elegant
-cavalcada del cavalleristes, inter queles excellet li lanseros. Li
+cavalcada del cavalleristes, ínter queles excellet li lanseros. Li
 chasseros con lor coloristic vestes evocat general sensation. Poy
-defilat li artilleristes con lor modernissim mortatori apparates. Inter
+defilat li artilleristes con lor modernissim mortatori apparates. Ínter
 li infanteristes marchat max von li musqueteros, flancat per li
 jaloneros. Li officeros portat su órdenes, e on posset remarcar, que li
 pedones esset plu decorat quam li truppes de ingenieros.
@@ -3191,10 +3191,10 @@ In fin sequet un corso de automobilistes e motoristes.
 
 In li véspere in li vast sala municipal esset arangeat un grand festa,
 u incontrat se li tot population per su eminent laboratores scientific,
-politic, artistic e social. Inter li
+politic, artistic e social. Ínter li
 scientistes on posset reconnosser li professores del universitá, li
 romanist E., li germanist F., e li orientalist M. Omni scienties esset
-representat, on videt juristes, medicos, inter ili li oculist S., li
+representat, on videt juristes, medicos, ínter ili li oculist S., li
 internist A. e li dentist U. Anc conosset pictores quam li paisagist L.,
 li portretist R. e li aquarellist e aquafortist K. participat al festa.
 Ta esset anc li sculptor C. con su marita, li famosi actressa Lola C. On
@@ -3956,7 +3956,7 @@ haver suficent occupation por quelc cent annus. Vu di, que li lingue
 deve esser ne europan; ma universal, i. e. un
 sintese de omni lingues existent sur li terra. Vu oblivia, que p. ex. li
 lingues chinesi e german es tam diferent, que un lingue, quel deve
-satisfar Vor postulate, vell esser quasi un hibride inter harengo e
+satisfar Vor postulate, vell esser quasi un hibride ínter harengo e
 sparro. Vu di, que li lingue deve esser idealic, i. e. li max perfect
 linguistic instrument pensabil. Vu oblivia, que ne omnicos pensabil es
 possibil.
@@ -4623,7 +4623,7 @@ fuma in un die?`"
 "`O,`" su response esset, "`fórsan quar o quin.`"
 
 "`Quin cigares in un die fa triant quin in un semane, circa un cent
-quinant in un mensu, e plu quam mill ott cent in un annu. Ples supposir,
+quinant in un mensu, e plu quam mill ott cent in un annu. Ples suposir,
 que Vu vell har economisat omni ti moné, quel Vu ha expenset a tabac! Vu
 vell posser fórsan esser li possessor de ti bell micri dom, quel Vu vide
 ci a levul.`"
@@ -4796,8 +4796,8 @@ Some examples:
 - *Il da la su parol. = Il da su parol a ella.* = He gives her his
   word.
 - *Yo da te mi parol. = Yo da mi parol a te.* = I give you my word.
-- *Li diferentie inter me e te.* = The difference between me and you.
-- *Li diferentie inter mi e tui.* = The difference between mine and
+- *Li diferentie ínter me e te.* = The difference between me and you.
+- *Li diferentie ínter mi e tui.* = The difference between mine and
   yours.
 - *Li nores victet li vores.* = Ours (plural) beat yours (plural).  If
   *noi* had had one and *vu* had also had had one, it would be
@@ -5414,7 +5414,7 @@ pensas, lor ales es li parol. Li parlant hom victe li circumant natura
 per li parol e quam creator forma per li parol su propri, subjectiv
 munde, in contraritá e quam contrast al sensualmen perceptibil
 fenomenes: li munde del spíritu – de su spíritu. On ha dit, que li hom
-es un hibride inter deo e animale, e yo vole dir que li paroles es li
+es un hibride ínter deo e animale, e yo vole dir que li paroles es li
 scalunes de ti scaliere celesti, along quel il prova grimpar súper lu
 pur animalic ad in li luce del spritualitá. De to seque anc, que li
 lingue da nos li fundament e li unesim base de omni cultura.
@@ -5465,7 +5465,7 @@ Li ovreros ha sentit, que, in regard a lor patrones, ili have identic
 interesses. Li formul "`Laboreros de omni landes, unia vos`" ha evocat ecó
 in li classes de ovreros de omni landes.
 
-Li rel-vias, li naves, queles fa possibil li relationes inter li homes,
+Li rel-vias, li naves, queles fa possibil li relationes ínter li homes,
 deve devenir simil, caus necessitá. Li postal servicie ha esset fortiat
 unificar se por conformar se secun li principies del union postal
 universal.
@@ -5512,7 +5512,7 @@ congresses de homes alt educat, nam quam rarmen ili ha havet témpore
 aprender parlar fluentmen un foren lingue! Li congresses de un partise,
 quam li socialistic, quel confesse internationalisme, es fat tre
 desfacil per li necessitá traducter omnicos in adminim du lingues, e li
-delegates del micri landes deve esser electet solmen inter tal homes,
+delegates del micri landes deve esser electet solmen ínter tal homes,
 queles bon conosse un de ti lingues queles es usat in li congress. E it
 es ínevitabil haver un comun lingue por far possibil un ver discussion.
 Por ti scope on besona un lingue, quel es facilmen aprensibil e
@@ -5708,7 +5708,7 @@ alquó a manjar* and not *Yo va trovar _me_ alquó a manjar*.
 - *Yo mersía Vos* (not *a Vos*). = I thank you.
 - *Ples auxiliar li* (not *a li*) *povri mann.* = Please help the poor
   man.
-- *Il menaciat su ínamicos.* = He threatened his enemies.
+- *Il menaciat su ínamícos.* = He threatened his enemies.
 - *Yo memora li cose tre bon.* = I remember it ("`the thing`") very
   well.
 - *Il prepara por un viage.* = He is preparing for a voyage.
