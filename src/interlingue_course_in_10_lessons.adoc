@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: A. Z. Ramstedt; Dave MacLeod
-:revnumber: 0.3.0-dev.6.8+20201117
+:revnumber: 0.3.0-dev.6.9+20201117
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -28,7 +28,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011171541
+// Last modified 202011171612
 
 :dot: .
 
@@ -1790,7 +1790,9 @@ ____
 // Vocabularium {{{4
 ===== Vocabularium
 
-- *accidentie* = accidence, chance
+- *accidentie*{blank}footnote:[Also "`accidente`", without the nuance
+  of the "`-ie`" suffix. Note of the digital editor.] = accident,
+  chance
 - *celar* = to hide
 - *chasse* = hunt
 - *expussar* = to chase out
