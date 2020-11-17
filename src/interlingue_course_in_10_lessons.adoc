@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: A. Z. Ramstedt; Dave MacLeod
-:revnumber: 0.3.0-dev.6.1+20201116
+:revnumber: 0.3.0-dev.6.2+20201117
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -28,7 +28,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011162207
+// Last modified 202011170131
 
 :dot: .
 
@@ -2014,7 +2014,7 @@ By, through, with
 ====
 
 - *Noi parlat pri politica.* = We talked about politics.
-- *Yo mersia pro Vor auxilie.* = I thank (you) for your help.
+- *Yo mersía pro Vor auxilie.* = I thank (you) for your help.
 
 ====
 
@@ -3944,7 +3944,7 @@ Cosmopolis, 12-esim marte 1930.
 
 Mi car amíco.
 
-Yo mersia Vos cordialmen pro Vor amabil lettre de 10-esim ho-mensu. Yo
+Yo mersía Vos cordialmen pro Vor amabil lettre de 10-esim ho-mensu. Yo
 joya leer, que anc Vu have interesse por li lingue international
 auxiliari, e yo constata, que yo esset rect, quande yo suposit, que Vu
 ne posse esser índiferent pri un question quel have grandissim
@@ -3997,7 +3997,9 @@ Y{dot} Z{dot}
 - *exposir* = to expose
 - *harengo* = herring
 - *iniciat* = initiated
-- *mersiar* = to thank
+- *mersiar*{blank}footnote:[Its present tense is "`mersía`", which
+  keeps the irregular accent of "`mersí`", from which it is derivated.
+  Note of the digital editor.] = to thank
 - *obliviar* = to forget
 - *ocupation* = occupation
 - *sam quam* = same as
@@ -5703,7 +5705,7 @@ alquó a manjar* and not *Yo va trovar _me_ alquó a manjar*.
 
 ====
 
-- *Yo mersia Vos* (not *a Vos*). = I thank you.
+- *Yo mersía Vos* (not *a Vos*). = I thank you.
 - *Ples auxiliar li* (not *a li*) *povri mann.* = Please help the poor
   man.
 - *Il menaciat su ínamicos.* = He threatened his enemies.
