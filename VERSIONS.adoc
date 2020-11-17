@@ -1,6 +1,6 @@
 = VERSIONS of _Interlingue Course in 10 Lessons_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-04-22
+:revdate: 2020-11-17
 
 // This file is part of project
 // _Interlingue Course in 10 Lessons_
@@ -11,7 +11,7 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201904221730
+// Last modified 202011171728
 
 == 0.1.0+20190322
 
@@ -31,3 +31,11 @@ Changes from version 0.1.0+20190322:
 - The section about pronunciation, which was missing in the wiki
   version of _Occidental Course in 10 Lessons (English translation)_,
   has been added from its PDF version, with small modifications.
+
+== 0.2.1+20190811
+
+Changes from version 0.2.0+20190422:
+
+- Complete the rule about accentuation of "-ic".
+- Fix typo.
+- Improve credits.
