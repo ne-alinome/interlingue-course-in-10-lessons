@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: A. Z. Ramstedt; Dave MacLeod
-:revnumber: 0.3.0-dev.11.0+20201117
+:revnumber: 0.3.0-dev.12.0+20201117
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -28,7 +28,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011171718
+// Last modified 202011171830
 
 :dot: .
 
@@ -3537,13 +3537,16 @@ It may be used on nouns as well to make them abstract:
 // -tá, -té {{{4
 ===== -tá, -té
 
-Quality or character, more or less equivalent to English "`-ty`":
+Quality or character, more or less equivalent to English
+"`-ty`"{blank}footnote:[Usually suffixes *-tá* and *-té* are called
+*-itá* and *-ité* because most of the times they are added after the
+adjectival ending *-i*. Note of the digital editor.]:
 
 ====
 
 - *qualitá* = quality (*qual(i)* = what a)
 - *homanitá* = humanity (*homan* = human (adjective), from *hom* =
-human, (noun))
+  human, (noun))
 - *amabilitá* = amiability, kindness (*amabil* = amiable, kind)
 - *membritá* = membership (the status of being a member)
 
