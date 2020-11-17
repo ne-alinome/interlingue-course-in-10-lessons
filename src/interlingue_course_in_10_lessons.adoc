@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: A. Z. Ramstedt; Dave MacLeod
-:revnumber: 0.3.0-dev.9.1+20201117
+:revnumber: 0.3.0-dev.10.0+20201117
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -28,7 +28,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011171634
+// Last modified 202011171709
 
 :dot: .
 
@@ -1909,11 +1909,20 @@ To. Has many uses:
 // ante {{{4
 ===== ante
 
-Means "`before`" in terms of time and place (*avan* only refers to place).
+Means "`before`" in terms of time and place (<<_avan>> only refers to place).
 
 ====
 - *ante Cristo* = before Christ
-- *avan li dom* = before the house
+- *ante li dom* = before the house
+====
+
+// avan {{{4
+===== avan
+
+Means "`before`" in terms of place (<<_ante>> refers also to time).
+
+====
+- *avan li porta* = before the door
 ====
 
 // caus {{{4
