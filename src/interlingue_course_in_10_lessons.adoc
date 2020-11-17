@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: A. Z. Ramstedt; Dave MacLeod
-:revnumber: 0.3.0-dev.12.0+20201117
+:revnumber: 0.3.0-dev.12.1+20201117
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -28,7 +28,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011171830
+// Last modified 202011171906
 
 :dot: .
 
@@ -4221,8 +4221,10 @@ English "`-esque`")
 // -bil {{{4
 ===== -bil
 
-(Transitive verbs): what can be done (transitive verbs) what one can do.
-*-ar* verbs: *-abil*, *-er* and *-ir* verbs: *-ibil*.
+From intransitive verbs: what can be done; from transitive verbs: what
+one can do.
+
+From *-ar* verbs: *-abil*; from *-er* and *-ir* verbs: *-ibil*.
 
 ====
 
