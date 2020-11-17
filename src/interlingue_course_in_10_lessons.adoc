@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: A. Z. Ramstedt; Dave MacLeod
-:revnumber: 0.3.0-dev.6.0+20201116
+:revnumber: 0.3.0-dev.6.1+20201116
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -28,7 +28,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011161859
+// Last modified 202011162207
 
 :dot: .
 
@@ -374,7 +374,7 @@ ____
 
 [quote, Goethe]
 ____
-Li humore es un del elementes del genie, ma, si it domina, solmen un
+Li humore es un del elementes del genie, ma, si it dómina, solmen un
 surogat de it; it es li compane del diminuent arte e destructe,
 anihila it in fine.
 ____
@@ -400,7 +400,10 @@ ____
 - *diminuent* = smaller, diminishing
 - *divide* = divide, share (verbal form)
 - *divider* = to divide, to share
-- *domina* = dominates
+- *dómina* = dominates{blank}footnote:[Also, a substantive:
+  "`housewife`". As the verb ("`dominar`") is derived from an
+  irregulary accented substantive ("`dómino`"), the accent is kept in
+  the present tense ("`yo dómina`"). Note of the digital editor.]
 - *felicie* = happiness, fortune
 - *lor* = their
 - *nin* = nine
@@ -5444,7 +5447,7 @@ scientie. It existe, por chascun specialitá scientific, un micri
 comunité de erudites, qui, amicos o rivales, conosse unaltru, seque li
 activitá de unaltru e reacte un a li altri.
 
-Li scientie, quel es un, domina un tecnica, quel anc es un. Chascun
+Li scientie, quel es un, dómina un tecnica, quel anc es un. Chascun
 decovrition scientific change li procedes de fabrication e li
 conditiones de production. E omni nov procede de fabrication es rapidmen
 conosset in li tot munde.
