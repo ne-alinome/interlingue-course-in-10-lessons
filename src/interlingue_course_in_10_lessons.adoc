@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: A. Z. Ramstedt; Dave MacLeod
-:revnumber: 0.3.0-dev.7.0+20201117
+:revnumber: 0.3.0-dev.8.0+20201117
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -28,7 +28,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011171615
+// Last modified 202011171629
 
 :dot: .
 
@@ -1680,12 +1680,14 @@ De 1/5 li fractiones es simil al ordinales.
 // Li témpore e su division {{{3
 ==== Li témpore e su division
 
-Quel hora es? Quel es li témpore?
+Quel hora es? Quel es li témpore?{blank}footnote:[In ti edition li
+liste de horas ha esset adjustat al 24 hores, por claritá. Note del
+editor digital.]
 
 - 12:00 = a decidu horas (precis); it es midí
-- 12:45 = a un hora ante un quart
-- 1:00 = a un hora (precis)
-- 1:25 = a un hora e duantquin
+- 12:45 = a decitri horas ante un quart; a un hora ante un quart
+- 13:00 = a decitri horas (precis); a un hora (pm.) (precis)
+- 13:25 = a decitri horas e duantquin; a un hora (pm.) e duantquin
 
 // XXX REMARK -- This comment just prevents both lists to be combined
 // into one.
