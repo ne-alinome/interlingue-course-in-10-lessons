@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: A. Z. Ramstedt; Dave MacLeod
-:revnumber: 0.3.0-dev.6.7+20201117
+:revnumber: 0.3.0-dev.6.8+20201117
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -28,7 +28,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011171537
+// Last modified 202011171541
 
 :dot: .
 
@@ -1456,6 +1456,9 @@ simil, ma mult plu micri, funeles, probabilmen causat per partes, queles
 ha separat se durant li cadida, quo es sovente observat che li cadidas
 de meteorites.
 
+// XXX REMARK "globe terrestri" es plu comun, ma in li original german
+// on usat "glob de terra":
+
 Si li suposition de prof. Wegener es rect, tande li cratere in Sall es
 un unic monument de natura in Europa, e li duesim sur li tot globe de
 terra.
@@ -1466,7 +1469,7 @@ terra.
 - *acter* = to act
 - *adplu* = furthermore
 - *advere* = indeed
-- *apertener* = to belong
+- *apartener* = to belong
 - *cader* = to fall
 - *causar* = to cause
 - *circul* = circle
