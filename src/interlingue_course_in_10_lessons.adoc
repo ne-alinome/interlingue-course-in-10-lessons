@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: A. Z. Ramstedt; Dave MacLeod
-:revnumber: 0.3.0-dev.17.2+20201118
+:revnumber: 0.3.0-dev.18.0+20201118
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -28,7 +28,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011181918
+// Last modified 202011190023
 
 :dot: .
 
@@ -2556,7 +2556,7 @@ posse profetisar, que tam long quam nor homanité ne ha perdit se ancor
 in pur ration, tam long quam sentiment e imagination ancor lude un rol,
 tam long quam homes ama li flores del verne ne solmen li sicc folies del
 autune – tam long un lingue aprioric, sin historie e sin metáfores ne
-va esser parlat sur ti ci globe.
+va esser parlat sur ti-ci globe.
 
 // Vocabularium {{{4
 ===== Vocabularium
@@ -4871,11 +4871,11 @@ vs. "`You are taller than _I_`" (short for "`than I am`").
 
 *ti* is very general, which is why it is translated as
 both *this* and *that*. To add precision, add *ci* (here)
-or *ta* (there) after: *ti ci* (this), *ti ta* (that).
+or *ta* (there) after: *ti-ci* (this), *ti-ta* (that).
 
 ====
 
-- *Ti du crayones es li mis: ti ci es curt e ti ta es long; ples
+- *Ti du crayones es li mis: ti-ci es curt e ti-ta es long; ples
   prender tis.* = These two pencils are mine: this one is short and
   that one is long: please take these.
 - *Il es sempre tal.* = He's always like that.
@@ -5131,7 +5131,7 @@ Channing
 // ambi anectodes, ma un simplic marca de linea (equivalent a `<hr/>`
 // de HTML) ne esset traductet ex Asciidoctor ad-in DocBook, ergo anc
 // ne ad-in EPUB (nam it es un marca visual, ne semantic).  Li linea
-// esset videbli solmen in PDF, nam ti ci es creat directmen ex
+// esset videbli solmen in PDF, nam ti-ci es creat directmen ex
 // Asciidoctor.  Finalmen, titoles ha esset adjuntent a ambi
 // anecdotes.
 
@@ -5665,7 +5665,7 @@ adding extra information, etc.
 - *Su patre e su matre hat fat omni arangeamentes necessi por su
   viage.* = His/her father and mother had made all arrangements
   necessary for the trip.
-- *Raporte aproximativ pri merces, important durant ti ci estive.* = A
+- *Raporte aproximativ pri merces, important durant ti-ci estive.* = A
   summary report on goods (that are) important during this summer.
 
 ====
