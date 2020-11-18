@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: A. Z. Ramstedt; Dave MacLeod
-:revnumber: 0.3.0-dev.17.1+20201118
+:revnumber: 0.3.0-dev.17.2+20201118
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -28,7 +28,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011181842
+// Last modified 202011181918
 
 :dot: .
 
@@ -4553,7 +4553,7 @@ distantie; circumstar, circumstantie*; etc.
 Plus some others if one considers that the "`-stituer`" ending is also
 related to star: *constituer, constitution, instituer, institute,
 institution, institutor, restituer, restitution, substituer, substitute,
-substitution*,
+substitution*.
 
 // Ottesim letion {{{1
 == Ottesim letion
