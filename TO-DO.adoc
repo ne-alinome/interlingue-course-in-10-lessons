@@ -34,3 +34,4 @@
   improve its layout.
 - Add footnote with reference or link to "mentioned in Cosmoglotta"
   (about "-ical").  
+- Fix `*promena* = strolls (cf. promenade)`.
