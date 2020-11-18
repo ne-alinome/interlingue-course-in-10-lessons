@@ -1,6 +1,6 @@
 = TO-DO of _Interlingue Course in 10 Lessons_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-11-17
+:revdate: 2020-11-18
 
 // This file is part of project
 // _Interlingue Course in 10 Lessons_
@@ -11,7 +11,7 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011171722
+// Last modified 202011181842
 
 - Note: automatic numbering of sections with `:sectnum:` is not
   preserved in DocBook, therefore it's not rendered into EPUB, only
@@ -34,4 +34,3 @@
   improve its layout.
 - Add footnote with reference or link to "mentioned in Cosmoglotta"
   (about "-ical").  
-- Fix `*promena* = strolls (cf. promenade)`.
