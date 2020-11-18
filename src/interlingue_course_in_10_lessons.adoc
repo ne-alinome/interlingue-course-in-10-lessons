@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: A. Z. Ramstedt; Dave MacLeod
-:revnumber: 0.3.0-dev.15.1+20201118
+:revnumber: 0.3.0-dev.16.0+20201118
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -28,7 +28,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011181642
+// Last modified 202011181734
 
 :dot: .
 
@@ -912,13 +912,23 @@ refer to itself):
 
 ====
 
+// XXX REMARK 2020-11-18: Textu ameliorat hodíe per Dave MacLeod:
+
 Adding *se* to a verb may also give a sense similar to that in
 English:
 
 ====
 
+- *Il procurat un libre.* = He got a book.
+- *Il procurat se un libre.* = He got himself a book.
+
+The second example can be thought of as a short form of "`Il procurat
+por se un libre`" or "`Il procurat un libre por se`".
+
+The same goes for other pronouns such as *me*:
+
 - *Yo procurat un libre.* = I got a book.
-- *Yo procurat me un libre.* = I got myself (me) a book.
+- *Yo procurat me un libre.* = I got me/myself a book.
 
 ====
 
