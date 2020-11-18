@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: A. Z. Ramstedt; Dave MacLeod
-:revnumber: 0.3.0-dev.14.0+20201117
+:revnumber: 0.3.0-dev.15.0+20201118
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -28,7 +28,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011181636
+// Last modified 202011181639
 
 :dot: .
 
@@ -1839,6 +1839,7 @@ simply standalone particles but also used to form words.
 
 // XXX FIXED -- Titul: "Prepositiones" -> "Prepositions"
 
+[cols="35,65"]
 |===
 | *a, ad*     | to
 | *along*     | along
