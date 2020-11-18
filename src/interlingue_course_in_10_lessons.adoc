@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: A. Z. Ramstedt; Dave MacLeod
-:revnumber: 0.3.0-dev.15.0+20201118
+:revnumber: 0.3.0-dev.15.1+20201118
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -28,7 +28,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011181639
+// Last modified 202011181642
 
 :dot: .
 
@@ -983,7 +983,7 @@ Quo il ha creat? Nos e omni altri *creaturas*.
 
 Mi fratre have un amíco, un ingeniero, qui ha fat un brilliant carriera.
 Ja quam yun studente su aspirationes evocat atention. Pos obligatori
-teoretic studies in un technical institute e practic preparatori labores
+teoretic studies in un tecnical institute e practic preparatori labores
 in un micri fabrica, in quel il laborat quam reparator de electric
 motores e transformatores, il recivet un transitori ocupation quam
 supervisor del machines in un grand industrial interprense. Mersí a su
