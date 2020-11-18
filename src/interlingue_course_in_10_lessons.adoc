@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: A. Z. Ramstedt; Dave MacLeod
-:revnumber: 0.3.0-dev.17.0+20201118
+:revnumber: 0.3.0-dev.17.1+20201118
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -28,7 +28,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011181840
+// Last modified 202011181842
 
 :dot: .
 
@@ -609,7 +609,7 @@ and *omnicós*.
 - *pro que* = because ("`due to that…`")
 - *pro quo* = why ("`due to what`")
 - *pro* = due to
-- *promena* = strolls (cf. promenade)
+- *promenar* = to stroll (cf. promenade)
 - *que* = that (as in "`I hope _that_…`")
 - *questionar* = to question, to ask
 - *quo* = what
