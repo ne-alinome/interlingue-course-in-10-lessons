@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: A. Z. Ramstedt; Dave MacLeod
-:revnumber: 0.3.0-dev.13.0+20201117
+:revnumber: 0.3.0-dev.14.0+20201117
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -28,7 +28,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011181631
+// Last modified 202011181636
 
 :dot: .
 
@@ -1495,7 +1495,7 @@ terra.
 - *simil* = similar
 - *situat* = situated, located
 - *solea* = sole, bottom
-- *sovente* = often
+- *sovente* = often (adverb)
 - *strangi* = strange
 - *suposir* = to suppose
 - *tande* = then
@@ -5282,7 +5282,7 @@ Pronominal adverbs:
 - *nu* = now
 - *strax* = right away
 - *bentost* = soon
-- *sovente* = often
+- *sovente* = often (adverb)
 - *ja* = already
 - *jamá* = (n)ever
 - *sempre* = always
