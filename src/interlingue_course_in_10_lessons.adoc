@@ -29,7 +29,12 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011191649
+// Last modified 202011191748
+
+// NOTE: Most of the corections done in this edition are marked with
+// "XXX FIXED", for reference, but not all of them. Specially most
+// corections done in version 0.3.0 are not marked in this source
+// file. See the project's repository for a full history of changes.
 
 :dot: .
 
