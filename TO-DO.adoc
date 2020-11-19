@@ -24,5 +24,3 @@
 - The third column of the table in chapter "Which form to use?"
   doesn't fit well in EPUB on small screens, but it's difficult to
   improve its layout.
-- Add footnote with reference or link to "mentioned in Cosmoglotta"
-  (about "-ical").  
