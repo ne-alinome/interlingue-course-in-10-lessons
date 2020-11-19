@@ -2,7 +2,7 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 202011191707
+# Last modified 202011191735
 # See change log at the end of the file
 
 # ==============================================================
@@ -186,7 +186,7 @@ target/%.adoc._letter.pdf: src/%.adoc tmp/$(cover).pdf
 	ln -f $@ tmp/	
 
 target/%.pdf.zip: tmp/%.pdf
-	zip -9 $@ $<; rm -f $<
+	zip -9 $@ $<
 
 target/%.pdf.gz: tmp/%.pdf
 	gzip -9 --stdout $< > $@
