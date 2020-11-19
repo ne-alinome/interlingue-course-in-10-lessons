@@ -11,13 +11,10 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011190122
+// Last modified 202011190145
 
 - "-ería" is missing (also in the german original). It's only
   mentioned in "-eríe". Meanwhile "barbería" links there.
-- Note: The unordered lists in the example blocks of "-age" are
-  rendered as ordered lists in EPUB (dbtoepub) by one reader, but they
-  are rendered ok by other readers. They are ok also in PDF.
 - "-issim" is missing (also in the german original).
 - Check if more suffixes are missing, beside "-ería" and "-issim".
 - Improve the description of the effect of exception endings.
