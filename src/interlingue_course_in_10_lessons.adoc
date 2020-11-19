@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: A. Z. Ramstedt; Dave MacLeod
-:revnumber: 0.3.0-dev.19.2+20201119
+:revnumber: 0.3.0-dev.20.0+20201119
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -29,7 +29,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011191429
+// Last modified 202011191615
 
 :dot: .
 
@@ -151,7 +151,7 @@ ch::
 consonant (ex. "`technic`"), in the syllabe "`arch`" (ex. "`monarch`")
 and before or after "`y`" (ex. "`psycho`", "`pachyderm`"). See article
 "`Linguistic explorationes -- Pronunciation de «ch»`" in _Cosmoglotta_
-series A number 101, 1935. Note of the digital editor.]: *chambre*.
+series A, number 101, 1935-03. Note of the digital editor.]: *chambre*.
 
 g::
 
@@ -199,13 +199,13 @@ is pronounced as if written *gramatica*, but *occidental* and
 NOTE: In the following examples, the regularly stressed vowel is shown
 in uppercase.
 
-// XXX FIXED -- Added note about "-ic" (from Cosmoglotta A 65,
-// 1929-10):
-
 - Words are generally stressed on the vowel before the final
   consonant: *intercalAr*, *parOl*, *fOrme*.
 - Pluralizing a noun does not change the stress: *parOles*, *fOrmes*.
-- The endings *-bil*, *-ic* (only if it's pronounced "`ik`"), *-im*,
+- The endings *-bil*, *-ic* (only if it's pronounced
+  "`ik`"footnote:[See "`Complet grammatica de Occidental`" in
+  Cosmoglotta series A, number 65, 1929-10. Note of the digital
+  editor.]), *-im*,
   *-ul* and *-um* do not change the stress (even when more than one is
   present in a single word), nor does the adverbial ending *-men*:
   *rapIdmen*, *dUplic*, *bonIssim*, *sIngul*, *possIbil*, *mAximum*,
@@ -3121,7 +3121,10 @@ the means for it.
 
 ====
 
-Some other examples Edgar de Wahl mentioned in Cosmoglotta:
+Some other examples Edgar de Wahl mentioned in
+Cosmoglotta{blank}footnote:[See article "`Esque vermen Occidental es
+caotic?`" in Cosmoglotta series B, number 10, 1937-04. Note of the
+digital editor.]:
 
 ====
 
@@ -4119,7 +4122,10 @@ does not necessarily denote a male.
 Generally, it is a good idea to resist the urge to express every "`-ical`"
 English word with another *-ical* in Interlingue (just <<_ic,*-ic*>> is
 preferred). But this is another situation where you can for extra
-precision, and a subject mentioned in Cosmoglotta before. Because <<_ica_and_ico,*-ica*>>
+precision, and a subject mentioned in
+Cosmoglotta{blank}footnote:[See article "`Quo es correct Occidental?`" in
+Cosmoglotta series B, number 31, 1942-02. Note of the digital editor.]
+before. Because <<_ica_and_ico,*-ica*>>
 as shown above refers to the entire branch of art or science,
 <<_al,*-al*>> can make an adjective referring to it. Some examples where <<_ic,*-ic*>>
 or *-ical* could be preferred:
