@@ -2,7 +2,7 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 202011191704
+# Last modified 202011191707
 # See change log at the end of the file
 
 # ==============================================================
@@ -53,10 +53,10 @@ description="Course of the Interlingue international auxiliary language"
 # Interface {{{1
 
 .PHONY: default
-default: azw3 epuba pdfa4 thumb
+default: epuba pdfa4 thumb
 
 .PHONY: all
-all: dbk epub html odt pdf thumb
+all: azw3 dbk epub html odt pdf thumb
 
 .PHONY: azw3
 azw3: target/$(book).adoc.epub.azw3
