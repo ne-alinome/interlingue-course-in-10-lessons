@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-04-02
+:revdate: 2020-11-19
 :toc:
 :toc-title: Contents/Contenete
 
@@ -13,7 +13,7 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202004021445
+// Last modified 202011191722
 
 // English {{{1
 == English
@@ -46,23 +46,28 @@ follows:
 |===
 | Command             | Effect
 
-| make                | Convert into the *recommended formats*
-| make all            | Convert into all of the formats (even experimental or with issues)
-| make dbk            | Convert into DocBook
-| make epub           | Convert into EPUB (all variants)
-| make epubd          | Convert into *EPUB with Asciidoctor EPUB3 (recommended)*
-| make epubd          | Convert into EPUB with dbtoepub
-| make epubp          | Convert into EPUB with Pandoc
-| make epubx          | Convert into EPUB with xsltproc (equivalent to dbtoepub)
-| make html           | Convert into HTML (all variants)
-| make htmlap         | Convert into HTML with Asciidoctor (plain variant, without styles)
-| make htmlas         | Convert into HTML with Asciidoctor (stylish variant)
-| make htmlpb         | Convert into HTML with Pandoc (body only)
-| make htmlpc         | Convert into HTML with Pandoc (complete)
-| make odt            | Convert into OpenDocument
-| make pdf            | Convert into PDF (both sizes)
-| make pdfa4          | Convert into *PDF (DIN A4 size) (recommended)*
-| make pdfl           | Convert into *PDF (letter size) (recommended)*
+| make                | Build the *recommended formats*
+| make all            | Build all formats
+| make azw3           | Build the AZW3
+| make dbk            | Build the DocBook
+| make epub           | Build the EPUB (all variants)
+| make epuba          | Build the *EPUB with Asciidoctor EPUB3 (recommended)*
+| make epubd          | Build the *EPUB with Asciidoctor EPUB3 (recommended)*
+| make epubd          | Build the EPUB with dbtoepub (no cover page)
+| make epubp          | Build the EPUB with Pandoc
+| make epubx          | Build the EPUB with xsltproc (equivalent to dbtoepub)
+| make html           | Build the HTML (all variants)
+| make htmlap         | Build the HTML with Asciidoctor (plain variant, without styles)
+| make htmlas         | Build the HTML with Asciidoctor (stylish variant)
+| make htmlpb         | Build the HTML with Pandoc (body only)
+| make htmlpc         | Build the HTML with Pandoc (complete)
+| make odt            | Build the OpenDocument
+| make pdf            | Build the PDF (both sizes)
+| make pdfa4          | Build the *PDF (DIN A4 size) (recommended)*
+| make pdfa4z         | Build the PDF (DIN A4 size, compressed with zip and gzip)
+| make pdfl           | Build the PDF (letter size) (recommended)
+| make pdflz          | Build the PDF (letter size, compressed with zip and gzip)
+| make pdfz           | Build the PDF (both sizes, compressed with zip and gzip)
 |===
 
 The documents are built in the <target> directory.
@@ -70,10 +75,10 @@ The documents are built in the <target> directory.
 // Names of the target files {{{2
 === Names of the target files
 
-When all target files are built (as included in the GitHub releases and in the
-corresponding archives downloadable from
-http://ne.alinome.net[ne.alinome.net]), the contents of the <target> directory
-are the following:
+The names of the target files indicate the format conversion process, the
+converters used and the style or size variants of the final formats. Beside,
+this naming convention prevents name clashes in the future, if more tools or
+formats are added to the project.
 
 - interlingue_course_in_10_lessons.adoc._a4.pdf
 - interlingue_course_in_10_lessons.adoc._letter.pdf
@@ -86,16 +91,8 @@ are the following:
 - interlingue_course_in_10_lessons.adoc.dbk.pandoc.epub
 - interlingue_course_in_10_lessons.adoc.dbk.pandoc.odt
 - interlingue_course_in_10_lessons.adoc.dbk.xsltproc.epub
-
-The names are self-explanatory: They indicate the format conversion process
-from the http://asciidoctor.org[Asciidoctor] source document, the converters
-used and the style or size variants of the final formats (DocBook, EPUB, HTML,
-OpenDocument and PDF). Beside, this naming convention prevents name clashes in
-the future, if more tools or formats are added to the project.
-
-NOTE: Four converters are used to build the EPUB files. Those built by dbtoepub
-and xsltproc are virtually identical, but both of them are included just in
-case. Perhaps any of the variants gives better results on your reader.
+- interlingue_course_in_10_lessons.adoc.epub
+- interlingue_course_in_10_lessons.adoc.epub.azw3
 
 // Interlingue {{{1
 == Interlingue
@@ -109,7 +106,7 @@ phil. A.Z. Ramstedt, 1929), traductet in anglesi, actualisat e
 redactet de Dave MacLeod in 2018-2019 in
 http://cosmoglotta.pbworks.com[cosmoglotta.pbworks.com].
 
-Autor:: Marcos Cruz, 2019.
+Autor:: Marcos Cruz, 2019, 2020.
 
 Web-loc:: http://ne.alinome.net[ne.alinome.net].
 
@@ -129,23 +126,27 @@ sequent:
 |===
 | Comande             | Efecte
 
-| make                | Converter in li *formates recomandat*
-| make all            | Converter in omni formates e variantes (mem tis experimental o con problemas)
-| make dbk            | Converter in DocBook
-| make epub           | Converter in EPUB (omni variantes)
-| make epuba          | Converter in *EPUB per Asciidoctor EPUB3 (recomandat)*
-| make epubd          | Converter in EPUB per dbtoepub
-| make epubp          | Converter in EPUB per Pandoc
-| make epubx          | Converter in EPUB per xsltproc (equivalent a dbtoepub)
-| make html           | Converter in HTML (omni variantes)
-| make htmlap         | Converter in HTML per Asciidoctor (crud variante, sin stiles)
-| make htmlas         | Converter in HTML per Asciidoctor (stilisat variante)
-| make htmlpb         | Converter in HTML per Pandoc (solmen li córpore)
-| make htmlpc         | Converter in HTML per Pandoc (complet)
-| make odt            | Converter in OpenDocument
-| make pdf            | Converter in PDF (ambi grandores)
-| make pdfa4          | Converter in *PDF con grandore DIN A4 (recomandat)*
-| make pdfl           | Converter in *PDF con grandore «letter» (recomandat)*
+| make                | Constructer li *formates recomandat*
+| make all            | Constructer omni formates e variantes
+| make azw3           | Constructer li AZW3
+| make dbk            | Constructer li DocBook
+| make epub           | Constructer li EPUB (omni variantes)
+| make epuba          | Constructer li *EPUB per Asciidoctor EPUB3 (recomandat)*
+| make epubd          | Constructer li EPUB per dbtoepub (sin covriment)
+| make epubp          | Constructer li EPUB per Pandoc
+| make epubx          | Constructer li EPUB per xsltproc (equivalent a dbtoepub)
+| make html           | Constructer li HTML (omni variantes)
+| make htmlap         | Constructer li HTML per Asciidoctor (crud variante, sin stiles)
+| make htmlas         | Constructer li HTML per Asciidoctor (stilisat variante)
+| make htmlpb         | Constructer li HTML per Pandoc (solmen li córpore)
+| make htmlpc         | Constructer li HTML per Pandoc (complet)
+| make odt            | Constructer li OpenDocument
+| make pdf            | Constructer li PDF (ambi grandores)
+| make pdfa4          | Constructer li *PDF con grandore DIN A4 (recomandat)*
+| make pdfa4z         | Constructer li PDF con grandore DIN A4 (compresset per zip e gzip)
+| make pdfl           | Constructer li PDF con grandore «letter»
+| make pdflz          | Constructer li PDF con grandore «letter» (compresset per zip e gzip)
+| make pdfz           | Constructer li PDF (ambi grandores, compresset per zip e gzip)
 |===
 
 Li documentes es creat in li documentiere <target>.
@@ -153,10 +154,10 @@ Li documentes es creat in li documentiere <target>.
 // Nómines del documentes final {{{2
 === Nómines del documentes final
 
-Quande omni documentes final es constructet (talmen anc contenet in e li
-liberaturas che GitHub e li archives descargabil ex
-http://ne.alinome.net[ne.alinome.net]), li contenete del documentiere <target>
-es ti:
+Li nómines del documentes final indica li operation de conversion de formates,
+li convertores usat e li variantes de stil o grandore por li formates final.
+Ultra to, ti convention nominal prevente futur colisiones de nómines, si plu
+convertores o formates vell esser adjuntet al projecte.
 
 - interlingue_course_in_10_lessons.adoc._a4.pdf
 - interlingue_course_in_10_lessons.adoc._letter.pdf
@@ -169,15 +170,5 @@ es ti:
 - interlingue_course_in_10_lessons.adoc.dbk.pandoc.epub
 - interlingue_course_in_10_lessons.adoc.dbk.pandoc.odt
 - interlingue_course_in_10_lessons.adoc.dbk.xsltproc.epub
-
-Li nómines es self-explicatori: Ili indica li operation de conversion de
-formates ex li documente fontal de http://asciidoctor.org[Asciidoctor], li
-convertores usat e li variantes de stil o grandore por li formates final
-(DocBook, EPUB, HTML, OpenDocument e PDF). Ultra to, ti convention nominal
-prevente futur colisiones de nómines, si plu convertores o formates vel esser
-adjuntet al projecte.
-
-NOTE: Quar convertores es usat por constructer li documentes EPUB. Tis
-constructet per dbtoepub e xsltproc es virtualmen identic, ma ambi es includet
-por un possibil beson. Fórsan alcun ex li variantes functiona plu bon in vor
-libre-letor.
+- interlingue_course_in_10_lessons.adoc.epub
+- interlingue_course_in_10_lessons.adoc.epub.azw3
