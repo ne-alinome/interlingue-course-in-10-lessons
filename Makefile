@@ -2,7 +2,7 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 202011191735
+# Last modified 202011191812
 # See change log at the end of the file
 
 # ==============================================================
@@ -90,6 +90,9 @@ htmlpb: target/$(book).adoc.dbk.pandoc._body.html
 
 .PHONY: htmlpc
 htmlpc: target/$(book).adoc.dbk.pandoc._complete.html
+
+.PHONY: md
+md: target/$(book).adoc.dbk.pandoc.md
 
 .PHONY: odt
 odt: target/$(book).adoc.dbk.pandoc.odt
@@ -287,6 +290,22 @@ target/$(book).adoc.dbk.pandoc._complete.html: \
 		--output $@ $<
 
 # ==============================================================
+# Convert DocBook to Pandoc's Markdown {{{1
+
+target/$(book).adoc.dbk.pandoc.md: \
+	target/$(book).adoc.dbk \
+	src/$(book)-docinfo.xml
+	pandoc \
+		--from docbook \
+		--to markdown \
+		--standalone \
+		--variable=lang:$(lang) \
+		--variable=autor:$(book_author) \
+		--variable=publisher:$(publisher) \
+		--variable=description:$(description) \
+		--output $@ $<
+
+# ==============================================================
 # Convert DocBook to OpenDocument {{{1
 
 target/$(book).adoc.dbk.pandoc.odt: \
@@ -351,4 +370,4 @@ include Makefile.release
 # 2020-11-14: Update to the new vesion of <Makefile.release>.
 #
 # 2020-11-19: Add rule to build AZW3. Update the default formats. Make
-# the compression of PDF optional.
+# the compression of PDF optional. Add rule to build Markdown.
