@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: A. Z. Ramstedt; Dave MacLeod
-:revnumber: 0.3.0-dev.19.1+20201119
+:revnumber: 0.3.0-dev.19.2+20201119
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -29,7 +29,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011190138
+// Last modified 202011191429
 
 :dot: .
 
@@ -5740,7 +5740,7 @@ starting off these types of sentences from time to time, however: *Si
 ella hat conosset su matre, ella vell har…*
 
 Where some languages use a preposition (especially *a*) before the
-subject of a verb and others don't, Interlingue prefers to not use them.
+object of a verb and others don't, Interlingue prefers to not use them.
 Rule of thumb: if in doubt, try going without a preposition if the
 meaning is still clear.
 
