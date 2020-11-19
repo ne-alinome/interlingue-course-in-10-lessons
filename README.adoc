@@ -13,7 +13,7 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011191722
+// Last modified 202011191810
 
 // English {{{1
 == English
@@ -61,6 +61,7 @@ follows:
 | make htmlas         | Build the HTML with Asciidoctor (stylish variant)
 | make htmlpb         | Build the HTML with Pandoc (body only)
 | make htmlpc         | Build the HTML with Pandoc (complete)
+| make md             | Build the Pandoc's Markdown
 | make odt            | Build the OpenDocument
 | make pdf            | Build the PDF (both sizes)
 | make pdfa4          | Build the *PDF (DIN A4 size) (recommended)*
@@ -89,6 +90,7 @@ formats are added to the project.
 - interlingue_course_in_10_lessons.adoc.dbk.pandoc._body.html
 - interlingue_course_in_10_lessons.adoc.dbk.pandoc._complete.html
 - interlingue_course_in_10_lessons.adoc.dbk.pandoc.epub
+- interlingue_course_in_10_lessons.adoc.dbk.pandoc.md
 - interlingue_course_in_10_lessons.adoc.dbk.pandoc.odt
 - interlingue_course_in_10_lessons.adoc.dbk.xsltproc.epub
 - interlingue_course_in_10_lessons.adoc.epub
@@ -140,6 +142,7 @@ sequent:
 | make htmlas         | Constructer li HTML per Asciidoctor (stilisat variante)
 | make htmlpb         | Constructer li HTML per Pandoc (solmen li córpore)
 | make htmlpc         | Constructer li HTML per Pandoc (complet)
+| make md             | Constructer li Markdown de Pandoc
 | make odt            | Constructer li OpenDocument
 | make pdf            | Constructer li PDF (ambi grandores)
 | make pdfa4          | Constructer li *PDF con grandore DIN A4 (recomandat)*
@@ -168,6 +171,7 @@ convertores o formates vell esser adjuntet al projecte.
 - interlingue_course_in_10_lessons.adoc.dbk.pandoc._body.html
 - interlingue_course_in_10_lessons.adoc.dbk.pandoc._complete.html
 - interlingue_course_in_10_lessons.adoc.dbk.pandoc.epub
+- interlingue_course_in_10_lessons.adoc.dbk.pandoc.md
 - interlingue_course_in_10_lessons.adoc.dbk.pandoc.odt
 - interlingue_course_in_10_lessons.adoc.dbk.xsltproc.epub
 - interlingue_course_in_10_lessons.adoc.epub
