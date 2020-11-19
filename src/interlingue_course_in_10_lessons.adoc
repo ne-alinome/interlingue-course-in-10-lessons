@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: A. Z. Ramstedt; Dave MacLeod
-:revnumber: 0.3.0-dev.19.0+20201119
+:revnumber: 0.3.0-dev.19.1+20201119
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -29,7 +29,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011190122
+// Last modified 202011190138
 
 :dot: .
 
@@ -2078,8 +2078,8 @@ By, through, with
 - *Li avie volat vers li sole.* = The bird flew towards the sun.
 ====
 
-// Words formed by prepositions {{{3
-==== Words formed by prepositions
+// Words formed by prepositions {{{4
+===== Words formed by prepositions
 
 These prepositions are also used to form other words.
 
@@ -2695,6 +2695,9 @@ ____
 // Explanations {{{2
 === Explanations
 
+// Word endings {{{3
+==== Word endings
+
 Endings for types of words such as nouns, adjectives and the like are no
 more obligatory in Interlingue than in natural languages. Vowels at the
 end of words are mainly justified by ease of pronunciation.
@@ -2705,8 +2708,8 @@ in Interlingue as in other languages. Some of them are: *firma* (company),
 and particles can end in any vowel or consonant, as long as the word can
 be clearly spoken.
 
-// -e {{{3
-==== -e
+// -e {{{4
+===== -e
 
 // XXX FIXED -- Removed "(nouns)" (which was the format of the
 // original german transcription)
@@ -2720,8 +2723,8 @@ consonant before the *-s*: *nation*, *nationes*. It can also play a role in
 distinguishing a noun from an adjective: *central* (central),
 *centrale* (headquarters).
 
-// -i {{{3
-==== -i
+// -i {{{4
+===== -i
 
 // XXX FIXED -- commen -> common
 // XXX FIXED -- pronounciation -> pronunciation 
@@ -2739,8 +2742,8 @@ which is also used for pronunciation and distinguishing types of words:
 
 ====
 
-// -o, -a {{{3
-==== -o, -a
+// -o, -a {{{4
+===== -o, -a
 
 For nouns referring to living creatures, the ending *-o*
 is used to indicate the male gender, and *-a*
@@ -2799,8 +2802,8 @@ no particular noun in mind:
 
 NOTE: *lu* is by far the most often used of the three above.
 
-// -um {{{3
-==== -um
+// -um {{{4
+===== -um
 
 Finally, the ending *-um*
 can be used on an adjective to form a noun that
@@ -5214,6 +5217,9 @@ ____
 
 // Explanations {{{2
 === Explanations
+
+// Adverbs {{{3
+==== Adverbs
 
 From adjectives we can create adverbs by adding the ending *-men*. This
 ending does not change the stress:
