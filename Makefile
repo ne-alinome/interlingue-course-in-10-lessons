@@ -2,7 +2,7 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 202011141425
+# Last modified 202011191704
 # See change log at the end of the file
 
 # ==============================================================
@@ -99,11 +99,24 @@ pdf: pdfa4 pdfl
 
 .PHONY: pdfa4
 pdfa4: \
-	target/$(book).adoc._a4.pdf.zip \
-	target/$(book).adoc._a4.pdf.gz
+	target/$(book).adoc._a4.pdf \
+	target/$(book).adoc._a4.pdf
 
 .PHONY: pdfl
 pdfl: \
+	target/$(book).adoc._letter.pdf \
+	target/$(book).adoc._letter.pdf
+
+.PHONY: pdfz
+pdfz: pdfa4z pdflz
+
+.PHONY: pdfa4z
+pdfa4z: \
+	target/$(book).adoc._a4.pdf.zip \
+	target/$(book).adoc._a4.pdf.gz
+
+.PHONY: pdflz
+pdflz: \
 	target/$(book).adoc._letter.pdf.zip \
 	target/$(book).adoc._letter.pdf.gz
 
@@ -158,17 +171,22 @@ target/%.adoc._plain.html: src/%.adoc
 # ==============================================================
 # Convert Asciidoctor to PDF {{{1
 
-tmp/%.adoc._a4.pdf: src/%.adoc tmp/$(cover).pdf
-	asciidoctor-pdf \
-		--out-file=$@ $<
+# PDFs are linked in <tmp/> in order to make sure they are always available to
+# zip and gzip.
 
-tmp/%.adoc._letter.pdf: src/%.adoc tmp/$(cover).pdf
+target/%.adoc._a4.pdf: src/%.adoc tmp/$(cover).pdf
+	asciidoctor-pdf \
+		--out-file=$@ $< ; \
+	ln -f $@ tmp/	
+
+target/%.adoc._letter.pdf: src/%.adoc tmp/$(cover).pdf
 	asciidoctor-pdf \
 		--attribute pdf-page-size=letter \
-		--out-file=$@ $<
+		--out-file=$@ $< ; \
+	ln -f $@ tmp/	
 
 target/%.pdf.zip: tmp/%.pdf
-	zip -9 $@ $<
+	zip -9 $@ $<; rm -f $<
 
 target/%.pdf.gz: tmp/%.pdf
 	gzip -9 --stdout $< > $@
@@ -332,4 +350,5 @@ include Makefile.release
 #
 # 2020-11-14: Update to the new vesion of <Makefile.release>.
 #
-# 2020-11-19: Add rule to build AZW3. Update the default formats.
+# 2020-11-19: Add rule to build AZW3. Update the default formats. Make
+# the compression of PDF optional.
