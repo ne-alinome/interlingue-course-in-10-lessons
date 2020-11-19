@@ -20,6 +20,9 @@
 # dbtoepub
 #   http://docbook.sourceforge.net/release/xsl/current/epub/README
 
+# ebook-convert
+#   http://manual.calibre-ebook.com/generated/en/ebook-convert.html
+
 # ImageMagick (by ImageMagick Studio LCC)
 #   http://imagemagick.org
 
@@ -50,10 +53,13 @@ description="Course of the Interlingue international auxiliary language"
 # Interface {{{1
 
 .PHONY: default
-default: epuba pdf thumb
+default: azw3 epuba pdfa4 thumb
 
 .PHONY: all
 all: dbk epub html odt pdf thumb
+
+.PHONY: azw3
+azw3: target/$(book).adoc.epub.azw3
 
 .PHONY: epub
 epub: epuba epubd epubp epubx
@@ -280,6 +286,12 @@ target/$(book).adoc.dbk.pandoc.odt: \
 		--output $@ $<
 
 # ==============================================================
+# Convert EPUB to AZW3 {{{1
+
+target/%.epub.azw3: target/%.epub
+	ebook-convert $< $@
+
+# ==============================================================
 # Create the cover image {{{1
 
 include Makefile.cover_image
@@ -319,3 +331,5 @@ include Makefile.release
 # 2020-11-05: Include <Makefile.release>.
 #
 # 2020-11-14: Update to the new vesion of <Makefile.release>.
+#
+# 2020-11-19: Add rule to build AZW3. Update the default formats.
