@@ -1,6 +1,6 @@
 = VERSIONS of _Interlingue Course in 10 Lessons_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-11-17
+:revdate: 2020-11-19
 
 // This file is part of project
 // _Interlingue Course in 10 Lessons_
@@ -11,7 +11,7 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011171728
+// Last modified 202011191622
 
 == 0.1.0+20190322
 
@@ -39,3 +39,13 @@ Changes from version 0.2.0+20190422:
 - Complete the rule about accentuation of "-ic".
 - Fix typo.
 - Improve credits.
+
+== 0.3.0+20201119
+
+Changes from version 0.2.1+20190811:
+
+- More errors corrected.
+- New and improved footnotes.
+- More cross-references.
+- Improved, prettier layout.
+- Cover image.
