@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: A. Z. Ramstedt; Dave MacLeod
-:revnumber: 0.3.0-dev.18.0+20201118
+:revnumber: 0.3.0-dev.19.0+20201119
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -17,7 +17,8 @@ ifdef::backend-epub3[]
 :toc-title: Contenete
 :front-cover-image: ../target/interlingue_course_in_10_lessons_cover.jpg
 endif::[]
-// :sectnumlevels: 3
+:chapter-label:
+:sectnumlevels: 3
 
 // This file is part of project
 // _Interlingue Course in 10 Lessons_
@@ -28,11 +29,11 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011190023
+// Last modified 202011190122
 
 :dot: .
 
-// :sectnums!:
+:sectnums!:
 
 [colophon]
 // About this book {{{1
@@ -228,7 +229,7 @@ The letters of the alphabet are pronounced as:
 *a, be, ce, de, e, ef, ge, ha, i, jot, ka, el, em, en, o, pe, qu, er, es, te,
 u, ve, duplic ve, ix, ypsilon, zet*.
 
-// :sectnums:
+:sectnums:
 
 // Unesim letion {{{1
 == Unesim letion
