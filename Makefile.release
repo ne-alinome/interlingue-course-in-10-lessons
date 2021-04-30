@@ -5,8 +5,8 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 202011141427
-# See change log at the end of the file
+# Last modified 20210424T1839+0200.
+# See change log at the end of the file.
 
 # ==============================================================
 
@@ -19,12 +19,12 @@
 # attribute with the version number of the book. Examples: "src/VERSION.adoc",
 # "src/my_book.adoc".
 #
-# prerequisites = list of prerequisetes of the release archive rules, usually
+# prerequisites = list of prerequisites of the release archive rules, usually
 # just "*.adoc target/" to include de main documents and the target directory.
 #
 # branch = name of the directory containing the prerequisites (e.g. the
 # <target> directory); in Git repositories it's usually "$(book)"; in Fossil
-# repositories it's usually "branch".
+# repositories it's usually "trunk".
 
 release=v$(shell grep ":revnumber:" $(version_file) | sed -e "s/:revnumber: \\+//" )
 
@@ -68,3 +68,6 @@ tmp/$(book)_$(release).zip:  $(prerequisites)
 # 2020-11-14: Improve: move the setting of the "branch" and "prerequisites"
 # variables to the main Makefile. This additional configuration makes the
 # building of release archives compatible with Fossil repositories.
+#
+# 2021-04-24: Fix typo in comment. Fix the default branch name in Fossil
+# repositories.

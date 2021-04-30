@@ -6,11 +6,12 @@
 # - English-Interlingue Dictionary
 # - Grammatica de Interlingue in Interlingue    
 # - Interlingue Course in 10 Lessons
+# - Li defectes ínacceptabil de Interlingua Gode
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 202011041859
-# See change log at the end of the file
+# Last modified 20210430T1404+0200.
+# See change log at the end of the file.
 
 # ==============================================================
 # Requirements {{{1
@@ -20,6 +21,12 @@
 
 # img2pdf (by Johannes 'josch' Schauer)
 #   https://gitlab.mister-muffin.de/josch/img2pdf
+
+# ==============================================================
+# Default values {{{1
+
+author_pointsize ?= 72
+title_pointsize ?= 128
 
 # ==============================================================
 # Create the cover image {{{1
@@ -39,7 +46,7 @@ tmp/$(cover).title.png:
 		-background transparent \
 		-fill $(fill) \
 		-font $(font) \
-		-pointsize 128 \
+		-pointsize $(title_pointsize) \
 		-size 1200x \
 		-gravity east \
 		caption:$(cover_title) \
@@ -50,7 +57,7 @@ tmp/$(cover).author.png:
 		-background transparent \
 		-fill $(fill) \
 		-font $(font) \
-		-pointsize 72 \
+		-pointsize $(author_pointsize) \
 		-size 896x \
 		-gravity east \
 		caption:$(cover_author) \
@@ -145,3 +152,8 @@ tmp/$(cover).pdf: target/$(cover).jpg
 #
 # 2020-11-04: Add a variable for the publisher font. This makes the code easier
 # to reuse in other projects.
+#
+# 2021-04-29: Update file header.
+#
+# 2021-04-30: Make the title and author sizes configurable, keeping their
+# default values.
