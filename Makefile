@@ -2,7 +2,7 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 20210505T1552+0200
+# Last modified 20210505T1933+0200
 # See change log at the end of the file
 
 # ==============================================================
@@ -334,7 +334,7 @@ target/%.epub.azw3: target/%.epub
 include Makefile.cover_image
 
 # ==============================================================
-# Convert the README to HTML as online documentation {{{2
+# Convert the README to HTML as online documentation {{{1
 
 .PHONY: wwwdoc
 wwwdoc: wwwreadme
