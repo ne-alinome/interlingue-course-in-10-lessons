@@ -1,0 +1,431 @@
+<div class='fossil-doc' data-title='README'>
+<div id="toc" class="toc">
+<div id="toctitle">Contents/Contenete</div>
+<ul class="sectlevel1">
+<li><a href="#_english">English</a>
+<ul class="sectlevel2">
+<li><a href="#_abouth_this_project">Abouth this project</a></li>
+<li><a href="#_how_to_build_the_book">How to build the book</a></li>
+<li><a href="#_names_of_the_target_files">Names of the target files</a></li>
+</ul>
+</li>
+<li><a href="#_interlingue">Interlingue</a>
+<ul class="sectlevel2">
+<li><a href="#_pri_ti_projecte">Pri ti projecte</a></li>
+<li><a href="#_qualmen_constructer_li_libre">Qualmen constructer li libre</a></li>
+<li><a href="#_nómines_del_documentes_final">Nómines del documentes final</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="sect1">
+<h2 id="_english">English</h2>
+<div class="sectionbody">
+<div class="sect2">
+<h3 id="_abouth_this_project">Abouth this project</h3>
+<div class="dlist">
+<dl>
+<dt class="hdlist1">Goal</dt>
+<dd>
+<p>Make an e-book version of <em>Occidental Course in 10 Lessons</em>,
+the English version of <em>Okzidental-Kursus in 10 Lektionen</em> (by Mag.
+phil. A.Z. Ramstedt, 1929), translated into English, updated and
+edited by Dave MacLeod in 2018-2019 in
+<a href="http://cosmoglotta.pbworks.com">cosmoglotta.pbworks.com</a>.</p>
+</dd>
+<dt class="hdlist1">Author</dt>
+<dd>
+<p>Marcos Cruz, 2019, 2020.</p>
+</dd>
+<dt class="hdlist1">Website</dt>
+<dd>
+<p><a href="http://ne.alinome.net">ne.alinome.net</a>.</p>
+</dd>
+</dl>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_how_to_build_the_book">How to build the book</h3>
+<div class="paragraph">
+<p>If you cannot wait for the release of the next version, you can convert the
+source files yourself.</p>
+</div>
+<div class="paragraph">
+<p>First, make sure the programs listed under the "Requirements" section
+of the &lt;Makefile&gt; file are installed in your system.</p>
+</div>
+<div class="paragraph">
+<p>Then enter the project&#8217;s directory and give the <code>make</code> command as
+follows:</p>
+</div>
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Command</th>
+<th class="tableblock halign-left valign-top">Effect</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">make</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Build the <strong>recommended formats</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">make all</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Build all formats</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">make azw3</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Build the AZW3</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">make dbk</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Build the DocBook</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">make epub</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Build the EPUB (all variants)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">make epuba</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Build the <strong>EPUB with Asciidoctor EPUB3 (recommended)</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">make epubd</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Build the <strong>EPUB with Asciidoctor EPUB3 (recommended)</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">make epubd</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Build the EPUB with dbtoepub (no cover page)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">make epubp</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Build the EPUB with Pandoc</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">make epubx</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Build the EPUB with xsltproc (equivalent to dbtoepub)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">make html</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Build the HTML (all variants)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">make htmlap</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Build the HTML with Asciidoctor (plain variant, without styles)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">make htmlas</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Build the HTML with Asciidoctor (stylish variant)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">make htmlpb</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Build the HTML with Pandoc (body only)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">make htmlpc</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Build the HTML with Pandoc (complete)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">make md</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Build the Pandoc&#8217;s Markdown</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">make odt</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Build the OpenDocument</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">make pdf</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Build the PDF (both sizes)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">make pdfa4</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Build the <strong>PDF (DIN A4 size) (recommended)</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">make pdfa4z</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Build the PDF (DIN A4 size, compressed with zip and gzip)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">make pdfl</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Build the PDF (letter size) (recommended)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">make pdflz</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Build the PDF (letter size, compressed with zip and gzip)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">make pdfz</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Build the PDF (both sizes, compressed with zip and gzip)</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p>The documents are built in the &lt;target&gt; directory.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_names_of_the_target_files">Names of the target files</h3>
+<div class="paragraph">
+<p>The names of the target files indicate the format conversion process, the
+converters used and the style or size variants of the final formats. Beside,
+this naming convention prevents name clashes in the future, if more tools or
+formats are added to the project.</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>interlingue_course_in_10_lessons.adoc._a4.pdf</p>
+</li>
+<li>
+<p>interlingue_course_in_10_lessons.adoc._letter.pdf</p>
+</li>
+<li>
+<p>interlingue_course_in_10_lessons.adoc._plain.html</p>
+</li>
+<li>
+<p>interlingue_course_in_10_lessons.adoc._stylish.html</p>
+</li>
+<li>
+<p>interlingue_course_in_10_lessons.adoc.dbk</p>
+</li>
+<li>
+<p>interlingue_course_in_10_lessons.adoc.dbk.dbtoepub.epub</p>
+</li>
+<li>
+<p>interlingue_course_in_10_lessons.adoc.dbk.pandoc._body.html</p>
+</li>
+<li>
+<p>interlingue_course_in_10_lessons.adoc.dbk.pandoc._complete.html</p>
+</li>
+<li>
+<p>interlingue_course_in_10_lessons.adoc.dbk.pandoc.epub</p>
+</li>
+<li>
+<p>interlingue_course_in_10_lessons.adoc.dbk.pandoc.md</p>
+</li>
+<li>
+<p>interlingue_course_in_10_lessons.adoc.dbk.pandoc.odt</p>
+</li>
+<li>
+<p>interlingue_course_in_10_lessons.adoc.dbk.xsltproc.epub</p>
+</li>
+<li>
+<p>interlingue_course_in_10_lessons.adoc.epub</p>
+</li>
+<li>
+<p>interlingue_course_in_10_lessons.adoc.epub.azw3</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_interlingue">Interlingue</h2>
+<div class="sectionbody">
+<div class="sect2">
+<h3 id="_pri_ti_projecte">Pri ti projecte</h3>
+<div class="dlist">
+<dl>
+<dt class="hdlist1">Scope</dt>
+<dd>
+<p>Crear un libre digital de <em>Occidental Course in 10 Lessons</em>,
+li anglesi version de <em>Okzidental-Kursus in 10 Lektionen</em> (de Mag.
+phil. A.Z. Ramstedt, 1929), traductet in anglesi, actualisat e
+redactet de Dave MacLeod in 2018-2019 in
+<a href="http://cosmoglotta.pbworks.com">cosmoglotta.pbworks.com</a>.</p>
+</dd>
+<dt class="hdlist1">Autor</dt>
+<dd>
+<p>Marcos Cruz, 2019, 2020.</p>
+</dd>
+<dt class="hdlist1">Web-loc</dt>
+<dd>
+<p><a href="http://ne.alinome.net">ne.alinome.net</a>.</p>
+</dd>
+</dl>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_qualmen_constructer_li_libre">Qualmen constructer li libre</h3>
+<div class="paragraph">
+<p>Si vu ne posse atender li liberation del sequent version, vu self
+posse converter li documentes fontal.</p>
+</div>
+<div class="paragraph">
+<p>In prim, ples confirmar que li programas listat in li section
+«Requirements» (besones) del document &lt;Makefile&gt; es instalat in vor
+sistema.</p>
+</div>
+<div class="paragraph">
+<p>Tande ples intrar li documentiere del projecte e comandar <code>make</code> secun lu
+sequent:</p>
+</div>
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Comande</th>
+<th class="tableblock halign-left valign-top">Efecte</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">make</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Constructer li <strong>formates recomandat</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">make all</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Constructer omni formates e variantes</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">make azw3</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Constructer li AZW3</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">make dbk</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Constructer li DocBook</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">make epub</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Constructer li EPUB (omni variantes)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">make epuba</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Constructer li <strong>EPUB per Asciidoctor EPUB3 (recomandat)</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">make epubd</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Constructer li EPUB per dbtoepub (sin covriment)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">make epubp</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Constructer li EPUB per Pandoc</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">make epubx</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Constructer li EPUB per xsltproc (equivalent a dbtoepub)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">make html</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Constructer li HTML (omni variantes)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">make htmlap</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Constructer li HTML per Asciidoctor (crud variante, sin stiles)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">make htmlas</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Constructer li HTML per Asciidoctor (stilisat variante)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">make htmlpb</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Constructer li HTML per Pandoc (solmen li córpore)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">make htmlpc</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Constructer li HTML per Pandoc (complet)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">make md</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Constructer li Markdown de Pandoc</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">make odt</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Constructer li OpenDocument</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">make pdf</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Constructer li PDF (ambi grandores)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">make pdfa4</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Constructer li <strong>PDF con grandore DIN A4 (recomandat)</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">make pdfa4z</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Constructer li PDF con grandore DIN A4 (compresset per zip e gzip)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">make pdfl</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Constructer li PDF con grandore «letter»</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">make pdflz</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Constructer li PDF con grandore «letter» (compresset per zip e gzip)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">make pdfz</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Constructer li PDF (ambi grandores, compresset per zip e gzip)</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p>Li documentes es creat in li documentiere &lt;target&gt;.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_nómines_del_documentes_final">Nómines del documentes final</h3>
+<div class="paragraph">
+<p>Li nómines del documentes final indica li operation de conversion de formates,
+li convertores usat e li variantes de stil o grandore por li formates final.
+Ultra to, ti convention nominal prevente futur colisiones de nómines, si plu
+convertores o formates vell esser adjuntet al projecte.</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>interlingue_course_in_10_lessons.adoc._a4.pdf</p>
+</li>
+<li>
+<p>interlingue_course_in_10_lessons.adoc._letter.pdf</p>
+</li>
+<li>
+<p>interlingue_course_in_10_lessons.adoc._plain.html</p>
+</li>
+<li>
+<p>interlingue_course_in_10_lessons.adoc._stylish.html</p>
+</li>
+<li>
+<p>interlingue_course_in_10_lessons.adoc.dbk</p>
+</li>
+<li>
+<p>interlingue_course_in_10_lessons.adoc.dbk.dbtoepub.epub</p>
+</li>
+<li>
+<p>interlingue_course_in_10_lessons.adoc.dbk.pandoc._body.html</p>
+</li>
+<li>
+<p>interlingue_course_in_10_lessons.adoc.dbk.pandoc._complete.html</p>
+</li>
+<li>
+<p>interlingue_course_in_10_lessons.adoc.dbk.pandoc.epub</p>
+</li>
+<li>
+<p>interlingue_course_in_10_lessons.adoc.dbk.pandoc.md</p>
+</li>
+<li>
+<p>interlingue_course_in_10_lessons.adoc.dbk.pandoc.odt</p>
+</li>
+<li>
+<p>interlingue_course_in_10_lessons.adoc.dbk.xsltproc.epub</p>
+</li>
+<li>
+<p>interlingue_course_in_10_lessons.adoc.epub</p>
+</li>
+<li>
+<p>interlingue_course_in_10_lessons.adoc.epub.azw3</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div></div>
