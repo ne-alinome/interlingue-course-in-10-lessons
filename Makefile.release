@@ -5,7 +5,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 20210424T1839+0200.
+# Last modified 20210503T1816+0200.
 # See change log at the end of the file.
 
 # ==============================================================
@@ -25,19 +25,24 @@
 # branch = name of the directory containing the prerequisites (e.g. the
 # <target> directory); in Git repositories it's usually "$(book)"; in Fossil
 # repositories it's usually "trunk".
+#
+# release_dir = directory in the project tree where the release archives will
+# be created; if not specified, its default value <tmp> will be used.
 
 release=v$(shell grep ":revnumber:" $(version_file) | sed -e "s/:revnumber: \\+//" )
+
+release_dir ?= tmp
 
 .PHONY: release
 release: tgz zip
 
 .PHONY: tgz
-tgz: tmp/$(book)_$(release).tar.gz
+tgz: $(release_dir)/$(book)_$(release).tar.gz
 
 .PHONY: zip
-zip: tmp/$(book)_$(release).zip
+zip: $(release_dir)/$(book)_$(release).zip
 
-tmp/$(book)_$(release).tar.gz: $(prerequisites)
+$(release_dir)/$(book)_$(release).tar.gz: $(prerequisites)
 	cd .. ; \
 	ln -sfn $(branch) $(book)_$(release) ; \
 	tar czf \
@@ -48,7 +53,7 @@ tmp/$(book)_$(release).tar.gz: $(prerequisites)
 		$(addprefix $(book)_$(release)/,$^) ; \
 	rm -f $(book)_$(release)
 
-tmp/$(book)_$(release).zip:  $(prerequisites)
+$(release_dir)/$(book)_$(release).zip:  $(prerequisites)
 	cd .. ; \
 	ln -sfn $(branch) $(book)_$(release) ; \
 	zip -9r \
@@ -71,3 +76,6 @@ tmp/$(book)_$(release).zip:  $(prerequisites)
 #
 # 2021-04-24: Fix typo in comment. Fix the default branch name in Fossil
 # repositories.
+#
+# 2021-05-03: Make the directory configurable, but use <tmp> by default to keep
+# backwards compatibility.
