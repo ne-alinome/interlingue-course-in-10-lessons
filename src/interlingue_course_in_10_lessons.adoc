@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: A. Z. Ramstedt; Dave MacLeod
-:revnumber: 0.3.0+20201119
+:revnumber: 0.3.0+20220711
 :version-label: Digital edition version
 :description: A course of the international auxiliary language Interlingue in 10 lessons
 :lang: en
@@ -29,11 +29,11 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011191805
+// Last modified 20220711T1415+0200
 
 // NOTE: Most of the corections done in this edition are marked with
 // "XXX FIXED", for reference, but not all of them. Specially most
-// corections done in version 0.3.0 are not marked in this source
+// corrections done in version 0.3.0 are not marked in this source
 // file. See the project's repository for a full history of changes.
 
 :dot: .
@@ -328,8 +328,8 @@ Un yun monaco sede in un turre e observa interessat li sole tra un
 telescope. Per hasard il fa un sensational observation: it existe
 macules in li sole. Il hasta al prior del monastere e exclama:
 
-"`Patre, qui nu posse esser sin macules, nam mem li sole have
-macules.`"
+“Patre, qui nu posse esser sin macules, nam mem li sole have
+macules.”
 
 Ma li prior responde tranquilmen:
 
@@ -338,9 +338,9 @@ Ma li prior responde tranquilmen:
 // XXX FIXED -- "till" (old orthographie) -> "til" (several cases in
 // the text)
 
-"`Tu erra, mi filio. Yo ha leet Aristóteles multvez, de comensa til
+“Tu erra, mi filio. Yo ha leet Aristóteles multvez, de comensa til
 fine, e necú il mentiona pri macules in li sole. Tui ocules have
-macules, e ne li sole.`"
+macules, e ne li sole.”
 
 // Vocabularium {{{4
 ===== Vocabularium
@@ -555,19 +555,19 @@ incontra un amíco, quel saluta le e strax comensa questionar:
 
 “Quo Vu va far deman?”
 
-"`Yo va scrir un long articul por un jurnal, e yo espera, que yo va har
-scrit it til fine posdeman.`"
+“Yo va scrir un long articul por un jurnal, e yo espera, que yo va har
+scrit it til fine posdeman.”
 
-"`Mey Vu haver success in Vor interprense! Ma it vell esser interessant
-saver, pri quo Vu va scrir e por qui Vu va scrir.`"
+“Mey Vu haver success in Vor interprense! Ma it vell esser interessant
+saver, pri quo Vu va scrir e por qui Vu va scrir.”
 
 “Ci noi ne posse star plu. Noi deve ear.”
 
-"`Lass nos visitar un café! Ta noi posse seder e trincar un glass de bir
-e parlar. O si Vu vole, café o té. Ples venir con me!`"
+“Lass nos visitar un café! Ta noi posse seder e trincar un glass de bir
+e parlar. O si Vu vole, café o té. Ples venir con me!”
 
-"`Mersí pro Vor invitation! Ma ples pardonar: pro quo Vu vole saver quo
-yo fa, e pri quo e por qui yo scri?`"
+“Mersí pro Vor invitation! Ma ples pardonar: pro quo Vu vole saver quo
+yo fa, e pri quo e por qui yo scri?”
 
 “Pro que un yun mann deve saver omnicos.”
 
@@ -702,20 +702,20 @@ deposit li horloge in su tasca.
 ==== Anecdotes
 
 Li persian legates postulat del Spartanes terra e aqua quam signe de
-subjugation. Li Spartanes jettat les in un profund bronn: "`Ta vu have
-terra e aqua.`"
+subjugation. Li Spartanes jettat les in un profund bronn: “Ta vu have
+terra e aqua.”
 
-Zeno, li filosofo, dit a un querellant yun mann: "`Li natura ha dat nos
-du oreles e un bocca, por que noi mey escutar mult e parlar poc.`"
+Zeno, li filosofo, dit a un querellant yun mann: “Li natura ha dat nos
+du oreles e un bocca, por que noi mey escutar mult e parlar poc.”
 
-"`Si yo va venir a Laconia, yo va extinter omnicos e omnihom per foy e
-gladie,`" scrit Philippos, li rey de Macedonia, al Spartanes. “Si,”
+“Si yo va venir a Laconia, yo va extinter omnicos e omnihom per foy e
+gladie,” scrit Philippos, li rey de Macedonia, al Spartanes. “Si,”
 respondet li Spartanes.
 
 Un asiatic potentate esset questionat, quel esset su opinion pri li vin.
-Il respondet: "`It es un fluide, quel es extraet de lingues de féminas e
+Il respondet: “It es un fluide, quel es extraet de lingues de féminas e
 cordies de leones, pro que, quande yo ha trincat vin, yo posse parlar
-sin cessar e combatter mem li diábol.`"
+sin cessar e combatter mem li diábol.”
 
 // Vocabularium {{{4
 ===== Vocabularium
@@ -910,11 +910,11 @@ refer to itself):
 
 - *Li jurnal printa se rapidmen.* = The magazine is being quickly
   printed (the magazine “prints itself” quickly).
-- *Li cose explica se simplicmen.* = It's easy to understand ("`the
-  thing explains itself simply`").
+- *Li cose explica se simplicmen.* = It's easy to understand (“the
+  thing explains itself simply”).
 - *Yo nómina le Brian.* = I call him Brian.
-- *Il nómina se Brian.* = His name is Brian ("`he calls himself
-  Brian`").
+- *Il nómina se Brian.* = His name is Brian (“he calls himself
+  Brian”).
 
 ====
 
@@ -928,8 +928,8 @@ English:
 - *Il procurat un libre.* = He got a book.
 - *Il procurat se un libre.* = He got himself a book.
 
-The second example can be thought of as a short form of "`Il procurat
-por se un libre`" or “Il procurat un libre por se”.
+The second example can be thought of as a short form of “Il procurat
+por se un libre” or “Il procurat un libre por se”.
 
 The same goes for other pronouns such as *me*:
 
@@ -1143,15 +1143,15 @@ before a plural it means “all”.
 ==== Anecdotes
 
 On questionat li filosof Aristippos de Kyrene, per quo li filosofos
-distinte se del altri homes. Il respondet: "`Si omni leges vell esser
-abrogat, solmen li filosofos vell viver quam antey.`"
+distinte se del altri homes. Il respondet: “Si omni leges vell esser
+abrogat, solmen li filosofos vell viver quam antey.”
 
 Alquí objectet que on frequent incontra li filosofos avan li portas del
-riches. Aristippos replicat: "`Sam quam li medicos avan li portas del
-malades. Esque pro to li malades es plu reputat quam li medicos?`"
+riches. Aristippos replicat: “Sam quam li medicos avan li portas del
+malades. Esque pro to li malades es plu reputat quam li medicos?”
 
-“Moné,” il declarat, "`yo prende del riches ne pro que yo besona it, ma
-por que ili mey saver in quel maniere ili posse investir it.`"
+“Moné,” il declarat, “yo prende del riches ne pro que yo besona it, ma
+por que ili mey saver in quel maniere ili posse investir it.”
 
 // Vocabularium {{{4
 ===== Vocabularium
@@ -2283,8 +2283,8 @@ following:
 
 The form on the left was rarely if ever used, due to 1) the
 uninternational appearance and 2) the possibility of appearing to have a
-different meaning. *Subposition* for example simply looks like "`under
-position`" and does not give the sense of “supposition”.
+different meaning. *Subposition* for example simply looks like “under
+position” and does not give the sense of “supposition”.
 
 The second form was used for a time, but eventually the community
 settled on the form on the right for simplicity, with doubled consonants
@@ -2329,12 +2329,12 @@ idealistes, de to ne vell esser alquant ínjust, nam anc li realistes
 have su ideales, e anc li idealistes calcula con un realitá, quel posse
 fórsan esser plu ver quam li evident.
 
-Un filosof unquande ha expresset li sam pensa per ti paroles: "`Li munde
+Un filosof unquande ha expresset li sam pensa per ti paroles: “Li munde
 sempre ha ridet pri to quo plu tard ha verificat se. In omni témpores
 existe homes qui pensa, e homes qui ride. Quande li témpore ha passat e
 un nov intrat – it ha sempre esset talmen, ne existe exceptiones – tande
 li munde ha regardat a retro e erectet monumentes a tis qui pensat, e
-ridet pri tis qui ridet.`"
+ridet pri tis qui ridet.”
 
 // Vocabularium {{{4
 ===== Vocabularium
@@ -2495,17 +2495,17 @@ victet in su unesim processu. Proque il tardat payar li ultim parte,
 Protágoras comensat processu contra il. In ti die, in quel li judicament
 evenit, li du parties incontrat ante li deliberationes del judicos.
 
-“It es plu bon, que tu paya me nu,” dit li mastro, "`nam si yo victe, tu
+“It es plu bon, que tu paya me nu,” dit li mastro, “nam si yo victe, tu
 va esser judicat a payar, e si tu victe, tande tu ya ha victet in unesim
-processu, e va dever payar me anc in ti casu.`"
+processu, e va dever payar me anc in ti casu.”
 
 // XXX FIXED -- Erra ex li original german: "in mu unesim processu" ->
 // "in unesim processu"
 
-“No, ples atender un poc,” replicat li yun mann, "`si tu victe, tande yo
+“No, ples atender un poc,” replicat li yun mann, “si tu victe, tande yo
 ne ha victet in unesim processu, e tande, comprensibilmen, yo ne deve
 payar te e si yo victe, tande li judicament ya va esser tal, que yo ne
-deve payar.`"
+deve payar.”
 
 // XXX FIXED -- Markup of "índemiatmen":
 
@@ -3127,8 +3127,8 @@ the means for it.
 ====
 
 Some other examples Edgar de Wahl mentioned in
-Cosmoglotta{blank}footnote:[See article "`Esque vermen Occidental es
-caotic?`" in Cosmoglotta series B, number 10, 1937-04. Note of the
+Cosmoglotta{blank}footnote:[See article “Esque vermen Occidental es
+caotic?” in Cosmoglotta series B, number 10, 1937-04. Note of the
 digital editor.]:
 
 ====
@@ -3314,29 +3314,29 @@ extendet se un vast herbiera con bellissim trifolie e anc mult bell
 flores de camp, queles injoyat li paisage. Ma li farmero totmen ne esset
 content con ti malherbe, quam
 il nominat les. Il haltat e prendet ex li tasca un tabaciere e presentat
-nos quelc cigares: “Vu ne posse imaginar Vos,” dit il, "`quant me despita
+nos quelc cigares: “Vu ne posse imaginar Vos,” dit il, “quant me despita
 li insectes! Vu vide ta li pomiera juntet a mi parc. It es presc vivid
 pro li mult vermes, con queles yo guerrea nu ja quelc annus. Anc li
 verdi pedicules de folies in mi adjacent pruniera, malgré omni
-precautiones, expande se in un horribil maniere.`"
+precautiones, expande se in un horribil maniere.”
 
 “Esque Vu have fórsan formícas?”
 
-"`O yes. Ci es pluri formicieras in li boscage vicin. Ili es tre laborosi
+“O yes. Ci es pluri formicieras in li boscage vicin. Ili es tre laborosi
 insectes. Ples notar que just li formícas cultiva li pedicules, e yo
 posse solmen consiliar Vos tam rapid quam possibil exterminar omni
-formicieras. Ili es tre nociv animales in un fructiera.`"
+formicieras. Ili es tre nociv animales in un fructiera.”
 
 // XXX FIXED -- "secuer" -> "sequer" (e in altri locos del libre)
 
-"`Advere! Nu yo va sequer Vor consilie. Ples regardar tra ti clariera,
+“Advere! Nu yo va sequer Vor consilie. Ples regardar tra ti clariera,
 quel aperte nos li vide súper li mare. Ta Vu posse vider un cannoniere e
-du destructores, queles crucea in ti regiones.`"
+du destructores, queles crucea in ti regiones.”
 
 “Quel es ti nave, quel sub segles veni al portu?”
 
-"`To es nor seglero, quel aporta nos salpetre por amelioration del terre.
-It veni del famos nitrieras in Chile.`"
+“To es nor seglero, quel aporta nos salpetre por amelioration del terre.
+It veni del famos nitrieras in Chile.”
 
 Pos har fat un promenada tra li principal branches de su proprietás, li
 farmero invitat nos in su “garsoniera,” quam il nominat su hem nu,
@@ -3639,8 +3639,8 @@ Special property or condition, most similar to English “-ness”. Examples:
 
 ====
 
-This is also the suffix used for bombastic titles such as "`your
-Highness`" (*Vor Altesse*).
+This is also the suffix used for bombastic titles such as “your
+Highness” (*Vor Altesse*).
 
 // Local and collective suffixes {{{3
 ==== Local and collective suffixes
@@ -3830,8 +3830,8 @@ honorabil maniere. Al german intellectu manca li frances brilliantie, li
 fin practical comprension del angleses, e li american aventura; ma it
 have un cert honestie, quel nequande resta in superficial performantie,
 ma questiona constant: pro quel scope? Un german publica
-demanda controlant sinceritá. "`Ci es un activitá de pensada – ma por
-quo? Quo vole li mann? De u, de u omni ti pensas?`"
+demanda controlant sinceritá. “Ci es un activitá de pensada – ma por
+quo? Quo vole li mann? De u, de u omni ti pensas?”
 
 Sol talent ne posse far un autor. It es necessi que existe un mann detra
 li libre, un personalitá qui per su orígine e su qualitá da garantie a
@@ -4583,7 +4583,7 @@ substitution*.
 // speeches in the telling.
 
 “In facte, yo havet un drolli somnie just nu,” racontat un irlandeso.
-"`Yo revat, que yo esset in Roma e visitat su Sanctitá, li Papa. Apen yo
+“Yo revat, que yo esset in Roma e visitat su Sanctitá, li Papa. Apen yo
 hat tappat sur li porta, quande il self apertet it. – '`A, Pat, es it Vu,
 qui ha venit, o alquí altri?`' – '`Advere, Vor honore, it es yo e nequí
 altri.`' – '`Ples venir con me in li superior etage!`' il dit me. E ta
@@ -4592,7 +4592,7 @@ esset un separat chambre, bellissim equipat, quel yo ne ha videt jamá.
 momente, e in fine yo dit: '`Un glass de fort trincage.`' – '`Deve it esser
 frigid o calid?`' – '`Calid,`' yo respondet. E su Sanctitá departet por
 aportar li trincage, ma il esset absent tro long e interim yo avigilat
-me. Quam yo nu repente, que yo ne hat petit le dar me it frigid.`"
+me. Quam yo nu repente, que yo ne hat petit le dar me it frigid.”
 
 // Vocabularium {{{4
 ===== Vocabularium
@@ -4631,19 +4631,19 @@ abandonat it ja de long.
 
 Mani nómina se idealist: proque il vole viver ne por, ma per un idé.
 
-Un conosset patriot ha dit: "`Yo ne comprende que alcun hom vole nascer
-quam extraniano.`"
+Un conosset patriot ha dit: “Yo ne comprende que alcun hom vole nascer
+quam extraniano.”
 
 On posse tacer pro divers motives: anc pro to que on have necos a dir.
 
 Homes (anc Vu ha certmen constatat it) have plu de témpore, quande ili
 vole alquicos de nos, quam quande noi vole alquicos de ili.
 
-A un yun mann, qui fanfaronat pri su saventies, un old mann dit: "`Vu es
-felici, qui vive ancor in ti etá, quande on save omnicos.`"
+A un yun mann, qui fanfaronat pri su saventies, un old mann dit: “Vu es
+felici, qui vive ancor in ti etá, quande on save omnicos.”
 
-Quam ínprudent it vell esser, si noi vell dir a nor conossetes: "`Yo have
-exact tant interesse por Vos quant Vu por me.`"
+Quam ínprudent it vell esser, si noi vell dir a nor conossetes: “Yo have
+exact tant interesse por Vos quant Vu por me.”
 
 Quande un hom di: “Un de nos erra,” yo save strax, quem il alude.
 
@@ -4669,18 +4669,18 @@ Otto Weiss
 ==== Bon respondet
 
 “Ples pardonar me, Senior,” dit un tre seriosi aparent mann a un jolli
-hom, qui stat fumant un grand cigare sur li strada, "`quant cigares Vu
-fuma in un die?`"
+hom, qui stat fumant un grand cigare sur li strada, “quant cigares Vu
+fuma in un die?”
 
 // XXX FIXED -- "li response esset" -> "su response esset"
 
 “O,” su response esset, “fórsan quar o quin.”
 
-"`Quin cigares in un die fa triant quin in un semane, circa un cent
+“Quin cigares in un die fa triant quin in un semane, circa un cent
 quinant in un mensu, e plu quam mill ott cent in un annu. Ples suposir,
 que Vu vell har economisat omni ti moné, quel Vu ha expenset a tabac! Vu
 vell posser fórsan esser li possessor de ti bell micri dom, quel Vu vide
-ci a levul.`"
+ci a levul.”
 
 “Esque it es Vor, mi Senior?”
 
@@ -4786,8 +4786,8 @@ detra-parte paralel al squelette.
 
 Su altesse, li prince de S., intrat con mult grandesse in li sala del
 iguanodon, ma bentost il esset un modest micri hom apu li colossal
-animale. Un dama regardat li gigant e dit: "`It es ínpossibil. Etsi un
-tal animal ha vivet, qualmen on posse saver su nómine?`"
+animale. Un dama regardat li gigant e dit: “It es ínpossibil. Etsi un
+tal animal ha vivet, qualmen on posse saver su nómine?”
 
 // Vocabularium {{{4
 ===== Vocabularium
@@ -4834,8 +4834,8 @@ pronouns in Interlingue. Let's look at them as a whole.
 - *vor* = your
 - *lor* = their
 
-*Se* is used to form reflexive pronouns, and *unaltru* means "`each
-other`".
+*Se* is used to form reflexive pronouns, and *unaltru* means “each
+other”.
 
 Some examples:
 
@@ -4858,8 +4858,8 @@ Some examples:
   expressed as *Li nor victet li vor*.
 - *Yo es tua e tu es mio.* = I am yours and you are mine (said by a
   woman to a man).
-- *Ples far lu tui!* = Please do yours! (remember *lu* = "`the thing
-  which is`").
+- *Ples far lu tui!* = Please do yours! (remember *lu* = “the thing
+  which is”).
 
 ====
 
@@ -5156,23 +5156,23 @@ Channing
 Du yun juristes, Miller e Brun, visitat sovente li sam yun dama. Un
 véspere Miller esset sol con ella. Il dit in tendri ton:
 
-"`Esque Vu pensa, María, que Vu posse subitmen abandonar patre e matre,
+“Esque Vu pensa, María, que Vu posse subitmen abandonar patre e matre,
 sestra e fratre, ti plesent, comfortabil dom, e emigrar in li savagi
 West con un yun jurist, qui posse viver solmen per su profession, e
-serchar ta un nov hem, in quel ambi posse esser felici?`"
+serchar ta un nov hem, in quel ambi posse esser felici?”
 
 Inclinante su bell cap sur li epoles de Miller, ella chuchotat
 tendrimen: “Yes, yo pensa que yo posse, Arnold.”
 
-“Bon,” dit Miller, "`it es Brun, qui intente emigrar e desira un sponsa,
-yo va mentionar to a il.`"
+“Bon,” dit Miller, “it es Brun, qui intente emigrar e desira un sponsa,
+yo va mentionar to a il.”
 
 // Teophrástos dit {{{4
 ===== Teophrástos dit
 
 A un yun mann, qui sedet silent in un companie, Teophrástos, li famos
-grec filosof, dit: "`Si Vu es folli, Vu acte sagimen; si Vu es sagi, Vu
-acte follimen.`"
+grec filosof, dit: “Si Vu es folli, Vu acte sagimen; si Vu es sagi, Vu
+acte follimen.”
 
 // Vocabularium {{{4
 ===== Vocabularium
@@ -5462,9 +5462,9 @@ eveni instinctiv o intuitiv, un plu alt spiritual vive, quel eleva se
 súper obscur fluctuationes de pur instinctes e perceptiones a plen
 claritá e libertá del conceptiv pensada, es e va esser connectet a
 linguistic capacitá. Omni spiritual valores li hom debi finalmen a su
-talent de articulat parlation. Novális di unquande in su aforismes: "`Li
+talent de articulat parlation. Novális di unquande in su aforismes: “Li
 grammatica es li dinamica del spiritual dominia. Un parol de comande
-move armés, li parol '`libertá`' nationes.`"
+move armés, li parol '`libertá`' nationes.”
 
 Quande li poet e li pensator vaga líber ad in li immens dominia de
 pensas, lor ales es li parol. Li parlant hom victe li circumant natura
@@ -5756,8 +5756,8 @@ Rule of thumb: if in doubt, try going without a preposition if the
 meaning is still clear.
 
 The same goes for reflexive verbs (verbs using *se*). English uses
-them infrequently but still does in some places such as "`I'm going to
-find _myself_ something to eat`" which would be written *Yo va trovar
+them infrequently but still does in some places such as “I'm going to
+find _myself_ something to eat” which would be written *Yo va trovar
 alquó a manjar* and not *Yo va trovar _me_ alquó a manjar*.
 
 ====
