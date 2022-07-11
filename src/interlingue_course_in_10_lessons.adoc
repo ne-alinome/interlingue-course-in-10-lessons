@@ -29,7 +29,7 @@ endif::[]
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 20220711T1415+0200
+// Last modified 20220711T1423+0200
 
 // NOTE: Most of the corections done in this edition are marked with
 // "XXX FIXED", for reference, but not all of them. Specially most
@@ -4584,13 +4584,13 @@ substitution*.
 
 “In facte, yo havet un drolli somnie just nu,” racontat un irlandeso.
 “Yo revat, que yo esset in Roma e visitat su Sanctitá, li Papa. Apen yo
-hat tappat sur li porta, quande il self apertet it. – '`A, Pat, es it Vu,
-qui ha venit, o alquí altri?`' – '`Advere, Vor honore, it es yo e nequí
-altri.`' – '`Ples venir con me in li superior etage!`' il dit me. E ta
+hat tappat sur li porta, quande il self apertet it. – ‘A, Pat, es it Vu,
+qui ha venit, o alquí altri?’ – ‘Advere, Vor honore, it es yo e nequí
+altri.’ – ‘Ples venir con me in li superior etage!’ il dit me. E ta
 esset un separat chambre, bellissim equipat, quel yo ne ha videt jamá.
-'`Ples seder,`' dit su Sanctitá, '`quo Vu vole?`' – Yo meditat durant un
-momente, e in fine yo dit: '`Un glass de fort trincage.`' – '`Deve it esser
-frigid o calid?`' – '`Calid,`' yo respondet. E su Sanctitá departet por
+‘Ples seder,’ dit su Sanctitá, ‘quo Vu vole?’ – Yo meditat durant un
+momente, e in fine yo dit: ‘Un glass de fort trincage.’ – ‘Deve it esser
+frigid o calid?’ – ‘Calid,’ yo respondet. E su Sanctitá departet por
 aportar li trincage, ma il esset absent tro long e interim yo avigilat
 me. Quam yo nu repente, que yo ne hat petit le dar me it frigid.”
 
@@ -5464,7 +5464,7 @@ claritá e libertá del conceptiv pensada, es e va esser connectet a
 linguistic capacitá. Omni spiritual valores li hom debi finalmen a su
 talent de articulat parlation. Novális di unquande in su aforismes: “Li
 grammatica es li dinamica del spiritual dominia. Un parol de comande
-move armés, li parol '`libertá`' nationes.”
+move armés, li parol ‘libertá’ nationes.”
 
 Quande li poet e li pensator vaga líber ad in li immens dominia de
 pensas, lor ales es li parol. Li parlant hom victe li circumant natura
