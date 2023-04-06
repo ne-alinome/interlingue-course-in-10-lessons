@@ -1,6 +1,6 @@
 = Interlingue Course in 10 Lessons
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-11-19
+:revdate: 2023-04-06
 :toc:
 :toc-title: Contents/Contenete
 
@@ -13,7 +13,7 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202011191810
+// Last modified 20230406T1505+0200
 
 // English {{{1
 == English
@@ -27,7 +27,7 @@ phil. A.Z. Ramstedt, 1929), translated into English, updated and
 edited by Dave MacLeod in 2018-2019 in
 http://cosmoglotta.pbworks.com[cosmoglotta.pbworks.com].
 
-Author:: Marcos Cruz, 2019, 2020.
+Author:: Marcos Cruz, 2019, 2020, 2021, 2022.
 
 Website:: http://ne.alinome.net[ne.alinome.net].
 
@@ -96,8 +96,18 @@ formats are added to the project.
 - interlingue_course_in_10_lessons.adoc.epub
 - interlingue_course_in_10_lessons.adoc.epub.azw3
 
-// Interlingue {{{1
-== Interlingue
+// History of the repository {{{2
+=== History of the repository
+
+- 2019-02-18: A Git repository was created.
+- 2021-05-05: The Git repository was converted to
+  https://fossil-scm.org[Fossil], keeping GitHub as a mirror.
+- 2023-04-06: The repository was converted to
+  https://mercurial-scm.org[Mercurial], enabling a better interaction
+  with GitHub.
+
+// Interlingue/Occidental {{{1
+== Interlingue/Occidental
 
 // Pri ti projecte {{{2
 === Pri ti projecte
@@ -108,7 +118,7 @@ phil. A.Z. Ramstedt, 1929), traductet in anglesi, actualisat e
 redactet de Dave MacLeod in 2018-2019 in
 http://cosmoglotta.pbworks.com[cosmoglotta.pbworks.com].
 
-Autor:: Marcos Cruz, 2019, 2020.
+Autor:: Marcos Cruz, 2019, 2020, 2021, 2022.
 
 Web-loc:: http://ne.alinome.net[ne.alinome.net].
 
@@ -176,3 +186,13 @@ convertores o formates vell esser adjuntet al projecte.
 - interlingue_course_in_10_lessons.adoc.dbk.xsltproc.epub
 - interlingue_course_in_10_lessons.adoc.epub
 - interlingue_course_in_10_lessons.adoc.epub.azw3
+
+// Historie del depositoria {{{2
+=== Historie del depositoria
+
+- 2019-02-18: Un depositoria de Git esset creat.
+- 2020-12-04: Li depositoria de Git esset convertet a
+  https://fossil-scm.org[Fossil], conservante GitHub quam un copie.
+- 2023-04-06: Li depositoria esset convertet a
+  https://mercurial-scm.org[Mercurial], possibilisante un melior
+  interaction con GitHub.
